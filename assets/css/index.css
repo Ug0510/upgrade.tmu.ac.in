@@ -16,6 +16,7 @@ h2 {
     font-weight: 700;
     line-height: 3.5rem;
     margin: 0 0 20px 0;
+    text-transform: uppercase;
     /* 56px / 16px = 3.5rem */
 }
 
@@ -2630,4 +2631,51 @@ body {
     border: 1px solid rgba(0, 0, 0, 0.09);
     border-radius: 10px;
 }
+
+/* <!-- CSS for key highlights section start  --> */
+    #myTabs {
+        background-color: white;
+        border: 1px solid #001055;
+        border-radius: 10px;
+        border-bottom-left-radius: 0;
+        border-bottom-right-radius: 0;
+    }
+
+    #myTabs .nav-link {
+        background-color: white;
+        color: black;
+    }
+
+    #myTabs .nav-link {
+        color: #FF7A00;
+    }
+
+    .tab-content.second {
+        border: 1px solid #001055;
+    }
+
+    #myTabs .nav-link.active {
+        background-color: #0010551e;
+        color: #001055;
+    }
+
+    .tab-content.second h3 {
+        color: #001055;
+        font-weight: 700;
+    }
+
+    @media screen and (max-width:480px) {
+        .tab-content.second h3 {
+            margin-left: -20px;
+        }
+    }
+/* <!-- CSS for key highlights section end --> */
+
+/* CSS for programs offered start */
+#list-tab a.active {
+    background-color: #0010551e;
+    color: #001055;
+    border: 1px solid #0010551e !important;
+}
+/* CSS for programs offered end */
 

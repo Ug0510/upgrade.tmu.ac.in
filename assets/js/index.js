@@ -636,7 +636,7 @@ document.addEventListener("DOMContentLoaded", function () {
         var myTab = new bootstrap.Tab(myTabElement);
         myTab.show();
     } catch (error) {
-        console.error("Error initializing tab:", error);
+        
     }
 });
 

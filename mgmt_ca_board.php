@@ -96,46 +96,6 @@ ul{
 
 
 
-<!-- CSS for programs offered  -->
-<style>
-	#myTabs {
-		background-color: white;
-		border: 1px solid #001055;
-		border-radius: 10px;
-		border-bottom-left-radius: 0;
-		border-bottom-right-radius: 0;
-	}
-
-	#myTabs .nav-link {
-		background-color: white;
-		color: black;
-	}
-
-	#myTabs .nav-link {
-		color: #FF7A00;
-	}
-
-	.tab-content.second {
-		border: 1px solid #001055;
-	}
-
-	#myTabs .nav-link.active {
-		background-color: #0010551e;
-		color: #001055;
-	}
-
-	.tab-content.second h2 {
-		color: #001055;
-		font-weight: 700;
-	}
-
-	@media screen and (max-width:480px) {
-		.tab-content.second h2 {
-			font-size: 18px;
-			margin-left: -20px;
-		}
-	}
-</style>
 
 <?php
  include 'sidebar/management_sidebar.php';

@@ -13,13 +13,7 @@ include 'head.php';
         text-transform: uppercase;
     }
 </style>
-<style>
-    #list-tab a.active {
-        background-color: #0010551e;
-        color: #001055;
-        border: 1px solid #0010551e !important;
-    }
-</style>
+
 
 <!-- CSS for Swiper slider to set the image carousel image src -->
 <style>
@@ -86,102 +80,6 @@ include 'head.php';
 </style>
 
 
-<!-- CSS for programs offered  -->
-<style>
-    #myTabs {
-        background-color: white;
-        border: 1px solid #001055;
-        border-radius: 10px;
-        border-bottom-left-radius: 0;
-        border-bottom-right-radius: 0;
-    }
-
-    #myTabs .nav-link {
-        background-color: white;
-        color: black;
-    }
-
-    #myTabs .nav-link {
-        color: #FF7A00;
-    }
-
-    .tab-content.second {
-        border: 1px solid #001055;
-    }
-
-    #myTabs .nav-link.active {
-        background-color: #0010551e;
-        color: #001055;
-    }
-
-    .tab-content.second h3 {
-        color: #001055;
-        font-weight: 700;
-    }
-
-    @media screen and (max-width:480px) {
-        .tab-content.second h3 {
-            margin-left: -20px;
-        }
-    }
-</style>
-
-
-<style>
-    .tab-main-content {
-        border-radius: 20px;
-        box-shadow: 4xp 4px 8px 3px black;
-    }
-
-    .tab-main-content>h2 {
-        font-weight: 700;
-        color: #FF7A00;
-    }
-
-    .side-tablayout .card {
-        color: #FF7A00;
-    }
-
-    .side-tablayout .card h5 {
-        font-weight: 700 !important;
-    }
-
-    .side-tablayout .card h5 i {
-        margin-right: 7px;
-    }
-
-    .side-tablayout .card.active {
-        background-color: #FF7A001e;
-        color: #001055;
-    }
-
-    .side-tablayout .card span {
-        /* font-size: 14px !important; */
-        font-weight: 700;
-        color: #FF7A00;
-    }
-
-    .side-tablayout .card.active span {
-
-        color: #001055 !important;
-    }
-
-    #selected-content {
-        border-radius: 20px;
-        box-shadow: 4xp 4px 8px 3px black;
-    }
-
-    @media screen and (max-width:480px) {
-        .card h5 {
-            font-weight: 500 !important;
-        }
-
-        .card span {
-            /* font-size: 14px !important; */
-            font-weight: 500;
-        }
-    }
-</style>
 
 
 <!-- CSS for collaborators -->
@@ -227,18 +125,11 @@ include 'head.php';
             min-height: fit-content;
         }
     }
-
-    .hover-effect:hover {
-        background-color: #001055 !important;
-    }
 </style>
 
-<style>
-    .industry-collaborators .owl-carousel .owl-item img {
-        width: 50%;
-    }
-</style>
 
+
+<!-- ----------CSS for our custom tmu modal --------- -->
 <style>
     .tmu-modal {
         width: 100vw;
@@ -333,14 +224,11 @@ include 'head.php';
     }
 </style>
 
-<style>
-    .owl-carousel .owl-stage-outer {
-        overflow: visible !important;
-        overflow-x: hidden !important;
-        padding: 2rem 0;
-    }
-</style>
+<!-- ----------CSS for our custom tmu modal end--------- -->
 
+
+
+<!-- CSS for TMIMT page heading  -->
 <style>
     .tmimt-main-heading {
         color: #001055;
@@ -372,8 +260,10 @@ include 'head.php';
         }
     }
 </style>
+<!-- CSS for TMIMT page heading end -->
 
 
+<!-- CSS for TMIMT Awards Section -->
 <style>
     .tmimt-awards-heading {
         text-align: center;
@@ -414,6 +304,7 @@ include 'head.php';
         }
     }
 </style>
+<!-- CSS for TMIMT Awards Section end-->
 
 
 <!-- Content
