@@ -1,0 +1,26 @@
+{
+  "name": "bootstrap-video-carousel",
+  "version": "1.0.0",
+  "description": "Example of responsive bootstrap carousel with videos instead of images built with the Bootstrap 5.",
+  "main": "basic.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mdbootstrap/bootstrap-video-carousel.git"
+  },
+  "keywords": [
+    "bootstrap",
+    "carousel",
+    "bootstrap5",
+    "carousel-video",
+    "video"
+  ],
+  "author": "mdbootstrap",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mdbootstrap/bootstrap-video-carousel/issues"
+  },
+  "homepage": "https://mdbootstrap.com/docs/standard/extended/video-carousel/"
+}

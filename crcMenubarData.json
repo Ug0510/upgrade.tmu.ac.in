@@ -1,0 +1,23 @@
+{
+    "0": {
+        "link": "/corporate-resource-center.php"       
+    },
+    "1": {
+        "About CRC": {
+            "link":"#"
+        },
+        "Aims & Objectives": {
+            "link": "#" 
+        },
+        "Director's Desk": { "link": "#" },
+        "Rules & Policies": { "link": "#" },
+        "Our Team": { "link": "#" }
+    },
+    "2": { "link": "#" },
+    "3": { "link": "#" },
+    "4": {
+        "Corporate Testimonials": { "link": "#" },
+        "Student Testimonials": { "link": "#" }
+    },
+    "5": { "link": "#" }
+}

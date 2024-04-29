@@ -1,0 +1,440 @@
+{
+  "0": {
+    "Who We Are": {
+        "University Glimpse": {
+            "About University": { "link": "#" },
+            "Vision And Mission": { "link": "/tmu_vision&mission.php" },
+            "Accolades": { "link": "#" },
+            "Governance": { "link": "/tmu_governance.php" },
+            "Organogram": { "link": "/tmu_organogram.php" },
+            "Administration": { "link": "/administration.php" },
+            "Statutory Approvals": { "link": "/statutory_approvals.php" },
+            "GetATour": { "link": "#" }
+        },
+        "Executive Desk": {
+            "Chancellor": { "link": "/chancellor_desk.php" },
+            "Founder Chancellor": { "link": "/founder_vice_chancellor_desk.php" },
+            "Vice Chancellor": { "link": "/vice_chancellor_desk.php" }
+        },
+        "Campus Policies": {
+            "IIC": { "link": "#" },
+            "NSS": { "link": "#" },
+            "IQAC": { "link": "#" }
+        },
+        "Highlights": {
+            "Past Events": { "link": "#" },
+            "Media Coverage": { "link": "#" },
+            "Convocation": { "link": "#" }
+        }
+    },
+    "Academics": {
+        "Examination": {
+            "Overview": { "link": "/exam_overview.php" },
+            "Ordinance": { "link": "/exam_ordinance.php" },
+            "Result": { "link": "http://portal.tmu.ac.in/onlineresult.aspx" }
+        },
+        "Curriculum": {
+            "Syllabus": { "link": "#" },
+            "Open Elective Courses(CBCS)": { "link": "/cbcs.php" }
+        },
+        "Online Learning": { "link": "#" }
+    },
+    "Programmes": {
+        "undergraduate": {
+            "Computer Sciences & IT": {
+                "BCA": { "link": "#" },
+                "BCA for Visually Challanged": { "link": "#" },
+                "BCA-Big Data and Visualization": { "link": "#" },
+                "BCA-Cyber Security": { "link": "#" },
+                "BCA-Digital Marketing": { "link": "#" },
+                "BCA-Informational Security": { "link": "#" },
+                "BCA-Internet Technologies": { "link": "#" },
+                "BCA (CT-IS In Collab With iNurture)": { "link": "#" },
+                "BCA (Mobile Applications In Collab With i-Nurture)": { "link": "#" },
+                "B.Sc-Cognitive Science": { "link": "#" },
+                "B.Sc (Animation)": { "link": "#" },
+                "B.Sc-Hons(CS)": { "link": "#" },
+                "B.Tech": { "link": "#" },
+                "B.Tech (Data Science)": { "link": "#" },
+                "B.Tech-CSE-Big Data and Analytics (In Collab with i-Nurture)": { "link": "#" },
+                "B.Tech-CT-IS": { "link": "#" },
+                "B.Tech-AI(In Collab with iNurture)": { "link": "#" },
+                "CSE (In Collab with IBM) Application Development using Cloud and Analytics Platform": { "link": "#" },
+                "CSE (In Collab with TCSion Data Science)": { "link": "#" }
+            },
+            "Agriculture Science": {
+                "B.Sc.(H) Agriculture": { "link": "#" }
+            },
+            "Dental": {
+                "BDS (Bachelor of Dental Surgery)": { "link": "#" }
+            },
+            "Education": {
+                "B.A.": { "link": "#" },
+                "B.Ed. (Bachelor of Education)": { "link": "#" },
+                "B.El.Ed. (4 Yrs. BTC)": { "link": "#" },
+                "B.Sc. (ZBC with PCM)": { "link": "#" },
+                "D.Eled. (BTC)": { "link": "#" }
+            },
+            "Engineering": {
+                "B.Sc Hons(Chemistry)": { "link": "#" },
+                "B.Sc Hons(Mathematics)": { "link": "#" },
+                "B.Sc Hons(Physics)": { "link": "#" },
+                "B.Sc Hons Environment and sustainability": { "link": "#" },
+                "B.Tech (IoT)": { "link": "#" },
+                "B.Tech (Mechatronics)": { "link": "#" },
+                "B.Tech (2nd Year Lateral Entry) Civil": { "link": "#" },
+                "B.Tech (2nd Year Lateral Entry) Electrical": { "link": "#" },
+                "B.Tech (2nd Year Lateral Entry) Electronics and Communication": { "link": "#" },
+                "B.Tech (2nd Year Lateral Entry) Mechanical": { "link": "#" },
+                "B.Tech Civil": { "link": "#" },
+                "B.Tech Electrical": { "link": "#" },
+                "B.Tech Electronics and Communication": { "link": "#" },
+                "B.Tech Mechanical": { "link": "#" }
+            },
+            "Fine Arts": {
+                "BFA (Bachelor of Fine Arts)": { "link": "#" }
+            },
+            "Management": {
+                "B.Com (Hons.)": { "link": "#" },
+                "B.Com (Hons.) Financial Markets": { "link": "#" },
+                "B.Com (Pass)": { "link": "#" },
+                "B.B.A.": { "link": "#" },
+                "B.B.A. Specilaization in International Business and Entrepreneur Development in Collaboration with Services": { "link": "#" }
+            },
+            "Medical": {
+                "MBBS (Bachelor of Medicine and Bachelor of Surgery)": { "link": "#" }
+            },
+            "Nursing": {
+                "B.Sc Nursing": { "link": "#" },
+                "Nursing ANM (Auxillary Nursing and Midwifery)": { "link": "#" },
+                "Post Basic B.Sc Nursing": { "link": "#" }
+            },
+            "Paramedical": {
+                "B.Optom. (Bachelor of Optometry)": { "link": "#" },
+                "B.Sc (Forensic Sciences) Postmortem Facility": { "link": "#" },
+                "BMLT (B.SC. IN Medical Lab Technology)": { "link": "#" },
+                "BRIT (B.SC. IN Medical Radiography Imaging Techniques)": { "link": "#" }
+            },
+            "Pharmacy": {
+                "B.Pharma": { "link": "#" },
+                "B.Pharma (2nd Year Lateral Entry) B.Pharma (Practice)": { "link": "#" },
+                "PharmaD": { "link": "#" },
+                "PharmaD (Post Baccalaureate)": { "link": "#" }
+            },
+            "Physical Education": {
+                "B.P.ES (Bachelor of Physical Education & Sports)": { "link": "#" },
+                "B.P.ED (Bachelor of Physical Education)": { "link": "#" }
+            },
+            "Physiotherapy": {
+                "BPT (Bachelor of Physiotherapy) Lateral": { "link": "#" }
+            }
+        },
+        "postgraduate": {
+            "Medical": {
+                "MD (Anatomy)": { "link": "#" },
+                "MD (Physiology)": { "link": "#" },
+                "MD (Forensic Medicine)": { "link": "#" },
+                "MD (Biochemistry)": { "link": "#" },
+                "MD (Microbiology)": { "link": "#" },
+                "MD (Pharmacology)": { "link": "#" },
+                "MD (Pathology)": { "link": "#" },
+                "MD (General Medicine)": { "link": "#" },
+                "MD (Radiodiagnosis)": { "link": "#" },
+                "MD (Paediatrics)": { "link": "#" },
+                "MD (Psychiatry)": { "link": "#" },
+                "MD (Dermatology,Venereology &Leprosy)": { "link": "#" },
+                "MD (Anaesthesia)": { "link": "#" },
+                "MD (Respiratory Medicine)": { "link": "#" },
+                "MS (ENT)": { "link": "#" },
+                "MS (General Surgery)": { "link": "#" },
+                "MS (Opthalomology)": { "link": "#" },
+                "MS (Orthopeadics)": { "link": "#" },
+                "MS (Obstetrics and Gynaecology)": { "link": "#" },
+                "M.Sc. Medical Anatomy": { "link": "#" },
+                "M.Sc. Medical Biochemistry": { "link": "#" },
+                "M.Sc. Medical Microbiology": { "link": "#" },
+                "M.Sc. Medical Pharmacology": { "link": "#" },
+                "M.Sc. Medical Physiology": { "link": "#" }
+            },
+            "Computing Sciences & IT": {
+                "MCA": { "link": "#" },
+                "MCA (Software Development)": { "link": "#" },
+                "MCA (Machine Learning)": { "link": "#" },
+                "MCA (Network Technologies)": { "link": "#" },
+                "MCA (Data Science & Analytics and Advance Technologies)": { "link": "#" },
+                "M.Tech (CSE)": { "link": "#" }
+            },
+            "Dental": {
+                "MDS (Conservative Dentistry and Endodontics)": { "link": "#" },
+                "MDS (Oral and Maxillofacial Surgery)": { "link": "#" },
+                "MDS (Orthodontics and Dentofacial Orthopedics)": { "link": "#" },
+                "MDS (Prosthodontics and Crown and Bridge)": { "link": "#" },
+                "MDS (Paedodontics and Preventive Dentistry)": { "link": "#" },
+                "MDS (Periodontology)": { "link": "#" },
+                "MDS (Public Health Dentistry)": { "link": "#" },
+                "MDS (Oral Medicine and Radiology)": { "link": "#" },
+                "MDS (Oral Pathology and Microbiology)": { "link": "#" }
+            },
+            "Education": {
+                "M.Ed. (Master of Education)": { "link": "#" }
+            },
+            "Engineering": {
+                "M.Tech (Specialization Machine Learning & Data Sciences) for working professionals": { "link": "#" },
+                "M.Sc (Chemistry)": { "link": "#" },
+                "M.Sc (Mathematics)": { "link": "#" },
+                "M.Sc (Physics)": { "link": "#" }
+            },
+            "Fine Arts": {
+                "M.F.A. (Master of Fine Arts)": { "link": "#" }
+            },
+            "Management": {
+                "MBA (Master of Business Administration)": { "link": "#" }
+            },
+            "Nursing": {
+                "M.Sc (Community Health Nursing)": { "link": "#" },
+                "M.Sc (Medical Surgical Nursing)": { "link": "#" },
+                "M.Sc (Obstetrics and Gynaecology Nursing)": { "link": "#" },
+                "M.Sc (Paediatric Nursing)": { "link": "#" },
+                "M.Sc (Psychiatry Nursing)": { "link": "#" }
+            },
+            "Paramedical": {
+                "M.Sc (Forensic Science)": { "link": "#" },
+                "M.Sc (Medical Laboratory Techniques)": { "link": "#" },
+                "M.Sc (Optometry)": { "link": "#" },
+                "M.Sc (Radiological Imaging Techniques)": { "link": "#" }
+            },
+            "Pharmacy": {
+                "M.Pharm (Pharmacology)": { "link": "#" },
+                "M.Pharm (Pharmaceutics)": { "link": "#" },
+                "Pharm.D (Doctorate in Pharmacy)": { "link": "#" }
+            },
+            "Physical Education": {
+                "M.P.Ed (Master of Physical Education)": { "link": "#" }
+            },
+            "Physiotherapy": {
+                "MPT (Cardiopulmonary)": { "link": "#" },
+                "MPT (Neurosciences)": { "link": "#" },
+                "MPT (Orthopaedics)": { "link": "#" },
+                "MPT (Paediatrics)": { "link": "#" },
+                "MPT (Sports)": { "link": "#" }
+            }
+        },
+        "doctrate": {
+            "Computer Sciences & IT": {
+                "PHD Computer Application": { "link": "#" },
+                "PHD Computer Engineering": { "link": "#" }
+            },
+            "Dental": {
+                "PHD Conservative Dentistry Endodontics": { "link": "#" },
+                "PHD Oral And Maxillofacial Pathology": { "link": "#" },
+                "PHD Oral Medicine and Radiology": { "link": "#" },
+                "PHD Orthodontics and Dentofacial Orthopaedics": { "link": "#" },
+                "PHD Pedodontics and Preventive Dentistry": { "link": "#" },
+                "PHD Periodontology": { "link": "#" },
+                "PHD Public Health Dentistry": { "link": "#" }
+            },
+            "Education": {
+                "PHD Education": { "link": "#" }
+            },
+            "Engineering": {
+                "PHD Electronics & Communication Engineering": { "link": "#" },
+                "PHD Chemistry Engineering": { "link": "#" },
+                "PHD Civil Engineering": { "link": "#" },
+                "PHD Electrical Engineering": { "link": "#" },
+                "PHD Mathematics Engineering": { "link": "#" },
+                "PHD Mechanical Engineering": { "link": "#" },
+                "PHD Physics Engineering": { "link": "#" }
+            },
+            "Jain Studies": {
+                "PHD Jainology": { "link": "#" }
+            },
+            "Law & Legal Studies": {
+                "PHD Law & Legal Studies": { "link": "#" }
+            },
+            "Management": {
+                "PHD Management": { "link": "#" }
+            },
+            "Medical": {
+                "PHD Medical Anatomy": { "link": "#" },
+                "PHD Medical Biochemistry": { "link": "#" },
+                "PHD Medical Microbiology": { "link": "#" },
+                "PHD Medical Pharmacology": { "link": "#" },
+                "PHD Medical Physiology": { "link": "#" }
+            },
+            "Nursing": {
+                "PHD Nursing": { "link": "#" }
+            },
+            "Paramedical": {
+                "PHD MLT(Biochemistry)": { "link": "#" },
+                "PHD Optometry": { "link": "#" },
+                "PHD Radiological Imaging Techniques": { "link": "#" }
+            },
+            "Pharmacy": {
+                "PHD Pharmacy": { "link": "#" }
+            },
+            "Physical Education": {
+                "PHD Physical Education": { "link": "#" }
+            },
+            "Physiotherapy": {
+                "PHD Physiotherapy": { "link": "#" }
+            }
+        },
+        "diploma": {
+            "Paramedical": {
+                "D.Optom (Diploma in Optometry)": { "link": "#" },
+                "Diploma in Anesthesia and Critical Care Technician": { "link": "#" },
+                "Diploma in Audio and Speech Therapy Technician": { "link": "#" },
+                "Diploma in Blood Transfusion Technician": { "link": "#" },
+                "Diploma in C.T. Scan Technician": { "link": "#" },
+                "Diploma in Cardiology Technician": { "link": "#" },
+                "Diploma in Dialysis Technician": { "link": "#" },
+                "Diploma in Emergency and Trauma Technician": { "link": "#" },
+                "Diploma in Intervention Radiology Technician": { "link": "#" },
+                "Diploma in M.R.I Technician": { "link": "#" },
+                "Diploma in Neonatal Care Technician": { "link": "#" },
+                "Diploma in Orthopedic and Plaster Technician": { "link": "#" },
+                "Diploma in DMLT (Diploma in Medical Lab Technician)": { "link": "#" },
+                "DXRT (Diploma in X-Ray Technician)": { "link": "#" },
+                "OT Technician": { "link": "#" }
+            },
+            "Polytechnic": {
+                "Diploma in Engineering Civil": { "link": "#" },
+                "Diploma in Engineering Civil Lateral": { "link": "#" },
+                "Diploma in Engineering Computer Science": { "link": "#" },
+                "Diploma in Engineering Computer Science Lateral": { "link": "#" },
+                "Diploma in Engineering Electrical": { "link": "#" },
+                "Diploma in Engineering Electrical Lateral": { "link": "#" },
+                "Diploma in Engineering Electronics": { "link": "#" },
+                "Diploma in Engineering Electronics Lateral": { "link": "#" },
+                "Diploma in Engineering Mechanical (Automobiles)": { "link": "#" },
+                "Diploma in Engineering Mechanical (Automobiles) (2nd year Lateral Entry)": { "link": "#" },
+                "Diploma in Engineering Mechanical (production)": { "link": "#" },
+                "Diploma in Engineering Mechanical (production) (2nd year Lateral Entry)": { "link": "#" },
+                "Diploma in Engineering Mechanical (Refrigeration and Air Conditioning)": { "link": "#" },
+                "Diploma in Engineering (Refrigeration and Air Conditioning) (2nd year Lateral Entry)": { "link": "#" }
+            },
+            "Nursing": {
+                "ANM": { "link": "#" },
+                "GNM (Diploma in General Nursing and Midwifery)": { "link": "#" }
+            },
+            "Pharmacy": {
+                "D.Pharma": { "link": "#" }
+            },
+            "Physical Education": {
+                "PGDYED (Post Graduation Diploma in Yoga Education)": { "link": "#" }
+            }
+        },
+        "integrated": {
+            "Education": {
+                "B.A-B.ED (Integrated)": { "link": "#" },
+                "B.SC-B.ED (Integrated)": { "link": "#" }
+            },
+            "Law & Legal Studies": {
+                "B.A-LLB (Hons)": { "link": "#" },
+                "B.B.A-LLB (Hons)": { "link": "#" },
+                "B.COM-LLB (Hons)": { "link": "#" }
+            }
+        }
+    }
+    ,
+    "Placement": {
+        "CRC": { "link": "./corporate-resource-centre.php" },
+        "Students Placement": { "link": "#" },
+        "CTLD": { "link": "#" }
+    },
+    "Publications": {
+        "Annual Report": { "link": "#" },
+        "Journals": { "link": "#" },
+        "Conference Proceedings": { "link": "#" },
+        "TMU Blogs": { "link": "#" }
+    },
+    "Active Links": {
+        "Tmu News Detail": { "link": "/news_detail.php" },
+        "Engineering": { "link": "/engineering_homepage.html" },
+        "TMU blog  Detail": { "link": "/blog_detail.php" },
+        "CCSIT": { "link": "/ccsit_home.php" },
+        "Finearts": { "link": "/Finearts.html" },
+        "medical": { "link": "/medical.php" },
+        "Tmu Visson & Mission": { "link": "/tmu_vision&mission.php" },
+        "Aims & Objectives of CRC": { "link": "/aims_and_objectives_crc.php" },
+        "CRC ": { "link": "./corporate-resource-centre.php" },
+        "TMU Blogs": { "link": "/tmu_blog.php" },
+        "TMU News": { "link": "/tmu_news.php" },
+        "IQAC": {"link": "/iqac.php"},
+        "Convocation": {"link": "/convocation.php"},
+        "IIC": {"link":"/iic.php"},
+        "CTLD": {"link":"/about_ctld.php"},
+        "Journals": {"link":"/journal.php"},
+        "Greviances": {"link":"/greviances.php"},
+        "Careers": {"link":"/careers.php"},
+        "NSS": {"link":"/nss_about.php"},
+        "Media Coverage": {"link":"/media_cover.php"},
+        "Disciplinary Rules":{"link":"/disciplinary_rules.php"},
+        "University Anti Ragging":{"link":"university_anti_ragging_committee.php"},
+        "University Sports Calendar":{"link":"university_sports_calendar.php"},
+        "Research Cell":{"link":"research_development_center.php"}
+    },
+    "Colleges": {
+        "Medical": { "link": "/medical.php" },
+        "Dental": { "link": "/dental.php" },
+        "Nursing": { "link": "/nursing.php" },
+        "Pharmacy": { "link": "/pharmacy.php" },
+        "Paramedical": { "link": "/paramedical.php" },
+        "Physiotherapy": { "link": "/physiotherapy.php" },
+        "TMIMT": { "link": "/management.php" },
+        "LAW": { "link": "/law.php" },
+        "CCSIT": { "link": "/ccsit.php" },
+        "Engineering": { "link": "/engineering.php" },
+        "Fine Arts": { "link": "/fine_arts.php" },
+        "Education": { "link": "/education.php" },
+        "Physical Education": { "link": "/physical_education.php" },
+        "Agriculture": { "link": "/agriculture.php" },
+        "Jain Studies": { "link": "/jain_studies.php" }
+        
+    },
+     "Research": {
+        "About Research Development Centre": { "link": "/research.php" },
+        "Research Policy": { "link": "/iqac_policies.php" },
+        "Code of Ethics": { "link": "/code_of_ethics.php" },
+        "Conferences": { "link": "/conferences.php" },
+        "Research Publication": { "link": "/research_publication.php" },
+        "Sponsored Projects": { "link": "/sponsored_project.php" },
+        "Patents": { "link": "/patent.php" },
+        "Seed Money": { "link": "/seed_money.php" },
+        "Institution/Teachers/Students Awards": { "link": "/research_innovation_awards.php" },
+        "Fellowship/Recognition": { "link": "/fellowship_awards.php" },
+        "University Ethics Committee": { "link": "/university_ethics_commitee.php" },
+        "UAIP / CAIP": { "link": "/uaip_caip.php" },
+        "Overview": { "link": "/phd_overview.php" },
+        "Ordinance": { "link": "/phd_ordinance_sops.php" },
+        "Intake to Ph.D. Programme": { "link": "/phd_intake.php" },
+        "Research Scholar": { "link": "/phd_research_scholar.php" },
+        "Syllabus of Course Work": {"link": "/syllabus_course_work.php"},
+        "FAQs": {"link": "/phd_faqs.php" },
+        "Semester Progress Report Proforma": {"link": "/semester_progress_resport.php" },
+        "Admission Notice": {"link":"phd_admission_notice.php"},
+        "Instructions for Apply": {"link": "/phd-instructions.php" },
+        "Checklist of Documents": {"link":"/phd_checklist.php" },
+        "Ph.D. Process": {"link":"/phd_process.php" },
+        "Fee Structure": {"link":"/phd_fee_structure.php" },
+        "Result": {"link":"/phd_result.php" }
+        
+    }
+},
+  "1": {
+    "About Cell": {"link" : "iic-about-cell.php"},
+    "Innovation &amp; Startup Policies": {"link" : "iic-policy.php"},
+    "Research Policy": {"link" : "iic-research-policy.php"},
+    "Committee": {"link" : "iic-committee.php"}
+    
+  },
+  "2": {
+    "IIC Activities Calendar": {"link" : "iic-activities-calendar.php"},
+    "IIC Establishment Certificate": {"link" : "iic-establishment-certificate.php"},
+    "IIC Innovation Ambassador Training Series": {"link" : "iic-innovation-ambassador-training-series.php"},
+    "Innovation &amp; Startup Campaign Participation": {"link" : "iic-campaign-participation.php"},
+    "Achievements": {"link" : "iic-achievements.php"},
+    "Activities": {"link" : "iic-activities.php"}
+    
+  }
+}

@@ -1,0 +1,14 @@
+.infra{
+    height: 500px;
+}
+@media screen and (max-width:480px) {
+    .infra{
+        height: 300px;
+    }
+    
+#owl-carousel-infrastructure{
+    width: 100% !important;
+    margin:auto;
+    }
+
+}

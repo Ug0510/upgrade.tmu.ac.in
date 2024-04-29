@@ -1,0 +1,693 @@
+<!DOCTYPE html>
+<html dir="ltr" lang="en-US">
+
+<head>
+
+	<meta http-equiv="content-type" content="text/html; charset=utf-8">
+	<meta http-equiv="x-ua-compatible" content="IE=edge">
+	<meta name="author" content="">
+	<meta name="description"
+		content="Get Canvas to build powerful websites easily with the Highly Customizable &amp; Best Selling Bootstrap Template, today.">
+
+	<!-- Font Imports -->
+	<link rel="preconnect" href="https://fonts.googleapis.com">
+	<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+	<link
+		href="https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600;700&family=PT+Serif:ital@0;1&display=swap"
+		rel="stylesheet">
+
+	<!-- Core Style -->
+	<link rel="stylesheet" href="style.css">
+
+	<!-- Font Icons -->
+	<link rel="stylesheet" href="css/font-icons.css">
+
+	<!-- Custom CSS -->
+	<link rel="stylesheet" href="css/custom.css">
+	<meta name="viewport" content="width=device-width, initial-scale=1">
+
+	<!-- Document Title
+	============================================= -->
+	<title>TMU Blog Section</title>
+
+	<style>
+		body{
+			background-color:#001055!important;
+		}
+		@media (max-width: 992px) {
+			.blocks-faqs-3 .sticky-section {
+				position: relative !important;
+			}
+		}
+
+		.blocks-faqs-3 .faqs .toggle {
+			border-radius: 3px;
+			box-shadow: 0 2px 3px rgba(0, 0, 0, 0.085);
+		}
+
+		.blocks-faqs-3 .faqs .toggle-header {
+			padding: 15px 20px;
+			margin: 0;
+		}
+
+		.blocks-faqs-3 .faqs .toggle-content {
+			border-top: 1px solid #000;
+			padding: 20px 25px;
+		}
+
+		.pagination{
+			margin-top: 1rem;
+			align-self: center;
+		}
+		/*css for color white  */
+		.toggle-title,
+		.form-widget,
+		.toggle-icon,
+		.bi-calendar-week,
+		.col-sm-6,
+		.ls-0
+		{
+			color: #FFF;
+		}
+		
+			
+/* Css for search bar icon */
+		.ms-n5{
+			margin-left: -40px;
+		}
+
+		.toggle-icon{
+			margin-bottom: 3px;
+			border-radius: 8px;
+		}
+/* Breadcrumb custom styling start  here  */
+	    .page-title{
+		background-color: #001055;
+	    }
+	    .page-title h1{
+		color: #FFF;
+	    }
+		.page-title span{
+			color: #FFF;
+		}
+		.breadcrumb-item{
+			color: #FFF !important;
+			font-family: poppins !important;
+			font-size: 25px;
+		}
+		.page-title-content h1{
+			font-weight: bold;
+			font-size: 55px;
+		}
+		.page-title-content span{
+			font-size: 35px;
+		}
+
+	</style>
+
+
+</head>
+
+<body class="stretched" data-bs-spy="scroll" data-bs-target="#scroll-spy" data-bs-offset="0" tabindex="0">
+
+	<!-- Document Wrapper
+	============================================= -->
+	<div id="wrapper">
+
+	<!-- Page Title
+		============================================= -->
+		<section class="page-title page-title-center">
+			<div class="container">
+				<div class="page-title-row">
+
+					<div class="page-title-content">
+						<h1>TMU Blogs</h1>
+						<span>"Thoughts Unleashed, Words Create Worlds."</span>
+					</div>
+
+					<nav aria-label="breadcrumb">
+						<ol class="breadcrumb">
+							<li class="breadcrumb-item">
+								<a href="#"><i class="fas fa-home me-1"></i>Home</a></li>
+							<li class="breadcrumb-item active" aria-current="page">Blogs</li>							
+						</ol>
+					</nav>
+
+				</div>
+			</div>
+		</section><!-- .page-title end -->
+
+		<!-- Content
+		============================================= -->
+		<section id="content">
+			<div class="content-wrap overflow-visible" style="background-color: #001055;">
+				<div class="container">
+					<div class="row">
+					<!-- <div class="col-lg-4">
+						
+					</div> -->
+					<div class="col-lg-12">
+						<!-- FAQs - Filter Content
+							============================================= -->
+						<div id="faqs" class="faqs">
+
+							<div id="marketplace" class="sub-section pt-5">
+								<!-- <h3>Blogs</h3> -->
+								<div class="toggle faq pb-0 mb-3">
+									<div class="toggle-header">
+										<div class="toggle-title fw-medium ps-1">
+											Filters – Showing all news
+										</div>
+										<div class="toggle-icon">
+											<!-- <button>Expand all</button> -->
+										</div>
+									</div>
+									<!-- <div class="toggle-content ps-4">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Assumenda, dolorum, vero ipsum molestiae minima odio quo voluptate illum excepturi quam cum voluptates doloribus quae nisi tempore necessitatibus dolores ducimus enim libero eaque explicabo suscipit animi at quaerat aliquid ex expedita perspiciatis? Saepe, aperiam, nam unde quas beatae vero vitae nulla.</div> -->
+								</div>
+								<br>
+								<div class="row">
+									<hr>
+								</div>
+
+								<div class="toggle faq pb-0 mb-3">
+									<div class="toggle-header">
+										<div class="toggle-title fw-medium ps-1">
+											News Categories
+										</div>
+										<div class="toggle-icon">
+											<i class="toggle-closed fa-solid fa-chevron-down" data-toggle="collapse" data-target="#collapse" aria-expanded="false" aria-controls="collapse"></i>
+											<i class="toggle-open fa-solid fa-chevron-up" data-toggle="collapse" data-target="#collapse" aria-expanded="false" aria-controls="collapse"></i>
+										</div>
+									</div>
+									<div class="toggle-content ps-4">
+										<div class="row">
+											<div class="col-md-4">
+												<ul style="list-style-type: none; color: #FFF; cursor: pointer; ">
+													<li class="form-check">
+														<input type="checkbox" class="form-check-input" >
+														<label class="form-check-label">Career</label>
+													</li>
+													<li class="form-check">
+														<input type="checkbox" class="form-check-input" >
+														<label class="form-check-label">Education</label>
+													</li>
+													<li class="form-check">
+														<input type="checkbox" class="form-check-input" >
+														<label class="form-check-label">Entertainment</label>
+													</li>
+													<li class="form-check">
+														<input type="checkbox" class="form-check-input" >
+														<label class="form-check-label">Financial</label>
+													</li>
+														
+												</ul>
+											</div>
+
+											<div class="col-md-4">
+												<ul style="list-style-type: none; color: #FFF;">
+													<li class="form-check">
+														<input type="checkbox" class="form-check-input" >
+														<label class="form-check-label">Health</label>
+													</li>
+													<li class="form-check">
+														<input type="checkbox" class="form-check-input" >
+														<label class="form-check-label">History</label>
+													</li>
+													<li class="form-check">
+														<input type="checkbox" class="form-check-input" >
+														<label class="form-check-label">Lifestyle</label>
+													</li>
+													<li class="form-check">
+														<input type="checkbox" class="form-check-input" >
+														<label class="form-check-label">Nature</label>
+													</li>
+													
+												</ul>
+											</div>
+
+											<div class="col-md-4">
+												<ul style="list-style-type: none; color: #FFF;">
+													<li class="form-check">
+														<input type="checkbox" class="form-check-input" >
+														<label class="form-check-label">Social</label>
+													</li>
+													<li class="form-check">
+														<input type="checkbox" class="form-check-input" >
+														<label class="form-check-label">Sports</label>
+													</li>
+													<li class="form-check">
+														<input type="checkbox" class="form-check-input" >
+														<label class="form-check-label">Technology</label>
+													</li>
+													
+												</ul>
+											</div>
+										</div>
+									</div>
+								</div>
+								<br>
+								<div class="row">
+									<hr>
+								</div>
+
+								<div class="toggle faq pb-0 mb-3">
+									<div class="toggle-header">
+
+										<div class="toggle-title fw-medium ps-1">
+											Publication Dates
+										</div>
+										<div class="toggle-icon">
+											<i class="toggle-closed fa-solid fa-chevron-down"></i>
+											<i class="toggle-open fa-solid fa-chevron-up"></i>
+										</div>
+									</div>
+									<div class="toggle-content ps-4">
+										<div class="row">
+											<div class="col-md-6">
+												<div class="form-widget">
+													Published News Between
+													<form class="row home-moving-form position-relative mb-0"
+														action="include/form.php" method="post"
+														enctype="multipart/form-data">
+														<div class="col-sm-6 form-group">
+															from
+															<div class="input-group">
+																<span class="input-group-text bg-transparent"><i
+																		class="bi-calendar-week"></i></span>
+																<input type="text"
+																	class="form-control home-date required"
+																	name="home-moving-form-date"
+																	id="home-moving-form-date" value=""
+																	placeholder="dd-mm-yyyy">
+															</div>
+														</div>
+														<div class="col-12 d-none">
+															<input type="text" id="home-moving-form-botcheck"
+																name="home-moving-form-botcheck" value="">
+														</div>
+
+														<div class="col-sm-6 form-group">
+															to
+															<div class="input-group">
+																<span class="input-group-text bg-transparent"><i
+																		class="bi-calendar-week"></i></span>
+																<input type="text"
+																	class="form-control home-date required"
+																	name="home-moving-form-date"
+																	id="home-moving-form-date" value=""
+																	placeholder="dd-mm-yyyy">
+															</div>
+														</div>
+														<div class="col-12 d-none">
+															<input type="text" id="home-moving-form-botcheck"
+																name="home-moving-form-botcheck" value="">
+														</div>
+													</form>
+												</div>
+											</div>
+										</div>
+									</div>	
+									<div class="row">
+										<hr>
+									</div>
+								</div>
+								<!-- <div class="subscribe-widget" data-loader="button">
+									<div class="widget-subscribe-form-result"></div>
+									<label for="widget-subscribe-form-text" class="text-transform-none ls-0 fw-medium">search news</label>
+									<form id="widget-subscribe-form" action="include/subscribe.php" method="post" class="row row-cols-lg-auto g-3 align-items-center mb-0">
+										<div class="col-9 flex-grow-1">
+											<input type="email" id="widget-subscribe-form-text" name="widget-subscribe-form-text" class="form-control form-control-lg required text">
+										</div>
+										<div class="col-9">
+											<button class="btn btn-light btn-lg" type="submit">Search</button>
+										</div>
+									</form>
+								</div> -->
+								<div class="row">
+									<div class="col-md-8 flex-grow-1">
+										<div class="small fw-semibold text-white">search input with icon</div>
+										<br>
+										<div class="input-group">
+											<input class="form-control border-end-0 border rounded-pill" type="search" value="search" id="example-search-input">
+											<span class="input-group-append">
+												<button class="btn btn-outline-secondary bg-white border-bottom-0 border rounded-pill ms-n5" type="button">
+													<i class="fa fa-search"></i>
+												</button>
+											</span>
+										</div>
+									</div>
+								</div>
+							</div>
+						</div>
+					</div>
+				</div>
+			</div>	
+		</div>
+	</div>
+	</section><!-- #content end -->
+
+	<!-- Content 2nd starts
+		============================================= -->
+		<section id="content bg-dark" style="background: #001055;">
+			<div class="content-wrap">
+				<div class="container">
+
+					<div class="row g-4 mb-5">
+
+						<article class="entry event col-12 mb-4">
+							<div class="grid-inner bg-white row g-0 p-3 border-0 rounded-5 shadow-sm h-shadow all-ts h-translate-y-sm">
+								<div class="col-md-4 mb-md-0">
+									<a href="#" class="entry-image mb-0 h-100">
+										<img src="https://source.unsplash.com/fIHozNWfcvs/800x450" alt="Inventore voluptates velit totam ipsa tenetur" class="rounded-2 h-100 object-cover">
+										<div class="bg-overlay">
+											<div class="bg-overlay-content justify-content-start align-items-start">
+												<div class="badge bg-light text-dark rounded-pill">Academics</div>
+											</div>
+										</div>
+									</a>
+								</div>
+								<div class="col-md-8 p-4">
+									<div class="entry-meta no-separator mb-1 mt-0">
+										<ul>
+											<li><a href="#" class="text-uppercase fw-medium">Fri, Jan 23 @ 5:30PM</a></li>
+										</ul>
+									</div>
+
+									<div class="entry-title nott">
+										<h3><a href="#">TMU Students Tour Narora Atomic Power Station Curtailing Nuclear Power</a></h3>
+									</div>
+									<div class="entry-content my-3">
+										<p class="mb-0">Aug 17, 2023. TMU's Faculty of Education students undertook a knowledge-enriching educational excursion to Narora Atomic Power Station. It aimed to provide students.</p>
+									</div>
+
+									<div class="entry-meta no-separator">
+										<ul>
+											<li><a href="#" class="fw-normal"><i class="uil uil-map-marker"></i>TMU, Moaradabad</a></li>
+										</ul>
+									</div>
+								</div>
+							</div>
+						</article>
+
+						<article class="entry event col-12 mb-4">
+							<div class="grid-inner bg-white row g-0 p-3 border-0 rounded-5 shadow-sm h-shadow all-ts h-translate-y-sm">
+								<div class="col-md-4 mb-md-0">
+									<a href="#" class="entry-image mb-0 h-100">
+										<img src="https://source.unsplash.com/fIHozNWfcvs/800x450" alt="Inventore voluptates velit totam ipsa tenetur" class="rounded-2 h-100 object-cover">
+										<div class="bg-overlay">
+											<div class="bg-overlay-content justify-content-start align-items-start">
+												<div class="badge bg-light text-dark rounded-pill">Achievements</div>
+											</div>
+										</div>
+									</a>
+								</div>
+								<div class="col-md-8 p-4">
+									<div class="entry-meta no-separator mb-1 mt-0">
+										<ul>
+											<li><a href="#" class="text-uppercase fw-medium">Fri, Jan 23 @ 5:30PM</a></li>
+										</ul>
+									</div>
+
+									<div class="entry-title nott">
+										<h3><a href="#">CTLD’s Faculty Development Programme Empowers Educators with Emotional Intelligence Skills</a></h3>
+									</div>
+									<div class="entry-content my-3">
+										<p class="mb-0">July 8th, 2023, In response to the ever-changing landscape of the global workforce, and recognising the increasing importance of Emotional Intelligence (EI) skills.</p>
+									</div>
+
+									<div class="entry-meta no-separator">
+										<ul>
+											<li><a href="#" class="fw-normal"><i class="uil uil-map-marker"></i>TMU, Moaradabad</a></li>
+										</ul>
+									</div>
+								</div>
+							</div>
+						</article>
+
+						<article class="entry event col-12 mb-4">
+							<div class="grid-inner bg-white row g-0 p-3 border-0 rounded-5 shadow-sm h-shadow all-ts h-translate-y-sm">
+								<div class="col-md-4 mb-md-0">
+									<a href="#" class="entry-image mb-0 h-100">
+										<img src="https://source.unsplash.com/nF8xhLMmg0c/800x450" alt="Inventore voluptates velit totam ipsa tenetur" class="rounded-2 h-100 object-cover">
+										<div class="bg-overlay">
+											<div class="bg-overlay-content justify-content-start align-items-start">
+												<div class="badge bg-light text-dark rounded-pill">Alumni</div>
+											</div>
+										</div>
+									</a>
+								</div>
+								<div class="col-md-8 p-4">
+									<div class="entry-meta no-separator mb-1 mt-0">
+										<ul>
+											<li><a href="#" class="text-uppercase fw-medium">Mon, Feb 12 @ 3:00PM</a></li>
+										</ul>
+									</div>
+
+									<div class="entry-title nott">
+										<h3><a href="#">Hands-on Advanced Level Workshop on Intellectual Property Rights (IPR)</a></h3>
+									</div>
+									<div class="entry-content my-3">
+										<p class="mb-0">On 3rd June 2023, a Hands-on Advanced level workshop on Intellectual Property Rights (IPR) was organised jointly by IIC .</p>
+									</div>
+
+									<div class="entry-meta no-separator">
+										<ul>
+											<li><a href="#" class="fw-normal"><i class="uil uil-map-marker"></i> Campus, TMU</a></li>
+										</ul>
+									</div>
+								</div>
+							</div>
+						</article>
+
+						<article class="entry event col-12 mb-4">
+							<div class="grid-inner bg-white row g-0 p-3 border-0 rounded-5 shadow-sm h-shadow all-ts h-translate-y-sm">
+								<div class="col-md-4 mb-md-0">
+									<a href="#" class="entry-image mb-0 h-100">
+										<img src="https://source.unsplash.com/cd7i9vYIyeY/800x450" alt="Inventore voluptates velit totam ipsa tenetur" class="rounded-2 h-100 object-cover">
+										<div class="bg-overlay">
+											<div class="bg-overlay-content justify-content-start align-items-start">
+												<div class="badge bg-light text-dark rounded-pill">CME / Workshop</div>
+											</div>
+										</div>
+									</a>
+								</div>
+								<div class="col-md-8 p-4">
+									<div class="entry-meta no-separator mb-1 mt-0">
+										<ul>
+											<li><a href="#" class="text-uppercase fw-medium">Fri, Mar 5 @ 11:00AM</a></li>
+										</ul>
+									</div>
+
+									<div class="entry-title nott">
+										<h3><a href="#">London Product Conference</a></h3>
+									</div>
+									<div class="entry-content my-3">
+										<p class="mb-0">National Seminar at TMU: Innovative Strategies on Tobacco Cessation</p>
+									</div>
+
+									<div class="entry-meta no-separator">
+										<ul>
+											<li><a href="#" class="fw-normal"><i class="uil uil-map-marker"></i> CCSIT, TMU</a></li>
+										</ul>
+									</div>
+								</div>
+							</div>
+						</article>
+
+						<article class="entry event col-12 mb-4">
+							<div class="grid-inner bg-white row g-0 p-3 border-0 rounded-5 shadow-sm h-shadow all-ts h-translate-y-sm">
+								<div class="col-md-4 mb-md-0">
+									<a href="#" class="entry-image mb-0 h-100">
+										<img src="https://source.unsplash.com/nwLTVwb7DbU/800x450" alt="Inventore voluptates velit totam ipsa tenetur" class="rounded-2 h-100 object-cover">
+										<div class="bg-overlay">
+											<div class="bg-overlay-content justify-content-start align-items-start">
+												<div class="badge bg-light text-dark rounded-pill">Community Services</div>
+											</div>
+										</div>
+									</a>
+								</div>
+								<div class="col-md-8 p-4">
+									<div class="entry-meta no-separator mb-1 mt-0">
+										<ul>
+											<li><a href="#" class="text-uppercase fw-medium">Fri, Jan 23 @ 5:30PM</a></li>
+										</ul>
+									</div>
+
+									<div class="entry-title nott">
+										<h3><a href="#">COVID Is Fueling Children's Mental Health Emergency</a></h3>
+									</div>
+									<div class="entry-content my-3">
+										<p class="mb-0">Deaths of parents and other traumatic experiences have harmed hundreds and thousands of students. Although countable initiatives are attempting to assist bereaved families.</p>
+									</div>
+
+									<div class="entry-meta no-separator">
+										<ul>
+											<li><a href="#" class="fw-normal"><i class="uil uil-map-marker"></i>TMU, Moaradabad</a></li>
+										</ul>
+									</div>
+								</div>
+							</div>
+						</article>
+
+						<article class="entry event col-12 mb-4">
+							<div class="grid-inner bg-white row g-0 p-3 border-0 rounded-5 shadow-sm h-shadow all-ts h-translate-y-sm">
+								<div class="col-md-4 mb-md-0">
+									<a href="#" class="entry-image mb-0 h-100">
+										<img src="https://source.unsplash.com/rE9vgD_TXgM/800x450" alt="Inventore voluptates velit totam ipsa tenetur" class="rounded-2 h-100 object-cover">
+										<div class="bg-overlay">
+											<div class="bg-overlay-content justify-content-start align-items-start">
+												<div class="badge bg-light text-dark rounded-pill">Commemorative Days</div>
+											</div>
+										</div>
+									</a>
+								</div>
+								<div class="col-md-8 p-4">
+									<div class="entry-meta no-separator mb-1 mt-0">
+										<ul>
+											<li><a href="#" class="text-uppercase fw-medium">Mon, Feb 12 @ 3:00PM</a></li>
+										</ul>
+									</div>
+
+									<div class="entry-title nott">
+										<h3><a href="#">Women's WordCamp 2022</a></h3>
+									</div>
+									<div class="entry-content my-3">
+										<p class="mb-0">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Ratione, voluptatem, dolorem animi nisi autem blanditiis.</p>
+									</div>
+
+									<div class="entry-meta no-separator">
+										<ul>
+											<li><a href="#" class="fw-normal"><i class="uil uil-map-marker"></i> Campus, TMU</a></li>
+										</ul>
+									</div>
+								</div>
+							</div>
+						</article>
+
+						<article class="entry event col-12 mb-4">
+							<div class="grid-inner bg-white row g-0 p-3 border-0 rounded-5 shadow-sm h-shadow all-ts h-translate-y-sm">
+								<div class="col-md-4 mb-md-0">
+									<a href="#" class="entry-image mb-0 h-100">
+										<img src="https://source.unsplash.com/cw-cj_nFa14/800x450" alt="Inventore voluptates velit totam ipsa tenetur" class="rounded-2 h-100 object-cover">
+										<div class="bg-overlay">
+											<div class="bg-overlay-content justify-content-start align-items-start">
+												<div class="badge bg-light text-dark rounded-pill">Placements</div>
+											</div>
+										</div>
+									</a>
+								</div>
+								<div class="col-md-8 p-4">
+									<div class="entry-meta no-separator mb-1 mt-0">
+										<ul>
+											<li><a href="#" class="text-uppercase fw-medium">Fri, Mar 5 @ 11:00AM</a></li>
+										</ul>
+									</div>
+
+									<div class="entry-title nott">
+										<h3><a href="#">London Product Conference</a></h3>
+									</div>
+									<div class="entry-content my-3">
+										<p class="mb-0">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Ratione, voluptatem, dolorem animi nisi autem blanditiis.</p>
+									</div>
+
+									<div class="entry-meta no-separator">
+										<ul>
+											<li><a href="#" class="fw-normal"><i class="uil uil-map-marker"></i> CCSIT, TMU</a></li>
+										</ul>
+									</div>
+								</div>
+							</div>
+						</article>
+
+					</div>
+
+					<!-- Pager
+					============================================= -->
+					<ul class="pagination pagination-circle justify-content-center">
+						<li class="page-item disabled"><a class="page-link" href="#" aria-label="Previous"> <span aria-hidden="true">&laquo;</span></a></li>
+						<li class="page-item active"><a class="page-link" href="#">1</a></li>
+						<li class="page-item"><a class="page-link" href="#">2</a></li>
+						<li class="page-item"><a class="page-link" href="#">3</a></li>
+						<li class="page-item"><a class="page-link" href="#">4</a></li>
+						<li class="page-item"><a class="page-link" href="#">5</a></li>
+						<li class="page-item"><a class="page-link" href="#" aria-label="Next"><span aria-hidden="true">&raquo;</span></a></li>
+					  </ul>
+				
+					<!-- .pager end -->
+
+				</div>
+			</div>
+		</section><!-- #content2nd  end -->
+
+
+	</div><!-- #wrapper end -->
+
+	<!-- Go To Top
+	============================================= -->
+	<div id="gotoTop" class="uil uil-angle-up"></div>
+
+	<!-- JavaScripts
+	============================================= -->
+	<script src="js/jquery.js"></script>
+	<script src="js/functions.js"></script>
+	<script src="js/components/datepicker.js"></script>
+
+
+	<script>
+		jQuery(document).ready(function () {
+			var $faqItems = jQuery('#faqs .faq');
+			if (window.location.hash != '') {
+				var getFaqFilterHash = window.location.hash;
+				var hashFaqFilter = getFaqFilterHash.split('#');
+				if ($faqItems.hasClass(hashFaqFilter[1])) {
+					jQuery('.grid-filter li').removeClass('activeFilter');
+					jQuery('[data-filter=".' + hashFaqFilter[1] + '"]').parent('li').addClass('activeFilter');
+					var hashFaqSelector = '.' + hashFaqFilter[1];
+					$faqItems.css('display', 'none');
+					if (hashFaqSelector != 'all') {
+						jQuery(hashFaqSelector).fadeIn(500);
+					} else {
+						$faqItems.fadeIn(500);
+					}
+				}
+			}
+
+			jQuery('.grid-filter a').on('click', function () {
+				jQuery('.grid-filter li').removeClass('activeFilter');
+				jQuery(this).parent('li').addClass('activeFilter');
+				var faqSelector = jQuery(this).attr('data-filter');
+				$faqItems.css('display', 'none');
+				if (faqSelector != 'all') {
+					jQuery(faqSelector).fadeIn(500);
+				} else {
+					$faqItems.fadeIn(500);
+				}
+				return false;
+			});
+		});
+	// Js for date picker in Published date section
+		jQuery('.home-date').datepicker({
+		autoclose: true,
+		startDate: "today",
+	});
+	// expand all and collapse all js 
+// 	$(".button").click(function(){
+    
+//     if ($(this).data("closedAll")) {
+//         $(".collapse").collapse("show");
+//     }
+//     else {
+//         $(".collapse").collapse("hide");
+//     }
+    
+//     // save last state
+//     $(this).data("closedAll",!$(this).data("closedAll")); 
+// });
+
+// // init with all closed
+// $("button").data("closedAll",true);
+
+	</script>
+</body>
+</html>
+
