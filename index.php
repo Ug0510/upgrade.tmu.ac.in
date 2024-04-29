@@ -1,14 +1,6 @@
 <?php
 include 'head.php';
 ?>
-<style>
-    #owl-carousel2 .grid-inner,
-    #owl-carousel3 .item,
-    .notice-board {
-        border: 1px solid rgba(0, 0, 0, 0.09);
-        border-radius: 10px;
-    }
-</style>
 
 <link rel="stylesheet" href="./assets/css/swiper2.css">
 <!-----video banner start-->
@@ -29,25 +21,7 @@ include 'head.php';
 </section>
 <!-- video banner End -->
 
-<script>
-    window.addEventListener('load', function() {
-        const vid = document.getElementById('main-banner-vid');
 
-        if (vid) {
-            // Once metadata is loaded, switch to higher quality video
-            vid.setAttribute("src", "poster/tmu_video.mp4");
-
-            // Start playback
-            vid.play();
-            document.getElementById('banner-tmu-img').style.display = 'none';
-            vid.classList.remove('d-none');
-
-
-        };
-
-
-    });
-</script>
 
 
 
@@ -1486,7 +1460,6 @@ include 'head.php';
 
 
 
-<script src="https://cdn.jsdelivr.net/npm/popper.js@1.16.0/dist/umd/popper.min.js"></script>
 
 
 
@@ -1963,87 +1936,6 @@ include 'head.php';
     </div>
 </section><!-- #content end -->
 
-
-<script>
-    let currentIndex = 0;
-    const slides = document.querySelectorAll('.featured-slide');
-    const totalSlides = slides.length;
-    let autoSlideInterval;
-
-    function showSlide(index) {
-        try {
-            if (isNaN(index)) {
-                throw new Error("Invalid index. Please provide a valid number.");
-            }
-
-            if (index < 0) {
-                index = totalSlides - 1;
-            } else if (index >= totalSlides) {
-                index = 0;
-            }
-
-            const offset = -index * 100;
-            const slider = document.querySelector('.featured-slider');
-
-            if (!slider) {
-                throw new Error("Slider element not found.");
-            }
-
-            slider.style.transform = `translateX(${offset}%)`;
-            currentIndex = index;
-        } catch (error) {
-            console.error("Error in showSlide function:", error.message);
-        }
-    }
-
-
-    function nextSlide() {
-        showSlide(currentIndex + 1);
-    }
-
-    function prevSlide() {
-        showSlide(currentIndex - 1);
-    }
-
-    function startAuto() {
-        autoSlideInterval = setInterval(nextSlide, 3000); // Change slide every 3 seconds
-    }
-
-    function stopAuto() {
-        clearInterval(autoSlideInterval);
-    }
-
-    startAuto();
-
-
-
-    //   career accordian
-    var acc = document.getElementsByClassName("careers-accordion");
-    var i;
-
-    for (i = 0; i < acc.length; i++) {
-        acc[i].addEventListener("click", function() {
-            var panel = this.nextElementSibling;
-            if (panel.style.display === "block") {
-                panel.style.display = "none";
-                this.querySelector(".icon").innerHTML = "+";
-                this.classList.remove("clicked"); // Remove clicked class when closing
-            } else {
-                // Close all other panels
-                var allPanels = document.querySelectorAll('.panel');
-                for (var j = 0; j < allPanels.length; j++) {
-                    allPanels[j].style.display = 'none';
-                    var accordion = allPanels[j].previousElementSibling;
-                    accordion.querySelector(".icon").innerHTML = "+";
-                    accordion.classList.remove("clicked"); // Remove clicked class from other accordions
-                }
-                panel.style.display = "block";
-                this.querySelector(".icon").innerHTML = "-";
-                this.classList.add("clicked"); // Add clicked class when opening
-            }
-        });
-    }
-</script>
 
 
 <?php
