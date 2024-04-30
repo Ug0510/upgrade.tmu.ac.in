@@ -1140,21 +1140,7 @@ include 'head.php';
         <!-----Courses section completed-->
 
 
-        <style>
-            .careers-accordion:hover, .clicked {
-            background-color: #0010551e;
-            color: #001055;
-        }
-        .tmu-btn.btn-4{
-            background-color: #001055;
-            color:#fff;
-            border:1px solid #001055; 
-        }
-        .tmu-btn.btn-4:hover{
-            background-color: #fff;
-            color:#001055;
-            
-        }
+
         </style>
 
         <section>

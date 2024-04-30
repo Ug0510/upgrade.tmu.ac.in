@@ -219,7 +219,7 @@ include 'head.php';
                                         <div class="card-footer d-flex justify-content-between align-items-center bg-white py-3">
                                             <div>
                                             </div>
-                                            <a href="#" class="button button-black rounded-pill m-0">View
+                                            <a href="#" class="tmu-btn btn-4 m-0 py-1 px-2">View
                                                 More</a>
                                         </div>
                                     </div>
@@ -238,7 +238,7 @@ include 'head.php';
                                         <div class="card-footer d-flex justify-content-between align-items-center bg-white py-3">
                                             <div>
                                             </div>
-                                            <a href="#" class="button button-black rounded-pill m-0">View
+                                            <a href="#" class="tmu-btn btn-4 m-0 py-1 px-2">View
                                                 More</a>
                                         </div>
                                     </div>
@@ -256,7 +256,7 @@ include 'head.php';
                                         <div class="card-footer d-flex justify-content-between align-items-center bg-white py-3">
                                             <div>
                                             </div>
-                                            <a href="#" class="button button-black rounded-pill m-0">View
+                                            <a href="#" class="tmu-btn btn-4 m-0 py-1 px-2">View
                                                 More</a>
                                         </div>
                                     </div>
@@ -278,7 +278,7 @@ include 'head.php';
                                         <div class="card-footer d-flex justify-content-between align-items-center bg-white py-3">
                                             <div>
                                             </div>
-                                            <a href="#" class="button button-black rounded-pill m-0">View
+                                            <a href="#" class="tmu-btn btn-4 m-0 py-1 px-2">View
                                                 More</a>
                                         </div>
                                     </div>
@@ -297,7 +297,7 @@ include 'head.php';
                                         <div class="card-footer d-flex justify-content-between align-items-center bg-white py-3">
                                             <div>
                                             </div>
-                                            <a href="#" class="button button-black rounded-pill m-0">View
+                                            <a href="#" class="tmu-btn btn-4 m-0 py-1 px-2">View
                                                 More</a>
                                         </div>
                                     </div>
@@ -315,7 +315,7 @@ include 'head.php';
                                         <div class="card-footer d-flex justify-content-between align-items-center bg-white py-3">
                                             <div>
                                             </div>
-                                            <a href="#" class="button button-black rounded-pill m-0">View
+                                            <a href="#" class="tmu-btn btn-4 m-0 py-1 px-2">View
                                                 More</a>
                                         </div>
                                     </div>
@@ -347,7 +347,7 @@ include 'head.php';
                                         <div class="card-footer d-flex justify-content-between align-items-center bg-white py-3">
                                             <div>
                                             </div>
-                                            <a href="#" class="button button-black rounded-pill m-0">View
+                                            <a href="#" class="tmu-btn btn-4 m-0 py-1 px-2">View
                                                 More</a>
                                         </div>
                                     </div>
@@ -366,7 +366,7 @@ include 'head.php';
                                         <div class="card-footer d-flex justify-content-between align-items-center bg-white py-3">
                                             <div>
                                             </div>
-                                            <a href="#" class="button button-black rounded-pill m-0">View
+                                            <a href="#" class="tmu-btn btn-4 m-0 py-1 px-2">View
                                                 More</a>
                                         </div>
                                     </div>
@@ -385,7 +385,7 @@ include 'head.php';
                                         <div class="card-footer d-flex justify-content-between align-items-center bg-white py-3">
                                             <div>
                                             </div>
-                                            <a href="#" class="button button-black rounded-pill m-0">View
+                                            <a href="#" class="tmu-btn btn-4 m-0 py-1 px-2">View
                                                 More</a>
                                         </div>
                                     </div>
@@ -419,7 +419,7 @@ include 'head.php';
                                         <div class="card-footer d-flex justify-content-between align-items-center bg-white py-3">
                                             <div>
                                             </div>
-                                            <a href="#" class="button button-black rounded-pill m-0">View
+                                            <a href="#" class="tmu-btn btn-4 m-0 py-1 px-2">View
                                                 More</a>
                                         </div>
                                     </div>
@@ -438,7 +438,7 @@ include 'head.php';
                                         <div class="card-footer d-flex justify-content-between align-items-center bg-white py-3">
                                             <div>
                                             </div>
-                                            <a href="#" class="button button-black rounded-pill m-0">View
+                                            <a href="#" class="tmu-btn btn-4 m-0 py-1 px-2">View
                                                 More</a>
                                         </div>
                                     </div>
@@ -457,7 +457,7 @@ include 'head.php';
                                         <div class="card-footer d-flex justify-content-between align-items-center bg-white py-3">
                                             <div>
                                             </div>
-                                            <a href="#" class="button button-black rounded-pill m-0">View
+                                            <a href="#" class="tmu-btn btn-4 m-0 py-1 px-2">View
                                                 More</a>
                                         </div>
                                     </div>
@@ -491,7 +491,7 @@ include 'head.php';
                                         <div class="card-footer d-flex justify-content-between align-items-center bg-white py-3">
                                             <div>
                                             </div>
-                                            <a href="#" class="button button-black rounded-pill m-0">View
+                                            <a href="#" class="tmu-btn btn-4 m-0 py-1 px-2">View
                                                 More</a>
                                         </div>
                                     </div>
@@ -509,7 +509,7 @@ include 'head.php';
                                         <div class="card-footer d-flex justify-content-between align-items-center bg-white py-3">
                                             <div>
                                             </div>
-                                            <a href="#" class="button button-black rounded-pill m-0">View
+                                            <a href="#" class="tmu-btn btn-4 m-0 py-1 px-2">View
                                                 More</a>
                                         </div>
                                     </div>
@@ -527,7 +527,7 @@ include 'head.php';
                                         <div class="card-footer d-flex justify-content-between align-items-center bg-white py-3">
                                             <div>
                                             </div>
-                                            <a href="#" class="button button-black rounded-pill m-0">View
+                                            <a href="#" class="tmu-btn btn-4 m-0 py-1 px-2">View
                                                 More</a>
                                         </div>
                                     </div>
@@ -585,7 +585,7 @@ include 'head.php';
                                         <div class="card-footer d-flex justify-content-between align-items-center bg-white py-3">
                                             <div>
                                             </div>
-                                            <a href="#" class="button button-black rounded-pill m-0">View
+                                            <a href="#" class="tmu-btn btn-4 m-0 py-1 px-2">View
                                                 More</a>
                                         </div>
                                     </div>
@@ -604,7 +604,7 @@ include 'head.php';
                                         <div class="card-footer d-flex justify-content-between align-items-center bg-white py-3">
                                             <div>
                                             </div>
-                                            <a href="#" class="button button-black rounded-pill m-0">View
+                                            <a href="#" class="tmu-btn btn-4 m-0 py-1 px-2">View
                                                 More</a>
                                         </div>
                                     </div>
@@ -624,7 +624,7 @@ include 'head.php';
                                         <div class="card-footer d-flex justify-content-between align-items-center bg-white py-3">
                                             <div>
                                             </div>
-                                            <a href="#" class="button button-black rounded-pill m-0">View
+                                            <a href="#" class="tmu-btn btn-4 m-0 py-1 px-2">View
                                                 More</a>
                                         </div>
                                     </div>
@@ -659,7 +659,7 @@ include 'head.php';
                                         <div class="card-footer d-flex justify-content-between align-items-center bg-white py-3">
                                             <div>
                                             </div>
-                                            <a href="#" class="button button-black rounded-pill m-0">View
+                                            <a href="#" class="tmu-btn btn-4 m-0 py-1 px-2">View
                                                 More</a>
                                         </div>
                                     </div>
@@ -678,7 +678,7 @@ include 'head.php';
                                         <div class="card-footer d-flex justify-content-between align-items-center bg-white py-3">
                                             <div>
                                             </div>
-                                            <a href="#" class="button button-black rounded-pill m-0">View
+                                            <a href="#" class="tmu-btn btn-4 m-0 py-1 px-2">View
                                                 More</a>
                                         </div>
                                     </div>
@@ -698,7 +698,7 @@ include 'head.php';
                                         <div class="card-footer d-flex justify-content-between align-items-center bg-white py-3">
                                             <div>
                                             </div>
-                                            <a href="#" class="button button-black rounded-pill m-0">View
+                                            <a href="#" class="tmu-btn btn-4 m-0 py-1 px-2">View
                                                 More</a>
                                         </div>
                                     </div>
@@ -738,7 +738,7 @@ include 'head.php';
                                         <div class="card-footer d-flex justify-content-between align-items-center bg-white py-3">
                                             <div>
                                             </div>
-                                            <a href="#" class="button button-black rounded-pill m-0">View
+                                            <a href="#" class="tmu-btn btn-4 m-0 py-1 px-2">View
                                                 More</a>
                                         </div>
                                     </div>
@@ -757,7 +757,7 @@ include 'head.php';
                                         <div class="card-footer d-flex justify-content-between align-items-center bg-white py-3">
                                             <div>
                                             </div>
-                                            <a href="#" class="button button-black rounded-pill m-0">View
+                                            <a href="#" class="tmu-btn btn-4 m-0 py-1 px-2">View
                                                 More</a>
                                         </div>
                                     </div>
@@ -778,7 +778,7 @@ include 'head.php';
                                         <div class="card-footer d-flex justify-content-between align-items-center bg-white py-3">
                                             <div>
                                             </div>
-                                            <a href="#" class="button button-black rounded-pill m-0">View
+                                            <a href="#" class="tmu-btn btn-4 m-0 py-1 px-2">View
                                                 More</a>
                                         </div>
                                     </div>
@@ -816,7 +816,7 @@ include 'head.php';
                                         <div class="card-footer d-flex justify-content-between align-items-center bg-white py-3">
                                             <div>
                                             </div>
-                                            <a href="#" class="button button-black rounded-pill m-0">View
+                                            <a href="#" class="tmu-btn btn-4 m-0 py-1 px-2">View
                                                 More</a>
                                         </div>
                                     </div>
@@ -834,7 +834,7 @@ include 'head.php';
                                         <div class="card-footer d-flex justify-content-between align-items-center bg-white py-3">
                                             <div>
                                             </div>
-                                            <a href="#" class="button button-black rounded-pill m-0">View
+                                            <a href="#" class="tmu-btn btn-4 m-0 py-1 px-2">View
                                                 More</a>
                                         </div>
                                     </div>
@@ -854,7 +854,7 @@ include 'head.php';
                                         <div class="card-footer d-flex justify-content-between align-items-center bg-white py-3">
                                             <div>
                                             </div>
-                                            <a href="#" class="button button-black rounded-pill m-0">View
+                                            <a href="#" class="tmu-btn btn-4 m-0 py-1 px-2">View
                                                 More</a>
                                         </div>
                                     </div>
