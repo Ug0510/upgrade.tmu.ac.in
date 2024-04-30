@@ -19156,7 +19156,7 @@ body:not(.has-plugin-html5video) .video-wrap video {
 .content-wrap {
   position: relative;
   padding: var(--cnvs-content-padding) 0;
-  overflow: hidden;
+  
 }
 .content-wrap .container {
   position: relative;
