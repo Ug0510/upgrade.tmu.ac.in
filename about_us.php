@@ -2,72 +2,7 @@
  include 'head.php';
 ?>
 
-<!-- <link rel="stylesheet" href="demos/headphones/headphones.css">
-<link rel="stylesheet" href="demos/recipes/recipes.css"> -->
-
-<style>
-.carousel-indicators li {
-  background-color: transparent;
-  width: 10px; 
-  height: 10px; 
-  margin: 0 5px; 
-  cursor: pointer;
-}
-
-.carousel-controls {
-  position: absolute;
-  bottom: 20px;
-  left: 0;
-  right: 0;
-  text-align: center;
-}
-
-.carousel-indicators {
-    position: absolute;
-    right: 0;
-    bottom: 0;
-    left: 0;
-    z-index: 2;
-    display: flex;
-    justify-content: center;
-    padding: 20px;
-    margin-right: 10%;
-    margin-bottom: 1rem;
-    margin-left: 10%;
-}
-</style>
-
-<style>
-.sublime {
-  font-family:'poppins';
-  line-height:28px;
-  text-align:center;
-  justify-content: center;
-  padding: 0 10%!important;
-  font-size:18px;
-  font-weight:500px;
-}
-</style>
-
-<style>
-.custom-box {
-  background-color: #001055;
-  color: white;
-  padding: 10px;
-}
-
-.custom-list{
-  list-style-type: none;
-  padding-left: 10%; 
-  padding-right: 10%; 
-  color:#fff!important;
-}
-
-.custom-list li a{
-  list-style-type: none;
-  color:#fff!important;
-  }
-</style>
+<link rel="stylesheet" href="./assets/css/about_university.css"/>
 
 <style>
 p a {
@@ -257,7 +192,7 @@ a.underline-hover-effect {
             style="color:#001055; text-transform: capitalize; font-weight:700!important; font-size:2.4vmax">About <span
                 style="color:#ff7a00;">University</span></h2>
         <div class="col-lg-12">
-            <h4 class="sublime" style="text-align-justify; margin-top:1rem;">On National Highway 9, 144 Km from New
+            <h4 class="sublime" style="text-align:justify; margin-top:1rem;">On National Highway 9, 144 Km from New
                 Delhi, TMU stands committed to the ideals of Lord Mahaveer - Right Philosophy, Right Knowledge and Right Conduct in all spheres
                 of activity and aspires to be the ultimate destination for world-class education.</h4>
         </div>
@@ -340,75 +275,7 @@ a.underline-hover-effect {
 </section>
 
 
-<style>
-.quote-container {
-    display: flex;
-    justify-content: center !important;
-    align-items: center;
-    height: 65vh;
-    background-color: #f0f0f0;
-  }
-  .quote-box {
-    width: 90%;
-    background-color: #ffffff;
-    border-radius: 10px;
-    box-shadow: 0px 0px 10px rgba(0, 0, 0, 0.1);
-    padding: 20px;
-    display: flex;
-    align-items: center;
-  }
-  .quote-symbol {
-    font-size: 50px; /* Increase the font size of the quote symbol */
-    margin: 0px;
-    color: #888; /* Adjust the color of the quote symbol */
-  }
-  .quote-text {
-    flex: 1;
-    padding: 0 20px;
-    text-align: right;
-  }
-  .quote-text h4 {
-    font-size: 20px;
-    margin-bottom: 0px;
-    font-weight: 400;
-    line-height: 24px;
-    text-align: justify;
-  }
-  .quote-text p {
-    font-size: 16px;
-    font-weight: 500;
-    line-height: 1.1;
-    color: #ff7a00;
-    margin-bottom: 0px;
-  }
-  .profile-image img {
-    width: 100%;
-    height: 100%;
-    object-fit: cover;
-  }
-  
-  .quote-text span{
-    font-size: 30px;
-    line-height: 24px;
-    color: #b40000;
-  }
 
-  /* Responsive Styles */
-  @media only screen and (max-width: 1050px) {
-    .quote-box {
-      flex-direction: column;
-      text-align: center;
-    }
-    .quote-text {
-      text-align: center;
-    }
-    .quote-text h2 {
-        margin-top: 20px;
-    }
-  }
-    
-</style>
- 
 <div class="">
     <h2 class="tmu-text-primary text-center"><span>Message from the </span><span>Chancellor</span></h2>
   <div class="quote-box">
