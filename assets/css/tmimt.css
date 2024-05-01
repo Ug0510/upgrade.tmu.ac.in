@@ -73,7 +73,7 @@ margin: 20px auto;
 
 /* <!-- CSS for collaborators --> */
 
-.custom-card {
+.collab-card {
 border: none;
 margin-bottom: 30px;
 box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
@@ -81,7 +81,7 @@ min-height: 20rem;
 }
 
 
-.custom-card-img {
+.collab-card-img {
 width: 50%;
 display: block;
 margin: 0.3rem auto;
@@ -89,14 +89,14 @@ mix-blend-mode: multiply;
 margin-top: 0.6rem;
 }
 
-.custom-card-title {
+.collab-card-title {
 font-size: 16px;
 font-weight: bold;
 margin-bottom: 15px;
 color: #FF7A00;
 }
 
-.custom-card-text {
+.collab-card-text {
 overflow: hidden;
 font-size: 14px;
 max-height: 4rem;
@@ -110,7 +110,7 @@ color: #001055;
 }
 
 @media screen and (max-width:480px) {
-.custom-card {
+.collab-card {
 min-height: fit-content;
 }
 }
@@ -178,7 +178,7 @@ cursor: pointer;
 }
 
 
-#collabModal .tmu-modal-box .custom-card-text {
+#collabModal .tmu-modal-box .collab-card-text {
 max-height: 50vh;
 overflow-y: auto;
 }

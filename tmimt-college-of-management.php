@@ -22,110 +22,6 @@ include 'head.php';
                             <!-- <iframe width="560" height="315" src="https://www.youtube.com/embed/iXHRmCyHszY?si=BcZ5NOfT-V8ECc6z" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen style="z-index: 2; margin:0;"></iframe> -->
                             <img src="/assets/image/tmimt-banner.png" alt="" class="p-0 m-0">
                         </div>
-                        <!-- <div class=floating-triangle>
-                            <div class=dot-grid>
-                                <div class=dot></div>
-                                <div class=dot></div>
-                                <div class=dot></div>
-                                <div class=dot></div>
-                                <div class=dot></div>
-                                <div class=dot></div>
-                                <div class=dot></div>
-                                <div class=dot></div>
-                                <div class=dot></div>
-                                <div class=dot></div>
-                                <div class=dot></div>
-                                <div class=dot></div>
-                                <div class=dot></div>
-                                <div class=dot></div>
-                                <div class=dot></div>
-                                <div class=dot></div>
-                                <div class=dot></div>
-                                <div class=dot></div>
-                                <div class=dot></div>
-                                <div class=dot></div>
-                                <div class=dot></div>
-                                <div class=dot></div>
-                                <div class=dot></div>
-                                <div class=dot></div>
-                                <div class=dot></div>
-                                <div class=dot></div>
-                                <div class=dot></div>
-                                <div class=dot></div>
-                                <div class=dot></div>
-                                <div class=dot></div>
-                                <div class=dot></div>
-                                <div class=dot></div>
-                                <div class=dot></div>
-                                <div class=dot></div>
-                                <div class=dot></div>
-                                <div class=dot></div>
-                                <div class=dot></div>
-                                <div class=dot></div>
-                                <div class=dot></div>
-                                <div class=dot></div>
-                                <div class=dot></div>
-                                <div class=dot></div>
-                                <div class=dot></div>
-                                <div class=dot></div>
-                                <div class=dot></div>
-                                <div class=dot></div>
-                                <div class=dot></div>
-                                <div class=dot></div>
-                                <div class=dot></div>
-                                <div class=dot></div>
-                                <div class=dot></div>
-                                <div class=dot></div>
-                                <div class=dot></div>
-                                <div class=dot></div>
-                                <div class=dot></div>
-                                <div class=dot></div>
-                                <div class=dot></div>
-                                <div class=dot></div>
-                                <div class=dot></div>
-                                <div class=dot></div>
-                                <div class=dot></div>
-                                <div class=dot></div>
-                                <div class=dot></div>
-                                <div class=dot></div>
-                                <div class=dot></div>
-                                <div class=dot></div>
-                                <div class=dot></div>
-                                <div class=dot></div>
-                                <div class=dot></div>
-                                <div class=dot></div>
-                                <div class=dot></div>
-                                <div class=dot></div>
-                                <div class=dot></div>
-                                <div class=dot></div>
-                                <div class=dot></div>
-                                <div class=dot></div>
-                                <div class=dot></div>
-                                <div class=dot></div>
-                                <div class=dot></div>
-                                <div class=dot></div>
-                                <div class=dot></div>
-                                <div class=dot></div>
-                                <div class=dot></div>
-                                <div class=dot></div>
-                                <div class=dot></div>
-                                <div class=dot></div>
-                                <div class=dot></div>
-                                <div class=dot></div>
-                                <div class=dot></div>
-                                <div class=dot></div>
-                                <div class=dot></div>
-                                <div class=dot></div>
-                                <div class=dot></div>
-                                <div class=dot></div>
-                                <div class=dot></div>
-                                <div class=dot></div>
-                                <div class=dot></div>
-                                <div class=dot></div>
-                                <div class=dot></div>
-                                <div class=dot></div>
-                            </div>
-                        </div> -->
                     </div>
                 </div>
             </div>
@@ -393,56 +289,56 @@ include 'head.php';
                 <div class="owl-carousel owl-carousel-full image-carousel carousel-widget charity-card" data-stage-padding="20" data-margin="50" data-center="true" data-loop="true" data-nav="true" data-autoplay="200000" data-speed="2000" data-pagi="true" data-items-xs="1" data-items-sm="2" data-items-md="2" data-items-lg="3" data-items-xl="3">
 
                     <div class="oc-item text-start">
-                        <div class="card custom-card">
-                            <img class="custom-card-img" src="https://www.tmu.ac.in/img/collaborative/ur.jpg" alt="TMU collaboration with united resourcing">
+                        <div class="card collab-card">
+                            <img class="collab-card-img" src="https://www.tmu.ac.in/img/collaborative/ur.jpg" alt="TMU collaboration with united resourcing">
 
                             <div class="card-body">
-                                <h3 class="custom-card-title">BBA – INTERNATIONAL BUSINESS & ENTREPRENEURSHIP</h3>
-                                <p class="custom-card-text ">As part of a partnership with United Resourcing Services, Teerthanker Mahaveer University is offering a Masters of Business Administration (MBA) in Industry Integrated with Global Exposure along with Bachelors of Business Administration (BBA) in International Business and Entrepreneurship programme. UR Services Pvt. Ltd. helps the students to be prepared for the challenges in the industry.</p>
+                                <h3 class="collab-card-title">BBA – INTERNATIONAL BUSINESS & ENTREPRENEURSHIP</h3>
+                                <p class="collab-card-text ">As part of a partnership with United Resourcing Services, Teerthanker Mahaveer University is offering a Masters of Business Administration (MBA) in Industry Integrated with Global Exposure along with Bachelors of Business Administration (BBA) in International Business and Entrepreneurship programme. UR Services Pvt. Ltd. helps the students to be prepared for the challenges in the industry.</p>
                                 <button class="tmu-btn btn-3 py-2 px-3 d-block mx-auto my-0 d-flex align-items-center tmu-fs-14" onclick="showCollabModal()">Read More <i class="bi bi-chevron-down ps-2"></i></button>
                             </div>
                         </div>
                     </div>
 
                     <div class="oc-item text-start">
-                        <div class="card custom-card">
-                            <img class="custom-card-img" src="https://www.tmu.ac.in/img/collaborative/whizhacklogo.jpg" alt="TMU collaboration with whizhack">
+                        <div class="card collab-card">
+                            <img class="collab-card-img" src="https://www.tmu.ac.in/img/collaborative/whizhacklogo.jpg" alt="TMU collaboration with whizhack">
                             <div class="card-body">
-                                <h3 class="custom-card-title">MBA Cyber Security (in association with Whizhack Technologies Pvt Ltd)</h3>
-                                <p class="custom-card-text">Welcome to our MBA in Cyber Security program, offered in collaboration with Whizhack Technologies Pvt Ltd. In this cutting-edge program, we empower aspiring professionals with the knowledge and skills required to navigate the complex landscape of cybersecurity.</p>
+                                <h3 class="collab-card-title">MBA Cyber Security (in association with Whizhack Technologies Pvt Ltd)</h3>
+                                <p class="collab-card-text">Welcome to our MBA in Cyber Security program, offered in collaboration with Whizhack Technologies Pvt Ltd. In this cutting-edge program, we empower aspiring professionals with the knowledge and skills required to navigate the complex landscape of cybersecurity.</p>
                                 <button class="tmu-btn btn-3 py-2 px-3 d-block mx-auto my-0 d-flex align-items-center tmu-fs-14" onclick="showCollabModal()">Read More <i class="bi bi-chevron-down ps-2"></i></button>
                             </div>
                         </div>
                     </div>
 
                     <div class="oc-item text-start">
-                        <div class="card custom-card">
-                            <img class="custom-card-img" src="https://www.tmu.ac.in/img/collaborative/BSE-India.jpg" alt="TMU collaboration with BSE india">
+                        <div class="card collab-card">
+                            <img class="collab-card-img" src="https://www.tmu.ac.in/img/collaborative/BSE-India.jpg" alt="TMU collaboration with BSE india">
                             <div class="card-body">
-                                <h3 class="custom-card-title">B.Com. (Hons.) - Financial Markets</h3>
-                                <p class="custom-card-text">As part of a partnership with the Bombay Stock Exchange (BSE), Teerthanker Mahaveer University is offering a highly in-demand (B. Com) Honors programme with a focus on Financial Markets.</p>
+                                <h3 class="collab-card-title">B.Com. (Hons.) - Financial Markets</h3>
+                                <p class="collab-card-text">As part of a partnership with the Bombay Stock Exchange (BSE), Teerthanker Mahaveer University is offering a highly in-demand (B. Com) Honors programme with a focus on Financial Markets.</p>
                                 <button class="tmu-btn btn-3 py-2 px-3 d-block mx-auto my-0 d-flex align-items-center tmu-fs-14" onclick="showCollabModal()">Read More <i class="bi bi-chevron-down ps-2"></i></button>
                             </div>
                         </div>
                     </div>
 
                     <div class="oc-item text-start">
-                        <div class="card custom-card">
-                            <img class="custom-card-img" src="https://www.tmu.ac.in/img/collaborative/safeducate.jpg" alt="TMU collaboration with safeducate">
+                        <div class="card collab-card">
+                            <img class="collab-card-img" src="https://www.tmu.ac.in/img/collaborative/safeducate.jpg" alt="TMU collaboration with safeducate">
                             <div class="card-body">
-                                <h3 class="custom-card-title">MBA (Supply Chain Management & Logistics)</h3>
-                                <p class="custom-card-text">This collaborative program is a joint venture program with Safexpress that provides specialisation in Supply Chain Management and Logistics.</p>
+                                <h3 class="collab-card-title">MBA (Supply Chain Management & Logistics)</h3>
+                                <p class="collab-card-text">This collaborative program is a joint venture program with Safexpress that provides specialisation in Supply Chain Management and Logistics.</p>
                                 <button class="tmu-btn btn-3 py-2 px-3 d-block mx-auto my-0 d-flex align-items-center tmu-fs-14" onclick="showCollabModal()">Read More <i class="bi bi-chevron-down ps-2"></i></button>
                             </div>
                         </div>
                     </div>
 
                     <div class="oc-item text-start">
-                        <div class="card custom-card">
-                            <img class="custom-card-img" src="https://www.tmu.ac.in/img/collaborative/EPCH logo.png" alt="TMU collaboration with epch">
+                        <div class="card collab-card">
+                            <img class="collab-card-img" src="https://www.tmu.ac.in/img/collaborative/EPCH logo.png" alt="TMU collaboration with epch">
                             <div class="card-body">
-                                <h3 class="custom-card-title">MBA (HANDICRAFTS EXPORT MANAGEMENT)</h3>
-                                <p class="custom-card-text">This collaborative program is a joint venture program with the Export Promotion Council for Handicrafts (EPCH) that provides specialisation in Handicraft Export Management.</p>
+                                <h3 class="collab-card-title">MBA (HANDICRAFTS EXPORT MANAGEMENT)</h3>
+                                <p class="collab-card-text">This collaborative program is a joint venture program with the Export Promotion Council for Handicrafts (EPCH) that provides specialisation in Handicraft Export Management.</p>
                                 <button class="tmu-btn btn-3 py-2 px-3 d-block mx-auto my-0 d-flex align-items-center tmu-fs-14" onclick="showCollabModal()">Read More <i class="bi bi-chevron-down ps-2"></i></button>
                             </div>
                         </div>
@@ -461,11 +357,11 @@ include 'head.php';
             <div class="overlay" onclick="closeCollabModal()"></div>
             <div class="tmu-modal-box">
                 <div class="close-btn" onclick="closeCollabModal()">x</div>
-                <div class="card custom-card">
-                    <img class="custom-card-img" src="https://www.tmu.ac.in/img/collaborative/EPCH logo.png" alt="TMU collaboration with epch">
+                <div class="card collab-card">
+                    <img class="collab-card-img" src="https://www.tmu.ac.in/img/collaborative/EPCH logo.png" alt="TMU collaboration with epch">
                     <div class="card-body">
-                        <h3 class="custom-card-title">MBA (HANDICRAFTS EXPORT MANAGEMENT)</h3>
-                        <p class="custom-card-text">
+                        <h3 class="collab-card-title">MBA (HANDICRAFTS EXPORT MANAGEMENT)</h3>
+                        <p class="collab-card-text">
                             This collaborative program is a joint venture program with the Export Promotion Council for Handicrafts (EPCH) that provides specialisation in Handicraft Export Management.
                         </p>
                     </div>

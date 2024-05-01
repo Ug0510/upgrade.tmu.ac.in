@@ -18,7 +18,7 @@ margin:0 0 5px 0;
   font-weight: 700;
 }
 
-
+ 
 .fancy-title {
   --cnvs-fancy-title-bg: #fff;
   --cnvs-fancy-title-padding: 0.75rem;
