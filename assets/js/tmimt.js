@@ -4,13 +4,13 @@
 function showCollabModal() {
     const body = document.body;
     const modal = document.getElementById('collabModal');
-    const clickedCard = event.target.closest('.custom-card');
-    const cardImg = clickedCard.querySelector('.custom-card-img');
-    const cardTitle = clickedCard.querySelector('.custom-card-title').textContent;
-    const cardText = clickedCard.querySelector('.custom-card-text').textContent;
-    const modalImg = modal.querySelector('.custom-card-img');
-    const modalTitle = modal.querySelector('.custom-card-title');
-    const modalText = modal.querySelector('.custom-card-text');
+    const clickedCard = event.target.closest('.collab-card');
+    const cardImg = clickedCard.querySelector('.collab-card-img');
+    const cardTitle = clickedCard.querySelector('.collab-card-title').textContent;
+    const cardText = clickedCard.querySelector('.collab-card-text').textContent;
+    const modalImg = modal.querySelector('.collab-card-img');
+    const modalTitle = modal.querySelector('.collab-card-title');
+    const modalText = modal.querySelector('.collab-card-text');
 
     if (modal && clickedCard) {
         modalImg.src = cardImg.src;
