@@ -7,13 +7,7 @@ include 'head.php';
 ?>
 
 <style>
-.table > :not(caption) > * > * {
-  padding:0.5rem !important;
-  color: var(--bs-table-color-state, var(--bs-table-color-type, var(--bs-table-color)));
-  background-color: var(--bs-table-bg);
-  border-bottom-width: var(--bs-border-width);
-  box-shadow: inset 0 0 0 9999px var(--bs-table-bg-state, var(--bs-table-bg-type, var(--bs-table-accent-bg)));
-}
+
 </style>
 
 				<div class="col-12 col-md-9 col-lg-9 mt-3 mt-sm-0 pt-5 ">

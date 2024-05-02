@@ -86,13 +86,7 @@ p {
   margin-bottom:15px!important; 
 }
 
-.table > :not(caption) > * > * {
-  padding:0.5rem !important;
-  color: var(--bs-table-color-state, var(--bs-table-color-type, var(--bs-table-color)));
-  background-color: var(--bs-table-bg);
-  border-bottom-width: var(--bs-border-width);
-  box-shadow: inset 0 0 0 9999px var(--bs-table-bg-state, var(--bs-table-bg-type, var(--bs-table-accent-bg)));
-}
+
 .fa-solid.fa-file-pdf:hover {
 color: #001055;
 justify-content:center;
@@ -1119,7 +1113,7 @@ justify-content:center;
           <div class="team card shadow-sm border-0 h-shadow h-translatey-sm all-ts rounded-4 overflow-hidden">
             <div class="team-image">
               <img
-                src="https://www.tmu.ac.in/img/facilities/institutional…s/pwd_facilities/disabled_friendly_washroom1.jpeg"
+                src="https://www.tmu.ac.in/img/facilities/institutionalï¿½s/pwd_facilities/disabled_friendly_washroom1.jpeg"
                 alt="" style="height: 230px;">
             </div>
             <div class="team-desc p-2">
@@ -1135,7 +1129,7 @@ justify-content:center;
           <div class="team card shadow-sm border-0 h-shadow h-translatey-sm all-ts rounded-4 overflow-hidden">
             <div class="team-image">
               <img
-                src="https://www.tmu.ac.in/img/facilities/institutional…s/pwd_facilities/disabled_friendly_washroom2.jpeg"
+                src="https://www.tmu.ac.in/img/facilities/institutionalï¿½s/pwd_facilities/disabled_friendly_washroom2.jpeg"
                 alt="" style="height: 230px;">
             </div>
             <div class="team-desc p-2">
