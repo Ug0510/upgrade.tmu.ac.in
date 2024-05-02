@@ -2777,3 +2777,46 @@ body {
     }
   }
   /* CSS for Director's Desk end*/
+
+
+
+  /* ---------------------------------------
+  CSS for IIC Pages start
+  ------------------------------------------ */
+
+  /* Page Heading CSS start */
+.iic-page-heading{ 
+    font-size:2.4vmax;
+}
+
+@media screen and (max-width:480px) {
+    .iic-page-heading{
+    font-size:24px;
+}
+}
+/* Page Heading CSS start */
+
+
+/* CSS to fix table design on iic activities calendar page */
+.table> :not(caption)>*>* {
+    padding: 0.5rem !important;
+    color: var(--bs-table-color-state, var(--bs-table-color-type, var(--bs-table-color)));
+    background-color: var(--bs-table-bg);
+    border-bottom-width: var(--bs-border-width);
+    box-shadow: inset 0 0 0 9999px var(--bs-table-bg-state, var(--bs-table-bg-type, var(--bs-table-accent-bg)));
+}
+/* CSS to fix table design on iic activities calendar page end*/
+
+
+
+/* CSS Class to make width 50% for small screen only  */
+@media screen and (min-width:786px) {
+    .w-md-50 {
+        width: 50%;
+    }
+}
+
+
+ /* ---------------------------------------
+  CSS for IIC Pages end
+  ------------------------------------------ */
