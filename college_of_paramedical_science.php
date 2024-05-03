@@ -21,7 +21,7 @@ include 'head.php';
                     <div class="pe-lg-4 position-relative p-0">
                         <div style="z-index: 2;">
                             <!-- <iframe width="560" height="315" src="https://www.youtube.com/embed/iXHRmCyHszY?si=BcZ5NOfT-V8ECc6z" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen style="z-index: 2; margin:0;"></iframe> -->
-                            <img src="/assets/image/tmimt-banner.png" alt="" class="p-0 m-0">
+                            <img src="https://upgrade.tmu.ac.in/assets/image/tmimt-banner.png" alt="" class="p-0 m-0">
                         </div>
                     </div>
                 </div>
