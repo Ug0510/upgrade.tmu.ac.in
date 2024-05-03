@@ -153,7 +153,7 @@ justify-content:center;
           <div class="team card shadow-sm border-0 h-shadow h-translatey-sm all-ts rounded-4 overflow-hidden">
             <div class="team-image mt-1 mb-1">
               <img src="https://www.tmu.ac.in/img/facilities/institutional_values/centre_jain_studies.jpeg" alt=""
-                style="height;250px;">
+                style="height:250px;">
             </div>
             <div class="team-desc p-2">
               <div class="team-title pt-0">
@@ -403,7 +403,7 @@ justify-content:center;
           <div class="team card shadow-sm border-0 h-shadow h-translatey-sm all-ts rounded-4 overflow-hidden">
             <div class="team-image">
               <img src="	https://www.tmu.ac.in/img/facilities/institutional_values/spic_macay1.jpg" alt=""
-                style="height;250px;">
+                style="height:250px;">
             </div>
             <div class="team-desc p-2">
               <div class="team-title pt-0">
@@ -418,7 +418,7 @@ justify-content:center;
           <div class="team card shadow-sm border-0 h-shadow h-translatey-sm all-ts rounded-4 overflow-hidden">
             <div class="team-image">
               <img src="https://www.tmu.ac.in/img/facilities/institutional_values/spic_macay2.jpg" alt=""
-                style="height;250px;">
+                style="height:250px;">
             </div>
             <div class="team-desc p-2">
               <div class="team-title pt-0">
@@ -433,7 +433,7 @@ justify-content:center;
           <div class="team card shadow-sm border-0 h-shadow h-translatey-sm all-ts rounded-4 overflow-hidden">
             <div class="team-image">
               <img src="https://www.tmu.ac.in/img/facilities/institutional_values/spic_macay3.jpg" alt=""
-                style="height;250px;">
+                style="height:250px;">
             </div>
             <div class="team-desc p-2">
               <div class="team-title pt-0">
