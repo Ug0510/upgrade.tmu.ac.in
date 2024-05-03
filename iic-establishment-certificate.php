@@ -9,7 +9,7 @@ include 'sidebar/iic_sidebar.php';
                 <div class="col-12 col-md-9 col-lg-9 mt-3 mt-sm-0 pt-5 ">
 
                     <div class="row mx-0">
-                        <h2 class=" text-center tmu-text-primary iic-page-heading">IIC Establishment <span>Certificate</span></h2>
+                        <h2 class=" text-center tmu-text-primary tmu-page-heading">IIC Establishment <span>Certificate</span></h2>
 
                         <div class="container">
                             <div class="row">
