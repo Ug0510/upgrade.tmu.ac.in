@@ -1,0 +1,723 @@
+/* Accordian Styleing Start Here */
+.careers-accordion {
+		background-color: white;
+		color: #000;
+		cursor: pointer;
+		padding: 5px;
+		width: 100%;
+		text-align: left;
+		border: none;
+		outline: none;
+		transition: background-color 0.3s ease;
+		font-size: 18px;
+		font-weight: bold;
+		display: flex;
+		align-items: center;
+		justify-content: space-between;
+	}
+
+	.careers-accordion:hover {
+		background-color: #001055;
+		color: #fff;
+	}
+
+	.panel {
+		padding: 0 18px;
+		display: none;
+		overflow: hidden;
+		border-top: 1px solid #ddd;
+		overflow-y: auto;
+	}
+
+	.panel p {
+		margin-top: 20px;
+	}
+
+	.panel.active {
+		display: block;
+	}
+
+	.icon {
+		font-size: 35px;
+		font-weight: 400;
+		margin-left: 5px;
+	}
+
+	.horizontal-line {
+		border-top: 1px solid #4f4f4f;
+		margin: 0;
+	}
+
+	.clicked {
+		background-color: #001055;
+		color: #fff;
+	}
+
+	.text-color {
+		color: #212529;
+		line-height: 18px;
+		font-size: 12px;
+		font-weight: 400;
+		text-align: justify;
+	}
+
+/* Accordian Styling Ends */
+
+
+/* Paragraph Styling Starts Here */
+/* . {
+  margin-bottom:13px!important; 
+  font-size: 14px;
+  text-align: justify;
+} */
+/* Paragraph Styling Ends */
+
+/* table Styling Starts Here */
+.table > :not(caption) > * > * {
+    padding:0.5rem !important;
+    color: var(--bs-table-color-state, var(--bs-table-color-type, var(--bs-table-color)));
+    background-color: var(--bs-table-bg);
+    border-bottom-width: var(--bs-border-width);
+    box-shadow: inset 0 0 0 9999px var(--bs-table-bg-state, var(--bs-table-bg-type, var(--bs-table-accent-bg)));
+  }
+
+  tbody{
+	font-size:14px;
+}
+
+thead th{
+    /* color:#fff!important;
+    background-color:#001055!important; */
+	text-align:left;
+	font-size:14px;
+}
+
+/* table Styling Ends Here */
+
+
+/* Ordered and unordered list Styling Starts Here */
+.m-ol-list{
+text-align:justify;
+list-style-type: disc!important;
+}
+
+.m-ol-list li::marker{
+    font-size: 1.6vmax;
+    color:#FF7A00;
+    font-weight: 700;
+  
+ }
+
+.m-ol-list b{
+    /* color:#FF7A00; */
+    color:#001055;
+    font-size: 1.4vmax;
+ }
+
+ ul {
+    margin-left:20px;
+    font-size:14px;
+ }
+
+ /* Ordered and unordered list Styling Ends Here */
+
+ /* BlockQuotes Styling starts Here */
+ .component{
+    font-family: 'poppins';
+    width: 750px;
+    margin:0 auto;
+    padding: 3rem;
+  }
+  
+  .component blockquote.quote {
+      position: relative; 
+      text-align: center;
+      padding: 1rem 1.2rem;
+      width: 80%;  /* create space for the quotes */
+      color: #484748;
+      margin: 1rem auto 2rem;
+  }
+  .component blockquote.EN {
+      background:
+      linear-gradient(to right, #039be5 4px, transparent 4px) 0 100%,
+      linear-gradient(to left, #039be5 4px, transparent 4px) 100% 0,
+      linear-gradient(to bottom, #039be5 4px, transparent 4px) 100% 0,
+      linear-gradient(to top, #039be5 4px, transparent 4px) 0 100%;
+      background-repeat: no-repeat;
+      background-size: 20px 20px;
+  }
+  
+  .component blockquote.DE {
+      background:
+      linear-gradient(to right, #039be5 4px, transparent 4px) 0% 0%,
+      linear-gradient(to bottom, #039be5 4px, transparent 4px) 0% 0%,
+      linear-gradient(to left, #039be5 4px, transparent 4px) 100% 100%,
+      linear-gradient(to top, #039be5 4px, transparent 4px) 100% 100%;
+      background-repeat: no-repeat;
+      background-size: 20px 20px;
+  }
+      
+  
+  /* -- create the quotation marks -- */
+  .component blockquote.quote:before,
+  .component blockquote.quote:after{
+      font-family: FontAwesome;
+      position: absolute;
+      color: #039be5;
+      font-size: 34px;
+  }
+  
+  .component blockquote.EN:before{
+      content: "\f10d";
+      top: -12px;
+      margin-right: -20px;
+      right: 100%;
+  }
+  .component blockquote.EN:after{
+      content: "\f10e";
+      margin-left: -20px;
+      left: 100%;  
+      top: auto;
+      bottom: -20px;
+  }
+  .component blockquote.DE:before{
+      content: "\f10e";
+      margin-right: -20px;
+      bottom: -20px;
+      right: 100%;
+  }
+  .component blockquote.DE:after{
+      content: "\f10d";
+      margin-left: -20px;
+      left: 100%;  
+      top: -20px;
+      bottom: auto;
+  }
+  
+  .zitat1 {
+    position: relative;
+    font-family: 'poppins';
+    font-size: 24px;
+    line-height: 1.5em;
+  }
+  .zitat1 cite {
+    font-family: 'poppins';
+    font-size: 0.6em;
+    font-weight: 700;
+    color: #001055;
+    float: right;
+  }
+  .zitat1 cite:before {
+    content: '\2015'' ';
+  }
+  .zitat1:after {
+    content: '\201d';
+    position: absolute;
+    top: 0.28em;
+    right: 0px;
+    font-size: 6em;
+    font-style: italic;
+    color: #bdbec0;
+    z-index: -1;
+  }
+
+/* BlockQuotes Styling starts Here */
+
+#inform{
+    text-align: center;
+    font-weight: 500;
+    line-height: 1.4;
+    margin: 10px;
+    border: 5px solid #0010551e;
+}
+
+/* Blockquotes Ends here */
+
+/*hoverimage Styling starts Here */
+.entry-image {
+    position: relative;
+    overflow: hidden;
+}
+
+.entry-image img {
+    transition: transform 0.3s ease;
+}
+
+.entry-image:hover img {
+    transform: scale(1.1);
+}
+.pagination{
+    margin-top: 2rem;
+    align-self: center;
+}
+
+/* hoverimage ends here */
+
+/*Directors Message Styling starts Here */
+.person-details {
+    /* border:2px solid #A07046; */
+    border-top: none;
+    padding-left: 0rem;
+    margin-top: 0;
+    line-height: 2.3rem;
+    color: #001055;
+    font-weight: 600;
+    font-size: 1.2rem;
+    text-transform: capitalize;
+    float: left;
+    letter-spacing: 1.2px;
+    /* margin-top: -4rem; */
+    padding-bottom: 2rem;
+    font-family: 'Lucida Sans';
+}
+
+.person-details span {
+    color: #FF7900;
+    font-family: 'Poppins', sans-serif;
+}
+
+.person-quote {
+    text-align: justify;
+    font-size: 14px;
+    /* padding-top: 2rem; */
+}
+
+
+.person-quote i {
+    color: #555;
+    font-size: 2.5rem;
+    margin-right: 0rem;
+    color: #FF7900;
+    position: absolute;
+    top: 0rem;
+    left: 0rem;
+}
+
+
+.highlight {
+background-color: transparent ;
+color: #FF7900;
+font-weight: 600;
+}
+
+@media screen and (max-width:786px) {
+    .person-quote i {
+      color: #555;
+      font-size: 2.5rem;
+      margin-right: 0rem;
+      color: #FF7900;
+      position: absolute;
+      top: 0rem;
+      left: 1rem;
+    }
+}
+
+/*Directors Message Styling Ends Here */
+
+/* TMU Button Styling Start here */
+.tmu-btn {
+    border: none;
+    padding: 12px 24px;
+    border-radius: 5px;
+    font-size: 16px;
+    font-weight: 500;
+}
+
+.tmu-btn.btn-1 {
+    border: 1px solid #FF7900;
+    background-color: #FF7900;
+    color: white;
+}
+
+.tmu-btn.btn-2 {
+    border: 1px solid #001055;
+    background-color: transparent;
+    color: #001055;
+}
+
+.tmu-btn:hover {
+    cursor: pointer;
+}
+
+.tmu-btn.btn-1:hover,
+.tmu-btn.btn-2:hover {
+    border: 1px solid #FF7900;
+    background-color: white;
+    /* background-color: #dd6900;
+border:1px solid #dd6900; */
+    color: #FF7900;
+}
+
+.tmu-btn.btn-2:hover {
+  border: 1px solid #001055;
+  background-color: #0010551e;
+  color: #001055;
+  background-color: #001055;
+  color: white;
+}
+
+.tmu-btn.btn-3:hover {
+    box-shadow: 3px 3px 7px 2px rgba(0, 0, 0, 0.1);
+}
+
+/* TMU Button Styling Ends here */
+
+
+/* Load More Button Styling */
+#load-more-btn {
+    width: auto; 
+    padding: 6px 12px; 
+    font-size: 12px; 
+    margin:0 auto; 
+    display: block;
+}
+/* Ends Here */
+
+
+/* short course programmes */
+#cse-tag{
+    font-size:18px; 
+    font-weight:bold;
+    line-height:1.4;
+    font-family:'poppins';
+    margin:0 0 15px 0;
+}
+
+.courses .course-item {
+    border-radius: 5px;
+    border: 1px solid #eef0ef;
+  }
+  
+  .courses .course-content {
+    padding: 15px;
+  }
+  
+  .courses .course-content h3 {
+    font-weight: 700;
+    font-size: 20px;
+    line-height:15px;
+    margin-bottom:15px;
+  }
+  
+  .courses .course-content h3 a {
+    color: #37423b;
+    transition: 0.3s;
+  }
+  
+  .courses .course-content p {
+    font-size: 14px;
+    color: #777777;
+  }
+  
+  .courses .course-content h4 {
+    font-size: 14px;
+    background: #FF7A00;
+    padding: 7px 14px;
+    color: #fff;
+    margin: 0;
+    border-radius:10px;
+  }
+
+section {
+  overflow: hidden;
+  font-family:'poppins';
+}
+
+.section-bg {
+  background-color: #f6f7f6;
+}
+
+.section-title {
+  padding-bottom: 40px;
+}
+
+.section-title h2 {
+  font-size: 14px;
+  font-weight: 500;
+  padding: 0;
+  line-height: 1px;
+  margin: 0 0 5px 0;
+  letter-spacing: 2px;
+  text-transform: uppercase;
+  color: #aaaaaa;
+  font-family: "Poppins", sans-serif;
+}
+
+.section-title h2::after {
+  content: "";
+  width: 120px;
+  height: 1px;
+  display: inline-block;
+  background: #FF7A00;
+  margin: 4px 10px;
+}
+
+.section-title p {
+  margin: 0;
+  margin: 0;
+  font-size: 36px;
+  font-weight: 700;
+  text-transform: uppercase;
+  font-family: "Poppins", sans-serif;
+  color: #37423b;
+}    
+/* ends here */
+
+
+/* Brochure, Magazine, and Events News Styling starts Here */
+.entry-image {
+    position: relative;
+   
+}
+
+.entry-image::after {
+    content: '';
+    position: absolute;
+    right: 0;
+    bottom: 0;
+    width: 100%; /* Ensure it spans the full width */
+    height: 100%; /* Ensure it spans the full height */
+    box-sizing: border-box;
+}
+
+.entry {
+    margin-bottom: 0.55rem;
+}
+
+.entry-title h2 , .entry-title .h2 {
+    color: #000;
+    font-size: 1.022rem!important;
+    font-family:'poppins';
+    
+}
+
+.entry-title h2 {
+    /* text-wrap: nowrap;  */
+    overflow: hidden; 
+    /* text-overflow: ellipsis;  */
+    max-width: 100%; 
+    display: block; 
+}
+
+
+.entry-meta{
+    margin-top:-5px;
+}
+
+@media (min-width: 768px) and (max-width: 1024px) {
+    .entry.event {
+        flex: 0 0 50%; 
+        max-width: 50%; 
+    }
+}
+
+.badge{
+    background-color:#0010551e!important;
+    color:#001055!important;
+   
+}
+/* ends Here */
+
+/* Contact Us Form Starts here */
+.contact .info-container {
+  background-color: var(--color-primary);
+  height: 100%;
+  padding: 20px;
+  border-radius: 10px 0 0 10px;
+  box-shadow: 0px 2px 25px rgba(0, 0, 0, 0.1);
+}
+
+.contact .info-item {
+  width: 100%;
+  background-color: #FF7A00;
+  color: #fff;
+  margin-bottom: 20px;
+  padding: 20px;
+  border-radius: 10px;
+  color: #fff;
+}
+
+.contact .info-item:last-child {
+  margin-bottom: 0;
+}
+
+.contact .info-item i {
+    font-size: 20px;
+    color: #fff;
+    float: left;
+    width: 44px;
+    height: 44px;
+    background-color: rgba(255, 255, 255, 0.2);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    border-radius: 50px;
+    transition: all 0.3s ease-in-out;
+    margin-right: 15px;
+  }
+
+  .contact .info-item h4 {
+    padding: 0;
+    font-size: 20px;
+    font-weight: 600;
+    margin-bottom: 5px;
+  }
+
+  .contact .info-item p {
+    padding: 0;
+    margin-bottom: 0;
+    font-size: 14px;
+  }
+
+  .contact .info-item:hover i {
+    background: #fff;
+    color: #000;
+  }
+
+  .contact .php-email-form {
+    width: 100%;
+    height: 100%;
+    background: #fff;
+    box-shadow: 0px 2px 25px rgba(0, 0, 0, 0.1);
+    padding: 30px;
+    border-radius: 0 10px 10px 0;
+  }
+
+  .contact .php-email-form .form-group {
+    padding-bottom: 8px;
+  }
+
+  .contact .php-email-form .error-message {
+    display: none;
+    color: #fff;
+    background: #df1529;
+    text-align: left;
+    padding: 15px;
+    font-weight: 600;
+  }
+
+  .contact .php-email-form .error-message br+br {
+    margin-top: 25px;
+  }
+
+  .contact .php-email-form .sent-message {
+    display: none;
+    color: #fff;
+    background: #059652;
+    text-align: center;
+    padding: 15px;
+    font-weight: 600;
+  }
+
+  .contact .php-email-form .loading {
+    display: none;
+    background: #fff;
+    text-align: center;
+    padding: 15px;
+  }
+
+  .contact .php-email-form .loading:before {
+    content: "";
+    display: inline-block;
+    border-radius: 50%;
+    width: 24px;
+    height: 24px;
+    margin: 0 10px -6px 0;
+    border: 3px solid #059652;
+    border-top-color: #fff;
+    animation: animate-loading 1s linear infinite;
+  }
+
+  .contact .php-email-form input,
+  .contact .php-email-form textarea {
+    border-radius: 0;
+    box-shadow: none;
+    font-size: 14px;
+  }
+
+  .contact .php-email-form input[type=text],
+  .contact .php-email-form input[type=email],
+  .contact .php-email-form textarea {
+    padding: 12px 15px;
+  }
+
+  .contact .php-email-form input[type=text]:focus,
+  .contact .php-email-form input[type=email]:focus,
+  .contact .php-email-form textarea:focus {
+    border-color: var(--color-primary);
+  }
+
+  .contact .php-email-form textarea {
+    padding: 10px 12px;
+  }
+
+  .contact .php-email-form button[type=submit] {
+    background: #001055;
+    border: 0;
+    padding: 14px 45px;
+    color: #fff;
+    transition: 0.4s;
+    border-radius: 50px;
+  }
+
+  .contact .php-email-form button[type=submit]:hover {
+    background: #ff7A00;
+  }
+
+  @keyframes animate-loading {
+    0% {
+      transform: rotate(0deg);
+    }
+
+    100% {
+      transform: rotate(360deg);
+    }
+  }
+/* Ends Here */
+
+/* Section Headings styling Start Here */
+.tmu-text-primary>span:not(:first-child) {
+  color: #FF7900;
+}
+.tmu-text-primary span:nth-child(1) {
+  color: #001055 !important;
+}
+.tmu-text-primary.dark>span:not(:first-child) {
+  color: #FFF;
+}
+
+.tmu-text-primary.dark span:nth-child(1) {
+  color: #FF7900 !important;
+}
+
+/* Ends Here */
+
+
+/* Magazine, Guest lectures, News styling starts here */
+.entry-image {
+    position: relative;
+    overflow: hidden;
+}
+
+.entry-image img {
+  transition: transform 0.3s ease;
+}
+
+.entry-image:hover img {
+  transform: scale(1.1);
+}
+
+.pagination{
+	margin-top: 2rem;
+	align-self: center;
+}
+
+/* Magazine, Guest lectures, News styling Ends here */
+
+.fas.fa-heart:hover {
+  color: #f44336 !important;
+}
+
+.fas.fa-share-alt:hover {
+  color: #0d47a1 !important;
+}
