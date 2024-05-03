@@ -22,7 +22,7 @@
  include 'sidebar/naac_sidebar.php';
 ?>
 
-						<div class="col-12 col-md-9 col-lg-9 mt-3 mt-sm-0 pt-5">
+						<div class="col-12 col-md-9 mt-3 mt-sm-0 pt-5">
 
 							<div class="row mx-0">
 								<h2 class=" text-center" style="color:#001055;

@@ -2,119 +2,6 @@
 include 'head.php';
 ?>
 
-<style>
-	.big-card {
-		width: 70vw;
-		box-shadow: 2px 2px 10px 2px rgba(0, 0, 0, 0.3);
-		height: auto;
-		margin: auto;
-		position: relative;
-		padding-bottom: 50px;
-	}
-
-	.big-card-heading {
-		width: 95%;
-		height: 4rem;
-
-		position: absolute;
-		top: 0;
-		left: 50%;
-		transform: translate(-50%, -50%);
-		background-color: #001055;
-		display: flex;
-		justify-content: center;
-		align-items: center;
-	}
-
-	.big-card-heading p {
-		color: white;
-		margin-bottom: 0;
-		font-size: 28px;
-		text-transform: uppercase;
-		font-weight: 500;
-	}
-
-	.big-card .min-text {
-		color: #fe8d00;
-		font-size: 12px;
-		margin: 0;
-		padding: 0;
-		width: fit-content;
-	}
-
-	.big-card .main-text {
-		font-size: 18px;
-		text-align: justify;
-	}
-
-	.m-custom-card {
-		height: 150px;
-		box-shadow: 4px 4px 6px 1px rgba(0, 0, 0, 0.06);
-		display: flex;
-		flex-direction: column;
-		justify-content: center;
-		align-items: center;
-		/* background: linear-gradient(115deg, rgba(251, 215, 134, 0.3), rgba(198, 255, 221, 0.3)); */
-		background-color: rgba(205, 205, 205, 0.2);
-		/* border:1px solid rgba(0, 0, 0, 0.01);  */
-		transition: 0.2s all;
-	}
-
-	.m-custom-card img {
-		width: 20%;
-	}
-
-	.m-custom-card span {
-		text-transform: uppercase;
-		font-size: 12px;
-		margin-top: 20px;
-		width: fit-content;
-		font-weight: 500;
-		text-align: center;
-	}
-
-	.m-custom-card:hover {
-		scale: 0.99;
-		box-shadow: 1px 1px 3px 1px rgba(0, 0, 0, 0.05);
-		cursor: pointer;
-	}
-
-	@media screen and (max-width:992px) {
-		.big-card {
-			width: 90vw;
-		}
-	}
-
-	@media screen and (max-width:480px) {
-		.big-card {
-			width: 90vw;
-		}
-
-		.big-card-heading {
-			width: 85%;
-		}
-
-		.big-card-heading p {
-			font-size: 19px;
-		}
-
-		.big-card .main-text {
-			font-size: 14px;
-		}
-
-		.m-custom-card span {
-			font-size: 15px;
-		}
-	}
-</style>
-
-
-<style>
-	.undernav-locator {
-		font-size: 16px;
-		margin-left: 25px;
-	}
-</style>
 
 <!-- Content
 		============================================= -->
@@ -124,12 +11,11 @@ include 'sidebar/iic_sidebar.php';
 ?>
 
 
-<div class="col-12 col-md-9 col-lg-9 mt-3 mt-sm-0 pt-5">
+<div class="col-12 col-md-9 mt-3 mt-sm-0 pt-5">
 
 	<div class="row mx-0">
-		<h2 class=" text-center d-block d-md-none" style="color:#001055; text-transform: capitalize; font-weight:700!important; font-size:24px">Welcome to <span>TMU IIC</span></h2>
-		<h2 class=" text-center d-none d-md-block" style="color:#001055; text-transform: capitalize; font-weight:700!important; font-size:2.4vmax">Welcome to <span>TMU IIC</span></h2>
-
+		<h2 class="tmu-text-primary tmu-page-heading"><span> Welcome to</span> <span>TMU IIC</span></h2>
+		
 		<p>
 			Ministry of Education (MoE), Govt. of India has established ‘MoE’s Innovation Cell (MIC)’ to systematically foster the culture of Innovation amongst all Higher Education Institutions (HEIs). The primary mandate of MIC is to encourage, inspire and nurture young students by supporting them to work with new ideas and transform them into prototypes while they are in formative years.
 		</p>
@@ -194,9 +80,8 @@ include 'sidebar/iic_sidebar.php';
 
 		<!-- Certificates section -->
 		<div class="container">
-			<h2 class=" text-center mt-5 mb-0 d-none d-md-block" style="color:#001055; text-transform: capitalize; font-weight:700!important; font-size:2.4vmax">Certification <span>Gallery</span></h2>
-			<h2 class=" text-center mt-5 mb-3 d-block d-md-none" style="color:#001055; text-transform: capitalize; font-weight:700!important; font-size:24px">Certification <span>Gallery</span></h2>
-
+			<h2 class="mt-3 mt-lg-5 mb-lg-0 tmu-text-primary text-center" ><span>Certification </span><span>Gallery</span></h2>
+			
 			<div class="row d-none d-md-flex">
 				<!-- <h2 class="mb-0">Certification Gallery</h2> -->
 
@@ -248,11 +133,11 @@ include 'sidebar/iic_sidebar.php';
 				<div class="row justify-content-between col-mb-50">
 					<div class="col-lg-2 pb-0">
 						<!-- <h4 class="color mb-2 fw-normal">Convocation <span style="color:#001055;">News</span></h4> -->
-						<h2 class=" text-center mt-5 mb-0 d-none d-md-block" style="color:#001055; text-transform: capitalize; font-weight:700!important; font-size:2.4vmax">IIC <span>News</span></h2>
-						<h2 class=" text-center mt-4 mb-3 pb-0 d-block d-md-none" style="color:#001055; text-transform: capitalize; font-weight:700!important; font-size:24px">IIC <span>News</span></h2>
-
+						<h2 class="tmu-text-primary mt-3 text-center" > <span>IIC </span><span>News</span></h2>
+						
 						<!-- <p class="font-primary fw-light text-black">Interactively seize bricks-and-clicks channels before empowered users.</p> -->
-						<a href="/block-content-blog.html" class="button button-dark bg-dark bg-opacity-10 text-dark h-bg-color m-0 px-4 py-2 d-block mx-auto mx-md-1 d-none d-md-block">View all Posts</a>
+						<!-- <a href="/block-content-blog.html" class="button button-dark bg-dark bg-opacity-10 text-dark h-bg-color m-0 px-4 py-2 d-block mx-auto mx-md-1 d-none d-md-block">View all Posts</a> -->
+						<a href="/block-content-blog.html" class="tmu-btn btn-1 d-none d-md-block py-2 mb-3 w-fit-content mx-auto">View all Post</a>
 					</div>
 
 					<div class="col-lg-9">
@@ -331,8 +216,8 @@ include 'sidebar/iic_sidebar.php';
 							</div>
 						</div>
 
-						<a href="https://www.tmu.ac.in/news/guest-lecture-on-cutting-edge-instrumentation-in-forensic-science" class="button d-block d-md-none button-dark bg-dark bg-opacity-10 text-dark h-bg-color m-0 px-4 py-2 d-block mx-auto mx-md-1 mt-4">View all Posts</a>
-
+						<!-- <a href="https://www.tmu.ac.in/news/guest-lecture-on-cutting-edge-instrumentation-in-forensic-science" class="button d-block d-md-none button-dark bg-dark bg-opacity-10 text-dark h-bg-color m-0 px-4 py-2 d-block mx-auto mx-md-1 mt-4">View all Posts</a> -->
+						<a href="https://www.tmu.ac.in/news/guest-lecture-on-cutting-edge-instrumentation-in-forensic-science" class="tmu-btn btn-1 d-block d-md-none mt-4"> View all Post</a>
 					</div>
 				</div>
 			</div>

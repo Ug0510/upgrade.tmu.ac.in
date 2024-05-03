@@ -29,7 +29,7 @@ include 'head.php';
  }
 </style>
 
-				<div class="col-12 col-md-9 col-lg-9 mt-3 mt-sm-0 pt-5 ">
+				<div class="col-12 col-md-9 mt-3 mt-sm-0 pt-5 ">
                 <h2 class=" text-center" style="color:#001055;
                           text-transform: capitalize;
                           font-weight:700!important; font-size:2.4vmax">Identified List of Disciplines <span

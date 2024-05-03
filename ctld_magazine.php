@@ -6,7 +6,7 @@ include 'head.php';
     <?php
  include 'sidebar/ctld_sidebar.php';
 ?>
-                <div class="col-12 col-md-9 col-lg-9 mt-3 mt-sm-0 pt-5 ">
+                <div class="col-12 col-md-9 mt-3 mt-sm-0 pt-5 ">
         <div class="box d-none d-sm-block">
             <h3 class="hm" style="text-align: center;">Annual Magazine</h3>
             <div class="container">
