@@ -6,13 +6,7 @@ include 'head.php';
  include 'sidebar/nep_sidebar.php';
 ?>
 <style>
-.table > :not(caption) > * > * {
-  padding:0.5rem !important;
-  color: var(--bs-table-color-state, var(--bs-table-color-type, var(--bs-table-color)));
-  background-color: var(--bs-table-bg);
-  border-bottom-width: var(--bs-border-width);
-  box-shadow: inset 0 0 0 9999px var(--bs-table-bg-state, var(--bs-table-bg-type, var(--bs-table-accent-bg)));
-}
+
 
 h2{
     margin: 0 0 10px 0;

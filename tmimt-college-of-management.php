@@ -3,6 +3,7 @@ include 'head.php';
 ?>
 <link rel="stylesheet" href="./assets/css/tmu-testimonial.css">
 <link rel="stylesheet" href="./assets/css/tmimt.css">
+<link rel="stylesheet" href="./assets/css/college.css">
 
 <!-- Content
 		============================================= -->
@@ -11,7 +12,7 @@ include 'head.php';
         <div class="container-fluid  my-0 px-2">
             <div class="row ps-4">
                 <div class="col-md-6 pt-0 pt-md-4 ps-md-5 mb-4">
-                    <h1 class=" mt-5 mb-5 d-none d-md-block  tmimt-main-heading">Welcome to the <br> <span style="font-weight:700!important;">Best Management</span> College in UP,TMIMT</h1>
+                    <h1 class=" mt-5 mb-5 d-none d-md-block  banner-main-heading">Welcome to the <br> <span style="font-weight:700!important;">Best Management</span> College in UP,TMIMT</h1>
                     <h1 class=" mt-5 mb-3 d-block d-md-none" style="color:#001055; text-transform: capitalize; font-weight:700!important; font-size:24px">Welcome to the <span>Best Management</span> College in UP,TMIMT</h1>
                     <a href="#" class="tmu-btn btn-1 me-4 py-1 px-3 py-xl-2 px-xl-4"> Download Brocher</a>
                     <a href="#" class="tmu-btn btn-2 py-1 px-3 py-xl-2 px-xl-4">Apply Now</a>
@@ -131,7 +132,7 @@ include 'head.php';
 
         <div class="box-container">
             <div class="box">
-                <h1 class="main-heading">Teerthanker Mahaveer Institute of Management and Technology (TMIMT)</h1>
+                <h1 class="college-main-heading">Teerthanker Mahaveer Institute of Management and Technology (TMIMT)</h1>
                 <div class="row">
                     <div class="col-12 px-2 px-md-5">
                         <p style="text-align: justify;">TMIMT is the seed that has grown into a big Banyan tree in the form of Teerthanker Mahaveer University. This top management college, established in 2001, has been contributing to the development of management education, by fostering leadership, nurturing entrepreneurial talent and stimulating research since its inception.</p>
