@@ -8,7 +8,7 @@ include 'sidebar/iic_sidebar.php';
 
                 <div class="col-12 col-md-9 mt-3 mt-sm-0 pt-5 ">
 
-                <h1 class=" text-center tmu-text-primary iic-page-heading fw-bold" ><span> Innovation &</span> <span>Startup Activities</span></h1>
+                <h1 class=" text-center tmu-text-primary tmu-page-heading fw-bold" ><span> Innovation &</span> <span>Startup Activities</span></h1>
 
 
                     <div class="container">

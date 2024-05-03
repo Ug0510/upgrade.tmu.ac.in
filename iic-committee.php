@@ -10,7 +10,7 @@ include 'sidebar/iic_sidebar.php';
                 <div class="col-12 col-md-9 mt-3 mt-sm-0 pt-5">
 
                     <div class="row mx-0">
-                        <h1 class=" text-center tmu-text-primary iic-page-heading fw-bold"><span>Innovation & </span><span>Startup Committee</span></h1>
+                        <h1 class=" text-center tmu-text-primary tmu-page-heading fw-bold"><span>Innovation & </span><span>Startup Committee</span></h1>
                         
                         <div class="container">
                         <div class="table-responsive">
