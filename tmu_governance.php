@@ -104,7 +104,7 @@ justify-content:center;
 	<?php
  include 'sidebar/about_tmu_sidebar.php';
 ?>
-                <div class="col-12 col-md-9 col-lg-9 mt-3 mt-sm-0 pt-5 ">
+                <div class="col-12 col-md-9 mt-3 mt-sm-0 pt-5 ">
                     <div class="col-md-12">
                         <p style="text-align:justify">The Teerthanker Mahaveer University Uttar Pradesh Act, 2008 (U.P. Act No. 30 of 2008) sets the governance model for the university. The prominent bodies entrusted to provide governance include; University Court, Planning Board, Executive Council, Academic Council and Finance Committee. Eminent personalities from academia, industry and social life represent these bodies.</p>
 					</div>
