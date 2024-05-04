@@ -2177,7 +2177,7 @@ body {
 }
 
 /* banner section css end  */
-/* carrer accordian */
+/* #FF7900 */
 .careers-accordion {
     background-color: white;
     color: #000;
@@ -2209,15 +2209,17 @@ body {
     display: none;
     overflow: hidden;
     border-top: 1px solid #ddd;
+    /* max-height: 200px; */
+    /* Added */
+    /* overflow-y: auto; */
+    /* Added */
 }
 
 .panel p {
     margin-top: 5px;
     margin-bottom: 10px;
 }
-.panel>*:first-child{
-    margin-top: 1rem;
-}
+
 .panel.active {
     display: block;
 }
@@ -2879,9 +2881,9 @@ body {
           font-size: 15px;
       }
   }
- /* CSS for making simple card with grey background used in iic end 
- ======= 
-form border fixing css start */
+    /* CSS for making simple card with grey background used in iic end */
+=======
+/* form border fixing css start */
 .contact .php-email-form {
     width: 100%;
     height: 100%;
@@ -2903,15 +2905,3 @@ form border fixing css start */
 }
 /* form border fixing css end */
 
-/* ----------------------------
-CSS for IQAC Pages start
----------------------------- */
-
-/* For overwriting the existing font of template */
-.team-title span {
-    font-family:'poppins'!important;
-  
-  }
-/* ----------------------------
-CSS for IQAC Pages end
----------------------------- */

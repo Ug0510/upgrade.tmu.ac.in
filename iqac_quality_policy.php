@@ -2,16 +2,6 @@
  include 'head.php';
 ?>
 
-<style>
-    
-
-ul{
-    margin-left:20px;
-}
-
-</style>
-
-
 <?php
  include 'sidebar/iqac_sidebar.php';
 ?>
@@ -19,10 +9,7 @@ ul{
 
 						<div class="col-12 col-md-9 mt-3 mt-sm-0 pt-5">
           <div class="row mx-0">
-            <h2 class=" text-center" style="color:#001055;
-                                    text-transform: capitalize;
-                                    font-weight:700!important; font-size:2.4vmax">Quality Policy of<span
-                class="d-block d-sm-inline"> the University </span></h2>
+				<h1 class="tmu-text-primary tmu-page-heading"><span>Quality Policy of</span> <span> the University</span></h1>
 			<div class="container mt-5">
   				<div class="row">
 					

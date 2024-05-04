@@ -2,111 +2,7 @@
  include 'head.php';
 ?>
 
-<style>
-.careers-accordion {
-		background-color: white;
-		color: #000;
-		cursor: pointer;
-		padding: 5px;
-		width: 100%;
-		text-align: left;
-		border: none;
-		outline: none;
-		transition: background-color 0.3s ease;
-		font-size: 18px;
-		font-weight: bold;
-		display: flex;
-		/* Added */
-		align-items: center;
-		/* Added */
-		justify-content: space-between;
-		/* Added */
-	}
 
-	.careers-accordion:hover {
-		background-color: #001055;
-		color: #fff;
-	}
-
-	.panel {
-		padding: 0 18px;
-		display: none;
-		overflow: hidden;
-		border-top: 1px solid #ddd;
-		/* Added */
-		overflow-y: auto;
-		/* Added */
-	}
-
-	.panel p {
-		margin-top: 20px;
-	}
-
-	.panel.active {
-		display: block;
-	}
-
-	.icon {
-		font-size: 35px;
-		font-weight: 400;
-		margin-left: 5px;
-	}
-
-	/* Add style for the horizontal line */
-	.horizontal-line {
-		border-top: 1px solid #4f4f4f;
-		margin: 0;
-	}
-
-	/* Added class for clicked state */
-	.clicked {
-		background-color: #001055;
-		color: #fff;
-	}
-
-	.text-color {
-		color: #212529;
-		line-height: 18px;
-		font-size: 12px;
-		font-weight: 400;
-		text-align: justify;
-	}
-
-h3{
-margin:0 0 2px 0;	
-}
-
-.font-body {
-  font-size:22px;
-  color:#001055;
-  font-weight: 700;
-}
-
-p {
-  margin-bottom:15px!important; 
-}
-
-
-.fa-solid.fa-file-pdf:hover {
-color: #001055;
-justify-content:center;
-}
-.centered-icon {
-    text-align: center;
-}
-.text-middle{
-    color:#001055;
-    text-transform: capitalize; 
-    font-weight:700!important;
-	font-size:2.4vmax;
-    margin:0 0 10px 0;
-    text-align: center;
-}
-
-.vh-75 {
-    height: 0vh !important;
-}
-</style>
 
 <?php
  include 'sidebar/institutional_values_sidebar.php';
@@ -115,10 +11,8 @@ justify-content:center;
         <div class="col-12 col-md-9 mt-3 mt-sm-0 pt-5">
 
           <div class="row mx-0">
-          <h2 class=" text-center" style="color:#001055;
-                          text-transform: capitalize;
-                          font-weight:700!important; font-size:2.4vmax">Persons with Disabilities<span
-                class="d-block d-sm-inline"> (PwD) Facilities</span></h2>
+
+                <h1 class="tmu-text-primary tmu-page-heading"><span>Persons with Disabilities</span> <span>(PwD) Facilities</span></h1>
         
 		<div class="container mb-5 mt-5">
     <hr class="horizontal-line">
@@ -1480,37 +1374,6 @@ justify-content:center;
 </section><!-- #content end -->
 
 
-	<br /><br />
-
-	<script>
-        //   career accordian
-	var acc = document.getElementsByClassName("careers-accordion");
-	var i;
-
-	for (i = 0; i < acc.length; i++) {
-		acc[i].addEventListener("click", function () {
-			var panel = this.nextElementSibling;
-			if (panel.style.display === "block") {
-				panel.style.display = "none";
-				this.querySelector(".icon").innerHTML = "+";
-				this.classList.remove("clicked"); // Remove clicked class when closing
-			} else {
-				// Close all other panels
-				var allPanels = document.querySelectorAll('.panel');
-				for (var j = 0; j < allPanels.length; j++) {
-					allPanels[j].style.display = 'none';
-					var accordion = allPanels[j].previousElementSibling;
-					accordion.querySelector(".icon").innerHTML = "+";
-					accordion.classList.remove("clicked"); // Remove clicked class from other accordions
-				}
-				panel.style.display = "block";
-				this.querySelector(".icon").innerHTML = "-";
-				this.classList.add("clicked"); // Add clicked class when opening
-			}
-		});
-	}
-    </script>
-	<br /><br />
 
 	
 <?php

@@ -417,7 +417,7 @@
             border-radius: 40px;
         }
 
-        .table-wrapper::::-webkit-scrollbar-track {
+        .table-wrapper::-webkit-scrollbar-track {
             background: var(--white);
             border-radius: 40px;
         }
@@ -3679,7 +3679,7 @@
                             </div>
 
                             <div class="col-lg-6 align-self-center">
-                                <h1 class="h1 fw-semibold lh-X padding-bottom: 0px" style="">B.Tech CSE Eligibility
+                                <h1 class="h1 fw-semibold lh-X padding-bottom: 0px" >B.Tech CSE Eligibility
                                     Criteria & Selection Process</h1>
 
                                 <div class="row col-mb-50">

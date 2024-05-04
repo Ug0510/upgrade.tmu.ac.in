@@ -26,7 +26,6 @@
 	font-size: 20px;
 	padding-right: 6px;
 	color: #ffffff;
-	font-color: #ffffff;
 }
 
 
@@ -51,7 +50,7 @@
 
 		<!-- Content
 		============================================= -->
-		<section id="content" style="margin-bottom; 200px:">
+		<section id="content" style="margin-bottom: 200px;">
 			<div class="content-wrap py-0" style="overflow: visible">
 
 				<svg viewBox="0 0 1382 58" width="100%" height="60" preserveAspectRatio="none" style="position: absolute; top: -58px; left:0; z-index: 1"><path style="fill:#FFF;" d="M1.52.62s802.13,127,1380,0v56H.51Z"></svg>
