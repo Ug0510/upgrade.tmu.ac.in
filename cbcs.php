@@ -80,7 +80,7 @@ ul{
 include 'sidebar/open_elective_sidebar.php';
 ?>
 
-                <div class="col-12 col-md-9 col-lg-9 mt-3 mt-sm-0 pt-5 ">
+                <div class="col-12 col-md-9 mt-3 mt-sm-0 pt-5 ">
 					<!-- Write content for right side here  -->
                     
                     <div class="row mx-0">
