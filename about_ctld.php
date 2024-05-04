@@ -12,7 +12,7 @@ include 'head.php';
   <?php
  include 'sidebar/ctld_sidebar.php';
 ?>
-                <div class="col-12 col-md-9 col-lg-9 mt-3 mt-sm-0 pt-5 ">
+                <div class="col-12 col-md-9 mt-3 mt-sm-0 pt-5 ">
             <div class="row mx-0">
                 <h2 class=" text-center" style="color:#001055; text-transform: capitalize; font-weight:700!important; font-size:2.4vmax">About Centre for Teaching<span class="d-block d-sm-inline"> Learning & Development (CTLD)</span></h2>
                 <p class="text-center" style="color:#E74C3C; font-size:1.4vmax"><strong>

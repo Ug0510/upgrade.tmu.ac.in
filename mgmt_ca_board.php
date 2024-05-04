@@ -2,6 +2,7 @@
 <?php
  include 'sidebar/management_sidebar.php';
 ?>
+
 <div class="col-12 col-md-9 col-lg-9 mt-3 mt-sm-0 pt-5">
     <h1 class="tmu-text-primary tmu-page-heading"><span>Corporate</span><span> Advisory
             Board</span></h1>
@@ -15,10 +16,6 @@
                 (SPCC members) as mentors and as guest speakers in classes, and provide internship and job opportunities
                 to our students.</p>
         </div>
-        <div class="row">
-
-
-
             <div class="row">
                 <hr class="horizontal-line">
                 <button class="careers-accordion">KEY OBJECTIVES OF CORPORATE ADVISORY BOARD<span class="icon">+</span>

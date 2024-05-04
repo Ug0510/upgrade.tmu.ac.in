@@ -116,9 +116,9 @@ include 'head.php';
  <?php
  include 'sidebar/about_tmu_sidebar.php';
 ?>
-                <div class="col-12 col-md-9 col-lg-9 mt-3 mt-sm-0 pt-5 ">
+                <div class="col-12 col-md-9 mt-3 mt-sm-0 pt-5 ">
                     <div class="row mx-0">
-                        <h2 class=" text-center d-block d-md-none" style="color:#001055; text-transform: capitalize; font-weight:700!important; font-size:24px">Awards & <span>Recognitions</span></h2>
+                        <h2 class="tmu-text-primary tmu-page-heading">Awards & <span>Recognitions</span></h2>
                         <h2 class=" text-center d-none d-md-block" style="color:#001055; text-transform: capitalize; font-weight:700!important; font-size:2.4vmax">Awards & <span>Recognitions</span></h2>
 
                         <div class="container">

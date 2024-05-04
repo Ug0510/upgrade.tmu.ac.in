@@ -206,7 +206,7 @@ include 'head.php';
 include 'sidebar/iqac_sidebar.php';
 ?>
 
-                <div class="col-12 col-md-9 col-lg-9 mt-3 mt-sm-0 pt-5 ">
+                <div class="col-12 col-md-9 mt-3 mt-sm-0 pt-5 ">
           <!-- ======= Contact Section ======= -->
           <section id="contact" class="contact">
             <div class="container" data-aos="fade-up">

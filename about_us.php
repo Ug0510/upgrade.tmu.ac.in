@@ -9,11 +9,11 @@ include 'head.php';
 include 'sidebar/about_tmu_sidebar.php';
 ?>
 
-<div class="col-12 col-md-9 col-lg-9 mt-3 mt-sm-0 pt-5 py-3 about-us-container">
+<div class="col-12 col-md-9 mt-3 mt-sm-0 pt-5 py-3 about-us-container">
   <section>
     <div class="container">
       <div class="row">
-        <h2 class=" text-center d-block d-md-none" style="color:#001055; text-transform: capitalize; font-weight:700!important; font-size:24px">About <span style="color:#ff7a00;">University</span></h2>
+        <h2 class="tmu-text-primary tmu-page-heading">About <span style="color:#ff7a00;">University</span></h2>
         <h2 class=" text-center d-none d-md-block" style="color:#001055; text-transform: capitalize; font-weight:700!important; font-size:2.4vmax">About <span style="color:#ff7a00;">University</span></h2>
         <div class="col-lg-12">
           <h4 class="sublime" style="text-align:justify; margin-top:1rem;">On National Highway 9, 144 Km from New
