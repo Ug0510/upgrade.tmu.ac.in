@@ -1,17 +1,12 @@
 <?php include 'head.php'; ?>
 
-<style>
-      .vh-75 {
-    height: 0vh !important;
-  }
-</style>
-
 <?php
  include 'sidebar/management_sidebar.php';
 ?>
-	<div class="col-12 col-md-9 mt-3 mt-sm-0 pt-5">
-        <h2 class="text-center" style="color:#001055;
-			text-transform: capitalize; font-weight:700!important; font-size:2.4vmax">Academic <span class="d-block d-sm-inline"> Calendar</span></h2>
+
+	<div class="col-12 col-md-9 col-lg-9 mt-3 mt-sm-0 pt-5">
+         <h1 class="tmu-text-primary tmu-page-heading"><span>Academic </span><span>Calendar</span></h1>
+
 
                 <div class="container">  
                     <div class="row">

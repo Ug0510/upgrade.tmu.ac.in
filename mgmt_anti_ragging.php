@@ -1,27 +1,12 @@
 <?php include 'head.php'; ?>
-
-<style>
-      .vh-75 {
-    height: 0vh !important;
-  }
-
-  
-
-ul{
-    margin-left:20px;
-}
-thead{
-    color:#fff;
-    background-color:#001055;
-}
-</style>
-
 <?php
  include 'sidebar/management_sidebar.php';
 ?>
-	<div class="col-12 col-md-9 mt-3 mt-sm-0 pt-5">
-        <h2 class="text-center" style="color:#001055;
-			text-transform: capitalize; font-weight:700!important; font-size:2.4vmax">Anti Ragging<span class="d-block d-sm-inline"> Committee</span></h2>
+
+	<div class="col-12 col-md-9 col-lg-9 mt-3 mt-sm-0 pt-5">
+        
+	<h1 class="tmu-text-primary tmu-page-heading"><span>Anti Ragging</span><span> Committee</span></h1>
+
 
                 <div class="container">  
                     <div class="row">
@@ -166,7 +151,7 @@ thead{
                         </div>
 
 
-                        <h2><b>Proctorial Board</b></h2>
+                        <h2>Proctorial Board</h2>
 				<div class="table-responsive">
 					<table class="table table-bordered table-striped table-condensed mb-3">
 						<thead>
