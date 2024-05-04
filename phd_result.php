@@ -57,7 +57,7 @@ height: 0vh !important;
     }
     .nav-tabs .nav-item .nav-link.active {
         color: #ffffff; /* White text color for active tab */
-        background-color: #ff7a00; /* Dark blue background for active tab */
+        background-color: #FF7900; /* Dark blue background for active tab */
     }
     .tab-content {
         background-color: #ffffff; /* White background for tab content */

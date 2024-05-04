@@ -877,7 +877,7 @@
 					</div>
                     <div class="d-block d-sm-none">
                         <!-- <span>discover</span> -->
-                        <p><span style="color: #FF7A00; font-size: 30px; font-weight: bold;">Tech-</span>Enhanced Learning</span>
+                        <p><span style="color: #FF7900; font-size: 30px; font-weight: bold;">Tech-</span>Enhanced Learning</span>
                             <!-- <a href="#">Explore More</a> -->
                     </div>
                     <div class="swiper">
@@ -1565,12 +1565,12 @@
 
 					<div class="row justify-content-center ">
 						<div class="col-xl-10 col-lg-10 text-center d-none d-sm-block">
-							<h2 class="h1 fw-bold" style="font-size: 48px; font-weight: 600; line-height: 64px; color:#FF7A00; margin-bottom: 22px;"><span
+							<h2 class="h1 fw-bold" style="font-size: 48px; font-weight: 600; line-height: 64px; color:#FF7900; margin-bottom: 22px;"><span
 								style="color: #FFFFFF;">Stay Informed with Our News & Highlights, and Don't Miss a Thing on the Notice Board!</span></h2>
 
 						</div>
 						<div class="col-xl-10 col-lg-10 text-center d-block d-sm-none">
-							<h2 class="h1 fw-bold" style="font-size: 30px; font-weight: 600; line-height: 64px; color:#FF7A00; margin-bottom: 9px; margin-top: -12px;"><span
+							<h2 class="h1 fw-bold" style="font-size: 30px; font-weight: 600; line-height: 64px; color:#FF7900; margin-bottom: 9px; margin-top: -12px;"><span
 								style="color: #FFFFFF;">Stay Informed with Our News & Highlights, and Don't Miss a Thing on the Notice Board!</span></h2>
 
 						</div>

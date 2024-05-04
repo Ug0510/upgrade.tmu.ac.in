@@ -287,12 +287,12 @@
 
 					<div class="row justify-content-center ">
 						<div class="col-xl-10 col-lg-10 text-center d-none d-sm-block">
-							<h2 class="h1 fw-bold" style="font-size: 48px; font-weight: 600; line-height: 64px; color:#FF7A00; margin-bottom: 22px;">TMU <span
+							<h2 class="h1 fw-bold" style="font-size: 48px; font-weight: 600; line-height: 64px; color:#FF7900; margin-bottom: 22px;">TMU <span
 								style="color: #FFFFFF;">HIGHLIGHTS</span></h2>
 
 						</div>
 						<div class="col-xl-10 col-lg-10 text-center d-block d-sm-none">
-							<h2 class="h1 fw-bold" style="font-size: 30px; font-weight: 600; line-height: 64px; color:#FF7A00; margin-bottom: 9px; margin-top: -12px;">TMU <span
+							<h2 class="h1 fw-bold" style="font-size: 30px; font-weight: 600; line-height: 64px; color:#FF7900; margin-bottom: 9px; margin-top: -12px;">TMU <span
 								style="color: #FFFFFF;">HIGHLIGHTS</span></h2>
 
 						</div>

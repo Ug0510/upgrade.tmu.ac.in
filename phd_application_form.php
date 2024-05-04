@@ -25,7 +25,7 @@ padding-left:19px!important;
 }
 
 .modal-header {
-    background-color: #ff7A00;
+    background-color: #FF7900;
     color: #fff !important; 
     font-family: Arial, sans-serif; 
     font-size: 20px; 
@@ -95,7 +95,7 @@ include 'sidebar/research_sidebar.php';
 								<i class="i-plain i-large mx-auto mb-4 icon-featured fa fa-keyboard-o"></i>
 								<h3 class="mb-2" style="font-size:16px; font-family:'poppins';">APPLY ONLINE</h3>
 								<span>Apply Online, Upload Documents, Pay Online</span><br>
-								<a href="https://admissions.tmu.ac.in/" class="btn btn-secondary btn-sm custom-btn me-2 mt-2" style="background-color:#FF7A00;"><span>Apply Online</span></a>
+								<a href="https://admissions.tmu.ac.in/" class="btn btn-secondary btn-sm custom-btn me-2 mt-2" style="background-color:#FF7900;"><span>Apply Online</span></a>
 							</div>
 						</div>
 
@@ -104,7 +104,7 @@ include 'sidebar/research_sidebar.php';
 								<i class="i-plain i-large mx-auto mb-4 uil-download-alt"></i>
 								<h3 class="mb-2" style="font-size:16px; font-family:'poppins';">Download Form</h3>
 								<span>Download Application Form for offline submission</span><br>
-								<a href="#" class="btn btn-secondary btn-sm custom-btn me-2 mt-2" style="background-color:#FF7A00;" data-bs-toggle="modal" data-bs-target="#contactUsModal"><span>Download Form</span></a>
+								<a href="#" class="btn btn-secondary btn-sm custom-btn me-2 mt-2" style="background-color:#FF7900;" data-bs-toggle="modal" data-bs-target="#contactUsModal"><span>Download Form</span></a>
 							</div>
 						</div>
 
@@ -113,7 +113,7 @@ include 'sidebar/research_sidebar.php';
 								<i class="i-plain i-large mx-auto mb-4 icon-featured fa fa-inr"></i>
 								<h3 class="mb-2" style="font-size:16px; font-family:'poppins';">BUY APPLICATION PACK</h3>
 								<span>Buy application pack from Campus/Information Centers</span><br>
-								<a href="#" class="btn btn-secondary btn-sm custom-btn me-2 mt-2"  style="background-color:#FF7A00;" data-bs-toggle="modal" data-bs-target="#signUpModal"><span>BUY APPLICATION PACK</span></a>
+								<a href="#" class="btn btn-secondary btn-sm custom-btn me-2 mt-2"  style="background-color:#FF7900;" data-bs-toggle="modal" data-bs-target="#signUpModal"><span>BUY APPLICATION PACK</span></a>
 							</div>
 						</div>
 
@@ -122,7 +122,7 @@ include 'sidebar/research_sidebar.php';
 								<i class="i-plain i-large mx-auto mb-4 fa fa-undo"></i>
 								<h3 class="mb-2" style="font-size:16px; font-family:'poppins';">Application Form Fee Refund Policy</h3>
 								<br>
-								<a href="#" class="btn btn-secondary btn-sm custom-btn me-2 mt-2" style="background-color:#FF7A00;" data-bs-toggle="modal" data-bs-target="#refundPolicyModal"><span>Refund Policy</span></a>
+								<a href="#" class="btn btn-secondary btn-sm custom-btn me-2 mt-2" style="background-color:#FF7900;" data-bs-toggle="modal" data-bs-target="#refundPolicyModal"><span>Refund Policy</span></a>
 							</div>
 						</div>
 					</div>
@@ -145,7 +145,7 @@ include 'sidebar/research_sidebar.php';
 <br><br><strong>Note:</strong> For online payments, it is important for candidates to note the transaction number for future reference and request for any type of Refund, for whatsoever reason, will be at the sole discretion of the University.</p>      </div>
       <div class="modal-footer">
         <!-- Optional: Add buttons in the footer -->
-        <button type="button" class="btn btn-secondary btn-center" style="background-color:#FF7A00;" data-bs-dismiss="modal">No Thanks!</button>
+        <button type="button" class="btn btn-secondary btn-center" style="background-color:#FF7900;" data-bs-dismiss="modal">No Thanks!</button>
       </div>
     </div>
   </div>
@@ -159,11 +159,11 @@ include 'sidebar/research_sidebar.php';
             <button type="button" class="btn-close btn-sm" data-bs-dismiss="modal" aria-hidden="true"></button>
          </div>
          <div class="modal-body">
-            <p class="mb-0">The downloaded form should be duly filled-up and can be forwarded to Joint Registrar, Administrative Block, Teerthanker Mahaveer University, Delhi Road, Moradabad (U.P.) - 244 001 alongwith a demand draft of  <b style="color:#ff7a00;">2,000/-</b> favoring 'Teerthanker Mahaveer University', payable at Moradabad.</p>
+            <p class="mb-0">The downloaded form should be duly filled-up and can be forwarded to Joint Registrar, Administrative Block, Teerthanker Mahaveer University, Delhi Road, Moradabad (U.P.) - 244 001 alongwith a demand draft of  <b style="color:#FF7900;">2,000/-</b> favoring 'Teerthanker Mahaveer University', payable at Moradabad.</p>
          </div>
          <div class="modal-footer">
-            <button type="button" class="btn btn-secondary custom-btn" style="background-color:#FF7A00;" data-bs-dismiss="modal">Close</button>
-            <a href="https://www.tmu.ac.in/pdf/research/phd_application_form.pdf"><button type="button" class="btn btn-secondary custom-btn" style="background-color:#FF7A00;">Get it <i class="uil-download-alt"></i></button></a>
+            <button type="button" class="btn btn-secondary custom-btn" style="background-color:#FF7900;" data-bs-dismiss="modal">Close</button>
+            <a href="https://www.tmu.ac.in/pdf/research/phd_application_form.pdf"><button type="button" class="btn btn-secondary custom-btn" style="background-color:#FF7900;">Get it <i class="uil-download-alt"></i></button></a>
          </div>
       </div>
    </div>
@@ -183,7 +183,7 @@ include 'sidebar/research_sidebar.php';
           Delhi Road, Moradabad - 244001 (Uttar Pradesh)
           </div>
          <div class="modal-footer">
-            <button type="button" class="btn btn-secondary custom-btn" style="background-color:#FF7A00;" data-bs-dismiss="modal">Close</button>
+            <button type="button" class="btn btn-secondary custom-btn" style="background-color:#FF7900;" data-bs-dismiss="modal">Close</button>
          </div>
       </div>
    </div>

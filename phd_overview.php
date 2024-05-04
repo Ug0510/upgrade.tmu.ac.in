@@ -15,7 +15,7 @@
 }
 
 .solar-flare li a:hover{
-    color:#FF7A00!important;
+    color:#FF7900!important;
 }
 
 .container-fluid {
@@ -57,7 +57,7 @@ section {
   width: 120px;
   height: 1px;
   display: inline-block;
-  background: #FF7A00;
+  background: #FF7900;
   margin: 4px 10px;
 }
 
@@ -102,7 +102,7 @@ section {
 
 .courses .course-content h4 {
   font-size: 14px;
-  background: #FF7A00;
+  background: #FF7900;
   padding: 7px 14px;
   color: #fff;
   margin: 0;

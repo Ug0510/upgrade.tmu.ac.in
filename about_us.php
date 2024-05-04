@@ -13,8 +13,8 @@ include 'sidebar/about_tmu_sidebar.php';
   <section>
     <div class="container">
       <div class="row">
-        <h2 class="tmu-text-primary tmu-page-heading">About <span style="color:#ff7a00;">University</span></h2>
-        <h2 class=" text-center d-none d-md-block" style="color:#001055; text-transform: capitalize; font-weight:700!important; font-size:2.4vmax">About <span style="color:#ff7a00;">University</span></h2>
+        <h2 class="tmu-text-primary tmu-page-heading">About <span style="color:#FF7900;">University</span></h2>
+        <h2 class=" text-center d-none d-md-block" style="color:#001055; text-transform: capitalize; font-weight:700!important; font-size:2.4vmax">About <span style="color:#FF7900;">University</span></h2>
         <div class="col-lg-12">
           <h4 class="sublime" style="text-align:justify; margin-top:1rem;">On National Highway 9, 144 Km from New
             Delhi, TMU stands committed to the ideals of Lord Mahaveer - Right Philosophy, Right Knowledge and Right Conduct in all spheres
@@ -122,7 +122,7 @@ include 'sidebar/about_tmu_sidebar.php';
                 <td>
                   <h2 style="color:#001055;"><strong style="font-weight:600;">2001</strong></h2>
                 </td>
-                <td style="text-align:justify; margin-bottom:1rem; font-size:14px;"><b style="color:#ff7A00;">TMIMT College of Management</b><br>
+                <td style="text-align:justify; margin-bottom:1rem; font-size:14px;"><b style="color:#FF7900;">TMIMT College of Management</b><br>
                   Established in 2001, TMIMT offers a range of management programmes including BBA, MBA, B.Com., and Ph.D., fostering excellence in business education.
                 </td>
               </tr>
@@ -130,119 +130,119 @@ include 'sidebar/about_tmu_sidebar.php';
                 <td>
                   <h2 style="color:#001055;"><strong style="font-weight:600;">2003</strong></h2>
                 </td>
-                <td style="text-align:justify; margin-bottom:1rem; font-size:14px;"><b style="color:#ff7A00;">Faculty of Education</b><br>
+                <td style="text-align:justify; margin-bottom:1rem; font-size:14px;"><b style="color:#FF7900;">Faculty of Education</b><br>
                   Founded in 2003, the Faculty of Education provides comprehensive programmes such as B.Ed., M.Ed., and Ph.D., contributing to the advancement of educational practices.
               </tr>
               <tr>
                 <td>
                   <h2 style="color:#001055;"><strong style="font-weight:600;">2005</strong></h2>
                 </td>
-                <td style="text-align:justify; margin-bottom:1rem; font-size:14px;"><b style="color:#ff7A00;">Dental College & Research Centre</b><br>
+                <td style="text-align:justify; margin-bottom:1rem; font-size:14px;"><b style="color:#FF7900;">Dental College & Research Centre</b><br>
                   Inaugurated in 2005, the Dental College is a hub of dental excellence, offering BDS, MDS, and PhD programmes in oral healthcare.
               </tr>
               <tr>
                 <td>
                   <h2 style="color:#001055;"><strong style="font-weight:600;">2007</strong></h2>
                 </td>
-                <td style="text-align:justify; margin-bottom:1rem; font-size:14px; "><b style="color:#ff7A00;">Teerthanker Mahaveer Hospital</b><br>
+                <td style="text-align:justify; margin-bottom:1rem; font-size:14px; "><b style="color:#FF7900;">Teerthanker Mahaveer Hospital</b><br>
                   Established in 2007, the hospital, with more than 800 beds, caters to the medical needs of a vast area, embodying TMU's commitment to healthcare accessibility.
               </tr>
               <tr>
                 <td>
                   <h2 style="color:#001055;"><strong style="font-weight:600;">2008</strong></h2>
                 </td>
-                <td class="text-justify fs-14" class="mb-3"><b style="color:#ff7A00;">Medical College & Research Centre</b><br>
+                <td class="text-justify fs-14" class="mb-3"><b style="color:#FF7900;">Medical College & Research Centre</b><br>
                   Founded in 2008, the Medical College offers MBBS, MD/MS, M.Sc. Medical, and Ph.D. programmes, shaping future medical professionals.
               </tr>
               <tr>
                 <td>
                   <h2 style="color:#001055;"><strong style="font-weight:600;">2008</strong></h2>
                 </td>
-                <td class="text-justify fs-14" class="mb-3"><b style="color:#ff7A00;">Establishment of Teerthanker Mahaveer University</b><br>
+                <td class="text-justify fs-14" class="mb-3"><b style="color:#FF7900;">Establishment of Teerthanker Mahaveer University</b><br>
                   Established in 2008, the College of Pharmacy offers a diverse array of programmes, equipping students with skills for patient care and healthcare systems.
               </tr>
               <tr>
                 <td>
                   <h2 style="color:#001055;"><strong style="font-weight:600;">2008</strong></h2>
                 </td>
-                <td class="text-justify fs-14" class="mb-3"><b style="color:#ff7A00;">College of Pharmacy</b><br>
+                <td class="text-justify fs-14" class="mb-3"><b style="color:#FF7900;">College of Pharmacy</b><br>
                   Inaugurated in 2008, the Faculty offers AICTE-approved programmes in various engineering disciplines, fostering academic excellence and innovation.
               </tr>
               <tr>
                 <td>
                   <h2 style="color:#001055;"><strong style="font-weight:600;">2008</strong></h2>
                 </td>
-                <td style="text-align:justify; font-size:14px; " class="mb-3"><b style="color:#ff7A00;">Faculty of Engineering</b><br>
+                <td style="text-align:justify; font-size:14px; " class="mb-3"><b style="color:#FF7900;">Faculty of Engineering</b><br>
                   Inaugurated in 2008, the Faculty offers AICTE-approved programmes in various engineering disciplines, fostering academic excellence and innovation.
               </tr>
               <tr>
                 <td>
                   <h2 style="color:#001055;"><strong style="font-weight:600;">2009</strong></h2>
                 </td>
-                <td style="text-align:justify; font-size:14px; " class="mb-3"><b style="color:#ff7A00;">College of Nursing</b><br>
+                <td style="text-align:justify; font-size:14px; " class="mb-3"><b style="color:#FF7900;">College of Nursing</b><br>
                   Formed in 2009, the College offers a spectrum of nursing programmes, preparing students for diverse roles in the healthcare sector.
               </tr>
               <tr>
                 <td>
                   <h2 style="color:#001055;"><strong style="font-weight:600;">2010</strong></h2>
                 </td>
-                <td class="text-justify fs-14" class="mb-3"><b style="color:#ff7A00;">College of Paramedical Sciences</b><br>
+                <td class="text-justify fs-14" class="mb-3"><b style="color:#FF7900;">College of Paramedical Sciences</b><br>
                   Introduced in 2010, the College offers programmes in medical lab technology, X-ray technology, optometry, forensic science, and more, catering to pre-hospital emergency services.
               </tr>
               <tr>
                 <td>
                   <h2 style="color:#001055;"><strong style="font-weight:600;">2010</strong></h2>
                 </td>
-                <td class="text-justify fs-14" class="mb-3"><b style="color:#ff7A00;">College of Physiotherapy</b><br>
+                <td class="text-justify fs-14" class="mb-3"><b style="color:#FF7900;">College of Physiotherapy</b><br>
                   Founded in 2010, the College offers programmes aimed at helping patients maintain, recover, or improve their physical abilities, contributing to rehabilitative medicine.
               </tr>
               <tr>
                 <td>
                   <h2 style="color:#001055;"><strong style="font-weight:600;">2010</strong></h2>
                 </td>
-                <td class="text-justify fs-14" class="mb-3"><b style="color:#ff7A00;">College of Law & Legal Studies</b><br>
+                <td class="text-justify fs-14" class="mb-3"><b style="color:#FF7900;">College of Law & Legal Studies</b><br>
                   Established in 2010, the College attracts bright minds aspiring to contribute meaningfully to the legal profession, offering integrated LL.B. programmes and a Ph.D. in law.
               </tr>
               <tr>
                 <td>
                   <h2 style="color:#001055;"><strong style="font-weight:600;">2010</strong></h2>
                 </td>
-                <td class="text-justify fs-14" class="mb-3"><b style="color:#ff7A00;">University Polytechnic</b><br>
+                <td class="text-justify fs-14" class="mb-3"><b style="color:#FF7900;">University Polytechnic</b><br>
                   Initiated in 2010, the Polytechnic offers diploma programmes in various engineering disciplines, nurturing skilled personnel for the industrial sector.
               </tr>
               <tr>
                 <td>
                   <h2 style="color:#001055;"><strong style="font-weight:600;">2011</strong></h2>
                 </td>
-                <td style="text-align:justify;font-size:14px;" class="mb-3"><b style="color:#ff7A00;">College of Fine Arts</b><br>
+                <td style="text-align:justify;font-size:14px;" class="mb-3"><b style="color:#FF7900;">College of Fine Arts</b><br>
                   Established in 2011, the College offers programmes in fine arts, building on historical perspectives, and nurturing creativity in students.
               </tr>
               <tr>
                 <td>
                   <h2 style="color:#001055;"><strong style="font-weight:600;">2011</strong></h2>
                 </td>
-                <td class="text-justify fs-14" class="mb-3"><b style="color:#ff7A00;">TMIMT College of Physical Education</b><br>
+                <td class="text-justify fs-14" class="mb-3"><b style="color:#FF7900;">TMIMT College of Physical Education</b><br>
                   Founded in 2011, the College offers programmes in physical education, emphasising the importance of fitness and wellness in society.
               </tr>
               <tr>
                 <td>
                   <h2 style="color:#001055;"><strong style="font-weight:600;">2012</strong></h2>
                 </td>
-                <td style="text-align:justify;font-size:14px;" class="mb-3"><b style="color:#ff7A00;">College of Jain Studies</b><br>
+                <td style="text-align:justify;font-size:14px;" class="mb-3"><b style="color:#FF7900;">College of Jain Studies</b><br>
                   Established in 2012, the College imparts moral education, comparative studies of different philosophies, and conducts research in religious studies.
               </tr>
               <tr>
                 <td>
                   <h2 style="color:#001055;"><strong style="font-weight:600;">2014</strong></h2>
                 </td>
-                <td class="text-justify fs-14" class="mb-3"><b style="color:#ff7A00;">College of Computing Sciences & IT</b><br>
+                <td class="text-justify fs-14" class="mb-3"><b style="color:#FF7900;">College of Computing Sciences & IT</b><br>
                   Established in 2014, the College offers programmes in computer science, animation, and IT, providing essential education to aspiring technologists.
               </tr>
               <tr>
                 <td>
                   <h2 style="color:#001055;"><strong style="font-weight:600;">2014</strong></h2>
                 </td>
-                <td class="text-justify fs-14" class="mb-3"><b style="color:#ff7A00;">College of Agriculture Sciences</b><br>
+                <td class="text-justify fs-14" class="mb-3"><b style="color:#FF7900;">College of Agriculture Sciences</b><br>
                   Inaugurated in 2014, the College focuses on core areas of agriculture and environmental studies, aligning with the recommendations of the Vth Deans Committee of ICAR.
               </tr>
             </tbody>

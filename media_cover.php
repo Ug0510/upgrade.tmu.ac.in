@@ -19,7 +19,7 @@
         }
 
         .media-card-header {
-            background-color: #ff8A00;
+            background-color: #FF7900;
             color: #fff;
             padding: 10px;
             border-top-left-radius: 10px;
@@ -68,7 +68,7 @@
         }
 
         .media-read-more button:hover {
-            background-color: #ff8A00;
+            background-color: #FF7900;
             color:#fff;
         }
 

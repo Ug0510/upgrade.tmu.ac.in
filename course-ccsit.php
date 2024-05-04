@@ -29,7 +29,7 @@
         .my-button {
             display: inline-block;
             padding: 8px 15px;
-            background-color: #ff7a00;
+            background-color: #FF7900;
             color: #fff;
             border: none;
             border-radius: 20px;
@@ -62,7 +62,7 @@
 
         /* Hover effect */
         .my-button-blk:hover {
-            background-color: #ff7a00;
+            background-color: #FF7900;
             color: #fff;
         }
 
@@ -983,12 +983,12 @@
         <div class="container">
             <div class="row justify-content-center ">
 						<div class="col-xl-10 col-lg-10 text-center d-none d-sm-block">
-							<h2 class="h1 fw-bold" style="font-size: 48px; font-weight: 600; line-height: 64px; color:#FF7A00; margin-bottom: 22px;">Fee Structure for <span style="color: #000000;">B.Tech
+							<h2 class="h1 fw-bold" style="font-size: 48px; font-weight: 600; line-height: 64px; color:#FF7900; margin-bottom: 22px;">Fee Structure for <span style="color: #000000;">B.Tech
                         CSE</h2>
 
 						</div>
 						<div class="col-xl-10 col-lg-10 text-center d-block d-sm-none">
-							<h2 class="h1 fw-bold" style="font-size: 30px; font-weight: 600; line-height: 50px; color:#FF7A00; margin-bottom: 9px; margin-top: -12px;">Fee Structure for <span style="color: #000000;">B.Tech
+							<h2 class="h1 fw-bold" style="font-size: 30px; font-weight: 600; line-height: 50px; color:#FF7900; margin-bottom: 9px; margin-top: -12px;">Fee Structure for <span style="color: #000000;">B.Tech
                         CSE</h2>
 
 						</div>
@@ -1078,11 +1078,11 @@
         <div class="table-container">
                 <div class="row justify-content-center ">
 						<div class="col-xl-10 col-lg-10 text-center d-none d-sm-block">
-							<h2 class="h1 fw-bold" style="font-size: 48px; font-weight: 600; line-height: 64px; color:#FF7A00; margin-bottom: 17px;">B.Tech CSE <span style="color: #000000;">Scholerships 2023</h2>
+							<h2 class="h1 fw-bold" style="font-size: 48px; font-weight: 600; line-height: 64px; color:#FF7900; margin-bottom: 17px;">B.Tech CSE <span style="color: #000000;">Scholerships 2023</h2>
 
 						</div>
 						<div class="col-xl-10 col-lg-10 text-center d-block d-sm-none">
-							<h2 class="h1 fw-bold" style="font-size: 30px; font-weight: 600; line-height: 50px; color:#FF7A00; margin-bottom: 9px; margin-top: -12px;">B.Tech CSE <span style="color: #000000;">Scholerships 2023</h2>
+							<h2 class="h1 fw-bold" style="font-size: 30px; font-weight: 600; line-height: 50px; color:#FF7900; margin-bottom: 9px; margin-top: -12px;">B.Tech CSE <span style="color: #000000;">Scholerships 2023</h2>
 
 						</div>
 			    </div>
@@ -1177,7 +1177,7 @@
                             </div>
 
                             <div class="col-lg-6 align-self-center">
-                                        <h2 class="h1 fw-bold" style="font-size: 24px; font-weight: 500; line-height: 30px; color:#FF7A00; margin-Bottom: 15px;margin-top: 20px;">B.Tech CSE<span style="color: #000000;"> Eligibility Criteria & Selection Process</h2>
+                                        <h2 class="h1 fw-bold" style="font-size: 24px; font-weight: 500; line-height: 30px; color:#FF7900; margin-Bottom: 15px;margin-top: 20px;">B.Tech CSE<span style="color: #000000;"> Eligibility Criteria & Selection Process</h2>
                                 <div class="row">
                                     <div class="col-sm-6">
                                         <div class="feature-box fbox-plain fbox-sm flex-column">
@@ -1199,15 +1199,15 @@
                                                     score (comprising of Physics and Maths as compulsory subjects and
                                                     any other third subject with highest score)</p>
                                                 <p
-                                                    style="color: #FF7A00; font-size: 15px; margin-top: 2px; font-weight: bold;">
+                                                    style="color: #FF7900; font-size: 15px; margin-top: 2px; font-weight: bold;">
                                                     OR</p>
                                                 <p>on the JEE 2023 score</p>
                                                 <p
-                                                    style="color: #FF7A00; font-size: 15px; margin: 0px; font-weight: bold;">
+                                                    style="color: #FF7900; font-size: 15px; margin: 0px; font-weight: bold;">
                                                     OR</p>
                                                 <p>SAT score</p>
                                                 <p
-                                                    style="color: #FF7A00; font-size: 15px; margin: 0px; font-weight: bold;">
+                                                    style="color: #FF7900; font-size: 15px; margin: 0px; font-weight: bold;">
                                                     OR</p>
                                                 <p>CUET Percentile score</p>
                                             </div>
@@ -1230,11 +1230,11 @@
                     <div class="col-lg-12 mt-lg-5.5">
                         <div class="row justify-content-center ">
                             <div class="col-xl-10 col-lg-10 text-center d-none d-sm-block">
-                                <h2 class="h1 fw-bold" style="font-size: 48px; font-weight: 600; line-height: 64px; color:#FF7A00; margin-bottom: 22px;">B.Tech CSE<span style="color: #000000;"> Frequently Asked Questions</h2>
+                                <h2 class="h1 fw-bold" style="font-size: 48px; font-weight: 600; line-height: 64px; color:#FF7900; margin-bottom: 22px;">B.Tech CSE<span style="color: #000000;"> Frequently Asked Questions</h2>
 
                             </div>
                             <div class="col-xl-10 col-lg-10 text-center d-block d-sm-none">
-                                <h2 class="h1 fw-bold" style="font-size: 30px; font-weight: 600; line-height: 54px; color:#FF7A00; margin-bottom: 7px; margin-top: -12px;">B.Tech CSE<span style="color: #000000;"> Frequently Asked Questions</h2>
+                                <h2 class="h1 fw-bold" style="font-size: 30px; font-weight: 600; line-height: 54px; color:#FF7900; margin-bottom: 7px; margin-top: -12px;">B.Tech CSE<span style="color: #000000;"> Frequently Asked Questions</h2>
 
                             </div>
 			            </div>

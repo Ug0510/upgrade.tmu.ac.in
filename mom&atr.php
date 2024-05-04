@@ -28,7 +28,7 @@
       								<div class="card text-center">
         								<div class="card-body">
           								<!-- Icon -->
-          									<i class="fas fa-file-pdf fa-4x mb-3" style="color:#FF8A00; "></i>
+          									<i class="fas fa-file-pdf fa-4x mb-3" style="color:#FF7900; "></i>
           									<!-- Document Name -->
           									<h5 class="card-title">MOM of the IQAC held on 06.07.2023</h5>
 										
@@ -42,7 +42,7 @@
       								<div class="card text-center">
         								<div class="card-body">
           								<!-- Icon -->
-          									<i class="fas fa-file-pdf fa-4x mb-3" style="color:#FF8A00; "></i>
+          									<i class="fas fa-file-pdf fa-4x mb-3" style="color:#FF7900; "></i>
           									<!-- Document Name -->
           									<h5 class="card-title">MOM of the IQAC held on Feb. 09, 2023</h5>
           									<!-- View PDF Button -->
@@ -55,7 +55,7 @@
       								<div class="card text-center">
         								<div class="card-body">
           								<!-- Icon -->
-          									<i class="fas fa-file-pdf fa-4x mb-3" style="color:#FF8A00; "></i>
+          									<i class="fas fa-file-pdf fa-4x mb-3" style="color:#FF7900; "></i>
           									<!-- Document Name -->
           									<h5 class="card-title">MOM of the IQAC held on June 25, 2022</h5>
           									<!-- View PDF Button -->
@@ -68,7 +68,7 @@
       								<div class="card text-center">
         								<div class="card-body">
           								<!-- Icon -->
-          									<i class="fas fa-file-pdf fa-4x mb-3" style="color:#FF8A00; "></i>
+          									<i class="fas fa-file-pdf fa-4x mb-3" style="color:#FF7900; "></i>
           									<!-- Document Name -->
           									<h5 class="card-title">MOM of the IQAC held on May 10, 2022</h5>
           									<!-- View PDF Button -->
@@ -81,7 +81,7 @@
       								<div class="card text-center">
         								<div class="card-body">
           								<!-- Icon -->
-          									<i class="fas fa-file-pdf fa-4x mb-3" style="color:#FF8A00; "></i>
+          									<i class="fas fa-file-pdf fa-4x mb-3" style="color:#FF7900; "></i>
           									<!-- Document Name -->
           									<h5 class="card-title">MOM of the IQAC held on February 23, 2022</h5>
           									<!-- View PDF Button -->
@@ -94,7 +94,7 @@
       								<div class="card text-center">
         								<div class="card-body">
           								<!-- Icon -->
-          									<i class="fas fa-file-pdf fa-4x mb-3" style="color:#FF8A00; "></i>
+          									<i class="fas fa-file-pdf fa-4x mb-3" style="color:#FF7900; "></i>
           									<!-- Document Name -->
           									<h5 class="card-title">MOM of the IQAC held on January 20, 2022</h5>
           									<!-- View PDF Button -->
@@ -107,7 +107,7 @@
       								<div class="card text-center">
         								<div class="card-body">
           								<!-- Icon -->
-          									<i class="fas fa-file-pdf fa-4x mb-3" style="color:#FF8A00; "></i>
+          									<i class="fas fa-file-pdf fa-4x mb-3" style="color:#FF7900; "></i>
           									<!-- Document Name -->
           									<h5 class="card-title">MOM of the IQAC held on October 05, 2021</h5>
           									<!-- View PDF Button -->
@@ -120,7 +120,7 @@
       								<div class="card text-center">
         								<div class="card-body">
           								<!-- Icon -->
-          									<i class="fas fa-file-pdf fa-4x mb-3" style="color:#FF8A00; "></i>
+          									<i class="fas fa-file-pdf fa-4x mb-3" style="color:#FF7900; "></i>
           									<!-- Document Name -->
           									<h5 class="card-title">MOM of the IQAC held on Sep. 20, 2019</h5>
           									<!-- View PDF Button -->
@@ -134,7 +134,7 @@
       								<div class="card text-center">
         								<div class="card-body">
           								<!-- Icon -->
-          									<i class="fas fa-file-pdf fa-4x mb-3" style="color:#FF8A00; "></i>
+          									<i class="fas fa-file-pdf fa-4x mb-3" style="color:#FF7900; "></i>
           									<!-- Document Name -->
           									<h5 class="card-title">Action Taken Report on the decisions of the Meeting of the IQAC held on January 20, 2022</h5>
           									<!-- View PDF Button -->
@@ -147,7 +147,7 @@
       								<div class="card text-center">
         								<div class="card-body">
           								<!-- Icon -->
-          									<i class="fas fa-file-pdf fa-4x mb-3" style="color:#FF8A00; "></i>
+          									<i class="fas fa-file-pdf fa-4x mb-3" style="color:#FF7900; "></i>
           									<!-- Document Name -->
           									<h5 class="card-title">Action Taken Report on the decisions of the Meeting of the IQAC held on October 05, 2021</h5>
           									<!-- View PDF Button -->

@@ -26,7 +26,7 @@
       								<div class="card text-center">
         								<div class="card-body">
           								<!-- Icon -->
-          									<i class="fas fa-file-pdf fa-4x mb-3" style="color:#FF8A00; "></i>
+          									<i class="fas fa-file-pdf fa-4x mb-3" style="color:#FF7900; "></i>
           									<!-- Document Name -->
           									<h5 class="card-title">Annual Report 2021-22</h5>
           									<!-- View PDF Button -->
@@ -39,7 +39,7 @@
       								<div class="card text-center">
         								<div class="card-body">
           								<!-- Icon -->
-          									<i class="fas fa-file-pdf fa-4x mb-3" style="color:#FF8A00; "></i>
+          									<i class="fas fa-file-pdf fa-4x mb-3" style="color:#FF7900; "></i>
           									<!-- Document Name -->
           									<h5 class="card-title">Annual Report 2020-21</h5>
           									<!-- View PDF Button -->
@@ -52,7 +52,7 @@
       								<div class="card text-center">
         								<div class="card-body">
           								<!-- Icon -->
-          									<i class="fas fa-file-pdf fa-4x mb-3" style="color:#FF8A00; "></i>
+          									<i class="fas fa-file-pdf fa-4x mb-3" style="color:#FF7900; "></i>
           									<!-- Document Name -->
           									<h5 class="card-title">Annual Report 2019-20</h5>
           									<!-- View PDF Button -->
@@ -65,7 +65,7 @@
       								<div class="card text-center">
         								<div class="card-body">
           								<!-- Icon -->
-          									<i class="fas fa-file-pdf fa-4x mb-3" style="color:#FF8A00; "></i>
+          									<i class="fas fa-file-pdf fa-4x mb-3" style="color:#FF7900; "></i>
           									<!-- Document Name -->
           									<h5 class="card-title">Annual Report 2018-19</h5>
           									<!-- View PDF Button -->
@@ -78,7 +78,7 @@
       								<div class="card text-center">
         								<div class="card-body">
           								<!-- Icon -->
-          									<i class="fas fa-file-pdf fa-4x mb-3" style="color:#FF8A00; "></i>
+          									<i class="fas fa-file-pdf fa-4x mb-3" style="color:#FF7900; "></i>
           									<!-- Document Name -->
           									<h5 class="card-title">Annual Report 2017-18</h5>
           									<!-- View PDF Button -->
@@ -91,7 +91,7 @@
       								<div class="card text-center">
         								<div class="card-body">
           								<!-- Icon -->
-          									<i class="fas fa-file-pdf fa-4x mb-3" style="color:#FF8A00; "></i>
+          									<i class="fas fa-file-pdf fa-4x mb-3" style="color:#FF7900; "></i>
           									<!-- Document Name -->
           									<h5 class="card-title">Annual Report 2016-17</h5>
           									<!-- View PDF Button -->
@@ -104,7 +104,7 @@
       								<div class="card text-center">
         								<div class="card-body">
           								<!-- Icon -->
-          									<i class="fas fa-file-pdf fa-4x mb-3" style="color:#FF8A00; "></i>
+          									<i class="fas fa-file-pdf fa-4x mb-3" style="color:#FF7900; "></i>
           									<!-- Document Name -->
           									<h5 class="card-title">Annual Report 2015-16</h5>
           									<!-- View PDF Button -->
@@ -117,7 +117,7 @@
       								<div class="card text-center">
         								<div class="card-body">
           								<!-- Icon -->
-          									<i class="fas fa-file-pdf fa-4x mb-3" style="color:#FF8A00; "></i>
+          									<i class="fas fa-file-pdf fa-4x mb-3" style="color:#FF7900; "></i>
           									<!-- Document Name -->
           									<h5 class="card-title">Annual Report 2014-15</h5>
           									<!-- View PDF Button -->
@@ -130,7 +130,7 @@
       								<div class="card text-center">
         								<div class="card-body">
           								<!-- Icon -->
-          									<i class="fas fa-file-pdf fa-4x mb-3" style="color:#FF8A00; "></i>
+          									<i class="fas fa-file-pdf fa-4x mb-3" style="color:#FF7900; "></i>
           									<!-- Document Name -->
           									<h5 class="card-title">Annual Report 2013-14</h5>
           									<!-- View PDF Button -->
@@ -143,7 +143,7 @@
       								<div class="card text-center">
         								<div class="card-body">
           								<!-- Icon -->
-          									<i class="fas fa-file-pdf fa-4x mb-3" style="color:#FF8A00; "></i>
+          									<i class="fas fa-file-pdf fa-4x mb-3" style="color:#FF7900; "></i>
           									<!-- Document Name -->
           									<h5 class="card-title">Annual Report 2011-12</h5>
           									<!-- View PDF Button -->
@@ -156,7 +156,7 @@
       								<div class="card text-center">
         								<div class="card-body">
           								<!-- Icon -->
-          									<i class="fas fa-file-pdf fa-4x mb-3" style="color:#FF8A00; "></i>
+          									<i class="fas fa-file-pdf fa-4x mb-3" style="color:#FF7900; "></i>
           									<!-- Document Name -->
           									<h5 class="card-title">Annual Report 2010-11</h5>
           									<!-- View PDF Button -->
@@ -169,7 +169,7 @@
       								<div class="card text-center">
         								<div class="card-body">
           								<!-- Icon -->
-          									<i class="fas fa-file-pdf fa-4x mb-3" style="color:#FF8A00; "></i>
+          									<i class="fas fa-file-pdf fa-4x mb-3" style="color:#FF7900; "></i>
           									<!-- Document Name -->
           									<h5 class="card-title">Annual Report 2009-10</h5>
           									<!-- View PDF Button -->
@@ -182,7 +182,7 @@
       								<div class="card text-center">
         								<div class="card-body">
           								<!-- Icon -->
-          									<i class="fas fa-file-pdf fa-4x mb-3" style="color:#FF8A00; "></i>
+          									<i class="fas fa-file-pdf fa-4x mb-3" style="color:#FF7900; "></i>
           									<!-- Document Name -->
           									<h5 class="card-title">Annual Report 2008-09</h5>
           									<!-- View PDF Button -->

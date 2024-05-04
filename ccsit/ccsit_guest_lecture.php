@@ -7,8 +7,8 @@ include 'head.php';
 ?>
 
 				<div class="col-12 col-md-9 mt-3 mt-sm-0 pt-5 ">
-                <h2 class="tmu-text-primary tmu-page-heading">Guest  <span style="color:#ff7a00;">Lecture</span></h2>
-                <h2 class=" text-center d-none d-md-block" style="color:#001055; text-transform: capitalize; font-weight:700!important; font-size:2.4vmax">Guest  <span style="color:#ff7a00;">Lecture</span></h2>
+                <h2 class="tmu-text-primary tmu-page-heading">Guest  <span style="color:#FF7900;">Lecture</span></h2>
+                <h2 class=" text-center d-none d-md-block" style="color:#001055; text-transform: capitalize; font-weight:700!important; font-size:2.4vmax">Guest  <span style="color:#FF7900;">Lecture</span></h2>
                     
     <div class="container">
 

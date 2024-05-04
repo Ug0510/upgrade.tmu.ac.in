@@ -66,7 +66,7 @@ li a{
     font-weight:bold;
 }
 li a:hover{
- color:#ff7a00!important;
+ color:#FF7900!important;
  font-weight:bold;
 }
 .centered-icon {
@@ -97,12 +97,12 @@ text-align:justify;
 
 .m-ol-list li::marker{
     font-size: 1.6vmax;
-    color:#FF7A00;
+    color:#FF7900;
     font-weight: 700;
     text-align:justify;
  }
 .m-ol-list b{
-    /* color:#FF7A00; */
+    /* color:#FF7900; */
     color:#001055;
     font-size: 1.4vmax;
  }

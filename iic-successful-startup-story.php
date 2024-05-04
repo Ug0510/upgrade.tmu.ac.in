@@ -24,7 +24,7 @@ include 'sidebar/iic_sidebar.php';
                                     <div class="card text-center">
                                         <div class="card-body">
                                             <!-- Icon -->
-                                            <i class="fas fa-file-pdf fa-4x mb-3" style="color:#FF8A00; "></i>
+                                            <i class="fas fa-file-pdf fa-4x mb-3" style="color:#FF7900; "></i>
                                             <!-- Document Name -->
                                             <h5 class="card-title">Successful startup initiative by the students.pdf</h5>
                                             <!-- View PDF Button -->

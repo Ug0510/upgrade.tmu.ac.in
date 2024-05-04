@@ -76,7 +76,7 @@
 <style>
 	
 .color{
-color:#ff7a00!important;
+color:#FF7900!important;
 }
 
 h3{
@@ -217,7 +217,7 @@ justify-content:center;
       					<div class="card text-center">
         					<div class="card-body">
           						<!-- Icon -->
-          							<i class="fas fa-file-pdf fa-4x mb-3" style="color:#FF8A00; "></i>
+          							<i class="fas fa-file-pdf fa-4x mb-3" style="color:#FF7900; "></i>
           						<!-- Document Name -->
           							<h5 class="card-title">Minutes of Meeting of 01st Meeting of the Governing Body | Nov 10, 2020</h5>
           						<!-- View PDF Button -->
@@ -322,7 +322,7 @@ justify-content:center;
       					<div class="card text-center">
         					<div class="card-body">
           						<!-- Icon -->
-          							<i class="fas fa-file-pdf fa-4x mb-3" style="color:#FF8A00; "></i>
+          							<i class="fas fa-file-pdf fa-4x mb-3" style="color:#FF7900; "></i>
           						<!-- Document Name -->
           							<h5 class="card-title">Minutes of Meeting of 20th Meeting of the Executive Council | May 14, 2022</h5>
           						<!-- View PDF Button -->
@@ -335,7 +335,7 @@ justify-content:center;
       					<div class="card text-center">
         					<div class="card-body">
           						<!-- Icon -->
-          							<i class="fas fa-file-pdf fa-4x mb-3" style="color:#FF8A00; "></i>
+          							<i class="fas fa-file-pdf fa-4x mb-3" style="color:#FF7900; "></i>
           						<!-- Document Name -->
           							<h5 class="card-title">Minutes of Meeting of 19th Meeting of the Executive Council | June 12, 2021</h5>
           						<!-- View PDF Button -->
@@ -348,7 +348,7 @@ justify-content:center;
       					<div class="card text-center">
         					<div class="card-body">
           						<!-- Icon -->
-          							<i class="fas fa-file-pdf fa-4x mb-3" style="color:#FF8A00; "></i>
+          							<i class="fas fa-file-pdf fa-4x mb-3" style="color:#FF7900; "></i>
           						<!-- Document Name -->
           							<h5 class="card-title">Minutes of Meeting of 18th Meeting of the Executive Council | August 17, 2020</h5>
           						<!-- View PDF Button -->
@@ -361,7 +361,7 @@ justify-content:center;
       					<div class="card text-center">
         					<div class="card-body">
           						<!-- Icon -->
-          							<i class="fas fa-file-pdf fa-4x mb-3" style="color:#FF8A00; "></i>
+          							<i class="fas fa-file-pdf fa-4x mb-3" style="color:#FF7900; "></i>
           						<!-- Document Name -->
           							<h5 class="card-title">Minutes of Meeting of 17th Meeting of the Executive Council | August 17, 2019</h5>
           						<!-- View PDF Button -->
@@ -374,7 +374,7 @@ justify-content:center;
       					<div class="card text-center">
         					<div class="card-body">
           						<!-- Icon -->
-          							<i class="fas fa-file-pdf fa-4x mb-3" style="color:#FF8A00; "></i>
+          							<i class="fas fa-file-pdf fa-4x mb-3" style="color:#FF7900; "></i>
           						<!-- Document Name -->
           							<h5 class="card-title">Minutes of Meeting of 16th Meeting of the Executive Council | May 25, 2019</h5>
           						<!-- View PDF Button -->
@@ -387,7 +387,7 @@ justify-content:center;
       					<div class="card text-center">
         					<div class="card-body">
           						<!-- Icon -->
-          							<i class="fas fa-file-pdf fa-4x mb-3" style="color:#FF8A00; "></i>
+          							<i class="fas fa-file-pdf fa-4x mb-3" style="color:#FF7900; "></i>
           						<!-- Document Name -->
           							<h5 class="card-title">Minutes of Meeting of 15th Meeting of the Executive Council | March 10, 2018</h5>
           						<!-- View PDF Button -->
@@ -400,7 +400,7 @@ justify-content:center;
       					<div class="card text-center">
         					<div class="card-body">
           						<!-- Icon -->
-          							<i class="fas fa-file-pdf fa-4x mb-3" style="color:#FF8A00; "></i>
+          							<i class="fas fa-file-pdf fa-4x mb-3" style="color:#FF7900; "></i>
           						<!-- Document Name -->
           							<h5 class="card-title">Minutes of Meeting of 14th Meeting of the Executive Council | November 11, 2017</h5>
           						<!-- View PDF Button -->
@@ -994,7 +994,7 @@ justify-content:center;
 <div class="card text-center">
 <div class="card-body">
 <!-- Icon -->
-  <i class="fas fa-file-pdf fa-4x mb-3" style="color:#FF8A00; "></i>
+  <i class="fas fa-file-pdf fa-4x mb-3" style="color:#FF7900; "></i>
 <!-- Document Name -->
   <h5 class="card-title">Minutes of the 21st meeting of Academic Council | September 14, 2023</h5>
 <!-- View PDF Button -->
@@ -1007,7 +1007,7 @@ justify-content:center;
 <div class="card text-center">
 <div class="card-body">
 <!-- Icon -->
-  <i class="fas fa-file-pdf fa-4x mb-3" style="color:#FF8A00; "></i>
+  <i class="fas fa-file-pdf fa-4x mb-3" style="color:#FF7900; "></i>
 <!-- Document Name -->
   <h5 class="card-title">Minutes of Meeting of 19th Meeting (Online Mode) of the Academic Council | April 27, 2022</h5>
 <!-- View PDF Button -->
@@ -1020,7 +1020,7 @@ justify-content:center;
 <div class="card text-center">
 <div class="card-body">
 <!-- Icon -->
-  <i class="fas fa-file-pdf fa-4x mb-3" style="color:#FF8A00; "></i>
+  <i class="fas fa-file-pdf fa-4x mb-3" style="color:#FF7900; "></i>
 <!-- Document Name -->
   <h5 class="card-title">Minutes of Meeting of 18th Meeting (Online Mode) of the Academic Council | March 20, 2021</h5>
 <!-- View PDF Button -->
@@ -1033,7 +1033,7 @@ justify-content:center;
 <div class="card text-center">
 <div class="card-body">
 <!-- Icon -->
-  <i class="fas fa-file-pdf fa-4x mb-3" style="color:#FF8A00; "></i>
+  <i class="fas fa-file-pdf fa-4x mb-3" style="color:#FF7900; "></i>
 <!-- Document Name -->
   <h5 class="card-title">Minutes of Meeting of 17th Meeting (Online Mode) of the Academic Council | July 30, 2020</h5>
 <!-- View PDF Button -->
@@ -1046,7 +1046,7 @@ justify-content:center;
 <div class="card text-center">
 <div class="card-body">
 <!-- Icon -->
-  <i class="fas fa-file-pdf fa-4x mb-3" style="color:#FF8A00; "></i>
+  <i class="fas fa-file-pdf fa-4x mb-3" style="color:#FF7900; "></i>
 <!-- Document Name -->
   <h5 class="card-title">Minutes of Meeting of 16th Meeting (Online Mode) of the Academic Council | August 17, 2019</h5>
 <!-- View PDF Button -->
@@ -1059,7 +1059,7 @@ justify-content:center;
 <div class="card text-center">
 <div class="card-body">
 <!-- Icon -->
-  <i class="fas fa-file-pdf fa-4x mb-3" style="color:#FF8A00; "></i>
+  <i class="fas fa-file-pdf fa-4x mb-3" style="color:#FF7900; "></i>
 <!-- Document Name -->
   <h5 class="card-title">Minutes of Meeting of 15th Meeting (Online Mode) of the Academic Council | May 25, 2019</h5>
 <!-- View PDF Button -->
@@ -1072,7 +1072,7 @@ justify-content:center;
 <div class="card text-center">
 <div class="card-body">
 <!-- Icon -->
-  <i class="fas fa-file-pdf fa-4x mb-3" style="color:#FF8A00; "></i>
+  <i class="fas fa-file-pdf fa-4x mb-3" style="color:#FF7900; "></i>
 <!-- Document Name -->
   <h5 class="card-title">Minutes of Meeting of 14th Meeting (Online Mode) of the Academic Council | November 02, 2018</h5>
 <!-- View PDF Button -->
@@ -1086,7 +1086,7 @@ justify-content:center;
 <div class="card text-center">
 <div class="card-body">
 <!-- Icon -->
-  <i class="fas fa-file-pdf fa-4x mb-3" style="color:#FF8A00; "></i>
+  <i class="fas fa-file-pdf fa-4x mb-3" style="color:#FF7900; "></i>
 <!-- Document Name -->
   <h5 class="card-title">Minutes of Meeting of 13th Meeting (Online Mode) of the Academic Council | March 10, 2018</h5>
 <!-- View PDF Button -->
@@ -1099,7 +1099,7 @@ justify-content:center;
 <div class="card text-center">
 <div class="card-body">
 <!-- Icon -->
-  <i class="fas fa-file-pdf fa-4x mb-3" style="color:#FF8A00; "></i>
+  <i class="fas fa-file-pdf fa-4x mb-3" style="color:#FF7900; "></i>
 <!-- Document Name -->
   <h5 class="card-title">Minutes of Meeting of 12th Meeting (Online Mode) of the Academic Council | September 25, 2017 </h5>
 <!-- View PDF Button -->
@@ -1112,7 +1112,7 @@ justify-content:center;
 <div class="card text-center">
 <div class="card-body">
 <!-- Icon -->
-  <i class="fas fa-file-pdf fa-4x mb-3" style="color:#FF8A00; "></i>
+  <i class="fas fa-file-pdf fa-4x mb-3" style="color:#FF7900; "></i>
 <!-- Document Name -->
   <h5 class="card-title">Minutes of Meeting of 11th Meeting (Online Mode) of the Academic Council | March 25, 2017</h5>
 <!-- View PDF Button -->
@@ -1125,7 +1125,7 @@ justify-content:center;
 <div class="card text-center">
 <div class="card-body">
 <!-- Icon -->
-  <i class="fas fa-file-pdf fa-4x mb-3" style="color:#FF8A00; "></i>
+  <i class="fas fa-file-pdf fa-4x mb-3" style="color:#FF7900; "></i>
 <!-- Document Name -->
   <h5 class="card-title">Minutes of Meeting of 10th Meeting (Online Mode) of the Academic Council | February 13, 2016</h5>
 <!-- View PDF Button -->

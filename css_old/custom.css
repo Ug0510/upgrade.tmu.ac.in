@@ -45,7 +45,7 @@
 
 			float: right;
 			position: relative;
-			background-color: #FF7A00;
+			background-color: #FF7900;
 		}
 
 		.button-black {
@@ -130,7 +130,7 @@
 			}
 
 			bg-info11 {
-				background-color: #FF7A00;
+				background-color: #FF7900;
 			}
 
 
@@ -144,7 +144,7 @@
 
 			/* Style the scrollbar thumb */
 			.progul::-webkit-scrollbar-thumb {
-				background-color: #FF7A00;
+				background-color: #FF7900;
 				/* Color of the thumb */
 				border-radius: 6px;
 				/* Rounded corners for the thumb */
@@ -251,7 +251,7 @@
 			line-height: 123px;
 			margin-top: -10px;
 
-			color: #FF7A00;
+			color: #FF7900;
 			/* Note: backdrop-filter has minimal browser support */
 		}
 
@@ -426,7 +426,7 @@
 				line-height: 70px;
 				margin-left: 0px;
 				margin-top: -0px;
-				color: #FF7A00;
+				color: #FF7900;
 			}
 
 			main1>div p {
@@ -493,7 +493,7 @@
             text-align: center;
             line-height: 50px;
             margin-left: 15px;
-            color: #FF7A00;
+            color: #FF7900;
             position: absolute;
             right: -5px;
             top: 20px;

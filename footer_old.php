@@ -42,11 +42,11 @@
 														world-class education.</strong>
 
 												</address>
-												<p style="margin-bottom: 0px;"><strong style="font-size: 16px; font-weight: 600; color:#FF7A00;">Address: </strong> N.H.-9, Delhi
+												<p style="margin-bottom: 0px;"><strong style="font-size: 16px; font-weight: 600; color:#FF7900;">Address: </strong> N.H.-9, Delhi
 												Road, Moradabad - 244001, <br> Uttar Pradesh</p>
-												<p style="margin-bottom: 0px;"><strong style="font-size: 16px; font-weight: 600; color:#FF7A00;">Contact Us: </strong></abbr>
+												<p style="margin-bottom: 0px;"><strong style="font-size: 16px; font-weight: 600; color:#FF7900;">Contact Us: </strong></abbr>
 												1800-270-1490</p>
-												<p style="margin-bottom: 0px;"><strong style="font-size: 16px; font-weight: 600; color:#FF7A00;">Email: </strong></abbr>
+												<p style="margin-bottom: 0px;"><strong style="font-size: 16px; font-weight: 600; color:#FF7900;">Email: </strong></abbr>
 												university@tmu.ac.in</p>
 											</div>
 										</div>

@@ -65,9 +65,9 @@
 						<div class="row align-items-center justify-content-between" style="margin-top:12px;">
 
 							<div class="col-lg-5 col-md-6 py-3 py-lg-0">
-								<h2 class="h1 fw-bold d-none d-sm-block" style="font-size: 48px; font-weight: 600; line-height: 64px; color:#FF7A00; margin-bottom: 22px;">About<span
+								<h2 class="h1 fw-bold d-none d-sm-block" style="font-size: 48px; font-weight: 600; line-height: 64px; color:#FF7900; margin-bottom: 22px;">About<span
 								style="color: #FFFFFF;"> Hospital</span></h2>
-								<h2 class="h1 fw-bold d-block d-sm-none" style="font-size: 48px; font-weight: 600; line-height: 64px; color:#FF7A00; margin-bottom: 22px;">College<span
+								<h2 class="h1 fw-bold d-block d-sm-none" style="font-size: 48px; font-weight: 600; line-height: 64px; color:#FF7900; margin-bottom: 22px;">College<span
 								style="color: #FFFFFF;"> Hospital</span></h2>
 								<p style="color:#ffffff; font-size:14px;">Teerthanker Mahaveer Medical College Hospital has widely expanded various clinical departments 
 									with a provision of super specialty care with growing spectrum of disease and increasing demand of such facilities. 
@@ -97,7 +97,7 @@
 
 								</div>
 								<div class="col-xl-10 col-lg-10 text-center d-block d-sm-none">
-									<h2 class="h1 fw-bold" style="font-size: 30px; font-weight: 600; line-height: 64px; color:#FF7A00; margin-bottom: 9px; margin-top: -12px;">Why Choose Us</h2>
+									<h2 class="h1 fw-bold" style="font-size: 30px; font-weight: 600; line-height: 64px; color:#FF7900; margin-bottom: 9px; margin-top: -12px;">Why Choose Us</h2>
 
 								</div>
 							</div>
@@ -267,7 +267,7 @@
 
 						</div>
 						<div class="col-xl-10 col-lg-10 text-center d-block d-sm-none">
-							<h2 class="h1 fw-bold" style="font-size: 30px; font-weight: 600; line-height: 64px; color:#FF7A00; margin-bottom: 9px; margin-top: -12px;">GALLERY</h2>
+							<h2 class="h1 fw-bold" style="font-size: 30px; font-weight: 600; line-height: 64px; color:#FF7900; margin-bottom: 9px; margin-top: -12px;">GALLERY</h2>
 
 						</div>
 					</div>
@@ -315,12 +315,12 @@
 
 					<div class="row justify-content-center ">
 						<div class="col-xl-10 col-lg-10 text-center d-none d-sm-block">
-							<h2 class="h1 fw-bold" style="font-size: 48px; font-weight: 600; line-height: 64px; color:#FF7A00; margin-bottom: 22px;">TMU <span
+							<h2 class="h1 fw-bold" style="font-size: 48px; font-weight: 600; line-height: 64px; color:#FF7900; margin-bottom: 22px;">TMU <span
 								style="color: #FFFFFF;">HIGHLIGHTS</span></h2>
 
 						</div>
 						<div class="col-xl-10 col-lg-10 text-center d-block d-sm-none">
-							<h2 class="h1 fw-bold" style="font-size: 30px; font-weight: 600; line-height: 64px; color:#FF7A00; margin-bottom: 9px; margin-top: -12px;">TMU <span
+							<h2 class="h1 fw-bold" style="font-size: 30px; font-weight: 600; line-height: 64px; color:#FF7900; margin-bottom: 9px; margin-top: -12px;">TMU <span
 								style="color: #FFFFFF;">HIGHLIGHTS</span></h2>
 
 						</div>

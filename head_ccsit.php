@@ -45,7 +45,7 @@
 
 	<style>
 		:root {
-			--cnvs-themecolor: #FF7A00;
+			--cnvs-themecolor: #FF7900;
 		}
 
 		.bg-overlay-tmu::after {
@@ -53,7 +53,7 @@
 			width: 100vw;
 			height: 100%;
 			background-color: #001055;
-			/* background-color: #FF7A00; */
+			/* background-color: #FF7900; */
 			position: absolute;
 			top: 0;
 			left: 0;
@@ -74,7 +74,7 @@
 		}
 
 		.side-line {
-			border-right: 0px solid #FF7A00;
+			border-right: 0px solid #FF7900;
 		}
 
 		@media screen and (max-width:992px) {
@@ -983,7 +983,7 @@ CSS For Mobile View
 			line-height: 123px;
 			margin-top: -10px;
 
-			color: #FF7A00;
+			color: #FF7900;
 			/* Note: backdrop-filter has minimal browser support */
 		}
 
@@ -1159,7 +1159,7 @@ CSS For Mobile View
 				line-height: 70px;
 				margin-left: 0px;
 				margin-top: -0px;
-				color: #FF7A00;
+				color: #FF7900;
 			}
 
 			main1>div p {
@@ -1249,7 +1249,7 @@ CSS For Mobile View
 			line-height: 123px;
 			margin-top: -10px;
 
-			color: #FF7A00;
+			color: #FF7900;
 			/* Note: backdrop-filter has minimal browser support */
 		}
 
@@ -1425,7 +1425,7 @@ CSS For Mobile View
 				line-height: 70px;
 				margin-left: 0px;
 				margin-top: -0px;
-				color: #FF7A00;
+				color: #FF7900;
 			}
 
 			main1>div p {
@@ -1461,7 +1461,7 @@ CSS For Mobile View
 			display: block;
 			border: 10px solid #f3f3f3;
 			/* Light grey */
-			border-top: 10px solid #FF7A00;
+			border-top: 10px solid #FF7900;
 			/* Blue */
 			border-radius: 50%;
 			width: 100px;
@@ -1899,7 +1899,7 @@ CSS For Mobile View
 		.nav-tabs .nav-item .nav-link.active {
 			color: #ffffff;
 			/* White text color for active tab */
-			background-color: #ff7a00;
+			background-color: #FF7900;
 			/* Dark blue background for active tab */
 		}
 

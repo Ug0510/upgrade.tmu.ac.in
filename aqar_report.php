@@ -24,7 +24,7 @@
       								<div class="card text-center">
         								<div class="card-body">
           								<!-- Icon -->
-          									<i class="fas fa-file-pdf fa-4x mb-3" style="color:#FF8A00; "></i>
+          									<i class="fas fa-file-pdf fa-4x mb-3" style="color:#FF7900; "></i>
           									<!-- Document Name -->
           									<h5 class="card-title">The Annual Quality Assurance Report (AQAR) of the IQAC (Academic Session 2019-20)</h5>
           									<!-- View PDF Button -->
@@ -37,7 +37,7 @@
       								<div class="card text-center">
         								<div class="card-body">
           								<!-- Icon -->
-          									<i class="fas fa-file-pdf fa-4x mb-3" style="color:#FF8A00; "></i>
+          									<i class="fas fa-file-pdf fa-4x mb-3" style="color:#FF7900; "></i>
           									<!-- Document Name -->
           									<h5 class="card-title">The Annual Quality Assurance Report (AQAR) of the IQAC (Academic Session 2018-19)</h5>
           									<!-- View PDF Button -->
@@ -50,7 +50,7 @@
       								<div class="card text-center">
         								<div class="card-body">
           								<!-- Icon -->
-          									<i class="fas fa-file-pdf fa-4x mb-3" style="color:#FF8A00; "></i>
+          									<i class="fas fa-file-pdf fa-4x mb-3" style="color:#FF7900; "></i>
           									<!-- Document Name -->
           									<h5 class="card-title">The Annual Quality Assurance Report (AQAR) of the IQAC (Academic Session 2017-18)</h5>
           									<!-- View PDF Button -->
@@ -63,7 +63,7 @@
       								<div class="card text-center">
         								<div class="card-body">
           								<!-- Icon -->
-          									<i class="fas fa-file-pdf fa-4x mb-3" style="color:#FF8A00; "></i>
+          									<i class="fas fa-file-pdf fa-4x mb-3" style="color:#FF7900; "></i>
           									<!-- Document Name -->
           									<h5 class="card-title">The Annual Quality Assurance Report (AQAR) of the IQAC (Academic Session 2016-17)</h5>
           									<!-- View PDF Button -->

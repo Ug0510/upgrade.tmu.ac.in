@@ -66,11 +66,11 @@ justify-content:center;
 
 .m-ol-list li::marker{
     font-size: 1.6vmax;
-    color:#FF7A00;
+    color:#FF7900;
     font-weight: 700;
 }
 .m-ol-list b{
-    /* color:#FF7A00; */
+    /* color:#FF7900; */
      color:#001055;
      font-size: 1.4vmax;
  }

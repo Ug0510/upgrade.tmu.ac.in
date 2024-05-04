@@ -55,7 +55,7 @@ include 'head.php';
 
   .contact .info-item {
     width: 100%;
-    background-color: #FF7A00;
+    background-color: #FF7900;
     color: #fff;
     margin-bottom: 20px;
     padding: 20px;
@@ -187,7 +187,7 @@ include 'head.php';
   }
 
   .contact .php-email-form button[type=submit]:hover {
-    background: #ff7A00;
+    background: #FF7900;
   }
 
   @keyframes animate-loading {

@@ -46,13 +46,13 @@ text-align:justify;
 
 .m-ol-list li::marker{
     font-size: 1.6vmax;
-    color:#FF7A00;
+    color:#FF7900;
     font-weight: 700;
     text-align:justify;
  }
 .m-ol-list b{
-    /* color:#FF7A00; */
-    color:#FF7A00;
+    /* color:#FF7900; */
+    color:#FF7900;
     font-size: 18px;
  }
 
@@ -85,7 +85,7 @@ include 'sidebar/research_sidebar.php';
       						    <div class="card text-center">
         						    <div class="card-body">
           						    <!-- Icon -->
-          								    <i class="fas fa-file-pdf fa-4x mb-3" style="color:#FF8A00; "></i>
+          								    <i class="fas fa-file-pdf fa-4x mb-3" style="color:#FF7900; "></i>
           							<!-- Document Name -->
           							        <h5 class="card-title">Apply Online, Upload Documents, <br>Pay Online</h5>
           							<!-- View PDF Button -->
@@ -98,7 +98,7 @@ include 'sidebar/research_sidebar.php';
       						    <div class="card text-center">
         						    <div class="card-body">
           						    <!-- Icon -->
-          								    <i class="fas fa-file-pdf fa-4x mb-3" style="color:#FF8A00; "></i>
+          								    <i class="fas fa-file-pdf fa-4x mb-3" style="color:#FF7900; "></i>
           							<!-- Document Name -->
           							        <h5 class="card-title">Download Application Form for offline submission</h5>
           							<!-- View PDF Button -->

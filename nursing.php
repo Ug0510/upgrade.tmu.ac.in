@@ -943,14 +943,14 @@
 		<main1>
 			<div class="d-none d-sm-block">
 				<!-- <span>discover</span> -->
-				<p style="color: #FF7A00;">Tech-</P>
+				<p style="color: #FF7900;">Tech-</P>
 				<p>Enhanced</p>
 				<p>Learning</p>
 				<!-- <a href="#">Explore More</a> -->
 			</div>
 			<div class="d-block d-sm-none">
 				<!-- <span>discover</span> -->
-				<p style="text-align: center;"><span style="color: #FF7A00; font-size: 30px;">TMU</span> A CITY IN
+				<p style="text-align: center;"><span style="color: #FF7900; font-size: 30px;">TMU</span> A CITY IN
 					ITSELF</span>
 					<!-- <a href="#">Explore More</a> -->
 			</div>
@@ -1801,13 +1801,13 @@
 			<div class="row justify-content-center ">
 				<div class="col-xl-10 col-lg-10 text-center d-none d-sm-block">
 					<h2 class="h1 fw-bold"
-						style="font-size: 48px; font-weight: 600; line-height: 64px; color:#FF7A00; margin-bottom: 22px;">
+						style="font-size: 48px; font-weight: 600; line-height: 64px; color:#FF7900; margin-bottom: 22px;">
 						TMU <span style="color: #FFFFFF;">HIGHLIGHTS</span></h2>
 
 				</div>
 				<div class="col-xl-10 col-lg-10 text-center d-block d-sm-none">
 					<h2 class="h1 fw-bold"
-						style="font-size: 30px; font-weight: 600; line-height: 64px; color:#FF7A00; margin-bottom: 9px; margin-top: -12px;">
+						style="font-size: 30px; font-weight: 600; line-height: 64px; color:#FF7900; margin-bottom: 9px; margin-top: -12px;">
 						TMU <span style="color: #FFFFFF;">HIGHLIGHTS</span></h2>
 
 				</div>

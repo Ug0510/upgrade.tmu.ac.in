@@ -84,11 +84,11 @@ include 'head.php';
 	}
 
 	.tm-text-secondary {
-		color: #FF7A00;
+		color: #FF7900;
 	}
 
 	a.tm-text-primary:hover {
-		color: #FF7A00;
+		color: #FF7900;
 	}
 
 	.tm-bg-gray {
