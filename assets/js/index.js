@@ -1172,3 +1172,22 @@ window.addEventListener('load', function() {
 	// 		slideShadows: true,
 	// 	}
 	// });
+
+
+
+    // -------------------------------------------------------
+    // Javascript for Read more function implementation start
+    // -------------------------------------------------------
+
+    $('.read-more').click(function() {
+        $(this).prev().slideToggle();
+        if (($(this).text()) == "Read More") {
+            $(this).text("Read Less");
+        } else {
+            $(this).text("Read More");
+        }
+    });
+
+     // -------------------------------------------------------
+    // Javascript for Read more function implementation end
+    // -------------------------------------------------------

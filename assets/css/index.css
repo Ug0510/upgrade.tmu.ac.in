@@ -2915,3 +2915,33 @@ CSS for IQAC Pages start
 /* ----------------------------
 CSS for IQAC Pages end
 ---------------------------- */
+
+/* 
+-----------------
+Read more feature CSS start 
+-----------------  */
+
+.read-more-content{
+	display: none;
+}
+.read-more{
+	display: inline-block;
+    color:#FF7900;
+}
+.read-more:hover{
+    color:#001055;
+}
+.timeline-info {
+	position: relative;
+	background: #f3f1f1;
+	padding: 24px 20px 18px;
+	margin-bottom: 12px;
+	border: 1px solid #f3f1f1;
+	border-radius: 8px;
+	margin-left: 54px;
+}
+
+/* 
+-----------------
+Read more feature CSS end 
+-----------------  */

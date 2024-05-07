@@ -124,27 +124,6 @@ include 'head.php';
 
         </div>
 
-
-<style>
-    .read-more-content{
-	display: none;
-}
-.read-more{
-	display: inline-block;
-}.timeline-info {
-	position: relative;
-	background: #f3f1f1;
-	padding: 24px 20px 18px;
-	margin-bottom: 12px;
-	border: 1px solid #f3f1f1;
-	border-radius: 8px;
-	margin-left: 54px;
-}
-</style>
-
-
-
-
         <div class="box-container">
             <div class="box">
                 <h1 class="college-main-heading">Teerthanker Mahaveer Institute of Management and Technology (TMIMT)</h1>
@@ -206,19 +185,25 @@ include 'head.php';
                             <p class="p-0 m-0">The college has been consistently rated high in Business School surveys and has been conferred with numerous awards and honors.</p>
                         </li>
                     </ul>
-                    <p>All these factors make Teerthanker Mahaveer Institute of Management and Technology (TMIMT), the best management college in Uttar Pradesh, India.</p>
+                    <p class="mb-0 ms-2">All these factors make Teerthanker Mahaveer Institute of Management and Technology (TMIMT), the best management college in Uttar Pradesh, India.</p>
                     
                     </div>
-                    <a href="javascript:void(0);" class="read-more" title="Read More">Read More</a>
+                    <a href="javascript:void(0);" class="read-more ms-2 mt-2" title="Read More">Read More</a>
                 
                 </div>
                 <div class="tab-pane fade" id="Tab2" role="tabpanel" aria-labelledby="tab2-tab">
                     <h3>Placement/Internship</h3>
-                    <p>The college has established strong ties with national and international institutions, allowing students to gain valuable work experience through internships and co-op programs. Additionally, the college provides robust job placement assistance and career counseling services to help students secure rewarding employment opportunities.
-                        <br><br>
-                        A remarkable 93% of eligible TMIMTians have been successfully placed with top multinational corporations (MNCs), a testament to the quality of education and training they receive at our institution and 35% of our graduating students have received multiple job offers. This outstanding accomplishment highlights the exceptional caliber of education and training at TMIMT College of Management.
-                        <br><br>
-                        We are dedicated to nurturing our students' potential and providing them with the tools they need to succeed in their professional journeys. With a focus on academic excellence and industry relevance, TMIMT College of Management continues to shape the leaders of tomorrow and empower them for successful and fulfilling careers.
+                    <p class="mb-0">The college has established strong ties with national and international institutions, allowing students to gain valuable work experience through internships and co-op programs. Additionally, the college provides robust job placement assistance and career counseling services to help students secure rewarding employment opportunities.
+                        
+                        <div class="read-more-content mt-0">
+                    <br>
+                        <p class="mb-0"> A remarkable 93% of eligible TMIMTians have been successfully placed with top multinational corporations (MNCs), a testament to the quality of education and training they receive at our institution and 35% of our graduating students have received multiple job offers. This outstanding accomplishment highlights the exceptional caliber of education and training at TMIMT College of Management.
+                        </p><br>
+                        <p class="mb-0">We are dedicated to nurturing our students' potential and providing them with the tools they need to succeed in their professional journeys. With a focus on academic excellence and industry relevance, TMIMT College of Management continues to shape the leaders of tomorrow and empower them for successful and fulfilling careers.
+                        </p>
+                    </div>
+                        <a href="javascript:void(0);" class="read-more mt-2" title="Read More">Read More</a>
+                        
                     </p>
                 </div>
                 <div class="tab-pane fade" id="Tab3" role="tabpanel" aria-labelledby="tab3-tab">
