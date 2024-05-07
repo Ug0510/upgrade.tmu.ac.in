@@ -32,9 +32,30 @@ include 'head.php';
             <div class="row justify-content-center">
                 <div class="col-6 col-lg-3 px-1">
                     <div class="card text-center py-3 rounded-0 fw-semibold text-uppercase ls-1">
-                        <div class="card-body gap-4 text-tmu-primary under-banner-cards"> <span>82%</span>
+                        <div class="card-body gap-4 text-tmu-primary under-banner-cards"> 
+                            <span>ICAR </span>
                             <br>
-                            <span class="d-block pt-1">Placement Rate</span>
+                            <span class="d-block pt-1">Accredited</span>
+                            &nbsp;
+                        </div>
+                    </div>
+                </div>
+                <div class="col-6 col-lg-3 px-1">
+                    <div class="card text-center py-3 rounded-0 fw-semibold text-uppercase ls-1">
+                        <div class="card-body gap-4 text-tmu-primary under-banner-cards">
+                            <span>International </span>
+                            <br>
+                            <span class="d-block pt-1">Internship Opportunities</span>
+                            &nbsp;
+                        </div>
+                    </div>
+                </div>
+                <div class="col-6 col-lg-3 px-1">
+                    <div class="card text-center py-3 rounded-0 fw-semibold text-uppercase ls-1">
+                        <div class="card-body gap-4 text-tmu-primary under-banner-cards">
+                            <span>Greenhouse </span>
+                            <br>
+                            <span class="d-block pt-1">Facility for Advanced Research</span>
                         </div>
                     </div>
                 </div>
@@ -44,24 +65,7 @@ include 'head.php';
                             <span>100%</span>
                             <br>
                             <span class="d-block pt-1">Placement Assistance</span>
-                        </div>
-                    </div>
-                </div>
-                <div class="col-6 col-lg-3 px-1">
-                    <div class="card text-center py-3 rounded-0 fw-semibold text-uppercase ls-1">
-                        <div class="card-body gap-4 text-tmu-primary under-banner-cards">
-                            <span>60 LPA</span>
-                            <br>
-                            <span class="d-block pt-1">Highest Package</span>
-                        </div>
-                    </div>
-                </div>
-                <div class="col-6 col-lg-3 px-1">
-                    <div class="card text-center py-3 rounded-0 fw-semibold text-uppercase ls-1">
-                        <div class="card-body gap-4 text-tmu-primary under-banner-cards">
-                            <span>100+</span>
-                            <br>
-                            <span class="d-block pt-1">Global Collaborations</span>
+                            &nbsp;
                         </div>
                     </div>
                 </div>
@@ -80,18 +84,20 @@ include 'head.php';
                         <div class="row">
                             <div class="col-6">
                                 <div class="card text-center py-3 rounded-0 fw-semibold text-uppercase ls-1">
-                                    <div class="card-body gap-4 text-tmu-primary under-banner-cards"> <span>82%</span>
-                                        <br>
-                                        <span class="d-block pt-1">Placement Rate</span>
+                                    <div class="card-body gap-4 text-tmu-primary under-banner-cards"> <span>ICAR </span>
+                            <br>
+                            <span class="d-block pt-1">Accredited</span>
+                            &nbsp;
                                     </div>
                                 </div>
                             </div>
                             <div class="col-6">
                                 <div class="card text-center py-3 rounded-0 fw-semibold text-uppercase ls-1">
                                     <div class="card-body gap-4 text-tmu-primary under-banner-cards">
-                                        <span>100%</span>
+                                    <span>International </span>
                                         <br>
-                                        <span class="d-block pt-1">Placement Assistance</span>
+                                        <span class="d-block pt-1">Internship Opportunities</span>
+                                        &nbsp;
                                     </div>
                                 </div>
                             </div>
@@ -102,18 +108,19 @@ include 'head.php';
                             <div class="col-6">
                                 <div class="card text-center py-3 rounded-0 fw-semibold text-uppercase ls-1">
                                     <div class="card-body gap-4 text-tmu-primary under-banner-cards">
-                                        <span>60 LPA</span>
+                                        <span>Greenhouse </span>
                                         <br>
-                                        <span class="d-block pt-1">Highest Package</span>
+                                        <span class="d-block pt-1">Facility for Advanced Research</span>
                                     </div>
                                 </div>
                             </div>
                             <div class="col-6">
                                 <div class="card text-center py-3 rounded-0 fw-semibold text-uppercase ls-1">
                                     <div class="card-body gap-4 text-tmu-primary under-banner-cards">
-                                        <span>100+</span>
+                                    <span>100%</span>
                                         <br>
-                                        <span class="d-block pt-1">Global Collaborations</span>
+                                        <span class="d-block pt-1">Placement Assistance</span>
+                                        &nbsp;
                                     </div>
                                 </div>
                             </div>
@@ -161,29 +168,41 @@ include 'head.php';
                     <p>Being an ICAR accredited Private University in UP, the Teerthanker Mahaveer University offers B.Sc. (Hons.) Agriculture and M.Sc. Agronomy.
                     <br><br>
                     The college always emphasizes research and innovation in agriculture. Faculty members and students actively engage in research projects, focusing on sustainable agricultural practices, crop improvement, soil health, pest management, and other relevant areas.
-                    <br><br>
-                    Unique tie-ups with JARDS & Smur Agro for collaborative research projects, knowledge exchange, and technological advancements in agriculture.
+                    <br><br></p>
+                    <div class="read-more-content mt-0">
+                    <p>Unique tie-ups with JARDS & Smur Agro for collaborative research projects, knowledge exchange, and technological advancements in agriculture.
                     <br><br>
                     The college maintains strong ties with leading agricultural industries, organizations, and research institutes. It regularly invites industry experts, professionals, and alumni to interact with students through guest lectures, seminars, exposure visits, and workshops.</p>
+                    </div>
+                    <a href="javascript:void(0);" class="read-more ms-2 mt-0" title="Read More">Read More</a>
                 </div>
                 <div class="tab-pane fade" id="Tab2" role="tabpanel" aria-labelledby="tab2-tab">
                     <h3>Placement/Internship</h3>
                     <p>Seeds of knowledge sprout into promising careers in the agricultural industry!</p>
-                    <ul class="m-ol-list ps-4">
-                    <li>Internship Opportunities: The college facilities global internship opportunities for its students at high packages of up to 18 LPA.</li>
-                    <li>Skill Enhancement Programs: The college organises skill enhancement programs to equip students with the necessary competencies and skills required by the industry. Its student-centric approach makes it the best private agriculture college in UP.</li>
-                    <li>Personalised Training: With the help of trained professionals and personalised career guidance and counselling services students are assisted in identifying their career goals, exploring different job opportunities, and making informed decisions. This support helps students align their interests, skills, and aspirations with suitable career paths in the agriculture sector.</li>
-                    <li>100% Placement Assistance: The college has a dedicated placement cell that acts as a bridge between students and potential employers. It places great emphasis on ensuring the successful placement of its students in reputed organisations and industries. Some prominent recruiters include Norex Flavours Pvt Ltd, Dhampur Sugar Mills Ltd, Zeneva Crop Science, Syngenta Foundation, BASF India Ltd, etc.</li>
-                    <li>From networking opportunities to placement at top companies, the College of Agriculture Sciences is your ultimate destination to make a successful career in the field of agriculture.</li>
+                    <ul class="m-ol-list ps-4 mb-0">
+                        <li>Internship Opportunities: The college facilities global internship opportunities for its students at high packages of up to 18 LPA.</li>
+                        <li>Skill Enhancement Programs: The college organises skill enhancement programs to equip students with the necessary competencies and skills required by the industry. Its student-centric approach makes it the best private agriculture college in UP.</li>
+                        <li>Personalised Training: With the help of trained professionals and personalised career guidance and counselling services students are assisted in identifying their career goals, exploring different job opportunities, and making informed decisions. This support helps students align their interests, skills, and aspirations with suitable career paths in the agriculture sector.</li>
                     </ul>
+                    <div class="read-more-content mt-0">
+                        <ul class="m-ol-list ps-4">
+                            <li>100% Placement Assistance: The college has a dedicated placement cell that acts as a bridge between students and potential employers. It places great emphasis on ensuring the successful placement of its students in reputed organisations and industries. Some prominent recruiters include Norex Flavours Pvt Ltd, Dhampur Sugar Mills Ltd, Zeneva Crop Science, Syngenta Foundation, BASF India Ltd, etc.</li>
+                            <li>From networking opportunities to placement at top companies, the College of Agriculture Sciences is your ultimate destination to make a successful career in the field of agriculture.</li>
+                        </ul>
+                    </div>
+                    <a href="javascript:void(0);" class="read-more ms-2 mt-1" title="Read More">Read More</a>    
                 </div>
                 <div class="tab-pane fade" id="Tab3" role="tabpanel" aria-labelledby="tab3-tab">
                     <h3>Curriculum</h3>
-                    <p>The College of Agricultural Sciences blends modern agriculture education (as per the 5th Dean’s Committee of Indian Council of Agriculture Research -ICAR) and the NEP scheme of UP Higher Education, critically implementing each part of its curriculum with practical aspects, and hands-on training.
-<br><br>The college aims to produce Agri technocrats as trained assets to lead agriculture in contemporary times of climate uncertainty, resource constraints, and burgeoning population climate shifts.
-<br><br>Through an extensive curriculum, the college promotes a deep understanding of agricultural practices and ideas as well as the information and skills essential for successful careers in agriculture.
-<br><br>Truly, the College of Agriculture Science is the best private agriculture college in UP as skills-enhancing courses have been introduced in the curriculum like nursery management, mushroom cultivation, commercial horticulture, commercial bee-keeping, food processing, organic farming, and bio-dynamic farming, etc.</p>
+                        <p>The College of Agricultural Sciences blends modern agriculture education (as per the 5th Dean’s Committee of Indian Council of Agriculture Research -ICAR) and the NEP scheme of UP Higher Education, critically implementing each part of its curriculum with practical aspects, and hands-on training.
+                        <br><br>The college aims to produce Agri technocrats as trained assets to lead agriculture in contemporary times of climate uncertainty, resource constraints, and burgeoning population climate shifts.</p><br>
+                        <div class="read-more-content mt-0 ">
+                            <p>Through an extensive curriculum, the college promotes a deep understanding of agricultural practices and ideas as well as the information and skills essential for successful careers in agriculture.
+                            <br><br>Truly, the College of Agriculture Science is the best private agriculture college in UP as skills-enhancing courses have been introduced in the curriculum like nursery management, mushroom cultivation, commercial horticulture, commercial bee-keeping, food processing, organic farming, and bio-dynamic farming, etc.</p>
+                        </div>
+                        <a href="javascript:void(0);" class="read-more ms-2 mt-1" title="Read More">Read More</a>         
                 </div>
+
                 <div class="tab-pane fade" id="Tab4" role="tabpanel" aria-labelledby="tab4-tab">
                     <h3>Infrastructure</h3>
                     <p>It offers state-of-the-art facilities and takes pride in having modular learning labs with industry-standard equipment & facilities in agricultural sciences. <br><br>

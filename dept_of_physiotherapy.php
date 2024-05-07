@@ -32,16 +32,7 @@ include 'head.php';
             <div class="row justify-content-center">
                 <div class="col-6 col-lg-3 px-1">
                     <div class="card text-center py-3 rounded-0 fw-semibold text-uppercase ls-1">
-                        <div class="card-body gap-4 text-tmu-primary under-banner-cards"> <span>82%</span>
-                            <br>
-                            <span class="d-block pt-1">Placement Rate</span>
-                        </div>
-                    </div>
-                </div>
-                <div class="col-6 col-lg-3 px-1">
-                    <div class="card text-center py-3 rounded-0 fw-semibold text-uppercase ls-1">
-                        <div class="card-body gap-4 text-tmu-primary under-banner-cards">
-                            <span>100%</span>
+                        <div class="card-body gap-4 text-tmu-primary under-banner-cards"><span>100%</span>
                             <br>
                             <span class="d-block pt-1">Placement Assistance</span>
                         </div>
@@ -50,18 +41,27 @@ include 'head.php';
                 <div class="col-6 col-lg-3 px-1">
                     <div class="card text-center py-3 rounded-0 fw-semibold text-uppercase ls-1">
                         <div class="card-body gap-4 text-tmu-primary under-banner-cards">
-                            <span>60 LPA</span>
+                            <span>Practical </span>
                             <br>
-                            <span class="d-block pt-1">Highest Package</span>
+                            <span class="d-block pt-1">Exposure at TMU Hospital</span>
                         </div>
                     </div>
                 </div>
                 <div class="col-6 col-lg-3 px-1">
                     <div class="card text-center py-3 rounded-0 fw-semibold text-uppercase ls-1">
                         <div class="card-body gap-4 text-tmu-primary under-banner-cards">
-                            <span>100+</span>
+                            <span>Well Equipped</span>
                             <br>
-                            <span class="d-block pt-1">Global Collaborations</span>
+                            <span class="d-block pt-1"> Labs and Training Centre</span>
+                        </div>
+                    </div>
+                </div>
+                <div class="col-6 col-lg-3 px-1">
+                    <div class="card text-center py-3 rounded-0 fw-semibold text-uppercase ls-1">
+                        <div class="card-body gap-4 text-tmu-primary under-banner-cards">
+                            <span>Approved</span>
+                            <br>
+                            <span class="d-block pt-1"> by UP State Medical Faculty</span>
                         </div>
                     </div>
                 </div>
@@ -80,9 +80,9 @@ include 'head.php';
                         <div class="row">
                             <div class="col-6">
                                 <div class="card text-center py-3 rounded-0 fw-semibold text-uppercase ls-1">
-                                    <div class="card-body gap-4 text-tmu-primary under-banner-cards"> <span>82%</span>
+                                    <div class="card-body gap-4 text-tmu-primary under-banner-cards"> <span>100%</span>
                                         <br>
-                                        <span class="d-block pt-1">Placement Rate</span>
+                                        <span class="d-block pt-1">Placement Assistance</span>
                                     </div>
                                 </div>
                             </div>
@@ -91,7 +91,7 @@ include 'head.php';
                                     <div class="card-body gap-4 text-tmu-primary under-banner-cards">
                                         <span>100%</span>
                                         <br>
-                                        <span class="d-block pt-1">Placement Assistance</span>
+                                        <span class="d-block pt-1">Practical Exposure at TMU Hospital</span>
                                     </div>
                                 </div>
                             </div>
@@ -104,7 +104,7 @@ include 'head.php';
                                     <div class="card-body gap-4 text-tmu-primary under-banner-cards">
                                         <span>60 LPA</span>
                                         <br>
-                                        <span class="d-block pt-1">Highest Package</span>
+                                        <span class="d-block pt-1">Well Equipped Labs and Training Centre</span>
                                     </div>
                                 </div>
                             </div>
@@ -113,7 +113,7 @@ include 'head.php';
                                     <div class="card-body gap-4 text-tmu-primary under-banner-cards">
                                         <span>100+</span>
                                         <br>
-                                        <span class="d-block pt-1">Global Collaborations</span>
+                                        <span class="d-block pt-1">Approved by UP State Medical Faculty</span>
                                     </div>
                                 </div>
                             </div>
@@ -163,10 +163,11 @@ include 'head.php';
                 </div>
                 <div class="tab-pane fade" id="Tab2" role="tabpanel" aria-labelledby="tab2-tab">
                     <h3>Placement/Internship</h3>
-                    <p>The physiotherapy department offers stellar placement and internship opportunities for our students, ensuring professional growth. We have strong tie-ups with recognised hospitals that provide a wide range of in-patient and out-patient facilities under various specialized departments of service. These departments include musculoskeletal (surgical/medical), traumatology/rheumatology, burns and plastic surgery, neurosciences (surgical/medical), paediatrics, psychiatry/psychosomatic, cardiorespiratory (surgical/medical), surgery/medicine, intensive care (surgical/medical/trauma), obstetrics & gynaecology, geriatrics, and community-based rehabilitation.
-                    <br><br>
-                    Our aim is to prepare students to excel in the field of physiotherapy. The comprehensive placement programmes by CRC ensure our students have the opportunity to work in diverse healthcare settings and gain valuable experience. With the support of our esteemed in-campus hospital partner, our students are well-equipped to make a significant impact in the healthcare industry.</p>
-                    </p>
+                    <p>The physiotherapy department offers stellar placement and internship opportunities for our students, ensuring professional growth. We have strong tie-ups with recognised hospitals that provide a wide range of in-patient and out-patient facilities under various specialized departments of service. These departments include musculoskeletal (surgical/medical), traumatology/rheumatology, burns and plastic surgery, neurosciences (surgical/medical), paediatrics, psychiatry/psychosomatic, cardiorespiratory (surgical/medical), surgery/medicine, intensive care (surgical/medical/trauma), obstetrics & gynaecology, geriatrics, and community-based rehabilitation.</p>
+                    <div class="read-more-content mt-1">
+                    <p>Our aim is to prepare students to excel in the field of physiotherapy. The comprehensive placement programmes by CRC ensure our students have the opportunity to work in diverse healthcare settings and gain valuable experience. With the support of our esteemed in-campus hospital partner, our students are well-equipped to make a significant impact in the healthcare industry.</p>
+                    </div>
+                    <a href="javascript:void(0);" class="read-more ms-0 mt-1" title="Read More">Read More</a> 
                 </div>
                 <div class="tab-pane fade" id="Tab3" role="tabpanel" aria-labelledby="tab3-tab">
                     <h3>Curriculum</h3>
@@ -175,15 +176,19 @@ include 'head.php';
                 <div class="tab-pane fade" id="Tab4" role="tabpanel" aria-labelledby="tab4-tab">
                     <h3>Infrastructure</h3>
                     <p>The physiotherapy department has an exceptional infrastructure that sets high standards. Students at TMU enjoy a conducive learning environment. Dedicated research facilities further enhance their education and training.Here's the list of the facilities available:</p>
-                    <ul class="m-ol-list ps-4">
+                    <ul class="m-ol-list ps-4 mb-0">
                         <li><p class="p-0 m-0">Exercise Therapy Demonstration Lab</p></li>
                         <li><p class="p-0 m-0">Electrotherapy Demonstration Lab</p></li>
                         <li><p class="p-0 m-0">Research Lab</p></li>
-                        <li><p class="p-0 m-0">Library</p></li>
-                        <li><p class="p-0 m-0">Indoor and Outdoor Sports Facility</p></li>
-                        <li><p class="p-0 m-0">Hostel Facility</p></li>
-
-                    </ul> 
+                    </ul>    
+                    <div class="read-more-content mt-1">
+                        <ul class="m-ol-list ps-4">
+                            <li><p class="p-0 m-0">Library</p></li>
+                            <li><p class="p-0 m-0">Indoor and Outdoor Sports Facility</p></li>
+                            <li><p class="p-0 m-0">Hostel Facility</p></li>
+                        </ul> 
+                    </div>
+                    <a href="javascript:void(0);" class="read-more ms-0 mt-1" title="Read More">Read More</a> 
                 </div>
             </div>
         </div>

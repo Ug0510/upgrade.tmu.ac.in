@@ -12,8 +12,8 @@ include 'head.php';
         <div class="container-fluid  my-0 px-2">
             <div class="row ps-4">
                 <div class="col-md-6 pt-0 pt-md-4 ps-md-5 mb-4">
-                    <h1 class=" mt-5 mb-5 d-none d-md-block  banner-main-heading">Welcome to the <br> <span style="font-weight:700!important;">Best Law</span> College in UP</h1>
-                    <h1 class=" mt-5 mb-3 d-block d-md-none" style="color:#001055; text-transform: capitalize; font-weight:700!important; font-size:24px">Welcome to the <span>Best Law</span> College in UP,</h1>
+                    <h1 class=" mt-5 mb-5 d-none d-md-block  banner-main-heading">Welcome to the <br> <span style="font-weight:700!important;">Best Law</span> College <br>in UP</h1>
+                    <h1 class=" mt-5 mb-3 d-block d-md-none" style="color:#001055; text-transform: capitalize; font-weight:700!important; font-size:24px">Welcome to the <span>Best Law</span> College <br> in UP,</h1>
                     <a href="#" class="tmu-btn btn-1 me-4 py-1 px-3 py-xl-2 px-xl-4"> Download Brocher</a>
                     <a href="#" class="tmu-btn btn-2 py-1 px-3 py-xl-2 px-xl-4">Apply Now</a>
                 </div>
@@ -32,36 +32,37 @@ include 'head.php';
             <div class="row justify-content-center">
                 <div class="col-6 col-lg-3 px-1">
                     <div class="card text-center py-3 rounded-0 fw-semibold text-uppercase ls-1">
-                        <div class="card-body gap-4 text-tmu-primary under-banner-cards"> <span>82%</span>
+                        <div class="card-body gap-4 text-tmu-primary under-banner-cards"> 
+                            <span>Bar Council</span>
                             <br>
-                            <span class="d-block pt-1">Placement Rate</span>
+                            <span class="d-block pt-1">of India approved Programmes</span>
                         </div>
                     </div>
                 </div>
                 <div class="col-6 col-lg-3 px-1">
                     <div class="card text-center py-3 rounded-0 fw-semibold text-uppercase ls-1">
                         <div class="card-body gap-4 text-tmu-primary under-banner-cards">
-                            <span>100%</span>
+                            <span>Integrated </span>
                             <br>
-                            <span class="d-block pt-1">Placement Assistance</span>
+                            <span class="d-block pt-1">Dual Degree <br> Programmes</span>
                         </div>
                     </div>
                 </div>
                 <div class="col-6 col-lg-3 px-1">
                     <div class="card text-center py-3 rounded-0 fw-semibold text-uppercase ls-1">
                         <div class="card-body gap-4 text-tmu-primary under-banner-cards">
-                            <span>60 LPA</span>
+                            <span>Legal Aid</span>
                             <br>
-                            <span class="d-block pt-1">Highest Package</span>
+                            <span class="d-block pt-1">Clinics & Social Consultancy Centre</span>
                         </div>
                     </div>
                 </div>
                 <div class="col-6 col-lg-3 px-1">
                     <div class="card text-center py-3 rounded-0 fw-semibold text-uppercase ls-1">
                         <div class="card-body gap-4 text-tmu-primary under-banner-cards">
-                            <span>100+</span>
+                            <span>Active learning </span>
                             <br>
-                            <span class="d-block pt-1">Global Collaborations</span>
+                            <span class="d-block pt-1">through Moot Court Sessions</span>
                         </div>
                     </div>
                 </div>
@@ -80,18 +81,19 @@ include 'head.php';
                         <div class="row">
                             <div class="col-6">
                                 <div class="card text-center py-3 rounded-0 fw-semibold text-uppercase ls-1">
-                                    <div class="card-body gap-4 text-tmu-primary under-banner-cards"> <span>82%</span>
+                                    <div class="card-body gap-4 text-tmu-primary under-banner-cards"> 
+                                        <span>Bar Council</span>
                                         <br>
-                                        <span class="d-block pt-1">Placement Rate</span>
+                                        <span class="d-block pt-1">of India approved Programmes</span>
                                     </div>
                                 </div>
                             </div>
                             <div class="col-6">
                                 <div class="card text-center py-3 rounded-0 fw-semibold text-uppercase ls-1">
                                     <div class="card-body gap-4 text-tmu-primary under-banner-cards">
-                                        <span>100%</span>
+                                        <span>Integrated </span>
                                         <br>
-                                        <span class="d-block pt-1">Placement Assistance</span>
+                                         <span class="d-block pt-1">Dual Degree <br> Programmes</span>
                                     </div>
                                 </div>
                             </div>
@@ -102,18 +104,18 @@ include 'head.php';
                             <div class="col-6">
                                 <div class="card text-center py-3 rounded-0 fw-semibold text-uppercase ls-1">
                                     <div class="card-body gap-4 text-tmu-primary under-banner-cards">
-                                        <span>60 LPA</span>
+                                        <span>Legal Aid</span>
                                         <br>
-                                        <span class="d-block pt-1">Highest Package</span>
+                                         <span class="d-block pt-1">Clinics & Social Consultancy Centre</span>
                                     </div>
                                 </div>
                             </div>
                             <div class="col-6">
                                 <div class="card text-center py-3 rounded-0 fw-semibold text-uppercase ls-1">
                                     <div class="card-body gap-4 text-tmu-primary under-banner-cards">
-                                        <span>100+</span>
+                                        <span>Active learning </span>
                                         <br>
-                                        <span class="d-block pt-1">Global Collaborations</span>
+                                         <span class="d-block pt-1">through Moot Court Sessions</span>
                                     </div>
                                 </div>
                             </div>
@@ -158,24 +160,32 @@ include 'head.php';
                 <div class="tab-pane fade show active" id="Tab1" role="tabpanel" aria-labelledby="tab1-tab">
                     <h3>Key Highlights</h3>
                     <p>The college has been rewarding the legal sector with consistently good professionals and has been rated in high regards in the top law colleges in UP.</p>
-                        <ul class="m-ol-list ps-4">
+                        <ul class="m-ol-list ps-4 mb-0">
                             <li>A multicultural environment for our students from different nations and continents allows them to interact, learn from their peers, and make long-term professional associations.</li>
                             <li>100% placement assistance in leading law firms, corporate houses, and NGOs. While one can also pursue their career as a Professor / Judge / Law Officers in academics, judicial services & public offices, respectively.</li>
-                            <li>Intra and inter-school academic competitions are organized regularly. These competitions include moot-court competitions, debate competitions, extempore competitions, legal role-play competitions, research paper presentations, Legal Quizzes, etc.</li>
-                            <li>Guest lectures by eminent personalities from the legal fraternity as well as workshops and seminars monthly and organizing periodic visits to the Parliament, Law Commission of India, Supreme Court of India, etc.</li>
-                            <li>Scholarship Program for Meritorious.</li>
-							<li>Holistic development.</li>
-                        </ul>
+                        </ul>    
+                            <div class="read-more-content mt-0">
+                                <ul class="m-ol-list ps-4 mb-0">
+                                    <li>Intra and inter-school academic competitions are organized regularly. These competitions include moot-court competitions, debate competitions, extempore competitions, legal role-play competitions, research paper presentations, Legal Quizzes, etc.</li>
+                                    <li>Guest lectures by eminent personalities from the legal fraternity as well as workshops and seminars monthly and organizing periodic visits to the Parliament, Law Commission of India, Supreme Court of India, etc.</li>
+                                    <li>Scholarship Program for Meritorious.</li>
+							        <li>Holistic development.</li>
+                                </ul>
+                            </div>
+                            <a href="javascript:void(0);" class="read-more ms-2 mt-1" title="Read More">Read More</a>    
                 </div>
                 <div class="tab-pane fade" id="Tab2" role="tabpanel" aria-labelledby="tab2-tab">
                     <h3>Internship and Job Placement Opportunities:</h3>
                     <p>The department will have multiple collaborations with industries/research institutions across the globe to provide the best exposure to students and make them ready not only for Indian but International Legal Markets. (IN CASE OF SPECIFIC COMPANIES, FIRM'S NAMES please add)</p>
-                    <h3>Global Perspective and International Exchanges:</h3>
-                    <p>The international law is being strengthened by various national and international forums and with the correct guidance the college aims to serve not just the courtry but the world as a whole.
-                    <br><br>Hence College of Law & Legal Studies is the Best Private Law College in Uttar Pradesh.</p>
-                    </p>
+                    <div class="read-more-content mt-1">
+                        <h3>Global Perspective and International Exchanges:</h3>
+                        <p>The international law is being strengthened by various national and international forums and with the correct guidance the college aims to serve not just the courtry but the world as a whole.
+                        <br><br>Hence College of Law & Legal Studies is the Best Private Law College in Uttar Pradesh.</p>
+                    </div>
+                    <a href="javascript:void(0);" class="read-more ms-2 mt-1" title="Read More">Read More</a>    
                 </div>
                 <div class="tab-pane fade" id="Tab3" role="tabpanel" aria-labelledby="tab3-tab">
+                <h3>curriculum</h3>
                     <p>The curriculum is a road map of the academic journey, and the appropriate importance is leveraged through it. The curriculum is aligned with the latest industry knowledge and emphasizes the holistic development of the students. Recently the University has been implementing NEP 2020 policy guidelines, legal framework, OBE's guidelines, etc., to ensure that the educational framework is at par with the global standards. Moreover, to expose the students to broader industry knowledge, national and international repute dignitaries are invited to guide them and nurture their entrepreneurial talent, stimulate research, foster leadership skills, and contribute to the modern business world. Also, the curriculum is BCI approved.</p>
                 </div>
                 <div class="tab-pane fade" id="Tab4" role="tabpanel" aria-labelledby="tab4-tab">
