@@ -211,6 +211,7 @@ include 'head.php';
                     <p>The curriculum of this top management college is thoughtfully designed as per the National Education Policy (NEP 2020) to impart a well-rounded education that equips students with the knowledge and skills necessary to excel in the dynamic business world. The curriculum is continuously updated to stay relevant and in sync with the latest industry trends.
                         <br><br>
                         Through a mix of theoretical learning and practical applications, students gain a comprehensive understanding of business dynamics, problem-solving abilities, and effective decision-making skills. Moreover, our curriculum emphasizes the importance of experiential learning, case studies, industry projects, and internships, ensuring that students are well-prepared to tackle real-world challenges and adapt to the ever-evolving industry landscape.
+                                <br><br>
                     </p>
                 </div>
                 <div class="tab-pane fade" id="Tab4" role="tabpanel" aria-labelledby="tab4-tab">
@@ -218,6 +219,7 @@ include 'head.php';
                     <p>TMIMT College of Management provides modern infrastructure and state-of-the-art facilities, including well-equipped classrooms, projectors, computer labs, and dedicated spaces for group discussions and collaborations. These facilities create an optimal learning environment and help in enhancing the overall educational experience for students.
                         <br><br>
                         Additionally, the college is a hub of multifaceted academic research, thus equipping students with crucial research skills. It has a library with the latest world-class books, journals, periodicals, newspapers, and a digital library for academic excellence in the domain.
+                        <br><br>
                     </p>
                 </div>
             </div>

@@ -99,6 +99,7 @@ display: -webkit-box;
 /* -webkit-line-clamp: 3; */
 -webkit-box-orient: vertical;
 color: #001055;
+margin-bottom: 30px;
 }
 
 @media screen and (max-width:480px) {
