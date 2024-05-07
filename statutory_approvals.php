@@ -8,7 +8,7 @@ color:#001055 !important;
 
 }
 p a:hover{
-color:#FF7A00!important;
+color:#FF7900!important;
 }
 
 
@@ -20,10 +20,19 @@ ul{
 
 
 
-<?php
- include 'sidebar/about_tmu_sidebar.php';
-?>
-                <div class="col-12 col-md-9 mt-3 mt-sm-0 pt-5 ">
+<section id="content">
+	<div class="content-wrap py-0">
+
+
+
+		<div class="container-fluid my-0  px-0 px-md-3">
+
+
+			<div class="row">
+			<?php
+				include 'sidebar/about_tmu_sidebar.php';
+				?>
+                <div class="col-12 col-md-10 mt-3 mt-sm-0 pt-5 ">
 						<!-- Write content for right side here  -->
                        
                         <div class="row mx-0">
@@ -38,7 +47,7 @@ ul{
       					        <div class="card text-center">
         					        <div class="card-body">
           						        <!-- Icon -->
-          							        <i class="fa-solid fa-image fa-4x mb-3" style="color:#FF8A00; "></i>
+          							        <i class="fa-solid fa-image fa-4x mb-3" style="color:#FF7900; "></i>
           						        <!-- Document Name -->
           							        <h5 class="card-title" style="font-size:14px; font-family:'poppins';">Notification (Hindi)</h5><br>
           						        <!-- View image Button -->
@@ -51,7 +60,7 @@ ul{
       					        <div class="card text-center">
         					        <div class="card-body">
           						        <!-- Icon -->
-          							        <i class="fa-solid fa-image fa-4x mb-3" style="color:#FF8A00; "></i>
+          							        <i class="fa-solid fa-image fa-4x mb-3" style="color:#FF7900; "></i>
           						        <!-- Document Name -->
           							        <h5 class="card-title" style="font-size:14px; font-family:'poppins';">Notification (English)</h5><br>
           						        <!-- View PDF Button -->
@@ -64,7 +73,7 @@ ul{
       					        <div class="card text-center">
         					        <div class="card-body">
           						        <!-- Icon -->
-          							        <i class="fa-solid fa-image fa-4x mb-3" style="color:#FF8A00; "></i>
+          							        <i class="fa-solid fa-image fa-4x mb-3" style="color:#FF7900; "></i>
           						        <!-- Document Name -->
           							        <h5 class="card-title" style="font-size:14px; font-family:'poppins';">Authorization Letter from Government of Uttar Pradesh</h5>
           						        <!-- View image Button -->
@@ -87,7 +96,7 @@ ul{
       					        <div class="card text-center">
         					        <div class="card-body">
           						        <!-- Icon -->
-          							        <i class="fa-solid fa-image fa-4x mb-3" style="color:#FF8A00; "></i>
+          							        <i class="fa-solid fa-image fa-4x mb-3" style="color:#FF7900; "></i>
           						        <!-- Document Name -->
           							        <h5 class="card-title" style="font-size:14px; font-family:'poppins';">Letter of UGC recognition for Teerthanker Mahaveer University</h5><br>
           						        <!-- View image Button -->
@@ -100,7 +109,7 @@ ul{
       					        <div class="card text-center">
         					        <div class="card-body">
           						        <!-- Icon -->
-          							        <i class="fa-solid fa-image fa-4x mb-3" style="color:#FF8A00; "></i>
+          							        <i class="fa-solid fa-image fa-4x mb-3" style="color:#FF7900; "></i>
           						        <!-- Document Name -->
           							        <h5 class="card-title" style="font-size:14px; font-family:'poppins';">The UGC's Letter of 12B status was granted to Teerthanker Mahaveer University.</h5><br>
           						        <!-- View PDF Button -->
@@ -113,7 +122,7 @@ ul{
       					        <div class="card text-center">
         					        <div class="card-body">
           						        <!-- Icon -->
-          							        <i class="fa-solid fa-image fa-4x mb-3" style="color:#FF8A00; "></i>
+          							        <i class="fa-solid fa-image fa-4x mb-3" style="color:#FF7900; "></i>
           						        <!-- Document Name -->
           							        <h5 class="card-title" style="font-size:14px; font-family:'poppins';">Report of the UGC Expert Committee</h5><br/><br/>
           						        <!-- View image Button -->

@@ -273,7 +273,7 @@ include 'head.php';
 
         <!-- Section for collaborators -->
         <div class="container industry-collaborators mt-5">
-            <h2 class="text-center mb-0" style="font-weight:700; color:#001055">Top Industry Academic Partners and <span style="color:#FF7A00"> Collaborative Programmes at TMU</span></h2>
+            <h2 class="text-center mb-0" style="font-weight:700; color:#001055">Top Industry Academic Partners and <span style="color:#FF7900"> Collaborative Programmes at TMU</span></h2>
 
             <!-- Collaborators Carousel -->
             <div class="section bg-transparent mt-0 mb-5">

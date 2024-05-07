@@ -14,7 +14,7 @@
 include 'sidebar/examination_system_sidebar.php';
 ?>
 
-                <div class="col-12 col-md-9 mt-3 mt-sm-0 pt-5 ">
+                <div class="col-12 col-md-10 mt-3 mt-sm-0 pt-5 ">
             
         <h2 class="text-center" style="color:#001055; text-transform: capitalize;
          font-weight:700!important; font-size:2.4vmax">Examination<span class="d-block d-sm-inline"> Ordinance</span></h2>
@@ -23,7 +23,7 @@ include 'sidebar/examination_system_sidebar.php';
       								<div class="card text-center">
         								<div class="card-body">
           								<!-- Icon -->
-          									<i class="fas fa-file-pdf fa-4x mb-3" style="color:#FF8A00; "></i>
+          									<i class="fas fa-file-pdf fa-4x mb-3" style="color:#FF7900; "></i>
           									<!-- Document Name -->
           									<h5 class="card-title" style="font-family:'Poppins';font-size:14px;">Upto Academic Session 2012-13</h5>
 										
@@ -37,7 +37,7 @@ include 'sidebar/examination_system_sidebar.php';
       								<div class="card text-center">
         								<div class="card-body">
           								<!-- Icon -->
-          									<i class="fas fa-file-pdf fa-4x mb-3" style="color:#FF8A00; "></i>
+          									<i class="fas fa-file-pdf fa-4x mb-3" style="color:#FF7900; "></i>
           									<!-- Document Name -->
           									<h5 class="card-title" style="font-family:'Poppins';font-size:14px;">Upto Academic Session 2012-13</h5>
           									<!-- View PDF Button -->
@@ -50,7 +50,7 @@ include 'sidebar/examination_system_sidebar.php';
       								<div class="card text-center">
         								<div class="card-body">
           								<!-- Icon -->
-          									<i class="fas fa-file-pdf fa-4x mb-3" style="color:#FF8A00; "></i>
+          									<i class="fas fa-file-pdf fa-4x mb-3" style="color:#FF7900; "></i>
           									<!-- Document Name -->
           									<h5 class="card-title" style="font-family:'Poppins';font-size:14px;">From Academic session 2013-14</h5>
           									<!-- View PDF Button -->
@@ -63,7 +63,7 @@ include 'sidebar/examination_system_sidebar.php';
       								<div class="card text-center">
         								<div class="card-body">
           								<!-- Icon -->
-          									<i class="fas fa-file-pdf fa-4x mb-3" style="color:#FF8A00; "></i>
+          									<i class="fas fa-file-pdf fa-4x mb-3" style="color:#FF7900; "></i>
           									<!-- Document Name -->
           									<h5 class="card-title" style="font-family:'Poppins';font-size:14px;">Upto Academic Session 2016-17</h5>
           									<!-- View PDF Button -->
@@ -76,7 +76,7 @@ include 'sidebar/examination_system_sidebar.php';
       								<div class="card text-center">
         								<div class="card-body">
           								<!-- Icon -->
-          									<i class="fas fa-file-pdf fa-4x mb-3" style="color:#FF8A00; "></i>
+          									<i class="fas fa-file-pdf fa-4x mb-3" style="color:#FF7900; "></i>
           									<!-- Document Name -->
           									<h5 class="card-title" style="font-family:'Poppins';font-size:14px;">With effect from Academic Session 2016-17</h5>
           									<!-- View PDF Button -->
@@ -89,7 +89,7 @@ include 'sidebar/examination_system_sidebar.php';
       								<div class="card text-center">
         								<div class="card-body">
           								<!-- Icon -->
-          									<i class="fas fa-file-pdf fa-4x mb-3" style="color:#FF8A00; "></i>
+          									<i class="fas fa-file-pdf fa-4x mb-3" style="color:#FF7900; "></i>
           									<!-- Document Name -->
           									<h5 class="card-title" style="font-family:'Poppins';font-size:14px;">With effect from Academic Session 2019-20</h5>
           									<!-- View PDF Button -->

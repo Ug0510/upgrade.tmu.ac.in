@@ -40,11 +40,11 @@
 												world-class education.</strong>
 
 										</address>
-										<p style="margin-bottom: 0px;"><strong style="font-size: 16px; font-weight: 600; color:#FF7A00;">Address: </strong> N.H.-9, Delhi
+										<p style="margin-bottom: 0px;"><strong style="font-size: 16px; font-weight: 600; color:#FF7900;">Address: </strong> N.H.-9, Delhi
 											Road, Moradabad - 244001, <br> Uttar Pradesh</p>
-										<p style="margin-bottom: 0px;"><strong style="font-size: 16px; font-weight: 600; color:#FF7A00;">Contact Us: </strong></abbr>
+										<p style="margin-bottom: 0px;"><strong style="font-size: 16px; font-weight: 600; color:#FF7900;">Contact Us: </strong></abbr>
 											1800-270-1490</p>
-										<p style="margin-bottom: 0px;"><strong style="font-size: 16px; font-weight: 600; color:#FF7A00;">Email: </strong></abbr>
+										<p style="margin-bottom: 0px;"><strong style="font-size: 16px; font-weight: 600; color:#FF7900;">Email: </strong></abbr>
 											university@tmu.ac.in</p>
 									</div>
 								</div>
@@ -209,6 +209,18 @@
 <script src="https://cdnjs.cloudflare.com/ajax/libs/OwlCarousel2/2.3.4/owl.carousel.min.js"></script>
 
 <script src="./assets/js/index.js"></script>
+
+
+<script>
+    $('.read-more').click(function() {
+        $(this).prev().slideToggle();
+        if (($(this).text()) == "Read More") {
+            $(this).text("Read Less");
+        } else {
+            $(this).text("Read More");
+        }
+    });
+</script>
 
 <!-- <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.2/dist/js/bootstrap.bundle.min.js" integrity="sha384-C6RzsynM9kWDrMNeT87bh95OGNyZPhcTNXj1NW7RuBCsyN/o0jlpcV8Qyq46cDfL" crossorigin="anonymous"></script> -->
 

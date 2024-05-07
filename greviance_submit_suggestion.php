@@ -56,7 +56,7 @@
 
   .contact .info-item {
     width: 100%;
-    background-color: #FF7A00;
+    background-color: #FF7900;
     color: #fff;
     margin-bottom: 20px;
     padding: 20px;
@@ -188,7 +188,7 @@
   }
 
   .contact .php-email-form button[type=submit]:hover {
-    background: #ff7A00;
+    background: #FF7900;
   }
 
   @keyframes animate-loading {
@@ -206,7 +206,7 @@
  include 'sidebar/greviances_sidebar.php';
 ?>
 
-				<div class="col-12 col-md-9 mt-3 mt-sm-0 pt-5 ">
+				<div class="col-12 col-md-10 mt-3 mt-sm-0 pt-5 ">
 					<!-- Write content for right side here  -->
                     
                     <div class="row mx-0" >

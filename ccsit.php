@@ -982,14 +982,14 @@ include './ccsit/head_ccsit.php';
 				<div class="col-md-3">
 					<div class="d-none d-sm-block">
 						<!-- <span>discover</span> -->
-						<h1 style="color:white;font-size: 3.5rem; font-weight: 600; text-align:left;"><span style="color: #FF7A00;">Tech-Enhanced</span> Learning</h1>
+						<h1 style="color:white;font-size: 3.5rem; font-weight: 600; text-align:left;"><span style="color: #FF7900;">Tech-Enhanced</span> Learning</h1>
 						<!-- <p></p>
                 <p></p> -->
 						<!-- <a href="#">Explore More</a> -->
 					</div>
 					<div class="d-block d-sm-none">
 						<!-- <span>discover</span> -->
-						<p style="text-align: center; color:white; font-size:1.8rem;"><span style="color: #FF7A00;">Tech-Enhanced</span> Learning</span>
+						<p style="text-align: center; color:white; font-size:1.8rem;"><span style="color: #FF7900;">Tech-Enhanced</span> Learning</span>
 							<!-- <a href="#">Explore More</a> -->
 					</div>
 				</div>
@@ -1734,12 +1734,12 @@ include './ccsit/head_ccsit.php';
 
             <div class="row justify-content-center ">
                 <div class="col-xl-10 col-lg-10 text-center d-none d-sm-block">
-                    <h2 class="h1 fw-bold" style="font-size: 48px; font-weight: 600; line-height: 64px; color:#FF7A00; margin-bottom: 22px;">
+                    <h2 class="h1 fw-bold" style="font-size: 48px; font-weight: 600; line-height: 64px; color:#FF7900; margin-bottom: 22px;">
                         TMU <span style="color: #FFFFFF;">HIGHLIGHTS</span></h2>
 
                 </div>
                 <div class="col-xl-10 col-lg-10 text-center d-block d-sm-none">
-                    <h2 class="h1 fw-bold" style="font-size: 30px; font-weight: 600; line-height: 64px; color:#FF7A00; margin-bottom: 9px; margin-top: -12px;">
+                    <h2 class="h1 fw-bold" style="font-size: 30px; font-weight: 600; line-height: 64px; color:#FF7900; margin-bottom: 9px; margin-top: -12px;">
                         TMU <span style="color: #FFFFFF;">HIGHLIGHTS</span></h2>
 
                 </div>

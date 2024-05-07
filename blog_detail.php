@@ -84,7 +84,7 @@
 										<div class="card border-default my-4" style="background-color: #001055;">
 											<div class="card-body p-3">
 												<div class="d-flex align-items-center justify-content-between">
-													<h6 class="fs-5 fw-semibold mb-0" style="color: #FF7A00;">Share:</h6>
+													<h6 class="fs-5 fw-semibold mb-0" style="color: #FF7900;">Share:</h6>
 													<div class="d-flex">
 														<a href="#" class="social-icon si-small text-white border-transparent rounded-circle bg-facebook" title="Facebook">
 															<i class="fa-brands fa-facebook-f"></i>
@@ -117,10 +117,10 @@
 								============================================= -->
 								<div class="row text-center text-md-start justify-content-between my-3">
 									<div class="col-md-auto">
-										<a href="#" class="d-inline-flex align-items-center" style="color: #FF7A00;"><i class="uil uil-angle-left-b fs-3 me-1"></i><span>Top 5 best private Universities in UP</span></a>
+										<a href="#" class="d-inline-flex align-items-center" style="color: #FF7900;"><i class="uil uil-angle-left-b fs-3 me-1"></i><span>Top 5 best private Universities in UP</span></a>
 									</div>
 									<div class="col-md-auto">
-										<a href="#" class="d-inline-flex align-items-center" style="color: #FF7A00;"><span>Lessons From Emergency</span><i class="uil uil-angle-right-b fs-3 ms-1"></i></a>
+										<a href="#" class="d-inline-flex align-items-center" style="color: #FF7900;"><span>Lessons From Emergency</span><i class="uil uil-angle-right-b fs-3 ms-1"></i></a>
 									</div>
 								</div><!-- .post-navigation end -->
 
@@ -142,7 +142,7 @@
 												</div>
 												<p class="mb-3">A blog (shortening of "weblog") is an online journal or informational website displaying information in the reverse chronological order, with the latest posts appearing first.
 													It is a platform where a writer or even a group of writers share their views on an individual subject.</p>
-												<a href="#" class="more-link" style="color: #FF7A00!important; border-color: #FF7A00;">More Posts by TMU Blogs</a>
+												<a href="#" class="more-link" style="color: #FF7900!important; border-color: #FF7900;">More Posts by TMU Blogs</a>
 											</div>
 										</div>
 									</div>
@@ -152,7 +152,7 @@
 								============================================= -->
 								<div id="comments">
 
-									<h3 id="comments-title" style="color: #FF7A00;"><span>3</span> Comments</h3>
+									<h3 id="comments-title" style="color: #FF7900;"><span>3</span> Comments</h3>
 
 									<!-- Comments List
 									============================================= -->

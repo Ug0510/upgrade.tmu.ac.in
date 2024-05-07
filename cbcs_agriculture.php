@@ -5,7 +5,7 @@
 <style>
 	
 .color{
-color:#ff7a00!important;
+color:#FF7900!important;
 }
 
 h3{
@@ -79,7 +79,7 @@ ul{
 include 'sidebar/open_elective_sidebar.php';
 ?>
 
-                <div class="col-12 col-md-9 mt-3 mt-sm-0 pt-5 ">
+                <div class="col-12 col-md-10 mt-3 mt-sm-0 pt-5 ">
 					<!-- Write content for right side here  -->
                     
                     <div class="row mx-0">

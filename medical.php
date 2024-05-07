@@ -26,7 +26,6 @@
 	font-size: 20px;
 	padding-right: 6px;
 	color: #ffffff;
-	font-color: #ffffff;
 }
 
 
@@ -51,7 +50,7 @@
 
 		<!-- Content
 		============================================= -->
-		<section id="content" style="margin-bottom; 200px:">
+		<section id="content" style="margin-bottom: 200px;">
 			<div class="content-wrap py-0" style="overflow: visible">
 
 				<svg viewBox="0 0 1382 58" width="100%" height="60" preserveAspectRatio="none" style="position: absolute; top: -58px; left:0; z-index: 1"><path style="fill:#FFF;" d="M1.52.62s802.13,127,1380,0v56H.51Z"></svg>
@@ -138,7 +137,7 @@
 
 						</div>
 						<div class="col-xl-10 col-lg-10 text-center d-block d-sm-none">
-							<h2 class="h1 fw-bold" style="font-size: 30px; font-weight: 600; line-height: 64px; color:#FF7A00; margin-bottom: 9px; margin-top: -12px;">GALLERY</h2>
+							<h2 class="h1 fw-bold" style="font-size: 30px; font-weight: 600; line-height: 64px; color:#FF7900; margin-bottom: 9px; margin-top: -12px;">GALLERY</h2>
 
 						</div>
 					</div>
@@ -198,12 +197,12 @@
 
 					<div class="row justify-content-center ">
 						<div class="col-xl-10 col-lg-10 text-center d-none d-sm-block">
-							<h2 class="h1 fw-bold" style="font-size: 48px; font-weight: 600; line-height: 64px; color:#FF7A00; margin-bottom: 22px;">TMU <span
+							<h2 class="h1 fw-bold" style="font-size: 48px; font-weight: 600; line-height: 64px; color:#FF7900; margin-bottom: 22px;">TMU <span
 								style="color: #FFFFFF;">HIGHLIGHTS</span></h2>
 
 						</div>
 						<div class="col-xl-10 col-lg-10 text-center d-block d-sm-none">
-							<h2 class="h1 fw-bold" style="font-size: 30px; font-weight: 600; line-height: 64px; color:#FF7A00; margin-bottom: 9px; margin-top: -12px;">TMU <span
+							<h2 class="h1 fw-bold" style="font-size: 30px; font-weight: 600; line-height: 64px; color:#FF7900; margin-bottom: 9px; margin-top: -12px;">TMU <span
 								style="color: #FFFFFF;">HIGHLIGHTS</span></h2>
 
 						</div>

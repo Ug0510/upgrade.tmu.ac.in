@@ -143,7 +143,7 @@
             text-align: center;
             line-height: 50px;
             margin-left: 15px;
-            color: #FF7A00;
+            color: #FF7900;
             position: absolute;
             right: -5px;
             top: 20px;
@@ -417,7 +417,7 @@
             border-radius: 40px;
         }
 
-        .table-wrapper::::-webkit-scrollbar-track {
+        .table-wrapper::-webkit-scrollbar-track {
             background: var(--white);
             border-radius: 40px;
         }
@@ -828,7 +828,7 @@
                                         <li class="menu-item">
                                             <a class="menu-link" href="#">
                                                 <div><i class="fa-solid fa-graduation-cap fa-beat"
-                                                        style="color: #FF7A00;"></i>Undergraduate</div>
+                                                        style="color: #FF7900;"></i>Undergraduate</div>
                                             </a>
                                             <ul class="sub-menu-container">
                                                 <li class="menu-item mega-menu mega-menu-small">
@@ -1261,7 +1261,7 @@
                                         <li class="menu-item">
                                             <a class="menu-link" href="#">
                                                 <div><i class="fa-solid fa-building-columns"
-                                                        style="color: #FF7A00;"></i>Postgraduate</div>
+                                                        style="color: #FF7900;"></i>Postgraduate</div>
                                             </a>
                                             <ul class="sub-menu-container">
                                                 <li class="menu-item mega-menu mega-menu-small">
@@ -1691,7 +1691,7 @@
                                         <li class="menu-item">
                                             <a class="menu-link" href="#">
                                                 <div><i class="fa-solid fa-user-graduate"
-                                                        style="color: #FF7A00;"></i>Doctorate</div>
+                                                        style="color: #FF7900;"></i>Doctorate</div>
                                             </a>
                                             <ul class="sub-menu-container">
                                                 <li class="menu-item">
@@ -1957,7 +1957,7 @@
                                         <li class="menu-item">
                                             <a class="menu-link" href="#">
                                                 <div><i class="fa-solid fa-newspaper"
-                                                        style="color: #FF7A00;"></i>Diploma</div>
+                                                        style="color: #FF7900;"></i>Diploma</div>
                                             </a>
 
                                             <ul class="sub-menu-container">
@@ -2214,7 +2214,7 @@
                                         <li class="menu-item">
                                             <a class="menu-link" href="#">
                                                 <div><i class="fa-solid fa-dice-two"
-                                                        style="color: #FF7A00;"></i>Integrated</div>
+                                                        style="color: #FF7900;"></i>Integrated</div>
                                             </a>
                                             <ul class="sub-menu-container">
                                                 <li class="menu-item">
@@ -3679,7 +3679,7 @@
                             </div>
 
                             <div class="col-lg-6 align-self-center">
-                                <h1 class="h1 fw-semibold lh-X padding-bottom: 0px" style="">B.Tech CSE Eligibility
+                                <h1 class="h1 fw-semibold lh-X padding-bottom: 0px" >B.Tech CSE Eligibility
                                     Criteria & Selection Process</h1>
 
                                 <div class="row col-mb-50">
@@ -3703,15 +3703,15 @@
                                                     score (comprising of Physics and Maths as compulsory subjects and
                                                     any other third subject with highest score)</p>
                                                 <p
-                                                    style="color: #FF7A00; font-size: 15px; margin-top: 2px; font-weight: bold;">
+                                                    style="color: #FF7900; font-size: 15px; margin-top: 2px; font-weight: bold;">
                                                     OR</p>
                                                 <p>on the JEE 2023 score</p>
                                                 <p
-                                                    style="color: #FF7A00; font-size: 15px; margin: 0px; font-weight: bold;">
+                                                    style="color: #FF7900; font-size: 15px; margin: 0px; font-weight: bold;">
                                                     OR</p>
                                                 <p>SAT score</p>
                                                 <p
-                                                    style="color: #FF7A00; font-size: 15px; margin: 0px; font-weight: bold;">
+                                                    style="color: #FF7900; font-size: 15px; margin: 0px; font-weight: bold;">
                                                     OR</p>
                                                 <p>CUET Percentile score</p>
                                             </div>

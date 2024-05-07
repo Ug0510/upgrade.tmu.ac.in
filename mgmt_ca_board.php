@@ -52,7 +52,7 @@
                                     <td>Prof. Vipin Jain<br>(Principal)</td>
                                     <td style="text-align:center">Secretary</td>
                                     <td style="text-align:center">+91-9917200216</td>
-                                    <td><i class="fa-solid fa-envelope" style="color:#ff7A00;"></i>
+                                    <td><i class="fa-solid fa-envelope" style="color:#FF7900;"></i>
                                         principal.management@tmu.ac.in</td>
                                 </tr>
                                 <tr>
@@ -60,7 +60,7 @@
                                     <td>Mr. Akash Bhatnagar<br>(Asst. Director. Corporate Relations)</td>
                                     <td style="text-align:center">Convener</td>
                                     <td style="text-align:center">+91-9927670666</td>
-                                    <td><i class="fa-solid fa-envelope" style="color:#ff7A00;"></i>
+                                    <td><i class="fa-solid fa-envelope" style="color:#FF7900;"></i>
                                         placementcell@tmu.ac.in</td>
                                 </tr>
                                 <tr>
@@ -68,7 +68,7 @@
                                     <td>Mr. Pankaj Kumar<br>(Office Executive T&amp;P)</td>
                                     <td style="text-align:center">Member</td>
                                     <td style="text-align:center">+91-8449574444</td>
-                                    <td><i class="fa-solid fa-envelope" style="color:#ff7A00;"></i> pankaj10s@gmail.com
+                                    <td><i class="fa-solid fa-envelope" style="color:#FF7900;"></i> pankaj10s@gmail.com
                                     </td>
                                 </tr>
                                 <tr>
@@ -76,7 +76,7 @@
                                     <td>Dr. Manoj Agarwal<br>(HOD-Management)</td>
                                     <td style="text-align:center">Member</td>
                                     <td style="text-align:center">+91-7417606465</td>
-                                    <td><i class="fa-solid fa-envelope" style="color:#ff7A00;"></i> manoj.mgmt@tmu.ac.in
+                                    <td><i class="fa-solid fa-envelope" style="color:#FF7900;"></i> manoj.mgmt@tmu.ac.in
                                     </td>
                                 </tr>
                                 <tr>
@@ -84,7 +84,7 @@
                                     <td>Dr. Ankit Kumar<br>(Associate Professor)</td>
                                     <td style="text-align:center">Member</td>
                                     <td style="text-align:center">+91-7891325606</td>
-                                    <td><i class="fa-solid fa-envelope" style="color:#ff7A00;"></i>
+                                    <td><i class="fa-solid fa-envelope" style="color:#FF7900;"></i>
                                         ankit.management@tmu.ac.in</td>
                                 </tr>
                                 <tr>
@@ -92,7 +92,7 @@
                                     <td>Dr. Vibhor Jain<br>(Associate Professor)</td>
                                     <td style="text-align:center">Member</td>
                                     <td style="text-align:center">+91-7906004675</td>
-                                    <td><i class="fa-solid fa-envelope" style="color:#ff7A00;"></i>
+                                    <td><i class="fa-solid fa-envelope" style="color:#FF7900;"></i>
                                         vibhor.management@tmu.ac.in</td>
                                 </tr>
                                 <tr>
@@ -100,7 +100,7 @@
                                     <td>Mr. Anand Joshi<br>(Asst. Professor)</td>
                                     <td style="text-align:center">Member</td>
                                     <td style="text-align:center">+91-9548467527</td>
-                                    <td><i class="fa-solid fa-envelope" style="color:#ff7A00;"></i>
+                                    <td><i class="fa-solid fa-envelope" style="color:#FF7900;"></i>
                                         anand.management@tmu.ac.in</td>
                                 </tr>
                                 <tr>
@@ -108,7 +108,7 @@
                                     <td>Dr. Mohit Rastogi<br>(Asst. Professor)</td>
                                     <td style="text-align:center">Member</td>
                                     <td style="text-align:center">+91-7906212508</td>
-                                    <td><i class="fa-solid fa-envelope" style="color:#ff7A00;"></i>
+                                    <td><i class="fa-solid fa-envelope" style="color:#FF7900;"></i>
                                         mohit.management@tmu.ac.in</td>
                                 </tr>
                                 <tr>
@@ -140,7 +140,7 @@
                                     <td>Mr. Akash Bhatnagar</td>
                                     <td style="text-align:center">Secretary</td>
                                     <td style="text-align:center">+91-9927670666</td>
-                                    <td><i class="fa-solid fa-envelope" style="color:#ff7A00;"></i>
+                                    <td><i class="fa-solid fa-envelope" style="color:#FF7900;"></i>
                                         placementcell@tmu.ac.in</td>
                                 </tr>
                                 <tr>
@@ -148,7 +148,7 @@
                                     <td>Dr Manoj Agarwal</td>
                                     <td style="text-align:center">Member</td>
                                     <td style="text-align:center">+91-7417606465</td>
-                                    <td><i class="fa-solid fa-envelope" style="color:#ff7A00;"></i> manoj.mgmt@tmu.ac.in
+                                    <td><i class="fa-solid fa-envelope" style="color:#FF7900;"></i> manoj.mgmt@tmu.ac.in
                                     </td>
                                 </tr>
                                 <tr>
@@ -156,7 +156,7 @@
                                     <td>Dr. Amit Kansal</td>
                                     <td style="text-align:center">Member</td>
                                     <td style="text-align:center">+91-8899366366</td>
-                                    <td><i class="fa-solid fa-envelope" style="color:#ff7A00;"></i>
+                                    <td><i class="fa-solid fa-envelope" style="color:#FF7900;"></i>
                                         amitk.management@tmu.ac.in</td>
                                 </tr>
                                 <tr>
@@ -164,7 +164,7 @@
                                     <td>Mrs. Anshu Chauhan</td>
                                     <td style="text-align:center">Member</td>
                                     <td style="text-align:center">+91-9720008334</td>
-                                    <td><i class="fa-solid fa-envelope" style="color:#ff7A00;"></i>
+                                    <td><i class="fa-solid fa-envelope" style="color:#FF7900;"></i>
                                         anshu.management@tmu.ac.in</td>
                                 </tr>
                                 <tr>
@@ -172,7 +172,7 @@
                                     <td>Dr Mohit Rastogi</td>
                                     <td style="text-align:center">Member</td>
                                     <td style="text-align:center">+91-7906212508</td>
-                                    <td><i class="fa-solid fa-envelope" style="color:#ff7A00;"></i>
+                                    <td><i class="fa-solid fa-envelope" style="color:#FF7900;"></i>
                                         mohit.management@tmu.ac.in</td>
                                 </tr>
                                 <tr>
@@ -180,7 +180,7 @@
                                     <td>Dr. Rachit Agarwal</td>
                                     <td style="text-align:center">External Member</td>
                                     <td style="text-align:center">+91-9837018121</td>
-                                    <td><i class="fa-solid fa-envelope" style="color:#ff7A00;"></i>
+                                    <td><i class="fa-solid fa-envelope" style="color:#FF7900;"></i>
                                         rachit@urservices.org</td>
                                 </tr>
                             </tbody>

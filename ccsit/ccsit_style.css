@@ -103,13 +103,13 @@ list-style-type: disc!important;
 
 .m-ol-list li::marker{
     font-size: 1.6vmax;
-    color:#FF7A00;
+    color:#FF7900;
     font-weight: 700;
   
  }
 
 .m-ol-list b{
-    /* color:#FF7A00; */
+    /* color:#FF7900; */
     color:#001055;
     font-size: 1.4vmax;
  }
@@ -411,7 +411,7 @@ border:1px solid #dd6900; */
   
   .courses .course-content h4 {
     font-size: 14px;
-    background: #FF7A00;
+    background: #FF7900;
     padding: 7px 14px;
     color: #fff;
     margin: 0;
@@ -448,7 +448,7 @@ section {
   width: 120px;
   height: 1px;
   display: inline-block;
-  background: #FF7A00;
+  background: #FF7900;
   margin: 4px 10px;
 }
 
@@ -529,7 +529,7 @@ section {
 
 .contact .info-item {
   width: 100%;
-  background-color: #FF7A00;
+  background-color: #FF7900;
   color: #fff;
   margin-bottom: 20px;
   padding: 20px;
@@ -661,7 +661,7 @@ section {
   }
 
   .contact .php-email-form button[type=submit]:hover {
-    background: #ff7A00;
+    background: #FF7900;
   }
 
   @keyframes animate-loading {

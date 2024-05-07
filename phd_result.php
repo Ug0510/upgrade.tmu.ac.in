@@ -57,7 +57,7 @@ height: 0vh !important;
     }
     .nav-tabs .nav-item .nav-link.active {
         color: #ffffff; /* White text color for active tab */
-        background-color: #ff7a00; /* Dark blue background for active tab */
+        background-color: #FF7900; /* Dark blue background for active tab */
     }
     .tab-content {
         background-color: #ffffff; /* White background for tab content */
@@ -77,7 +77,7 @@ include 'sidebar/research_sidebar.php';
 ?>
 
 
-        <div class="col-12 col-md-9 mt-3 mt-sm-0 pt-5 ">
+        <div class="col-12 col-md-10 mt-3 mt-sm-0 pt-5 ">
 
           <div class="row mx-0">
             <h2 class=" text-center" style="color:#001055;

@@ -54,7 +54,7 @@
       								<div class="card text-center">
         								<div class="card-body">
           								<!-- Icon -->
-          									<i class="fas fa-file-pdf fa-4x mb-3" style="color:#FF8A00; "></i>
+          									<i class="fas fa-file-pdf fa-4x mb-3" style="color:#FF7900; "></i>
           									<!-- Document Name -->
           									<h5 class="card-title">Student's Feedback Analysis Report 2022-23</h5>
           									<!-- View PDF Button -->
@@ -67,7 +67,7 @@
       								<div class="card text-center">
         								<div class="card-body">
           								<!-- Icon -->
-          									<i class="fas fa-file-pdf fa-4x mb-3" style="color:#FF8A00; "></i>
+          									<i class="fas fa-file-pdf fa-4x mb-3" style="color:#FF7900; "></i>
           									<!-- Document Name -->
           									<h5 class="card-title">Teacher's Feedback Analysis Report 2022-23</h5>
           									<!-- View PDF Button -->
@@ -80,7 +80,7 @@
       								<div class="card text-center">
         								<div class="card-body">
           								<!-- Icon -->
-          									<i class="fas fa-file-pdf fa-4x mb-3" style="color:#FF8A00; "></i>
+          									<i class="fas fa-file-pdf fa-4x mb-3" style="color:#FF7900; "></i>
           									<!-- Document Name -->
           									<h5 class="card-title">Alumni's Feedback Analysis Report 2022-23</h5>
           									<!-- View PDF Button -->
@@ -93,7 +93,7 @@
       								<div class="card text-center">
         								<div class="card-body">
           								<!-- Icon -->
-          									<i class="fas fa-file-pdf fa-4x mb-3" style="color:#FF8A00; "></i>
+          									<i class="fas fa-file-pdf fa-4x mb-3" style="color:#FF7900; "></i>
           									<!-- Document Name -->
           									<h5 class="card-title">Professional's Feedback Analysis Report 2022-23</h5>
           									<!-- View PDF Button -->
@@ -109,7 +109,7 @@
       								<div class="card text-center">
         								<div class="card-body">
           								<!-- Icon -->
-          									<i class="fas fa-file-pdf fa-4x mb-3" style="color:#FF8A00; "></i>
+          									<i class="fas fa-file-pdf fa-4x mb-3" style="color:#FF7900; "></i>
           									<!-- Document Name -->
           									<h5 class="card-title">Student's Feedback Analysis Report 2021-22</h5>
           									<!-- View PDF Button -->
@@ -122,7 +122,7 @@
       								<div class="card text-center">
         								<div class="card-body">
           								<!-- Icon -->
-          									<i class="fas fa-file-pdf fa-4x mb-3" style="color:#FF8A00; "></i>
+          									<i class="fas fa-file-pdf fa-4x mb-3" style="color:#FF7900; "></i>
           									<!-- Document Name -->
           									<h5 class="card-title">Teacher's Feedback Analysis Report 2021-22</h5>
           									<!-- View PDF Button -->
@@ -135,7 +135,7 @@
       								<div class="card text-center">
         								<div class="card-body">
           								<!-- Icon -->
-          									<i class="fas fa-file-pdf fa-4x mb-3" style="color:#FF8A00; "></i>
+          									<i class="fas fa-file-pdf fa-4x mb-3" style="color:#FF7900; "></i>
           									<!-- Document Name -->
           									<h5 class="card-title">Alumni's Feedback Analysis Report 2021-22</h5>
           									<!-- View PDF Button -->
@@ -148,7 +148,7 @@
       								<div class="card text-center">
         								<div class="card-body">
           								<!-- Icon -->
-          									<i class="fas fa-file-pdf fa-4x mb-3" style="color:#FF8A00; "></i>
+          									<i class="fas fa-file-pdf fa-4x mb-3" style="color:#FF7900; "></i>
           									<!-- Document Name -->
           									<h5 class="card-title">Professional's Feedback Analysis Report 2021-22</h5>
           									<!-- View PDF Button -->
@@ -161,7 +161,7 @@
       								<div class="card text-center">
         								<div class="card-body">
           								<!-- Icon -->
-          									<i class="fas fa-file-pdf fa-4x mb-3" style="color:#FF8A00; "></i>
+          									<i class="fas fa-file-pdf fa-4x mb-3" style="color:#FF7900; "></i>
           									<!-- Document Name -->
           									<h5 class="card-title">Employer's Feedback Analysis Report 2021-22</h5>
           									<!-- View PDF Button -->
@@ -177,7 +177,7 @@
       								<div class="card text-center">
         								<div class="card-body">
           								<!-- Icon -->
-          									<i class="fas fa-file-pdf fa-4x mb-3" style="color:#FF8A00; "></i>
+          									<i class="fas fa-file-pdf fa-4x mb-3" style="color:#FF7900; "></i>
           									<!-- Document Name -->
           									<h5 class="card-title">Student's Feedback Analysis Report 2020-21</h5>
           									<!-- View PDF Button -->
@@ -190,7 +190,7 @@
       								<div class="card text-center">
         								<div class="card-body">
           								<!-- Icon -->
-          									<i class="fas fa-file-pdf fa-4x mb-3" style="color:#FF8A00; "></i>
+          									<i class="fas fa-file-pdf fa-4x mb-3" style="color:#FF7900; "></i>
           									<!-- Document Name -->
           									<h5 class="card-title">Teacher's Feedback Analysis Report 2020-21</h5>
           									<!-- View PDF Button -->
@@ -203,7 +203,7 @@
       								<div class="card text-center">
         								<div class="card-body">
           								<!-- Icon -->
-          									<i class="fas fa-file-pdf fa-4x mb-3" style="color:#FF8A00; "></i>
+          									<i class="fas fa-file-pdf fa-4x mb-3" style="color:#FF7900; "></i>
           									<!-- Document Name -->
           									<h5 class="card-title">Alumni's Feedback Analysis Report 2020-21</h5>
           									<!-- View PDF Button -->
@@ -216,7 +216,7 @@
       								<div class="card text-center">
         								<div class="card-body">
           								<!-- Icon -->
-          									<i class="fas fa-file-pdf fa-4x mb-3" style="color:#FF8A00; "></i>
+          									<i class="fas fa-file-pdf fa-4x mb-3" style="color:#FF7900; "></i>
           									<!-- Document Name -->
           									<h5 class="card-title">Professional's Feedback Analysis Report 2020-21</h5>
           									<!-- View PDF Button -->
@@ -229,7 +229,7 @@
       								<div class="card text-center">
         								<div class="card-body">
           								<!-- Icon -->
-          									<i class="fas fa-file-pdf fa-4x mb-3" style="color:#FF8A00; "></i>
+          									<i class="fas fa-file-pdf fa-4x mb-3" style="color:#FF7900; "></i>
           									<!-- Document Name -->
           									<h5 class="card-title">Employer's Feedback Analysis Report 2020-21</h5>
           									<!-- View PDF Button -->
@@ -245,7 +245,7 @@
       								<div class="card text-center">
         								<div class="card-body">
           								<!-- Icon -->
-          									<i class="fas fa-file-pdf fa-4x mb-3" style="color:#FF8A00; "></i>
+          									<i class="fas fa-file-pdf fa-4x mb-3" style="color:#FF7900; "></i>
           									<!-- Document Name -->
           									<h5 class="card-title">Student's Feedback Analysis Report 2019-20</h5>
           									<!-- View PDF Button -->
@@ -258,7 +258,7 @@
       								<div class="card text-center">
         								<div class="card-body">
           								<!-- Icon -->
-          									<i class="fas fa-file-pdf fa-4x mb-3" style="color:#FF8A00; "></i>
+          									<i class="fas fa-file-pdf fa-4x mb-3" style="color:#FF7900; "></i>
           									<!-- Document Name -->
           									<h5 class="card-title">Teacher's Feedback Analysis Report 2019-20</h5>
           									<!-- View PDF Button -->
@@ -271,7 +271,7 @@
       								<div class="card text-center">
         								<div class="card-body">
           								<!-- Icon -->
-          									<i class="fas fa-file-pdf fa-4x mb-3" style="color:#FF8A00; "></i>
+          									<i class="fas fa-file-pdf fa-4x mb-3" style="color:#FF7900; "></i>
           									<!-- Document Name -->
           									<h5 class="card-title">Alumni's Feedback Analysis Report 2019-20</h5>
           									<!-- View PDF Button -->
@@ -284,7 +284,7 @@
       								<div class="card text-center">
         								<div class="card-body">
           								<!-- Icon -->
-          									<i class="fas fa-file-pdf fa-4x mb-3" style="color:#FF8A00; "></i>
+          									<i class="fas fa-file-pdf fa-4x mb-3" style="color:#FF7900; "></i>
           									<!-- Document Name -->
           									<h5 class="card-title">Professional's Feedback Analysis Report 2019-20</h5>
           									<!-- View PDF Button -->
@@ -297,7 +297,7 @@
       								<div class="card text-center">
         								<div class="card-body">
           								<!-- Icon -->
-          									<i class="fas fa-file-pdf fa-4x mb-3" style="color:#FF8A00; "></i>
+          									<i class="fas fa-file-pdf fa-4x mb-3" style="color:#FF7900; "></i>
           									<!-- Document Name -->
           									<h5 class="card-title">Employer's Feedback Analysis Report 2019-20</h5>
           									<!-- View PDF Button -->
@@ -313,7 +313,7 @@
       								<div class="card text-center">
         								<div class="card-body">
           								<!-- Icon -->
-          									<i class="fas fa-file-pdf fa-4x mb-3" style="color:#FF8A00; "></i>
+          									<i class="fas fa-file-pdf fa-4x mb-3" style="color:#FF7900; "></i>
           									<!-- Document Name -->
           									<h5 class="card-title">Student's Feedback Analysis Report 2018-19</h5>
           									<!-- View PDF Button -->
@@ -326,7 +326,7 @@
       								<div class="card text-center">
         								<div class="card-body">
           								<!-- Icon -->
-          									<i class="fas fa-file-pdf fa-4x mb-3" style="color:#FF8A00; "></i>
+          									<i class="fas fa-file-pdf fa-4x mb-3" style="color:#FF7900; "></i>
           									<!-- Document Name -->
           									<h5 class="card-title">Teacher's Feedback Analysis Report 2018-19</h5>
           									<!-- View PDF Button -->
@@ -339,7 +339,7 @@
       								<div class="card text-center">
         								<div class="card-body">
           								<!-- Icon -->
-          									<i class="fas fa-file-pdf fa-4x mb-3" style="color:#FF8A00; "></i>
+          									<i class="fas fa-file-pdf fa-4x mb-3" style="color:#FF7900; "></i>
           									<!-- Document Name -->
           									<h5 class="card-title">Alumni's Feedback Analysis Report 2018-19</h5>
           									<!-- View PDF Button -->
@@ -352,7 +352,7 @@
       								<div class="card text-center">
         								<div class="card-body">
           								<!-- Icon -->
-          									<i class="fas fa-file-pdf fa-4x mb-3" style="color:#FF8A00; "></i>
+          									<i class="fas fa-file-pdf fa-4x mb-3" style="color:#FF7900; "></i>
           									<!-- Document Name -->
           									<h5 class="card-title">Professional's Feedback Analysis Report 2018-19</h5>
           									<!-- View PDF Button -->
@@ -365,7 +365,7 @@
       								<div class="card text-center">
         								<div class="card-body">
           								<!-- Icon -->
-          									<i class="fas fa-file-pdf fa-4x mb-3" style="color:#FF8A00; "></i>
+          									<i class="fas fa-file-pdf fa-4x mb-3" style="color:#FF7900; "></i>
           									<!-- Document Name -->
           									<h5 class="card-title">Employer's Feedback Analysis Report 2018-19</h5>
           									<!-- View PDF Button -->

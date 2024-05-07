@@ -125,7 +125,22 @@ include 'head.php';
         </div>
 
 
-
+<style>
+    .read-more-content{
+	display: none;
+}
+.read-more{
+	display: inline-block;
+}.timeline-info {
+	position: relative;
+	background: #f3f1f1;
+	padding: 24px 20px 18px;
+	margin-bottom: 12px;
+	border: 1px solid #f3f1f1;
+	border-radius: 8px;
+	margin-left: 54px;
+}
+</style>
 
 
 
@@ -164,7 +179,7 @@ include 'head.php';
             <div class="tab-content second ps-5 px-md-5" id="myTabContent">
                 <div class="tab-pane fade show active" id="Tab1" role="tabpanel" aria-labelledby="tab1-tab">
                     <h3>Key Highlights</h3>
-                    <ul class="m-ol-list ps-4">
+                    <ul class="m-ol-list ps-4 mb-0 pb-0">
                         <li>
                             <p class="p-0 m-0">The only management college in the region with IACBE membership, an international accreditation body.</p>
                         </li>
@@ -174,6 +189,10 @@ include 'head.php';
                         <li>
                             <p class="p-0 m-0">Dedicated Incubation and Entrepreneurship Cell with a focus on establishing an innovation and entrepreneurship-based ecosystem that will help in converting ideas into sustainable start-ups.</p>
                         </li>
+                            </ul>
+
+                        <div class="read-more-content mt-0">
+                    <ul class="m-ol-list ps-4">
                         <li>
                             <p class="p-0 m-0">Domestic and international extrusions tours for better national and global connections</p>
                         </li>
@@ -188,6 +207,10 @@ include 'head.php';
                         </li>
                     </ul>
                     <p>All these factors make Teerthanker Mahaveer Institute of Management and Technology (TMIMT), the best management college in Uttar Pradesh, India.</p>
+                    
+                    </div>
+                    <a href="javascript:void(0);" class="read-more" title="Read More">Read More</a>
+                
                 </div>
                 <div class="tab-pane fade" id="Tab2" role="tabpanel" aria-labelledby="tab2-tab">
                     <h3>Placement/Internship</h3>
@@ -282,7 +305,7 @@ include 'head.php';
 
         <!-- Section for collaborators -->
         <div class="container industry-collaborators mt-5">
-            <h2 class="text-center mb-0" style="font-weight:700; color:#001055">Top Industry Academic Partners and <span style="color:#FF7A00"> Collaborative Programmes at TMU</span></h2>
+            <h2 class="text-center mb-0" style="font-weight:700; color:#001055">Top Industry Academic Partners and <span style="color:#FF7900"> Collaborative Programmes at TMU</span></h2>
 
             <!-- Collaborators Carousel -->
             <div class="section bg-transparent mt-0 mb-5">
@@ -1187,6 +1210,8 @@ include 'head.php';
 
 
 <script src="./assets/js/tmimt.js"></script>
+
+
 
 <?php
 include 'footer.php';

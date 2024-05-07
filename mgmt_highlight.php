@@ -42,7 +42,7 @@ include 'head.php';
 .main-timeline .timeline-content:before,
 .main-timeline .timeline-content:after{
   content: "";
-  background: linear-gradient(to bottom,#FF8A00,#FF7A00);
+  background: linear-gradient(to bottom,#FF7900,#FF7900);
   width: 45px;
   height: 45px;
   transform: rotate(-45deg);
@@ -132,11 +132,11 @@ right: auto;
 left: -33px;
 }
 .main-timeline .timeline:nth-child(4n+2) .timeline-content:before,
-.main-timeline .timeline:nth-child(4n+2) .timeline-icon {background:linear-gradient(to left,#FF7A00, #FF8A00);}
-.main-timeline .timeline:nth-child(4n+2) .timeline-year {background:linear-gradient(to bottom,#FF7A00, #FF8A00);}
-.main-timeline .timeline:nth-child(4n+2) .timeline-year:after{background:linear-gradient(to right bottom, #FF7A00 49%, transparent 50%);}
+.main-timeline .timeline:nth-child(4n+2) .timeline-icon {background:linear-gradient(to left,#FF7900, #FF7900);}
+.main-timeline .timeline:nth-child(4n+2) .timeline-year {background:linear-gradient(to bottom,#FF7900, #FF7900);}
+.main-timeline .timeline:nth-child(4n+2) .timeline-year:after{background:linear-gradient(to right bottom, #FF7900 49%, transparent 50%);}
 .main-timeline .timeline:nth-child(4n+3) .timeline-content:before,
-.main-timeline .timeline:nth-child(4n+3) .timeline-icon {background:linear-gradient(to bottom,#FF7A00, #FF8A00);}
+.main-timeline .timeline:nth-child(4n+3) .timeline-icon {background:linear-gradient(to bottom,#FF7900, #FF7900);}
 .main-timeline .timeline:nth-child(4n+3) .timeline-year {background:linear-gradient(to bottom,#227e22,#227e22,#63a211);}
 .main-timeline .timeline:nth-child(4n+3) .timeline-year:after{background:linear-gradient(to right bottom, #227e22 49%, transparent 50%);}
 .main-timeline .timeline:nth-child(4n+4) .timeline-content:before,
@@ -203,9 +203,9 @@ left: -33px;
  include 'sidebar/management_sidebar.php';
 ?>
 
-				<div class="col-12 col-md-9 mt-3 mt-sm-0 pt-5 ">
-                <h2 class="tmu-text-primary tmu-page-heading">College <span style="color:#ff7a00;">Highlights</span></h2>
-                <h2 class=" text-center d-none d-md-block" style="color:#001055; text-transform: capitalize; font-weight:700!important; font-size:2.4vmax">College <span style="color:#ff7a00;">Highlights</span></h2>
+				<div class="col-12 col-md-10 mt-3 mt-sm-0 pt-5 ">
+                <h2 class="tmu-text-primary tmu-page-heading">College <span style="color:#FF7900;">Highlights</span></h2>
+                <h2 class=" text-center d-none d-md-block" style="color:#001055; text-transform: capitalize; font-weight:700!important; font-size:2.4vmax">College <span style="color:#FF7900;">Highlights</span></h2>
                    
                 <div class="container">
     <div class="row">

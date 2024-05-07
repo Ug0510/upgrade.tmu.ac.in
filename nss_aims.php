@@ -5,7 +5,7 @@
 <style>
 	
 .color{
-color:#ff7a00!important;
+color:#FF7900!important;
 }
 
 h3{
@@ -46,12 +46,12 @@ p {
 
 .m-ol-list li::marker{
     font-size: 1.6vmax;
-    color:#FF7A00;
+    color:#FF7900;
     font-weight: 700;
     text-align:justify;
  }
 .m-ol-list b{
-    /* color:#FF7A00; */
+    /* color:#FF7900; */
     color:#001055;
     font-size: 1.4vmax;
  }
@@ -66,7 +66,7 @@ p {
 
 
 
-				<div class="col-12 col-md-9 mt-3 mt-sm-0 pt-5 ">
+				<div class="col-12 col-md-10 mt-3 mt-sm-0 pt-5 ">
 					<!-- Write content for right side here  -->
                     
                     <div class="row mx-0" >

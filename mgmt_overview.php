@@ -88,12 +88,12 @@ list-style-type: disc!important;
 
 .m-ol-list li::marker{
     font-size: 1.4vmax;
-    color:#FF7A00;
+    color:#FF7900;
     font-weight: 700;
   
  }
 .m-ol-list b{
-    /* color:#FF7A00; */
+    /* color:#FF7900; */
     color:#001055;
     font-size: 1.4vmax;
  }
@@ -104,9 +104,9 @@ list-style-type: disc!important;
  include 'sidebar/management_sidebar.php';
 ?>
 
-				<div class="col-12 col-md-9 mt-3 mt-sm-0 pt-5 ">
-                <h2 class="tmu-text-primary tmu-page-heading">Welcome to <span style="color:#ff7a00;">TMIMT College of Management</span></h2>
-                <h2 class=" text-center d-none d-md-block" style="color:#001055; text-transform: capitalize; font-weight:700!important; font-size:2.4vmax">Welcome to <span style="color:#ff7a00;">TMIMT College of Management</span></h2>
+				<div class="col-12 col-md-10 mt-3 mt-sm-0 pt-5 ">
+                <h2 class="tmu-text-primary tmu-page-heading">Welcome to <span style="color:#FF7900;">TMIMT College of Management</span></h2>
+                <h2 class=" text-center d-none d-md-block" style="color:#001055; text-transform: capitalize; font-weight:700!important; font-size:2.4vmax">Welcome to <span style="color:#FF7900;">TMIMT College of Management</span></h2>
                     
                   <div class="container mb-3">
                     <div class="row">

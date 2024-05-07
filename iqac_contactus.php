@@ -55,7 +55,7 @@ include 'head.php';
 
   .contact .info-item {
     width: 100%;
-    background-color: #FF7A00;
+    background-color: #FF7900;
     color: #fff;
     margin-bottom: 20px;
     padding: 20px;
@@ -187,7 +187,7 @@ include 'head.php';
   }
 
   .contact .php-email-form button[type=submit]:hover {
-    background: #ff7A00;
+    background: #FF7900;
   }
 
   @keyframes animate-loading {
@@ -201,18 +201,20 @@ include 'head.php';
   }
 </style>
 
+<section id="content">
+  <div class="content-wrap py-0">
+    <div class="container-fluid my-0  px-0 px-md-3">
+      <div class="row">
+        <?php
+        include 'sidebar/iqac_sidebar.php';
+        ?>
 
-<?php
-include 'sidebar/iqac_sidebar.php';
-?>
-
-                <div class="col-12 col-md-9 mt-3 mt-sm-0 pt-5 ">
+        <div class="col-12 col-md-10 mt-3 mt-sm-0 pt-5 ">
           <!-- ======= Contact Section ======= -->
           <section id="contact" class="contact">
             <div class="container" data-aos="fade-up">
 
-              <h2 class="text-center" style="color:#001055;
-			text-transform: capitalize; font-weight:700!important; font-size:2.4vmax">Contact<span class="d-block d-sm-inline"> Us</span></h2>
+              <h2 class="text-center" style="color:#001055; text-transform: capitalize; font-weight:700!important; font-size:2.4vmax">Contact<span class="d-block d-sm-inline"> Us</span></h2>
 
               <div class="container">
                 <div class="row">
@@ -230,7 +232,7 @@ include 'sidebar/iqac_sidebar.php';
 
                 <div class="col-lg-12">
                   <form action="forms/contact.php" method="post" role="form" class="php-email-form">
-                  <h2 class="text-left mt-1 mb-4" style="color:#001055;text-transform: capitalize; font-weight:700!important; font-size:1.4vmax">Enquiry Form</h2>
+                    <h2 class="text-left mt-1 mb-4" style="color:#001055;text-transform: capitalize; font-weight:700!important; font-size:1.4vmax">Enquiry Form</h2>
 
                     <div class="row">
                       <div class="col-md-6 form-group">
@@ -265,6 +267,7 @@ include 'sidebar/iqac_sidebar.php';
         </div>
       </div>
     </div>
+  </div>
 </section><!-- #content end -->
 <br /><br />
 <?php

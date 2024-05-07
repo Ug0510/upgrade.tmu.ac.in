@@ -5,7 +5,7 @@
 <style>
 	
 .color{
-color:#ff7a00!important;
+color:#FF7900!important;
 }
 
 h3{

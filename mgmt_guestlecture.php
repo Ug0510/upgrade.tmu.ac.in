@@ -1,6 +1,7 @@
 <?php
 include 'head.php';
 ?>
+
 <section id="content">
     <div class="content-wrap py-0">
 
@@ -202,6 +203,7 @@ include 'head.php';
                                         </div>
                                     </div>
                                 </div>
+
 
                             </div>
                         </div>

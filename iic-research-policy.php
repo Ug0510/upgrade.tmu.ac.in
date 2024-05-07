@@ -6,7 +6,7 @@ include 'head.php';
 include 'sidebar/iic_sidebar.php';
 ?>
 
-                <div class="col-12 col-md-9 mt-3 mt-sm-0 pt-5">
+                <div class="col-12 col-md-10 mt-3 mt-sm-0 pt-5">
 
                     <div class="row mx-0">
                         <h1 class="tmu-text-primary tmu-page-heading"> <span>Research </span><span>Policy</span></h1>
@@ -17,7 +17,7 @@ include 'sidebar/iic_sidebar.php';
                                     <div class="card text-center">
                                         <div class="card-body">
                                             <!-- Icon -->
-                                            <i class="fas fa-file-pdf fa-4x mb-3" style="color:#FF8A00; "></i>
+                                            <i class="fas fa-file-pdf fa-4x mb-3" style="color:#FF7900; "></i>
                                             <!-- Document Name -->
                                             <h5 class="card-title">Consultancy & Research Project</h5>
                                             <!-- View PDF Button -->
@@ -29,7 +29,7 @@ include 'sidebar/iic_sidebar.php';
                                     <div class="card text-center">
                                         <div class="card-body">
                                             <!-- Icon -->
-                                            <i class="fas fa-file-pdf fa-4x mb-3" style="color:#FF8A00; "></i>
+                                            <i class="fas fa-file-pdf fa-4x mb-3" style="color:#FF7900; "></i>
                                             <!-- Document Name -->
                                             <h5 class="card-title">Seed Money Grant Scheme</h5>
                                             <!-- View PDF Button -->
@@ -41,7 +41,7 @@ include 'sidebar/iic_sidebar.php';
                                     <div class="card text-center">
                                         <div class="card-body">
                                             <!-- Icon -->
-                                            <i class="fas fa-file-pdf fa-4x mb-3" style="color:#FF8A00; "></i>
+                                            <i class="fas fa-file-pdf fa-4x mb-3" style="color:#FF7900; "></i>
                                             <!-- Document Name -->
                                             <h5 class="card-title">Financial Assistance for Research</h5>
                                             <!-- View PDF Button -->
@@ -53,7 +53,7 @@ include 'sidebar/iic_sidebar.php';
                                     <div class="card text-center">
                                         <div class="card-body">
                                             <!-- Icon -->
-                                            <i class="fas fa-file-pdf fa-4x mb-3" style="color:#FF8A00; "></i>
+                                            <i class="fas fa-file-pdf fa-4x mb-3" style="color:#FF7900; "></i>
                                             <!-- Document Name -->
                                             <h5 class="card-title">Intellectual Property Right Policy</h5>
                                             <!-- View PDF Button -->
@@ -65,7 +65,7 @@ include 'sidebar/iic_sidebar.php';
                                     <div class="card text-center">
                                         <div class="card-body">
                                             <!-- Icon -->
-                                            <i class="fas fa-file-pdf fa-4x mb-3" style="color:#FF8A00; "></i>
+                                            <i class="fas fa-file-pdf fa-4x mb-3" style="color:#FF7900; "></i>
                                             <!-- Document Name -->
                                             <h5 class="card-title">Vice Chancellor's Innovation Fund</h5>
                                             <!-- View PDF Button -->

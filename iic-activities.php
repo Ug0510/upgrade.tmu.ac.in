@@ -6,7 +6,7 @@ include 'head.php';
 include 'sidebar/iic_sidebar.php';
 ?>
 
-                <div class="col-12 col-md-9 mt-3 mt-sm-0 pt-5 ">
+                <div class="col-12 col-md-10 mt-3 mt-sm-0 pt-5 ">
 
                 <h1 class="tmu-text-primary tmu-page-heading" ><span> Innovation &</span> <span>Startup Activities</span></h1>
 

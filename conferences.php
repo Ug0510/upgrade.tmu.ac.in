@@ -16,12 +16,12 @@ p a{
     font-weight:400;
 }
 p a:hover{
- color:#FF7a00;
+ color:#FF7900;
 }
 .entry-image {
     position: relative;
-    border-top: 1px solid #ff8a00; /* Apply border to the top side */
-    border-left: 1px solid #ff8a00; /* Apply border to the left side */
+    border-top: 1px solid #FF7900; /* Apply border to the top side */
+    border-left: 1px solid #FF7900; /* Apply border to the left side */
 }
 
 .entry-image::after {
@@ -29,8 +29,8 @@ p a:hover{
     position: absolute;
     right: 0;
     bottom: 0;
-    border-bottom: 1px solid #ff8a00; /* Simulate border at the bottom-right */
-    border-right: 1px solid #ff8a00; /* Simulate border at the bottom-right */
+    border-bottom: 1px solid #FF7900; /* Simulate border at the bottom-right */
+    border-right: 1px solid #FF7900; /* Simulate border at the bottom-right */
     width: 100%; /* Ensure it spans the full width */
     height: 100%; /* Ensure it spans the full height */
     box-sizing: border-box;
@@ -73,7 +73,7 @@ p a:hover{
 include 'sidebar/research_sidebar.php';
 ?>
 
-						<div class="col-12 col-md-9 mt-3 mt-sm-0 pt-5 ">
+						<div class="col-12 col-md-10 mt-3 mt-sm-0 pt-5 ">
 						<!-- Write content for right side here  -->
                         <div class="container">
                         <div class="row justify-content-center">
