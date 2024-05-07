@@ -64,6 +64,10 @@ p {
     width: fit-content;
 }
 
+.ff-poppins{
+    font-family: 'Poppins', sans-serif !important;
+}
+
 
 /* For larger devices */
 @media (max-width: 900px) {

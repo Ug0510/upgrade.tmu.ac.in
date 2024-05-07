@@ -7,10 +7,17 @@
 						<span style="color:#001055; font-weight:700;">Internal Quality Assurance Cell (IQAC)</span>
 					</span>
 
-					<ul class="list-unstyled items-nav sticky-sidebar shop-filter mt-4 d-none d-sm-block" data-container="#shop">
+					<!-- <ul class="list-unstyled items-nav sticky-sidebar shop-filter mt-4 d-none d-sm-block" data-container="#shop">
 					<li class="no-divider"><a href="#" class="text-dark fw-semibold side-head" data-filter=".sf-new">NAAC</a></li>
 						<li class="no-divider"><a href="/naac.php" class="text-dark fw-semibold side-head" data-filter=".sf-new">Cycle-II</a></li>
 					    <li class="no-divider"><a href="/naac_i.php" class="text-dark fw-semibold side-head" data-filter=".sf-new">Cycle-I</a></li>
+					</ul> -->
+
+					<ul class="list-unstyled items-nav sticky-sidebar shop-filter mt-4 d-none d-sm-block" data-container="#shop">
+						<li><a href="/iqac.php" data-filter=".sf-jeans">NAAC</a></li>
+						<li><a href="/naac_i.php" data-filter=".sf-t-shirts">Cycle-I</a></li>
+						<li><a href="/naac.php" data-filter=".sf-watches">Cycle-II</a></li>
+						<hr>
 					</ul>
 
 				</div>

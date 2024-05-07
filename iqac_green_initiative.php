@@ -513,37 +513,6 @@ include 'head.php';
 </section><!-- #content end -->
 
 
-<br /><br />
-
-<script>
-  //   career accordian
-  var acc = document.getElementsByClassName("careers-accordion");
-  var i;
-
-  for (i = 0; i < acc.length; i++) {
-    acc[i].addEventListener("click", function() {
-      var panel = this.nextElementSibling;
-      if (panel.style.display === "block") {
-        panel.style.display = "none";
-        this.querySelector(".icon").innerHTML = "+";
-        this.classList.remove("clicked"); // Remove clicked class when closing
-      } else {
-        // Close all other panels
-        var allPanels = document.querySelectorAll('.panel');
-        for (var j = 0; j < allPanels.length; j++) {
-          allPanels[j].style.display = 'none';
-          var accordion = allPanels[j].previousElementSibling;
-          accordion.querySelector(".icon").innerHTML = "+";
-          accordion.classList.remove("clicked"); // Remove clicked class from other accordions
-        }
-        panel.style.display = "block";
-        this.querySelector(".icon").innerHTML = "-";
-        this.classList.add("clicked"); // Add clicked class when opening
-      }
-    });
-  }
-</script>
-
 
 <?php
 include 'footer.php';
