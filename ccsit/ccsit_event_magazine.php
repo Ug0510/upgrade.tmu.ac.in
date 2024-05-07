@@ -27,7 +27,7 @@ include 'head.php';
 								</div>
                                 <div class="entry-meta mb-1">
 									<ul>
-										<li><span class="badge bg-warning text-dark py-1 px-2"><i class="uil-calendar-alt"></i>October - December, 2023</a></span></li>
+										<li><span class="badge bg-warning text-dark py-1 px-2"><i class="uil-calendar-alt"></i>October - December, 2023</span></li>
 									</ul>
 								</div>
 								<div class="entry-title title-sm">
@@ -48,7 +48,7 @@ include 'head.php';
 								</div>
                                 <div class="entry-meta mb-1">
 									<ul>
-										<li><span class="badge bg-warning text-dark py-1 px-2"><i class="uil-calendar-alt"></i>July - September 2023</a></span></li>
+										<li><span class="badge bg-warning text-dark py-1 px-2"><i class="uil-calendar-alt"></i>July - September 2023</span></li>
 									</ul>
 								</div>
 								<div class="entry-title title-sm">
@@ -69,7 +69,7 @@ include 'head.php';
 								</div>
                                 <div class="entry-meta mb-1">
 									<ul>
-										<li><span class="badge bg-warning text-dark py-1 px-2"><i class="uil-calendar-alt"></i>April - June, 2023</a></span></li>
+										<li><span class="badge bg-warning text-dark py-1 px-2"><i class="uil-calendar-alt"></i>April - June, 2023</span></li>
 									</ul>
 								</div>
 								<div class="entry-title title-sm">
@@ -90,7 +90,7 @@ include 'head.php';
 								</div>
                                 <div class="entry-meta mb-1">
 									<ul>
-										<li><span class="badge bg-warning text-dark py-1 px-2"><i class="uil-calendar-alt"></i>January - March, 2023</a></span></li>
+										<li><span class="badge bg-warning text-dark py-1 px-2"><i class="uil-calendar-alt"></i>January - March, 2023</span></li>
 									</ul>
 								</div>
 								<div class="entry-title title-sm">
@@ -111,7 +111,7 @@ include 'head.php';
 								</div>
                                 <div class="entry-meta mb-1">
 									<ul>
-										<li><span class="badge bg-warning text-dark py-1 px-2"><i class="uil-calendar-alt"></i>October - December, 2022</a></span></li>
+										<li><span class="badge bg-warning text-dark py-1 px-2"><i class="uil-calendar-alt"></i>October - December, 2022</span></li>
 									</ul>
 								</div>
 								<div class="entry-title title-sm">
@@ -132,7 +132,7 @@ include 'head.php';
 								</div>
                                 <div class="entry-meta mb-1">
 									<ul>
-										<li><span class="badge bg-warning text-dark py-1 px-2"><i class="uil-calendar-alt"></i> July - September, 2022</a></span></li>
+										<li><span class="badge bg-warning text-dark py-1 px-2"><i class="uil-calendar-alt"></i> July - September, 2022</span></li>
 									</ul>
 								</div>
 								<div class="entry-title title-sm">
@@ -153,7 +153,7 @@ include 'head.php';
 								</div>
                                 <div class="entry-meta mb-1">
 									<ul>
-										<li><span class="badge bg-warning text-dark py-1 px-2"><i class="uil-calendar-alt"></i>April - June, 2022</a></span></li>
+										<li><span class="badge bg-warning text-dark py-1 px-2"><i class="uil-calendar-alt"></i>April - June, 2022</span></li>
 									</ul>
 								</div>
 								<div class="entry-title title-sm">
@@ -174,7 +174,7 @@ include 'head.php';
 								</div>
                                 <div class="entry-meta mb-1">
 									<ul>
-										<li><span class="badge bg-warning text-dark py-1 px-2"><i class="uil-calendar-alt"></i> January - March, 2022</a></span></li>
+										<li><span class="badge bg-warning text-dark py-1 px-2"><i class="uil-calendar-alt"></i> January - March, 2022</span></li>
 									</ul>
 								</div>
 								<div class="entry-title title-sm">
@@ -195,7 +195,7 @@ include 'head.php';
 								</div>
                                 <div class="entry-meta mb-1">
 									<ul>
-										<li><span class="badge bg-warning text-dark py-1 px-2"><i class="uil-calendar-alt"></i>Ocotober - December, 2021</a></span></li>
+										<li><span class="badge bg-warning text-dark py-1 px-2"><i class="uil-calendar-alt"></i>Ocotober - December, 2021</span></li>
 									</ul>
 								</div>
 								<div class="entry-title title-sm">
@@ -216,7 +216,7 @@ include 'head.php';
 								</div>
                                 <div class="entry-meta mb-1">
 									<ul>
-										<li><span class="badge bg-warning text-dark py-1 px-2"><i class="uil-calendar-alt"></i>July - September, 2021</a></span></li>
+										<li><span class="badge bg-warning text-dark py-1 px-2"><i class="uil-calendar-alt"></i>July - September, 2021</span></li>
 									</ul>
 								</div>
 								<div class="entry-title title-sm">
@@ -237,7 +237,7 @@ include 'head.php';
 								</div>
                                 <div class="entry-meta mb-1">
 									<ul>
-										<li><span class="badge bg-warning text-dark py-1 px-2"><i class="uil-calendar-alt"></i>June - July, 2021</a></span></li>
+										<li><span class="badge bg-warning text-dark py-1 px-2"><i class="uil-calendar-alt"></i>June - July, 2021</span></li>
 									</ul>
 								</div>
 								<div class="entry-title title-sm">
@@ -258,7 +258,7 @@ include 'head.php';
 								</div>
                                 <div class="entry-meta mb-1">
 									<ul>
-										<li><span class="badge bg-warning text-dark py-1 px-2"><i class="uil-calendar-alt"></i>April - June, 2021</a></span></li>
+										<li><span class="badge bg-warning text-dark py-1 px-2"><i class="uil-calendar-alt"></i>April - June, 2021</span></li>
 									</ul>
 								</div>
 								<div class="entry-title title-sm">
@@ -281,7 +281,7 @@ include 'head.php';
 								</div>
                                 <div class="entry-meta mb-1">
 									<ul>
-										<li><span class="badge bg-warning text-dark py-1 px-2"><i class="uil-calendar-alt"></i>September 09<sup>th</sup>, 2023</a></span></li>
+										<li><span class="badge bg-warning text-dark py-1 px-2"><i class="uil-calendar-alt"></i>September 09<sup>th</sup>, 2023</span></li>
 									</ul>
 								</div>
 								<div class="entry-title title-sm">
@@ -302,7 +302,7 @@ include 'head.php';
 								</div>
                                 <div class="entry-meta mb-1">
 									<ul>
-										<li><span class="badge bg-warning text-dark py-1 px-2"><i class="uil-calendar-alt"></i>September 09<sup>th</sup>, 2023</a></span></li>
+										<li><span class="badge bg-warning text-dark py-1 px-2"><i class="uil-calendar-alt"></i>September 09<sup>th</sup>, 2023</span></li>
 									</ul>
 								</div>
 								<div class="entry-title title-sm">
@@ -323,7 +323,7 @@ include 'head.php';
 								</div>
                                 <div class="entry-meta mb-1">
 									<ul>
-										<li><span class="badge bg-warning text-dark py-1 px-2"><i class="uil-calendar-alt"></i>September 09<sup>th</sup>, 2023</a></span></li>
+										<li><span class="badge bg-warning text-dark py-1 px-2"><i class="uil-calendar-alt"></i>September 09<sup>th</sup>, 2023</span></li>
 									</ul>
 								</div>
 								<div class="entry-title title-sm">
@@ -344,7 +344,7 @@ include 'head.php';
 								</div>
                                 <div class="entry-meta mb-1">
 									<ul>
-										<li><span class="badge bg-warning text-dark py-1 px-2"><i class="uil-calendar-alt"></i>September 09<sup>th</sup>, 2023</a></span></li>
+										<li><span class="badge bg-warning text-dark py-1 px-2"><i class="uil-calendar-alt"></i>September 09<sup>th</sup>, 2023</span></li>
 									</ul>
 								</div>
 								<div class="entry-title title-sm">
@@ -365,7 +365,7 @@ include 'head.php';
 								</div>
                                 <div class="entry-meta mb-1">
 									<ul>
-										<li><span class="badge bg-warning text-dark py-1 px-2"><i class="uil-calendar-alt"></i>September 09<sup>th</sup>, 2023</a></span></li>
+										<li><span class="badge bg-warning text-dark py-1 px-2"><i class="uil-calendar-alt"></i>September 09<sup>th</sup>, 2023</span></li>
 									</ul>
 								</div>
 								<div class="entry-title title-sm">
@@ -386,7 +386,7 @@ include 'head.php';
 								</div>
                                 <div class="entry-meta mb-1">
 									<ul>
-										<li><span class="badge bg-warning text-dark py-1 px-2"><i class="uil-calendar-alt"></i>September 09<sup>th</sup>, 2023</a></span></li>
+										<li><span class="badge bg-warning text-dark py-1 px-2"><i class="uil-calendar-alt"></i>September 09<sup>th</sup>, 2023</span></li>
 									</ul>
 								</div>
 								<div class="entry-title title-sm">
@@ -407,7 +407,7 @@ include 'head.php';
 								</div>
                                 <div class="entry-meta mb-1">
 									<ul>
-										<li><span class="badge bg-warning text-dark py-1 px-2"><i class="uil-calendar-alt"></i>September 09<sup>th</sup>, 2023</a></span></li>
+										<li><span class="badge bg-warning text-dark py-1 px-2"><i class="uil-calendar-alt"></i>September 09<sup>th</sup>, 2023</span></li>
 									</ul>
 								</div>
 								<div class="entry-title title-sm">
@@ -428,7 +428,7 @@ include 'head.php';
 								</div>
                                 <div class="entry-meta mb-1">
 									<ul>
-										<li><span class="badge bg-warning text-dark py-1 px-2"><i class="uil-calendar-alt"></i>September 09<sup>th</sup>, 2023</a></span></li>
+										<li><span class="badge bg-warning text-dark py-1 px-2"><i class="uil-calendar-alt"></i>September 09<sup>th</sup>, 2023</span></li>
 									</ul>
 								</div>
 								<div class="entry-title title-sm">

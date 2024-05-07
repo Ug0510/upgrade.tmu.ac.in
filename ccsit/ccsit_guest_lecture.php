@@ -26,7 +26,7 @@ include 'head.php';
 								</div>
                                 <div class="entry-meta mb-1">
 									<ul>
-										<li><span class="badge bg-warning text-dark py-1 px-2"><i class="uil-calendar-alt"></i>September 09<sup>th</sup>, 2023</a></span></li>
+										<li><span class="badge bg-warning text-dark py-1 px-2"><i class="uil-calendar-alt"></i>September 09<sup>th</sup>, 2023</span></li>
 									</ul>
 								</div>
 								<div class="entry-title title-sm ">
