@@ -11,7 +11,7 @@ include 'sidebar/iic_sidebar.php';
 ?>
 
 
-<div class="col-12 col-md-9 mt-3 mt-sm-0 pt-5">
+<div class="col-12 col-md-10 mt-3 mt-sm-0 pt-5">
 
 	<div class="row mx-0">
 		<h2 class="tmu-text-primary tmu-page-heading"><span> Welcome to</span> <span>TMU IIC</span></h2>

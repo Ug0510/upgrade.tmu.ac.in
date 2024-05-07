@@ -1,68 +1,56 @@
 <?php
- include 'head.php';
+include 'head.php';
 ?>
 
 <style>
-	
-.color{
-color:#FF7900!important;
-}
+	.color {
+		color: #FF7900 !important;
+	}
 
-h3{
-margin:0 0 5px 0;	
-}
+	h3 {
+		margin: 0 0 5px 0;
+	}
 
-.font-body {
-  font-size:22px;
-  color:#001055;
-  font-weight: 700;
-}
+	.font-body {
+		font-size: 22px;
+		color: #001055;
+		font-weight: 700;
+	}
 
-p {
-  margin-bottom:15px!important; 
-}
+	p {
+		margin-bottom: 15px !important;
+	}
 </style>
 
-<?php
- include 'sidebar/about_tmu_sidebar.php';
-?>
-                <div class="col-12 col-md-9 mt-3 mt-sm-0 pt-5 ">
+<section id="content">
+	<div class="content-wrap py-0">
+
+
+
+		<div class="container-fluid my-0  px-0 px-md-3">
+
+
+			<div class="row">
+				<?php
+				include 'sidebar/about_tmu_sidebar.php';
+				?>
+				<div class="col-12 col-md-10 mt-3 mt-sm-0 pt-5 ">
 
 
 					<div class="row align-items-end">
 						<div class="col-sm-12 col-md-12 text-justify">
-									<h2 class=" text-center" style="color:#001055; text-transform: capitalize; font-weight:700!important; font-size:2.4vmax">Vision  <span>& Mission</span></h2>
-								<h3 class="fw-bold text-transform-none" style="font-size: 22px; letter-spacing: -1px;">About TMU University</h3>		
+							<h2 class=" text-center" style="color:#001055; text-transform: capitalize; font-weight:700!important; font-size:2.4vmax">Vision <span>& Mission</span></h2>
+							<h3 class="fw-bold text-transform-none" style="font-size: 22px; letter-spacing: -1px;">About TMU University</h3>
 							<p>On National Highway 9, 144 Km from New Delhi, TMU stands committed to the ideals of Lord
 								Mahaveer - Right Philosophy, Right Knowledge and Right Conduct in all spheres of
 								activity and aspires to be the ultimate destination for world-class education.</p>
 							<p>As a multi-disciplinary varsity, we offer career-oriented programmes at all levels, i.e.,
-								UG, PG, and Doctoral degrees across diverse streams <a
-									href="https://www.tmu.ac.in/medical-college-and-research-centre"
-									target="_blank">Medical</a>, <a
-									href="https://www.tmu.ac.in/dental-college-and-research-centre"
-									target="_blank">Dental</a>, <a href="https://www.tmu.ac.in/college-of-pharmacy"
-									target="_blank">Pharmacy</a>, <a href="https://www.tmu.ac.in/college-of-nursing"
-									target="_blank">Nursing</a>, <a
-									href="https://www.tmu.ac.in/college-of-paramedical-sciences"
-									target="_blank">Paramedical Sciences</a>, <a
-									href="https://www.tmu.ac.in/department-of-physiotherapy"
-									target="_blank">Physiotherapy</a>, <a
-									href="https://www.tmu.ac.in/tmimt-college-of-management" target="_blank">Hospital
-									Administration</a>, <a
-									href="https://www.tmu.ac.in/tmimt-college-of-physical-education"
-									target="_blank">Physical Education</a>, <a
-									href="https://www.tmu.ac.in/tmimt-college-of-management"
-									target="_blank">Management</a>, <a
-									href="https://www.tmu.ac.in/faculty-of-engineering" target="_blank">Engineering</a>,
+								UG, PG, and Doctoral degrees across diverse streams <a href="https://www.tmu.ac.in/medical-college-and-research-centre" target="_blank">Medical</a>, <a href="https://www.tmu.ac.in/dental-college-and-research-centre" target="_blank">Dental</a>, <a href="https://www.tmu.ac.in/college-of-pharmacy" target="_blank">Pharmacy</a>, <a href="https://www.tmu.ac.in/college-of-nursing" target="_blank">Nursing</a>, <a href="https://www.tmu.ac.in/college-of-paramedical-sciences" target="_blank">Paramedical Sciences</a>, <a href="https://www.tmu.ac.in/department-of-physiotherapy" target="_blank">Physiotherapy</a>, <a href="https://www.tmu.ac.in/tmimt-college-of-management" target="_blank">Hospital
+									Administration</a>, <a href="https://www.tmu.ac.in/tmimt-college-of-physical-education" target="_blank">Physical Education</a>, <a href="https://www.tmu.ac.in/tmimt-college-of-management" target="_blank">Management</a>, <a href="https://www.tmu.ac.in/faculty-of-engineering" target="_blank">Engineering</a>,
 								<a href="https://www.tmu.ac.in/faculty-of-engineering" target="_blank">Polytechnic</a>,
-								<a href="https://www.tmu.ac.in/college-of-law-and-legal-studies"
-									target="_blank">Law</a>, <a href="https://www.tmu.ac.in/college-of-fine-arts"
-									target="_blank">Fine Arts</a>,<a
-									href="https://www.tmu.ac.in/college-of-agriculture-sciences"
-									target="_blank">Agriculture</a> and <a
-									href="https://www.tmu.ac.in/centre-of-jain-studies" target="_blank">Jain Studies</a>
-								to meet rising aspirations of the youth.</p>
+								<a href="https://www.tmu.ac.in/college-of-law-and-legal-studies" target="_blank">Law</a>, <a href="https://www.tmu.ac.in/college-of-fine-arts" target="_blank">Fine Arts</a>,<a href="https://www.tmu.ac.in/college-of-agriculture-sciences" target="_blank">Agriculture</a> and <a href="https://www.tmu.ac.in/centre-of-jain-studies" target="_blank">Jain Studies</a>
+								to meet rising aspirations of the youth.
+							</p>
 						</div>
 					</div>
 					<!-- Write content for right side here  -->
@@ -186,11 +174,10 @@ p {
 	</div>
 </section><!-- #content end -->
 
-	</div><!-- #wrapper end -->
-	<br /><br />
+</div><!-- #wrapper end -->
+<br /><br />
 
-	
+
 <?php
- include 'footer.php';
+include 'footer.php';
 ?>
-
