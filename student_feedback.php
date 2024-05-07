@@ -1,6 +1,5 @@
-
 <?php
- include 'head.php';
+include 'head.php';
 ?>
 
 <style>
@@ -202,92 +201,95 @@
   }
 </style>
 
-	<?php
-include 'sidebar/iqac_sidebar.php';
-?>
+<section id="content">
+  <div class="content-wrap py-0">
 
-                <div class="col-12 col-md-9 mt-3 mt-sm-0 pt-5 ">
-					<!-- Write content for right side here  -->
-                    
-                    <div class="row mx-0" >
 
-<section id="contact" class="contact">
-            <div class="container" data-aos="fade-up">
 
-              <h2 class="text-center" style="color:#001055;
-			text-transform: capitalize; font-weight:700!important; font-size:2.4vmax"> Write <span class="d-block d-sm-inline">To Us :</span></h2>
+    <div class="container-fluid my-0  px-0 px-md-3">
 
-              <div class="row gx-lg-0 gy-4 mt-3">
 
-                <div class="col-lg-12">
-                  <form action="forms/contact.php" method="post" role="form" class="php-email-form">
+      <div class="row">
+        <?php
+        include 'sidebar/iqac_sidebar.php';
+        ?>
+        <div class="col-12 col-md-10 mt-3 mt-sm-0 pt-5 ">
+          <!-- Write content for right side here  -->
 
-                    <div class="row">
-                      <div class="col-md-4 form-group">
-                        <input type="text" name="name" class="form-control" id="name" placeholder="Your Name" required>
+          <div class="row mx-0">
+
+            <section id="contact" class="contact">
+              <div class="container" data-aos="fade-up">
+
+                <h2 class="text-center" style="color:#001055; text-transform: capitalize; font-weight:700!important; font-size:2.4vmax"> Write <span class="d-block d-sm-inline">To Us :</span></h2>
+
+                <div class="row gx-lg-0 gy-4 mt-3">
+
+                  <div class="col-lg-12">
+                    <form action="forms/contact.php" method="post" role="form" class="php-email-form">
+
+                      <div class="row">
+                        <div class="col-md-4 form-group">
+                          <input type="text" name="name" class="form-control" id="name" placeholder="Your Name" required>
+                        </div>
+                        <div class="col-md-4 form-group">
+                          <input type="text" name="name" class="form-control" id="name" placeholder="Your Enrollment Number" required>
+                        </div>
+                        <div class="col-md-4 form-group">
+                          <input type="text" name="name" class="form-control" id="name" placeholder="Your Father Name" required>
+                        </div>
+                        <div class="col-md-7 form-group">
+                          <input type="text" class="form-control" name="subject" id="subject" placeholder="Programmed Name" required>
+                        </div>
+                        <div class="col-md-5 form-group">
+                          <input type="text" class="form-control" name="semester" id="semester" placeholder="Semester" required>
+                        </div>
+                        <div class="form-group mt-3 mt-md-0">
+                          <input type="text" class="form-control" name="number" id="number" placeholder="Your College Name" required>
+                        </div>
+                        <div class="col-md-6 form-group">
+                          <input type="email" name="email" class="form-control" id="email" placeholder="Your Email" required>
+                        </div>
+                        <div class="col-md-6 form-group mt-3 mt-md-0">
+                          <input type="number" class="form-control" name="number" id="number" placeholder="Your Contact Number" required>
+                        </div>
                       </div>
-                      <div class="col-md-4 form-group">
-                        <input type="text" name="name" class="form-control" id="name" placeholder="Your Enrollment Number" required>
+                      <div class="form-group mt-3">
+                        <input type="text" class="form-control" name="subject" id="subject" placeholder="Subject" required>
                       </div>
-                      <div class="col-md-4 form-group">
-                        <input type="text" name="name" class="form-control" id="name" placeholder="Your Father Name" required>
+                      <div class="form-group mt-3">
+                        <textarea class="form-control" name="message" rows="7" placeholder="Enter your Suggestion" required></textarea>
                       </div>
-                      <div class="col-md-7 form-group">
-                      <input type="text" class="form-control" name="subject" id="subject" placeholder="Programmed Name" required>
-                    </div>
-                    <div class="col-md-5 form-group">
-                      <input type="text" class="form-control" name="semester" id="semester" placeholder="Semester" required>
-                    </div>
-                    <div class="form-group mt-3 mt-md-0">
-                        <input type="text" class="form-control" name="number" id="number" placeholder="Your College Name" required>
+                      <div class="my-3">
+                        <div class="loading">Loading</div>
+                        <div class="error-message"></div>
+                        <div class="sent-message">Your message has been sent. Thank you!</div>
                       </div>
-                      <div class="col-md-6 form-group">
-                        <input type="email" name="email" class="form-control" id="email" placeholder="Your Email" required>
-                      </div>
-                       <div class="col-md-6 form-group mt-3 mt-md-0">
-                        <input type="number" class="form-control" name="number" id="number" placeholder="Your Contact Number" required>
-                      </div>
-                    </div>
-                    <div class="form-group mt-3">
-                      <input type="text" class="form-control" name="subject" id="subject" placeholder="Subject" required>
-                    </div>
-                    <div class="form-group mt-3">
-                      <textarea class="form-control" name="message" rows="7" placeholder="Enter your Suggestion" required></textarea>
-                    </div>
-                    <div class="my-3">
-                      <div class="loading">Loading</div>
-                      <div class="error-message"></div>
-                      <div class="sent-message">Your message has been sent. Thank you!</div>
-                    </div>
-                    <div class="text-center"><button type="submit">Send Message</button></div>
-                  </form>
-                </div><!-- End Contact Form -->
+                      <div class="text-center"><button type="submit">Send Message</button></div>
+                    </form>
+                  </div><!-- End Contact Form -->
+
+                </div>
 
               </div>
+            </section>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+</section><!-- End Contact Section -->
 
-            </div>
-          </section><!-- End Contact Section -->
- 
-                        
-						
 
 
 
-            </div>
-		</div>
-	</div>
-</section><!-- #content end -->
 
-	<br /><br />
 
-	
+
+
+
+
+
 <?php
- include 'footer.php';
+include 'footer.php';
 ?>
-
-
-
-								
-
-
-

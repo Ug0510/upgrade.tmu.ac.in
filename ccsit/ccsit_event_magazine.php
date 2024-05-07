@@ -7,7 +7,7 @@ include 'head.php';
  include 'sidebar/ccsit_sidebar.php';
 ?>
 
-				<div class="col-12 col-md-9 mt-3 mt-sm-0 pt-5 ">
+				<div class="col-12 col-md-10 mt-3 mt-sm-0 pt-5 ">
                 <h2 class="tmu-text-primary tmu-page-heading">Event  <span style="color:#FF7900;">Magazine</span></h2>
                 <h2 class=" text-center d-none d-md-block" style="color:#001055; text-transform: capitalize; font-weight:700!important; font-size:2.4vmax">Event  <span style="color:#FF7900;">Magazine</span></h2>
                     

@@ -1,12 +1,5 @@
-<section id="content">
-	<div class="content-wrap py-0">
-		
-		
-		<div class="container-fluid my-0  px-0 px-md-3">
 
-
-			<div class="row">
-				<div class="col-md-3 col-lg-3 sticky-sidebar-wrap pe-5 py-0 py-lg-3 " style="background-color: #55555510;">
+				<div class="col-md-2 col-lg-2 sticky-sidebar-wrap pe-5 py-0 py-lg-3 " style="background-color: #55555510;">
 
 					<span class="undernav-locator mb-2 ms-3">
 						<span style="color:#fe8d00" ; style="font-size:24px"><a href="/"><i class="fa-solid fa-house"></i></a></span>

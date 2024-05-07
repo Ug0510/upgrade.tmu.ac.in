@@ -203,7 +203,7 @@ left: -33px;
  include 'sidebar/management_sidebar.php';
 ?>
 
-				<div class="col-12 col-md-9 mt-3 mt-sm-0 pt-5 ">
+				<div class="col-12 col-md-10 mt-3 mt-sm-0 pt-5 ">
                 <h2 class="tmu-text-primary tmu-page-heading">College <span style="color:#FF7900;">Highlights</span></h2>
                 <h2 class=" text-center d-none d-md-block" style="color:#001055; text-transform: capitalize; font-weight:700!important; font-size:2.4vmax">College <span style="color:#FF7900;">Highlights</span></h2>
                    
