@@ -49,6 +49,7 @@ p {
     /* 14px / 16px = 0.875rem */
     font-weight: 400;
     line-height: 1rem;
+    margin-bottom: 0px;
     /* 16px / 16px = 1rem */
 }
 
