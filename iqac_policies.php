@@ -2,72 +2,6 @@
 include 'head.php';
 ?>
 
-<style>
-  .color {
-    color: #FF7900 !important;
-  }
-
-  h3 {
-    margin: 0 0 5px 0;
-  }
-
-  .font-body {
-    font-size: 22px;
-    color: #001055;
-    font-weight: 700;
-  }
-
-  p {
-    margin-bottom: 15px !important;
-  }
-
-  .fancy-title {
-    --cnvs-fancy-title-bg: #fff;
-    --cnvs-fancy-title-padding: 0.75rem;
-    --cnvs-fancy-title-border-size: 1px;
-    --cnvs-fancy-title-border-color: rgba(var(--cnvs-contrast-rgb), 0.1);
-    --cnvs-fancy-title-dotted-border: images/icons/dotted.png;
-    position: relative;
-    display: -ms-flexbox;
-    display: flex;
-    -ms-flex-align: center;
-    align-items: center;
-    margin-bottom: 0.55rem !important;
-  }
-
-  .title-bottom-border::before,
-  .title-bottom-border::after {
-    display: none;
-  }
-
-  .title-bottom-border h1,
-  .title-bottom-border .h1,
-  .title-bottom-border h2,
-  .title-bottom-border .h2,
-  .title-bottom-border h3,
-  .title-bottom-border .h3,
-  .title-bottom-border h4,
-  .title-bottom-border .h4,
-  .title-bottom-border h5,
-  .title-bottom-border .h5,
-  .title-bottom-border h6,
-  .title-bottom-border .h6 {
-    width: 100%;
-    padding: 0 0 3px 0;
-    border-bottom: calc(var(--cnvs-fancy-title-border-size) * 2) solid var(--cnvs-themecolor);
-  }
-
-  .p-5 {
-    padding: 1rem !important;
-  }
-
-  .color1 {
-    background-color: #001055 !important;
-    color: #fff !important;
-  }
-</style>
-
-
 
 <section id="content">
   <div class="content-wrap py-0">
@@ -81,10 +15,9 @@ include 'head.php';
         <div class="col-12 col-md-10 mt-3 mt-sm-0 pt-5">
           <!-- Write content for right side here  -->
 
-          <h2 class="text-center" style="color:#001055; text-transform: capitalize;
-         font-weight:700!important; font-size:2.4vmax">Policies &<span class="d-block d-sm-inline"> Sops</span></h2>
+          <h1 class="tmu-text-primary tmu-page-heading"><span>Policies &</span><span> Sops</span></h1>
           <div class="row col-mb-30">
-            <h3 class="text-left" style="color:#000; text-transform:capitalize; font-weight:600!important; fot-size:1.6vmax;">Policies</h3>
+            <h2 class="tmu-text-primary"><span>Policies</span></h3>
             <div class="col-md-3">
               <div class="card text-center">
                 <div class="card-body">
@@ -249,7 +182,7 @@ include 'head.php';
           <!-- Sops code start here  -->
           <br>
           <div class="row mb-2 mt-2">
-            <h3 class="text-left" style="color:#000; text-transform:capitalize; font-weight:600!important; fot-size:1.6vmax;">Sops</h3>
+            <h2 class="tmu-text-primary"><span>Sops</span></h2>
             <div class="col-md-3">
               <div class="card text-center">
                 <div class="card-body">

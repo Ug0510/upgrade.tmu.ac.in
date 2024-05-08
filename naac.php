@@ -47,7 +47,7 @@ include 'head.php';
 								</ol>
 								</p>
 								<div class="center">
-									<img src="https://www.tmu.ac.in/img/award/naac.jpg" width='65%' alt="Teerthanker Mahaveer University">
+									<img src="https://www.tmu.ac.in/img/award/naac.jpg" class="col-4" alt="Teerthanker Mahaveer University">
 								</div>
 							</div>
 						</div>

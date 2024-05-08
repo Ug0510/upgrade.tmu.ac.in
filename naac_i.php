@@ -38,7 +38,7 @@ include 'head.php';
                             <div class="card-body">
 
                                 <div class="center">
-                                    <img src="https://www.tmu.ac.in/img/award/naac_cycle_1_certificate.jpg" width='65%' alt="Teerthanker Mahaveer University">
+                                    <img src="https://www.tmu.ac.in/img/award/naac_cycle_1_certificate.jpg" class="col-4" alt="Teerthanker Mahaveer University">
                                 </div>
                             </div>
                         </div>

@@ -13,8 +13,8 @@ include 'head.php';
                 </video>
             </div>
             <div class="banner-text">
-                <h1>Welcome to TMU</h1>
-                <p>We continue to be recognized as a leading global management institution.</p>
+                <h1>This is TMU</h1>
+                <p>With a bright history of shaping futures, we continue to shine even brighter <br> with our vision of TRANSFORMING MINDS, UNITING WISDOM</p>
             </div>
         </div>
     </div>
@@ -1487,9 +1487,9 @@ include 'head.php';
                         <p style="text-align:center;" class="mb-0">Btech Computer Science (Data Science)</p>
                         <center><img src="./assets/image/down-arrow.png" style="width: 10%;" alt="" class="img-fluid career-tran__arrow"></center>
                         <!-- <img src="./assets/image/down-arrow.png" alt=""> -->
-                        <p class="career-tran__prev-role">Senior Technical Account Manager</p>
+                        <p class="career-tran__prev-role mb-4">Senior Technical Account Manager</p>
                         <p class="career-tran__prev-comp">Amazon Web Services (AWS)</p>
-                        <p class="mb-4 op-07" style="line-height: 1.65"></p>
+                        
 
                     </div>
 
@@ -1546,9 +1546,9 @@ include 'head.php';
                         <!--<span class="badge bg-info1 text-light mb-2 fw-normal px-2 py-1">New</span>-->
                         <p style="text-align:center;" class="mb-2">Btech Computer Science (Data Science)</p>
                         <center><img src="./assets/image/down-arrow.png" style="width: 10%;" alt="" class="img-fluid career-tran__arrow"></center>
-                        <p class="career-tran__prev-role">Senior Technical Account Manager</p>
+                        <p class="career-tran__prev-role mb-4">Senior Technical Account Manager</p>
                         <p class="career-tran__prev-comp">Amazon Web Services (AWS)</p>
-                        <p class="mb-4 op-07" style="line-height: 1.65"></p>
+                        
                         <!-- <small class="ls-2 fw-bold text-uppercase op-05 mb-2 d-block">Features</small> -->
                         <!-- <div class="row g-0 mb-2 car-features">
 															<div class="col-6 mb-2"><i class="icon-car-meter"></i>20000KMs</div>
@@ -1611,9 +1611,9 @@ include 'head.php';
                         <!--<span class="badge bg-info1 text-light mb-2 fw-normal px-2 py-1">New</span>-->
                         <p style="text-align:center;" class="mb-2">Btech Computer Science (Data Science)</p>
                         <center><img src="./assets/image/down-arrow.png" style="width: 10%;" alt="" class="img-fluid career-tran__arrow"></center>
-                        <p class="career-tran__prev-role">Senior Technical Account Manager</p>
+                        <p class="career-tran__prev-role mb-4">Senior Technical Account Manager</p>
                         <p class="career-tran__prev-comp">Amazon Web Services (AWS)</p>
-                        <p class="mb-4 op-07" style="line-height: 1.65"></p>
+                        
                         <!-- <small class="ls-2 fw-bold text-uppercase op-05 mb-2 d-block">Features</small> -->
                         <!-- <div class="row g-0 mb-2 car-features">
 															<div class="col-6 mb-2"><i class="icon-car-meter"></i>20000KMs</div>
@@ -1676,9 +1676,9 @@ include 'head.php';
                         <!--<span class="badge bg-info1 text-light mb-2 fw-normal px-2 py-1">New</span>-->
                         <p style="text-align:center;" class="mb-2">Btech Computer Science (Data Science)</p>
                         <center><img src="./assets/image/down-arrow.png" style="width: 10%;" alt="" class="img-fluid career-tran__arrow"></center>
-                        <p class="career-tran__prev-role">Senior Technical Account Manager</p>
+                        <p class="career-tran__prev-role mb-4">Senior Technical Account Manager</p>
                         <p class="career-tran__prev-comp">Amazon Web Services (AWS)</p>
-                        <p class="mb-4 op-07" style="line-height: 1.65"></p>
+                        
                         <!-- <small class="ls-2 fw-bold text-uppercase op-05 mb-2 d-block">Features</small> -->
                         <!-- <div class="row g-0 mb-2 car-features">
 															<div class="col-6 mb-2"><i class="icon-car-meter"></i>20000KMs</div>
@@ -1741,9 +1741,9 @@ include 'head.php';
                         <!--<span class="badge bg-info1 text-light mb-2 fw-normal px-2 py-1">New</span>-->
                         <p style="text-align:center;" class="mb-2">Btech Computer Science (Data Science)</p>
                         <center><img src="./assets/image/down-arrow.png" style="width: 10%;" alt="" class="img-fluid career-tran__arrow"></center>
-                        <p class="career-tran__prev-role">Senior Technical Account Manager</p>
+                        <p class="career-tran__prev-role mb-4">Senior Technical Account Manager</p>
                         <p class="career-tran__prev-comp">Amazon Web Services (AWS)</p>
-                        <p class="mb-4 op-07" style="line-height: 1.65"></p>
+                        
                         <!-- <small class="ls-2 fw-bold text-uppercase op-05 mb-2 d-block">Features</small> -->
                         <!-- <div class="row g-0 mb-2 car-features">
 															<div class="col-6 mb-2"><i class="icon-car-meter"></i>20000KMs</div>
@@ -1811,7 +1811,7 @@ include 'head.php';
                         <!--<span class="badge bg-info1 text-light mb-2 fw-normal px-2 py-1">New</span>-->
                         <p style="text-align:center;" class="mb-2">Btech Computer Science (Data Science)</p>
                         <center><img src="./assets/image/down-arrow.png" style="width: 10%;" alt="" class="img-fluid career-tran__arrow"></center>
-                        <p class="career-tran__prev-role">Senior Technical Account Manager</p>
+                        <p class="career-tran__prev-role mb-4">Senior Technical Account Manager</p>
                         <p class="career-tran__prev-comp">Amazon Web Services (AWS)</p>
                         <p class="mb-4 op-07" style="line-height: 1.65">
                         </p>
@@ -1880,9 +1880,9 @@ include 'head.php';
                         <!--<span class="badge bg-info1 text-light mb-2 fw-normal px-2 py-1">New</span>-->
                         <p style="text-align:center;" class="mb-2">Btech Computer Science (Data Science)</p>
                         <center><img src="./assets/image/down-arrow.png" style="width: 10%;" alt="" class="img-fluid career-tran__arrow"></center>
-                        <p class="career-tran__prev-role">Senior Technical Account Manager</p>
+                        <p class="career-tran__prev-role mb-4">Senior Technical Account Manager</p>
                         <p class="career-tran__prev-comp">Amazon Web Services (AWS)</p>
-                        <p class="mb-4 op-07" style="line-height: 1.65"></p>
+                        
                         <!-- <small class="ls-2 fw-bold text-uppercase op-05 mb-2 d-block">Features</small> -->
                         <!-- <div class="row g-0 mb-2 car-features">
 													<div class="col-6 mb-2"><i class="icon-car-meter"></i>20000KMs</div>
