@@ -410,31 +410,31 @@ include 'head.php';
 				<div class="row">
 					<div class="col-12 d-flex justify-content-center align-items-center">
 						<div class="yt-frame shadow my-4" id="hr-yt-frame" onclick="playHrVideo(this)">
-							<img src="./assets/image/placement/Anshul Sharma.webp" alt="" class="w-100 event-btn" id="hrframevideo1">
+							<img src="./assets/image/convocation/thumbnails/1.jpeg" alt="" class="w-100 event-btn" id="hrframevideo1">
 						</div>
 					</div>
 					<div class="col-12">
 						<div class="d-flex position-relative p-1" id="m-event-box">
 							<div class="m-1 m-sm-3 event-box  active" onclick="toggleActivate(this)">
-								<img src="./assets/image/placement/P.K. RAJPUT.webp" alt="" class="w-100 shadow event-btn">
+								<img src="./assets/image/convocation/thumbnails/2.jpeg" alt="" class="w-100 shadow event-btn">
 							</div>
 							<div class="m-1 m-sm-3 event-box " onclick="toggleActivate(this)">
-								<img src="./assets/image/placement/P.K. RAJPUT.webp" alt="" class="w-100 shadow event-btn">
+								<img src="./assets/image/convocation/thumbnails/3.jpeg" alt="" class="w-100 shadow event-btn">
 							</div>
 							<div class="m-1 m-sm-3 event-box " onclick="toggleActivate(this)">
-								<img src="./assets/image/placement/P.K. RAJPUT.webp" alt="" class="w-100 shadow event-btn">
+								<img src="./assets/image/convocation/thumbnails/4.jpeg" alt="" class="w-100 shadow event-btn">
 							</div>
 							<div class="m-1 m-sm-3 event-box " onclick="toggleActivate(this)">
-								<img src="./assets/image/placement/P.K. RAJPUT.webp" alt="" class="w-100 shadow event-btn">
+								<img src="./assets/image/convocation/thumbnails/5.jpeg" alt="" class="w-100 shadow event-btn">
 							</div>
 							<div class="m-1 m-sm-3 event-box " onclick="toggleActivate(this)">
-								<img src="./assets/image/placement/P.K. RAJPUT.webp" alt="" class="w-100 shadow event-btn">
+								<img src="./assets/image/convocation/thumbnails/6.jpeg" alt="" class="w-100 shadow event-btn">
 							</div>
 							<div class="m-1 m-sm-3 event-box " onclick="toggleActivate(this)">
-								<img src="./assets/image/placement/P.K. RAJPUT.webp" alt="" class="w-100 shadow event-btn">
+								<img src="./assets/image/convocation/thumbnails/1.jpeg" alt="" class="w-100 shadow event-btn">
 							</div>
 							<div class="m-1 m-sm-3 event-box " onclick="toggleActivate(this)">
-								<img src="./assets/image/placement/P.K. RAJPUT.webp" alt="" class="w-100 shadow event-btn">
+								<img src="./assets/image/convocation/thumbnails/2.jpeg" alt="" class="w-100 shadow event-btn">
 							</div>
 							<div class="m-1 m-sm-3 event-box " onclick="toggleActivate(this)">
 								<img src="./assets/image/placement/P.K. RAJPUT.webp" alt="" class="w-100 shadow event-btn">

@@ -22,8 +22,8 @@ include 'head.php';
           <section>
             <div class="container">
               <div class="row">
-                <h2 class="tmu-text-primary tmu-page-heading">About <span style="color:#FF7900;">University</span></h2>
-                <h2 class=" text-center d-none d-md-block" style="color:#001055; text-transform: capitalize; font-weight:700!important; font-size:2.4vmax">About <span style="color:#FF7900;">University</span></h2>
+                <h1 class="tmu-text-primary tmu-page-heading"><span>About </span><span >University</span></h1>
+                
                 <div class="col-lg-12">
                   <h4 class="sublime" style="text-align:justify; margin-top:1rem;">On National Highway 9, 144 Km from New
                     Delhi, TMU stands committed to the ideals of Lord Mahaveer - Right Philosophy, Right Knowledge and Right Conduct in all spheres

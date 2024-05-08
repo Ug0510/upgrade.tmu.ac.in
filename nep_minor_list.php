@@ -3,19 +3,9 @@ include 'head.php';
 ?>
 
 
-<style>
-    h2 {
-        margin: 0 0 10px 0;
-    }
-
-    p {
-        margin: 0 0 10px 0;
-    }
-</style>
-
 <section id="content">
     <div class="content-wrap py-0">
-        <div class="container-fluid my-0  px-0 px-md-3">
+        <div class="container-fluid my-0  px-0 ">
             <div class="row">
                 <?php
                 include 'sidebar/nep_sidebar.php';
@@ -23,12 +13,10 @@ include 'head.php';
 
 
                 <div class="col-12 col-md-10 mt-3 mt-sm-0 pt-5">
-                    <h2 class=" text-center" style="color:#001055;
-                          text-transform: capitalize;
-                          font-weight:700!important; font-size:2.4vmax">List of Minors <span class="d-block d-sm-inline"> Under FYUP</span></h2>
+                    <h1 class="tmu-text-primary tmu-page-heading"><span>List of Minors </span><span > Under FYUP</span></h2>
 
                     <div class="container">
-                        <p style="text-align:justify;"><strong><u>Physics Minor -</u></strong></p>
+                        <h4 style="text-align:justify;" class="tmu-text-primary fw-bold mb-3"><span>Physics </span> <span>Minor -</span></h4>
                         <div class="table-responsive">
                             <table class="table table-bordered">
                                 <thead>
@@ -76,7 +64,7 @@ include 'head.php';
                             </table>
                         </div>
                         <br>
-                        <p style="text-align:justify;"><strong><u>Mathematics Minor -</u></strong></p>
+                        <h4 style="text-align:justify;" class="tmu-text-primary fw-bold mb-3"><span>Mathematics </span><span>Minor -</span></h4>
                         <div class="table-responsive">
                             <table class="table table-bordered">
                                 <thead>
@@ -124,7 +112,7 @@ include 'head.php';
                             </table>
                         </div>
                         <br>
-                        <p style="text-align:justify;"><strong><u>Chemistry Minor -</u></strong></p>
+                        <h4 style="text-align:justify;" class="tmu-text-primary fw-bold mb-3"><span>Chemistry </span><span>Minor -</span></h4>
                         <div class="table-responsive">
                             <table class="table table-bordered">
                                 <thead>
@@ -172,7 +160,7 @@ include 'head.php';
                             </table>
                         </div>
                         <br>
-                        <p style="text-align:justify;"><strong><u>Bachelor of Arts (Honours) English-</u></strong></p>
+                        <h4 style="text-align:justify;" class="tmu-text-primary fw-bold mb-3"><span>Bachelor of Arts</span><span> (Honours) English-</span></h4>
                         <div class="table-responsive">
                             <table class="table table-bordered">
                                 <thead>
@@ -220,9 +208,9 @@ include 'head.php';
                             </table>
                         </div>
                         <br>
-                        <h3>BBA 3 Years Program / BBA (H) 4 Years with research Program / BBA (H) 4 Years without research-</h3>
+                        <h3 class="tmu-text-primary"><span>BBA 3 Years Program / BBA (H) 4 Years with </span><span>research Program / BBA (H) 4 Years without research-</span></h3>
 
-                        <p style="text-align:justify;"><strong><u>Economics and Finance-</u></strong></p>
+                        <h4 style="text-align:justify;" class="tmu-text-primary fw-bold mb-3"><span>Economics </span><span>and Finance-</span></h4>
                         <div class="table-responsive">
                             <table class="table table-bordered">
                                 <thead>
@@ -270,7 +258,7 @@ include 'head.php';
                             </table>
                         </div>
                         <br>
-                        <p style="text-align:justify;"><strong><u>Business Analytics-</u></strong></p>
+                        <h4 style="text-align:justify;" class="tmu-text-primary fw-bold mb-3"><span>Business</span><span> Analytics-</span></h4>
                         <div class="table-responsive">
                             <table class="table table-bordered">
                                 <thead>
@@ -318,7 +306,7 @@ include 'head.php';
                             </table>
                         </div>
                         <br>
-                        <p style="text-align:justify;"><strong><u>LAW -</u></strong></p>
+                        <h4 style="text-align:justify;" class="tmu-text-primary fw-bold mb-3"><span>LAW -</span></h4>
                         <div class="table-responsive">
                             <table class="table table-bordered">
                                 <thead>
@@ -382,7 +370,7 @@ include 'head.php';
                             </table>
                         </div>
                         <br>
-                        <p style="text-align:justify;"><strong><u>Psychology -</u></strong></p>
+                        <h4 style="text-align:justify;" class="tmu-text-primary fw-bold mb-3"><span>Psychology -</span></h4>
                         <div class="table-responsive">
                             <table class="table table-bordered">
                                 <thead>
@@ -446,7 +434,7 @@ include 'head.php';
                             </table>
                         </div>
                         <br>
-                        <p style="text-align:justify;"><strong><u>Economics -</u></strong></p>
+                        <h4 style="text-align:justify;" class="tmu-text-primary fw-bold mb-3"><span>Economics -</span></h4>
                         <div class="table-responsive">
                             <table class="table table-bordered">
                                 <thead>
@@ -510,7 +498,7 @@ include 'head.php';
                             </table>
                         </div>
                         <br>
-                        <p style="text-align:justify;"><strong><u>List of Minor Courses - Botany -</u></strong></p>
+                        <h4 style="text-align:justify;" class="tmu-text-primary fw-bold mb-3"><span>List of Minor </span><span>Courses - Botany -</span></h4>
                         <div class="table-responsive">
                             <table class="table table-bordered">
                                 <thead>
@@ -588,7 +576,7 @@ include 'head.php';
                             </table>
                         </div>
                         <br>
-                        <p style="text-align:justify;"><strong><u>List of Minor Courses - Zoology -</u></strong></p>
+                        <h4 style="text-align:justify;" class="tmu-text-primary fw-bold mb-3"><span>List of Minor </span><span>Courses - Zoology -</span></h4>
                         <div class="table-responsive">
                             <table class="table table-bordered">
                                 <thead>
