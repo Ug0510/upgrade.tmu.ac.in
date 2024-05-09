@@ -21,14 +21,14 @@ include 'head.php';
           <div class="row mx-0">
             <h1 class="tmu-text-primary tmu-page-heading"><span>Inclusive Environmnet</span> <span>Activities</span></h1>
 
-            <div class="container mb-5 mt-5">
+            <div class="container mb-3 mt-3">
               <hr class="horizontal-line">
 
               <button class="careers-accordion"> Inclusive Environmnet Activities<span class="icon">+</span></button>
               <div class="panel pt-3  active">
                 <div class="row justify-content-center gutter-30 col-mb-5">
                   <div class="col-sm-8">
-                    <h3><strong>CENTRE FOR JAIN STUDIES</strong></h3>
+                    <h3 class="tmu-text-primary">CENTRE FOR JAIN STUDIES</h3>
                     <p>Teerthanker Mahaveer University stands for humanism and is committed to the ideals of Lord Mahaveer - Right
                       Philosophy, Right Knowledge and Right Conduct in all endeavors. The College for Jain Studies has been
                       established to impart moral education, comparative studies of different philosophies, and comprehensive
@@ -42,7 +42,7 @@ include 'head.php';
                       </div>
                       <div class="team-desc p-2">
                         <div class="team-title pt-0">
-                          <h4>Centre for Jain Studies</h4><span class="fst-normal" style="font-size:16px; font-family:'poppins';"><i class="fa-solid fa-location-dot"></i> TMU
+                          <h4 class="fs-14">Centre for Jain Studies</h4><span class="fst-normal fs-12"><i class="fa-solid fa-location-dot"></i> TMU
                             Campus</span>
                         </div>
                       </div>
@@ -58,15 +58,15 @@ include 'head.php';
               <div class="panel pt-3 ">
                 <p>On the occasion of the 21st foundation day of <a href="https://www.tmu.ac.in/"> Teerthanker Mahaveer University</a>, Moradabad along with Azadi ka Amrit Mahotsav, the university organised a 3-day Cultural Fest - Parampara on 13th, 14th, and 15th July. The event was organised in association with Breathing Arts. The special chief guest at the event was Smt. Meenakshi Lekhi, Minister of State for External Affairs and Culture, Government of India.</p>
 
-                <h3><strong>July 13, 2022</strong></h3>
+                <h3 class="tmu-text-primary">July 13, 2022</h3>
                 <b>Pt. Vishwa Mohan Bhatt & Ustad Anwar Khan Manganiyar</b>
                 <p><b>On the first day</b>, Pt. Vishwa Mohan Bhatt (Padma Bhushan, Padma Shri & Grammy award winner) and Rajasthani Sufi singer Ustad Anwar Khan Manganiyar (Padma Shri award winner). It was a pleasure for the listeners to imbibe the rich soothing music of Vishwa Mohan Bhatt along with the energetic and blustery melody of his son, Salil Bhatt. This was followed by performances in various ragas. The audience was completely delighted with the melodious song - Kesariya Balam Padharo Mhare Desh…performed by Ustad Anwar Khan Ji</p>
 
-                <h3><strong>July 14, 2022</strong></h3>
+                <h3 class="tmu-text-primary">July 14, 2022</h3>
                 <b>Nizami Bandhu</b>
                 <p><b>On the Second day</b>, the group of famous qawwals- Ustad Chand Nizami, Shadab Faridi and Sohrab Faridi Nizami popularly known as the <a href="https://nizamibandhu.com/">Nizami Bandhu</a> made everyone fascinated by reciting the famous qawwali Kun Faya Kun..., the famous song from the film Rockstar. Chand Nizami’s nephew Shadab, Sohrab’s sons Kamran and Gulkhan and ten co-stars started the program by remembering Allah. Meanwhile, Kabir Das's famous bhajan Mann Laga Mora Fakiri Mein... was narrated in a new way, listening to which everyone was immersed in the winds of devotion.</p>
 
-                <h3><strong>July 15, 2022</strong></h3>
+                <h3 class="tmu-text-primary">July 15, 2022</h3>
                 <b>Dr. Sonal Mansingh</b>
                 <p><b>On the Third day</b>, the group of famous qawwals- Ustad Chand Nizami, Shadab Faridi and Sohrab Faridi Nizami popularly known as the Nizami Bandhu made everyone fascinated by reciting the famous qawwali Kun Faya Kun..., the famous song from the film Rockstar. Chand Nizami’s nephew Shadab, Sohrab’s sons Kamran and Gulkhan and ten co-stars started the program by remembering Allah. Meanwhile, Kabir Das's famous bhajan Mann Laga Mora Fakiri Mein... was narrated in a new way, listening to which everyone was immersed in the winds of devotion.</p>
               </div>
@@ -291,7 +291,7 @@ include 'head.php';
                       </div>
                       <div class="team-desc p-2">
                         <div class="team-title pt-0">
-                          <h4>Centre for Jain Studies</h4><span class="fst-normal" style="font-size:16px; font-family:'poppins';"><i class="fa-solid fa-location-dot"></i> TMU
+                          <h4 class="fs-14">Centre for Jain Studies</h4><span class="fst-normal fs-12"><i class="fa-solid fa-location-dot"></i> TMU
                             Campus</span>
                         </div>
                       </div>
@@ -305,7 +305,7 @@ include 'head.php';
                       </div>
                       <div class="team-desc p-2">
                         <div class="team-title pt-0">
-                          <h4>Centre for Jain Studies</h4><span class="fst-normal" style="font-size:16px; font-family:'poppins';"><i class="fa-solid fa-location-dot"></i> TMU
+                          <h4 class="fs-14">Centre for Jain Studies</h4><span class="fst-normal fs-12"><i class="fa-solid fa-location-dot"></i> TMU
                             Campus</span>
                         </div>
                       </div>
@@ -319,7 +319,7 @@ include 'head.php';
                       </div>
                       <div class="team-desc p-2">
                         <div class="team-title pt-0">
-                          <h4>Centre for Jain Studies</h4><span class="fst-normal" style="font-size:16px; font-family:'poppins';"><i class="fa-solid fa-location-dot"></i> TMU
+                          <h4 class="fs-14">Centre for Jain Studies</h4><span class="fst-normal fs-12"><i class="fa-solid fa-location-dot"></i> TMU
                             Campus</span>
                         </div>
                       </div>
@@ -437,15 +437,11 @@ include 'head.php';
                   </tbody>
                 </table>
 
-                <div class="button-container"><a href="#" class="tmu-btn btn-1 py-2 my-3 mb-5">
-                    <i class="bi-book"></i> View Images</a>
+                <button class="tmu-btn btn-1 py-2 mt-4"><i class="bi-book"></i> View Images</button>
                 </div>
+                <hr class="horizontal-line">
+
               </div>
-              <hr class="horizontal-line">
-              <br>
-
-
-
             </div>
           </div>
         </div>

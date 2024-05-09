@@ -2,28 +2,17 @@
 include 'head.php';
 ?>
 
-
-
 <section id="content">
   <div class="content-wrap py-0">
-
-
-
     <div class="container-fluid my-0  px-0 px-md-3">
-
-
       <div class="row">
-
         <?php
         include 'sidebar/institutional_values_sidebar.php';
         ?>
-
         <div class="col-12 col-md-10 mt-3 mt-sm-0 pt-5">
-
           <div class="row mx-0">
             <h1 class="tmu-text-primary tmu-page-heading"><span>Waste Management</span> <span>Initiatives</span></h1>
-
-            <div class="container mb-5 mt-5">
+            <div class="container mb-3 mt-3">
               <hr class="horizontal-line">
 
               <button class="careers-accordion"> Solid Waste Management<span class="icon">+</span></button>
@@ -35,22 +24,7 @@ include 'head.php';
                   disposal of Non- biodegradable waste like plastic, tins, glass bottles etc. and ensures that the
                   University is having efficient mechanism for the disposal of solid waste.</p>
 
-                <div class="row justify-content-center gutter-30 col-mb-5">
-
-                  <div class="col-sm-4 col-md-4">
-                    <div class="team card shadow-sm border-0 h-shadow h-translatey-sm all-ts rounded-4 overflow-hidden">
-                      <div class="team-image">
-                        <img src="https://www.tmu.ac.in/img/facilities/institutional_values/waste_management/solid_waste_certificate_2022_first_page.png" alt="">
-                      </div>
-                      <div class="team-desc p-2">
-                        <div class="team-title pt-0">
-                          <h4>Certificate for disposal of food waste 2022-23 (First Page)</h4><span class="fst-normal" style="font-size:16px; font-family:'poppins';"><i class="fa-solid fa-location-dot"></i> Nagar Panchayat,
-                            Pakwara</span>
-                        </div>
-                      </div>
-                    </div>
-                  </div>
-
+                <div class="row  gutter-30 col-mb-5">
                   <div class="col-sm-4 col-md-4">
                     <div class="team card shadow-sm border-0 h-shadow h-translatey-sm all-ts rounded-4 overflow-hidden">
                       <div class="team-image">
@@ -58,8 +32,8 @@ include 'head.php';
                       </div>
                       <div class="team-desc p-2">
                         <div class="team-title pt-0">
-                          <h4>Certificate for disposal of food waste 2022-23 (Second Page)</h4>
-                          <span class="fst-normal" style="font-size:16px; font-family:'poppins';"><i class="fa-solid fa-location-dot"></i> Nagar Panchayat,
+                          <h4 class="tmu-text-primary fs-14">Certificate for disposal of food waste 2022-23 (Second Page)</h4>
+                          <span class="fst-normal fs-12"><i class="fa-solid fa-location-dot"></i> Nagar Panchayat,
                             Pakwara</span>
                         </div>
                       </div>
@@ -73,7 +47,7 @@ include 'head.php';
                       </div>
                       <div class="team-desc p-2">
                         <div class="team-title pt-0">
-                          <h4>Food Waste Record</h4><span class="fst-normal" style="font-size:16px; font-family:'poppins';"><i class="fa-solid fa-location-dot"></i> TMU
+                          <h4 class="tmu-text-primary fs-14">Food Waste Record</h4><span class="fst-normal fs-12"><i class="fa-solid fa-location-dot"></i> TMU
                             Campus</span>
                         </div>
                       </div>
@@ -87,7 +61,21 @@ include 'head.php';
                       </div>
                       <div class="team-desc p-2">
                         <div class="team-title pt-0">
-                          <h4>Certificate for disposal of food waste 2021-22</h4><span class="fst-normal" style="font-size:16px; font-family:'poppins';"><i class="fa-solid fa-location-dot"></i> Nagar Panchayat, Pakwara </span>
+                          <h4 class="tmu-text-primary fs-14">Certificate for disposal of food waste 2021-22</h4><span class="fst-normal fs-12"><i class="fa-solid fa-location-dot"></i> Nagar Panchayat, Pakwara </span>
+                        </div>
+                      </div>
+                    </div>
+                  </div>
+
+                  <div class="col-sm-4 col-md-4">
+                    <div class="team card shadow-sm border-0 h-shadow h-translatey-sm all-ts rounded-4 overflow-hidden">
+                      <div class="team-image">
+                        <img src="https://www.tmu.ac.in/img/facilities/institutional_values/waste_management/solid_waste_certificate_2022_first_page.png" alt="">
+                      </div>
+                      <div class="team-desc p-2">
+                        <div class="team-title pt-0">
+                          <h4 class="tmu-text-primary fs-14">Certificate for disposal of food waste 2022-23 (First Page)</h4><span class="fst-normal fs-12"><i class="fa-solid fa-location-dot"></i> Nagar Panchayat,
+                            Pakwara</span>
                         </div>
                       </div>
                     </div>
@@ -100,7 +88,7 @@ include 'head.php';
                       </div>
                       <div class="team-desc p-2">
                         <div class="team-title pt-0">
-                          <h4>Certificate for disposal of food waste 2020-21 (Second Page)</h4><span class="fst-normal" style="font-size:16px; font-family:'poppins';"><i class="fa-solid fa-location-dot"></i> Nagar Panchayat, Pakwara
+                          <h4 class="tmu-text-primary fs-14">Certificate for disposal of food waste 2020-21 (Second Page)</h4><span class="fst-normal fs-12"><i class="fa-solid fa-location-dot"></i> Nagar Panchayat, Pakwara
                           </span>
                         </div>
                       </div>
@@ -121,7 +109,7 @@ include 'head.php';
                   After the STP process the treated water is used for the irrigation of agriculture field,
                   grounds,
                   parks etc in the University campus.</p>
-                <div class="row justify-content-center gutter-30 col-mb-5">
+                <div class="row  gutter-30 col-mb-5">
                   <div class="col-sm-4 col-md-6">
                     <div class="team card shadow-sm border-0 h-shadow h-translatey-sm all-ts rounded-4 overflow-hidden">
                       <div class="team-image">
@@ -129,7 +117,7 @@ include 'head.php';
                       </div>
                       <div class="team-desc p-2">
                         <div class="team-title pt-0">
-                          <h4>STP Plant </h4><span class="fst-normal" style="font-size:16px; font-family:'poppins';"><i class="fa-solid fa-location-dot"></i>
+                          <h4 class="tmu-text-primary fs-14">STP Plant </h4><span class="fst-normal fs-12"><i class="fa-solid fa-location-dot"></i>
                             TMU
                             Campus</span>
                         </div>
@@ -144,7 +132,7 @@ include 'head.php';
                       </div>
                       <div class="team-desc p-2">
                         <div class="team-title pt-0">
-                          <h4>STP Plant </h4><span class="fst-normal" style="font-size:16px; font-family:'poppins';"><i class="fa-solid fa-location-dot"></i>
+                          <h4 class="tmu-text-primary fs-14">STP Plant </h4><span class="fst-normal fs-12"><i class="fa-solid fa-location-dot"></i>
                             TMU
                             Campus</span>
                         </div>
@@ -186,7 +174,7 @@ include 'head.php';
 
               <button class="careers-accordion">Waste Recycling System<span class="icon">+</span></button>
               <div class="panel py-3">
-                <div class="row justify-content-center gutter-30 col-mb-5">
+                <div class="row  gutter-30 col-mb-5">
                   <div class="col-sm-7 col-md-7">
                     <p>In order to minimize landfill waste, the University has adopted an effective recycling
                       system where in the
@@ -209,7 +197,7 @@ include 'head.php';
                       </div>
                       <div class="team-desc p-2">
                         <div class="team-title pt-0">
-                          <h4>Waste Compost Unit</h4><span class="fst-normal" style="font-size:16px; font-family:'poppins';"><i class="fa-solid fa-building"></i>
+                          <h4 class="tmu-text-primary fs-14">Waste Compost Unit</h4><span class="fst-normal fs-12"><i class="fa-solid fa-building"></i>
                             TMU
                             Campus</span>
                         </div>
@@ -222,7 +210,7 @@ include 'head.php';
 
               <button class="careers-accordion">Hazardous Chemicals & Radioactive Waste Management<span class="icon">+</span></button>
               <div class="panel py-3">
-                <div class="row justify-content-center gutter-30 col-mb-5">
+                <div class="row  gutter-30 col-mb-5">
 
                   <div class="col-sm-5 col-md-5">
                     <div class="team card shadow-sm border-0 h-shadow h-translatey-sm all-ts rounded-4 overflow-hidden">
@@ -231,7 +219,7 @@ include 'head.php';
                       </div>
                       <div class="team-desc p-2">
                         <div class="team-title pt-0">
-                          <h4>Effluent Treatment Plant</h4><span class="fst-normal" style="font-size:16px; font-family:'poppins';"><i class="fa-solid fa-buidling"></i> TMU
+                          <h4 class="tmu-text-primary fs-14">Effluent Treatment Plant</h4><span class="fst-normal fs-12"><i class="fa-solid fa-buidling"></i> TMU
                             Campus</span>
                         </div>
                       </div>
@@ -251,9 +239,6 @@ include 'head.php';
                 </div>
               </div>
               <hr class="horizontal-line">
-
-
-
             </div>
           </div>
         </div>

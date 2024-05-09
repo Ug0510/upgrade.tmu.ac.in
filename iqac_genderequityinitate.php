@@ -12,7 +12,7 @@ include 'head.php';
           <div class="row mx-0">
           <h1 class="tmu-text-primary tmu-page-heading"><span>Gender Equity </span> <span> Initiative</span></h1>
             <div class="container mb-5 mt-5">
-              <h3 class="tmu-text-primary">Annual Gender Sensitization Action Plan</h3>
+              <h3 class="tmu-text-primary"><span>Annual Gender Sensitization </span><span> Action Plan</span></h3>
               <p>Teerthanker Mahaveer University values Right Philosophy, Right Knowledge & Right Conduct and hence
                 arranges sessions on various social topics including 'Gender Equality,' to develop a better society for
                 the future generations. We follow a zero-tolerance policy on gender partiality, female exploitation and
@@ -20,7 +20,7 @@ include 'head.php';
                 These implementations have helped female students to develop and become accomplished individuals. Male
                 students have also shown support for such endeavors. In this context, University / College / Department
                 have planned various types of activities on annual basis and organize them regularly.</p><br>
-              <h3 class="tmu-text-primary">Session 2022-23 (01<sup>st</sup> July 2022 TO 30<sup>th</sup> June 2022)</h3>
+              <h3 class="tmu-text-primary"><span> Session 2022-23 (01<sup>st</sup> July 2022 </span><span> TO 30<sup>th</sup> June 2022)</span></h3>
               <hr class="horizontal-line">
               <button class="careers-accordion">Anual Gender Sensitization Activities Planed<span class="icon">+</span></button>
               <div class="panel active">
@@ -201,7 +201,7 @@ include 'head.php';
               </div>
               <hr class="horizontal-line">
               <br />
-              <h3 class="tmu-text-primary">Session 2021-22 (01<sup>st</sup> June 2021 TO 31<sup>st</sup> August 2022)</h3>
+              <h3 class="tmu-text-primary"><span>Session 2021-22 (01<sup>st</sup> June 2021 </span><span> TO 31<sup>st</sup> August 2022)</span></h3>
               <hr class="horizontal-line">
               <button class="careers-accordion">Anual Gender Sensitization Activities Planed<span class="icon">+</span></button>
               <div class="panel">
@@ -362,7 +362,7 @@ include 'head.php';
               </div>
               <hr class="horizontal-line">
               <br />
-              <h3 class="tmu-text-primary">Session 2020-21 (01<sup>st</sup> July 2020 TO 30<sup>th</sup> June 2021)</h3>
+              <h3 class="tmu-text-primary"><span>Session 2020-21 (01<sup>st</sup> July 2020 </span><span> TO 30<sup>th</sup> June 2021)</span></h3>
               <hr class="horizontal-line">
               <button class="careers-accordion"> Annual Gender Sensitization Activities Planed<span class="icon">+</span></button>
               <div class="panel">
@@ -470,7 +470,7 @@ include 'head.php';
               </div>
               <hr class="horizontal-line">
               <br>
-              <h3 class="tmu-text-primary">Session 2019-20 (01<sup>st</sup> July 2019 TO 30<sup>th</sup> June 2020)</h3>
+              <h3 class="tmu-text-primary"><span>Session 2019-20 (01<sup>st</sup> July 2019 </span><span> TO 30<sup>th</sup> June 2020)</span></h3>
               <hr class="horizontal-line">
               <button class="careers-accordion">Annual Gender Sensitization Activities Planed<span class="icon">+</span></button>
               <div class="panel">
@@ -593,7 +593,7 @@ include 'head.php';
               </div>
               <hr class="horizontal-line">
               <br>
-              <h3 class="tmu-text-primary">Session 2018-19 (01<sup>st</sup> July 2018 TO 30<sup>th</sup> June 2019)</h3>
+              <h3 class="tmu-text-primary"><span>Session 2018-19 (01<sup>st</sup> July 2018 </span><span> TO 30<sup>th</sup> June 2019)</span></h3>
               <hr class="horizontal-line">
               <button class="careers-accordion"> Anual Gender Sensitization Activities Planed<span class="icon">+</span></button>
               <div class="panel">
@@ -686,7 +686,7 @@ include 'head.php';
               </div>
               <hr class="horizontal-line">
               <br>
-              <h3 class="tmu-text-primary">Session 2017-18 (01<sup>st</sup> July 2017 TO 30<sup>th</sup> June 2018)</h3>
+              <h3 class="tmu-text-primary"><span>Session 2017-18 (01<sup>st</sup> July 2017 </span><span> TO 30<sup>th</sup> June 2018)</span></h3>
               <hr class="horizontal-line">
               <button class="careers-accordion"> Anual Gender Sensitization Activities Planed<span class="icon">+</span></button>
               <div class="panel">
@@ -769,7 +769,7 @@ include 'head.php';
               </div>
               <hr class="horizontal-line">
               <br>
-              <h3 class="tmu-text-primary">Session 2016-17 (01<sup>st</sup> July 2016 TO 30<sup>th</sup> June 2017)</h3>
+              <h3 class="tmu-text-primary"><span>Session 2016-17 (01<sup>st</sup> July 2016 </span><span> TO 30<sup>th</sup> June 2017)</span></h3>
               <hr class="horizontal-line">
               <button class="careers-accordion">Anual Gender Sensitization Activities Planed <span class="icon">+</span></button>
               <div class="panel">

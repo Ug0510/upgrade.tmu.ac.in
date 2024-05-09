@@ -17,14 +17,14 @@ include 'head.php';
         ?>
 
         <div class="col-12 col-md-10 mt-3 mt-sm-0 pt-5">
-
+          <div class="container">
           <div class="row mx-0">
             <h1 class="tmu-text-primary tmu-page-heading">
               <span>Human Values and</span>
               <span> Professional Ethics</span>
             </h1>
-
-            <p>Various activities has been organised by the different colleges/ department of the university for inculcating values for becoming responsible citizens. </p>
+            <p class="mb-1">Various activities has been organised by the different colleges/ department of the university for inculcating values for becoming responsible citizens. </p>
+            <div class="table-responisve">
             <table class="table table-bordered table-striped">
               <thead>
                 <th>#</th>
@@ -95,10 +95,10 @@ include 'head.php';
               </tbody>
             </table>
           </div>
-
+          </div>
 
           <h2 class="tmu-text-primary text-center"><span>Latest</span> <span> Pledge</span></h2>
-          <div class="row justify-content-center gutter-30 col-mb-5">
+          <div class="row gutter-30 col-mb-5">
             <div class="col-sm-4 col-md-4">
               <div class="team card shadow-sm border-0 h-shadow h-translatey-sm all-ts rounded-4 overflow-hidden">
                 <div class="team-image">
@@ -106,7 +106,7 @@ include 'head.php';
                 </div>
                 <div class="team-desc p-2">
                   <div class="team-title pt-0">
-                    <h4 class="text-center" style="font-size:18px; font-family:'poppins';">Say Yes to Life, No to Drugs Pledge</h4><span class="fst-normal"><a href="https://pledge.mygov.in/" class="more-link fst-normal ms-2" style="font-size:14px; font-family:'poppins';"><span>Read more</span></a></span>
+                    <h4 class="text-center fs-14">Say Yes to Life, No to Drugs Pledge</h4><span class="fst-normal fs-12"><a href="https://pledge.mygov.in/" class="more-link fst-normal ms-2">Read more</a></span>
                   </div>
                 </div>
               </div>
@@ -119,8 +119,7 @@ include 'head.php';
                 </div>
                 <div class="team-desc p-2">
                   <div class="team-title pt-0">
-                    <h4 class="text-center" style="font-size:18px; font-family:'poppins';">Read The Preamble</h4><span class="fst-normal"><a href="https://pledge.mygov.in/" class="more-link fst-normal ms-2" style="font-size:14px; font-family:'poppins';"><span>Read more</span></a>
-                    </span>
+                    <h4 class="text-center fs-14" >Read The Preamble</h4><span class="fst-normal"><a href="https://pledge.mygov.in/" class="more-link fst-normal ms-2" style="font-size:14px; font-family:'poppins';">Read more</a></span>
                   </div>
                 </div>
               </div>
@@ -133,7 +132,7 @@ include 'head.php';
                 </div>
                 <div class="team-desc p-2">
                   <div class="team-title pt-0">
-                    <h4 class="text-center" style="font-size:18px; font-family:'poppins';">Rashtriya Ekta Diwas Pledge</h4><span class="fst-normal"><a href="https://pledge.mygov.in/" class="more-link fst-normal ms-2" style="font-size:14px; font-family:'poppins';"><span>Read more</span></a></span>
+                    <h4 class="text-center fs-14">Rashtriya Ekta Diwas Pledge</h4><span class="fst-normal fs-12"><a href="https://pledge.mygov.in/" class="more-link fst-normal ms-2">Read more</a></span>
                   </div>
                 </div>
               </div>
@@ -146,8 +145,8 @@ include 'head.php';
                 </div>
                 <div class="team-desc p-2">
                   <div class="team-title pt-0">
-                    <h4 class="text-center" style="font-size:18px; font-family:'poppins';">Swachh Bharat Harit Bharat Green Pledge</h4><span>
-                      <a href="https://pledge.mygov.in/" class="more-link fst-normal ms-2" style="font-size:14px; font-family:'poppins';"><span>Read more</span></a></span>
+                    <h4 class="text-center fs-14">Swachh Bharat Harit Bharat Green Pledge</h4><span>
+                      <a href="https://pledge.mygov.in/" class="more-link fst-normal ms-2 fs-12">Read more</a></span>
                   </div>
                 </div>
               </div>
@@ -155,7 +154,7 @@ include 'head.php';
 
           </div>
         </div>
-
+        </div>
 
       </div>
     </div>
@@ -166,8 +165,6 @@ include 'head.php';
 </section><!-- #content end -->
 
 </div><!-- #wrapper end -->
-<br /><br />
-
 
 <?php
 include 'footer.php';

@@ -14,7 +14,7 @@ include 'head.php';
 					<h1 class="tmu-text-primary tmu-page-heading"><span> Academic </span> <span> Calendars</span></h1>
 						<div class="container">
 							<div class="row">
-								<div class="col-md-3">
+								<div class="col-md-3 mb-3 mb-3">
 									<div class="card text-center">
 										<div class="card-body">
 											<!-- Icon -->
@@ -28,7 +28,7 @@ include 'head.php';
 									</div>
 								</div>
 
-								<div class="col-md-3">
+								<div class="col-md-3 mb-3 mb-3">
 									<div class="card text-center">
 										<div class="card-body">
 											<!-- Icon -->
@@ -41,7 +41,7 @@ include 'head.php';
 									</div>
 								</div>
 
-								<div class="col-md-3">
+								<div class="col-md-3 mb-3 mb-3">
 									<div class="card text-center">
 										<div class="card-body">
 											<!-- Icon -->
@@ -54,7 +54,7 @@ include 'head.php';
 									</div>
 								</div>
 
-								<div class="col-md-3">
+								<div class="col-md-3 mb-3 mb-3">
 									<div class="card text-center">
 										<div class="card-body">
 											<!-- Icon -->
@@ -67,7 +67,7 @@ include 'head.php';
 									</div>
 								</div>
 
-								<div class="col-md-3">
+								<div class="col-md-3 mb-3 mb-3">
 									<div class="card text-center">
 										<div class="card-body">
 											<!-- Icon -->
@@ -80,7 +80,7 @@ include 'head.php';
 									</div>
 								</div>
 
-								<div class="col-md-3">
+								<div class="col-md-3 mb-3 mb-3">
 									<div class="card text-center">
 										<div class="card-body">
 											<!-- Icon -->
@@ -93,7 +93,7 @@ include 'head.php';
 									</div>
 								</div>
 
-								<div class="col-md-3">
+								<div class="col-md-3 mb-3 mb-3">
 									<div class="card text-center">
 										<div class="card-body">
 											<!-- Icon -->

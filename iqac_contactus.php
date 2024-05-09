@@ -18,8 +18,8 @@ include 'head.php';
 
                             <div class="container">
                                 <div class="row">
-                                    <h3 class="mb-2 pb-0" style="color: #001055;"><b>Contact Person</b></h3>
-                                    <h4 class="pb-0 mb-0"><b>Dr. Aditya Kr. Sharma </b></h4>
+                                    <h3 class="mb-2 pb-0 tmu-text-primary"><span>Contact </span><span> Person</span></h3>
+                                    <h4 class="pb-0 mb-0 tmu-text-primary"><b>Dr. Aditya Kr. Sharma </b></h4>
                                     <p> REGISTRAR & COORDINATOR - IQAC CELL</p>
                                     <p>
                                         <i class="fa-solid fa-location-dot"></i> &nbsp<b>Location:</b> Teerthanker
@@ -33,8 +33,8 @@ include 'head.php';
                             <div class="row gx-lg-0 gy-4 mt-3">
                                 <div class="col-lg-12">
                                     <form action="forms/contact.php" method="post" role="form" class="php-email-form">
-                                        <h3 class="text-left mt-1 mb-4" style="color:#001055; "> NEED MORE
-                                            INFORMATION?</h3>
+                                        <h3 class="text-left mt-1 mb-4 tmu-text-primary"><span> NEED MORE </span><span>
+                                            INFORMATION? </span></h3>
                                         <div class="row">
                                             <div class="col-md-6 form-group">
                                                 <input type="text" name="name" class="form-control" id="name"
@@ -57,7 +57,7 @@ include 'head.php';
                                             <button class="tmu-btn btn-1 py-2 mt-4">Send Us!</button>
                                         </div>
                                     </form>
-                                </div><!-- End Contact Form -->
+                                </div>
                             </div><!-- End Contact Form -->
                         </div>
                     </section><!-- End Contact Section -->
