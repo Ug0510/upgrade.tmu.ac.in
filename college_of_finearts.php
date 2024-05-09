@@ -32,36 +32,37 @@ include 'head.php';
             <div class="row justify-content-center">
                 <div class="col-6 col-lg-3 px-1">
                     <div class="card text-center py-3 rounded-0 fw-semibold text-uppercase ls-1">
-                        <div class="card-body gap-4 text-tmu-primary under-banner-cards"> <span>82%</span>
+                        <div class="card-body gap-4 text-tmu-primary under-banner-cards"> 
+                            <span>Well-equipped </span>
                             <br>
-                            <span class="d-block pt-1">Placement Rate</span>
+                            <span class="d-block pt-1">Art Studios</span>
                         </div>
                     </div>
                 </div>
                 <div class="col-6 col-lg-3 px-1">
                     <div class="card text-center py-3 rounded-0 fw-semibold text-uppercase ls-1">
                         <div class="card-body gap-4 text-tmu-primary under-banner-cards">
-                            <span>100%</span>
+                            <span>Internship </span>
                             <br>
-                            <span class="d-block pt-1">Placement Assistance</span>
+                            <span class="d-block pt-1">Opportunities</span>
                         </div>
                     </div>
                 </div>
                 <div class="col-6 col-lg-3 px-1">
                     <div class="card text-center py-3 rounded-0 fw-semibold text-uppercase ls-1">
                         <div class="card-body gap-4 text-tmu-primary under-banner-cards">
-                            <span>60 LPA</span>
+                            <span>Expert </span>
                             <br>
-                            <span class="d-block pt-1">Highest Package</span>
+                            <span class="d-block pt-1">Faculty</span>
                         </div>
                     </div>
                 </div>
                 <div class="col-6 col-lg-3 px-1">
                     <div class="card text-center py-3 rounded-0 fw-semibold text-uppercase ls-1">
                         <div class="card-body gap-4 text-tmu-primary under-banner-cards">
-                            <span>100+</span>
+                            <span>industrial</span>
                             <br>
-                            <span class="d-block pt-1">Global Collaborations</span>
+                            <span class="d-block pt-1">Visits & Exhibitions</span>
                         </div>
                     </div>
                 </div>
@@ -80,18 +81,19 @@ include 'head.php';
                         <div class="row">
                             <div class="col-6">
                                 <div class="card text-center py-3 rounded-0 fw-semibold text-uppercase ls-1">
-                                    <div class="card-body gap-4 text-tmu-primary under-banner-cards"> <span>82%</span>
+                                    <div class="card-body gap-4 text-tmu-primary under-banner-cards"> 
+                                        <span>Well-equipped </span>
                                         <br>
-                                        <span class="d-block pt-1">Placement Rate</span>
+                                        <span class="d-block pt-1">Art Studios</span>
                                     </div>
                                 </div>
                             </div>
                             <div class="col-6">
                                 <div class="card text-center py-3 rounded-0 fw-semibold text-uppercase ls-1">
                                     <div class="card-body gap-4 text-tmu-primary under-banner-cards">
-                                        <span>100%</span>
+                                        <span>Internship </span>
                                         <br>
-                                        <span class="d-block pt-1">Placement Assistance</span>
+                                        <span class="d-block pt-1">Opportunities</span>
                                     </div>
                                 </div>
                             </div>
@@ -102,18 +104,18 @@ include 'head.php';
                             <div class="col-6">
                                 <div class="card text-center py-3 rounded-0 fw-semibold text-uppercase ls-1">
                                     <div class="card-body gap-4 text-tmu-primary under-banner-cards">
-                                        <span>60 LPA</span>
+                                        <span>Expert </span>
                                         <br>
-                                        <span class="d-block pt-1">Highest Package</span>
+                                        <span class="d-block pt-1">Faculty</span>
                                     </div>
                                 </div>
                             </div>
                             <div class="col-6">
                                 <div class="card text-center py-3 rounded-0 fw-semibold text-uppercase ls-1">
                                     <div class="card-body gap-4 text-tmu-primary under-banner-cards">
-                                        <span>100+</span>
+                                        <span>industrial</span>
                                         <br>
-                                        <span class="d-block pt-1">Global Collaborations</span>
+                                        <span class="d-block pt-1">Visits & Exhibitions</span>
                                     </div>
                                 </div>
                             </div>
@@ -164,20 +166,30 @@ include 'head.php';
                 </div>
                 <div class="tab-pane fade" id="Tab2" role="tabpanel" aria-labelledby="tab2-tab">
                     <h3>Placement/Internship</h3>
-                    <ul class="m-ol-list ps-4">
+                    <ul class="m-ol-list ps-4 mb-0">
                         <li><p class="p-0 m-0">Teerthanker Mahaveer University offers a personalised, supportive environment from admissions to placements. The college assists students in securing placement opportunities in artistic disciplines, including painting, sculpture, drawing, photography, printmaking, ceramics, graphic design, illustration, digital arts, film, animation, theatre, dance, music, and more.</li>
                         <li><p class="p-0 m-0">In the past years, our students have secured placement and training opportunities in top-notch advertising agencies worldwide namely, McCann, FCB Ulka, Ogilvy, Leo Burnett, and TBWA. Some of our students got government jobs in premier institutions like Jamia Millia Islamia, Delhi, Mangalayatan University, Aligarh, etc.</li>
-                        <li><p class="p-0 m-0">Reputed industrial houses across the country visit for campus recruitment programmes. The prime objective of the Training & Placement cell is to facilitate the graduating students and industry by providing a meeting ground for them. To achieve 100% placement, the T&P cell offers training programmes to upgrade the social and professional skills of students and ensures that the students are employment ready.</p></li>
                     </ul>
+                    <div class="read-more-content">
+                        <ul class="m-ol-list ps-4">    
+                            <li><p class="p-0 m-0">Reputed industrial houses across the country visit for campus recruitment programmes. The prime objective of the Training & Placement cell is to facilitate the graduating students and industry by providing a meeting ground for them. To achieve 100% placement, the T&P cell offers training programmes to upgrade the social and professional skills of students and ensures that the students are employment ready.</p></li>
+                        </ul>
+                    </div>
+                    <a href="javascript:void(0);" class="read-more ms-0 mt-1" title="Read More">Read More</a>      
                 </div>
                 <div class="tab-pane fade" id="Tab3" role="tabpanel" aria-labelledby="tab3-tab">
                     <h3>Curriculum</h3>
-                    <ul class="m-ol-list ps-4">
+                    <ul class="m-ol-list ps-4 mb-0">
                         <li><p class="p-0 m-0">The College of Fine Arts blends modern art education and the curriculum is designed as per the NEP scheme of UP Higher Education, critically implementing each part of its with practical aspects, and hands-on training in fine arts.</li>
                         <li><p class="p-0 m-0">You will gain a strong foundation in traditional art forms including drawing, painting and sculpture, with extensive explorations in video, installation, performance, photography and digital imaging.</li>
+                    </ul>
+                    <div class="read-more-content mt-1">
+                    <ul class="m-ol-list ps-4">    
                         <li><p class="p-0 m-0">By choosing to begin your degree at Teerthanker Mahaveer College of Fine Arts, you will get a competitive edge with a curriculum that is designed to cultivate a strong foundation in fundamental Art & Design skills before students progress to their respective choice of discipline.</li>
                         <li><p class="p-0 m-0">During the foundation years, students will develop knowledge and skills across different media, and apply critical thinking and research methodologies with historical, cultural, social and technological perspectives. After the end of the 2nd year of BFA, students have the option of doing their internships with the best industry partners across the country towards their credits for the 3rd and 4th years.</li>
                     </ul>
+                    </div>
+                    <a href="javascript:void(0);" class="read-more ms-0 mt-1" title="Read More">Read More</a>    
                 </div>
                 <div class="tab-pane fade" id="Tab4" role="tabpanel" aria-labelledby="tab4-tab">
                     <h3>Infrastructure</h3>

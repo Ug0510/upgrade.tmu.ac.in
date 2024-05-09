@@ -32,36 +32,37 @@ include 'head.php';
             <div class="row justify-content-center">
                 <div class="col-6 col-lg-3 px-1">
                     <div class="card text-center py-3 rounded-0 fw-semibold text-uppercase ls-1">
-                        <div class="card-body gap-4 text-tmu-primary under-banner-cards"> <span>82%</span>
+                        <div class="card-body gap-4 text-tmu-primary under-banner-cards"> 
+                            <span>IPR Cell</span>
                             <br>
-                            <span class="d-block pt-1">Placement Rate</span>
+                            <span class="d-block pt-1">for Patent Filing</span>
                         </div>
                     </div>
                 </div>
                 <div class="col-6 col-lg-3 px-1">
                     <div class="card text-center py-3 rounded-0 fw-semibold text-uppercase ls-1">
                         <div class="card-body gap-4 text-tmu-primary under-banner-cards">
-                            <span>100%</span>
+                            <span>10+</span>
                             <br>
-                            <span class="d-block pt-1">Placement Assistance</span>
+                            <span class="d-block pt-1">Programme Specialisations</span>
                         </div>
                     </div>
                 </div>
                 <div class="col-6 col-lg-3 px-1">
                     <div class="card text-center py-3 rounded-0 fw-semibold text-uppercase ls-1">
                         <div class="card-body gap-4 text-tmu-primary under-banner-cards">
-                            <span>60 LPA</span>
+                            <span>Approved by</span>
                             <br>
-                            <span class="d-block pt-1">Highest Package</span>
+                            <span class="d-block pt-1">the Dental Council of India</span>
                         </div>
                     </div>
                 </div>
                 <div class="col-6 col-lg-3 px-1">
                     <div class="card text-center py-3 rounded-0 fw-semibold text-uppercase ls-1">
                         <div class="card-body gap-4 text-tmu-primary under-banner-cards">
-                            <span>100+</span>
+                            <span>Hands-On</span>
                             <br>
-                            <span class="d-block pt-1">Global Collaborations</span>
+                            <span class="d-block pt-1">Training at TMU Hospital</span>
                         </div>
                     </div>
                 </div>
@@ -80,18 +81,19 @@ include 'head.php';
                         <div class="row">
                             <div class="col-6">
                                 <div class="card text-center py-3 rounded-0 fw-semibold text-uppercase ls-1">
-                                    <div class="card-body gap-4 text-tmu-primary under-banner-cards"> <span>82%</span>
+                                    <div class="card-body gap-4 text-tmu-primary under-banner-cards"> 
+                                        <span>IPR Cell</span>
                                         <br>
-                                        <span class="d-block pt-1">Placement Rate</span>
+                                        <span class="d-block pt-1">for Patent Filing</span>
                                     </div>
                                 </div>
                             </div>
                             <div class="col-6">
                                 <div class="card text-center py-3 rounded-0 fw-semibold text-uppercase ls-1">
                                     <div class="card-body gap-4 text-tmu-primary under-banner-cards">
-                                        <span>100%</span>
+                                        <span>Approved by</span>
                                         <br>
-                                        <span class="d-block pt-1">Placement Assistance</span>
+                                        <span class="d-block pt-1">the Dental Council of India</span>
                                     </div>
                                 </div>
                             </div>
@@ -102,18 +104,18 @@ include 'head.php';
                             <div class="col-6">
                                 <div class="card text-center py-3 rounded-0 fw-semibold text-uppercase ls-1">
                                     <div class="card-body gap-4 text-tmu-primary under-banner-cards">
-                                        <span>60 LPA</span>
+                                         <span>10+</span>
                                         <br>
-                                        <span class="d-block pt-1">Highest Package</span>
+                                        <span class="d-block pt-1">Programme Specialisations</span>
                                     </div>
                                 </div>
                             </div>
                             <div class="col-6">
                                 <div class="card text-center py-3 rounded-0 fw-semibold text-uppercase ls-1">
                                     <div class="card-body gap-4 text-tmu-primary under-banner-cards">
-                                        <span>100+</span>
-                                        <br>
-                                        <span class="d-block pt-1">Global Collaborations</span>
+                                     <span>Hands-On</span>
+                                    <br>
+                                    <span class="d-block pt-1">Training at TMU Hospital</span>
                                     </div>
                                 </div>
                             </div>
@@ -158,11 +160,14 @@ include 'head.php';
                 <div class="tab-pane fade show active" id="Tab1" role="tabpanel" aria-labelledby="tab1-tab">
                     <h3>Key Highlights</h3>
                     <p>TMDC&RC offers extensive dental education specialising in all 9 fields of dentistry. These include:</p>
-                    <ul class="m-ol-list ps-4">
+                    <ul class="m-ol-list ps-4 mb-0">
                         <li><p class="p-0 m-0">Conservative Dentistry & Endodontics</li>
                         <li><p class="p-0 m-0">Oral & Maxillofacial Surgery</li>
                         <li><p class="p-0 m-0">Orthodontics & Dentofacial Orthopedics</li>
                         <li><p class="p-0 m-0">Prosthodontics and Crown & Bridge</li>
+                    </ul>
+                    <div class="read-more-content mt-1">
+                    <ul class="m-ol-list ps-4">       
                         <li><p class="p-0 m-0">Paedodontics & Preventive Dentistry</li>
                         <li><p class="p-0 m-0">Periodontology</li>
                         <li><p class="p-0 m-0">Public Health Dentistry</li>
@@ -170,25 +175,34 @@ include 'head.php';
                         <li><p class="p-0 m-0">Oral Pathology & Microbiology</li>
                     </ul>
                     <p>Additionally, we have a basic sciences department for the overall exposure of the students.</p>
+                    </div> 
+                    <a href="javascript:void(0);" class="read-more ms-0 mt-1" title="Read More">Read More</a>    
                 </div>
                 <div class="tab-pane fade" id="Tab2" role="tabpanel" aria-labelledby="tab2-tab">
                     <h3>Placement/Internship</h3>
-                    <p>TMDC&RC excels in providing outstanding internships and placements, which play a vital role in every dentist's career journey. Our commitment to excellence is reflected in our 82% campus placement. A decent number of our students are working in dental clinics across India, the South Asia Pacific, and the Middle East. <br><br>
-We also go beyond boundaries by conducting student exchange programs that enable our dental students to gain global exposure and experience in dentistry. Our alumni have achieved remarkable success in various sectors. It includes dental clinics, government and private hospitals, educational institutes, pharmaceutical companies, research institutes, dental equipment manufacturers, and dental product manufacturers.</p>
+                    <p>TMDC&RC excels in providing outstanding internships and placements, which play a vital role in every dentist's career journey. Our commitment to excellence is reflected in our 82% campus placement. A decent number of our students are working in dental clinics across India, the South Asia Pacific, and the Middle East. <br>
+                    We also go beyond boundaries by conducting student exchange programs that enable our dental students to gain global exposure and experience in dentistry. Our alumni have achieved remarkable success in various sectors. It includes dental clinics, government and private hospitals, educational institutes, pharmaceutical companies, research institutes, dental equipment manufacturers, and dental product manufacturers.</p>
                     </p>
                 </div>
                 <div class="tab-pane fade" id="Tab3" role="tabpanel" aria-labelledby="tab3-tab">
                     <h3>Curriculum</h3>
-                    <p>Experience excellence in the dental profession at TMDC&RC, where innovation and practical training take centre stage. Our commitment extends to fostering exceptional skills across clinical, academic, and research domains, creating a conducive learning environment for students to achieve their career goals. Our programmes adhere to international standards and meet the Dental Council of India's regulations. <br><br>
-                        With case-based and futuristic integrated e-learning, we equip students to tackle various oro-dental diseases. Through dental camps, outreach programs, and community service, students gain invaluable practical experience. We encourage young researchers to publish papers and participate in national and international seminars, symposiums, conferences, and workshops, keeping them updated with the latest advancements in dental science. <br><br>
+                    <p>Experience excellence in the dental profession at TMDC&RC, where innovation and practical training take centre stage. Our commitment extends to fostering exceptional skills across clinical, academic, and research domains, creating a conducive learning environment for students to achieve their career goals. Our programmes adhere to international standards and meet the Dental Council of India's regulations. </p>
+                    <div class="read-more-content mt-1">    
+                    <p>With case-based and futuristic integrated e-learning, we equip students to tackle various oro-dental diseases. Through dental camps, outreach programs, and community service, students gain invaluable practical experience. We encourage young researchers to publish papers and participate in national and international seminars, symposiums, conferences, and workshops, keeping them updated with the latest advancements in dental science. <br>
                         Beyond academics, we offer diverse extracurricular activities, sports, and cultural events, nurturing talents and fostering overall development.</p>
+                    </div>
+                    <a href="javascript:void(0);" class="read-more ms-0 mt-1" title="Read More">Read More</a>
                 </div>
                 <div class="tab-pane fade" id="Tab4" role="tabpanel" aria-labelledby="tab4-tab">
                     <h3>Infrastructure</h3>
-                    <p>The dental college has ultra-advanced clinical facilities and a majestic infrastructure. Equipped with modern X-ray apparatus and advanced technology, including cone beam computed tomography, orthopantomography, and surgical bone saw, our students gain hands-on experience with cutting-edge tools. <br><br>
-Our simulated pre-clinical and research laboratories offer a conducive learning environment. The air-conditioned central library is accessible for 12 hours a day, providing students with valuable resources. With separate dormitories for girls and boys in a serene environment, students enjoy round-the-clock comfort and security. <br><br>
-TMDC&RC's major strength lies in the large number of patients visiting the OPD, providing ample clinical exposure to dental students. The 800+ beds super-speciality clinical setting attracts both rural and urban populations, offering diverse patient cases to enhance students' skills. At TMU, we prioritize an enriching and supportive environment to nurture the growth of our dental students.</p>
+                    <p>The dental college has ultra-advanced clinical facilities and a majestic infrastructure. Equipped with modern X-ray apparatus and advanced technology, including cone beam computed tomography, orthopantomography, and surgical bone saw, our students gain hands-on experience with cutting-edge tools. </p>
+                    <div class="read-more-content mt-1">
+                        <p>Our simulated pre-clinical and research laboratories offer a conducive learning environment. The air-conditioned central library is accessible for 12 hours a day, providing students with valuable resources. With separate dormitories for girls and boys in a serene environment, students enjoy round-the-clock comfort and security. <br>
+                        TMDC&RC's major strength lies in the large number of patients visiting the OPD, providing ample clinical exposure to dental students. The 800+ beds super-speciality clinical setting attracts both rural and urban populations, offering diverse patient cases to enhance students' skills. At TMU, we prioritize an enriching and supportive environment to nurture the growth of our dental students.</p>
+                    </div>
+                    <a href="javascript:void(0);" class="read-more ms-0 mt-1" title="Read More">Read More</a>    
                 </div>
+                
             </div>
         </div>
 
@@ -326,9 +340,6 @@ TMDC&RC's major strength lies in the large number of patients visiting the OPD, 
             </div>
 
         </div>
-
-
-
 
         <!-- Collab Modal -->
         <div id="collabModal" class="tmu-modal">

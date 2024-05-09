@@ -2,149 +2,18 @@
 include 'head.php';
 ?>
 
-<style>
-  /* carrer accordian */
-  .careers-accordion {
-    background-color: white;
-    color: #000;
-    cursor: pointer;
-    padding: 5px;
-    width: 100%;
-    text-align: left;
-    border: none;
-    outline: none;
-    transition: background-color 0.3s ease;
-    font-size: 18px;
-    font-weight: bold;
-    display: flex;
-    /* Added */
-    align-items: center;
-    /* Added */
-    justify-content: space-between;
-    /* Added */
-  }
-
-  .careers-accordion:hover {
-    background-color: #001055;
-    color: #fff;
-  }
-
-  .panel {
-    padding: 0 18px;
-    display: none;
-    overflow: hidden;
-    border-top: 1px solid #ddd;
-    /* Added */
-    overflow-y: auto;
-    max-height: 100% !important;
-  }
-
-  .panel p {
-    margin-top: 20px;
-  }
-
-  .panel.active {
-    display: block;
-  }
-
-  .icon {
-    font-size: 35px;
-    font-weight: 400;
-    margin-left: 5px;
-  }
-
-  /* Add style for the horizontal line */
-  .horizontal-line {
-    border-top: 1px solid #4f4f4f;
-    margin: 0;
-  }
-
-  /* Added class for clicked state */
-  .clicked {
-    background-color: #001055;
-    color: #fff;
-  }
-
-  .text-color {
-    color: #212529;
-    line-height: 18px;
-    font-size: 12px;
-    font-weight: 400;
-    text-align: justify;
-  }
-
-  h3 {
-    margin: 0 0 2px 0;
-  }
-
-  .font-body {
-    font-size: 22px;
-    color: #001055;
-    font-weight: 700;
-  }
-
-  p {
-    margin-bottom: 15px !important;
-  }
-
-
-  .fa-solid.fa-file-pdf:hover {
-    color: #001055;
-    justify-content: center;
-  }
-
-  .centered-icon {
-    text-align: center;
-  }
-
-  .text-middle {
-    color: #001055;
-    text-transform: capitalize;
-    font-weight: 700 !important;
-    font-size: 2.4vmax;
-    margin: 0 0 10px 0;
-    text-align: center;
-  }
-
-  .vh-75 {
-    height: 0vh !important;
-  }
-
-  .team-title h4 {
-    font-size: 16px;
-    font-family: 'poppins' !important;
-    text-align: center;
-  }
-
-  .team-title h4 span {
-    font-size: 12px;
-    font-family: 'poppins' !important;
-    text-align: center;
-  }
-</style>
-
 <section id="content">
   <div class="content-wrap py-0">
-
-
-
     <div class="container-fluid my-0  px-0 px-md-3">
-
-
       <div class="row">
 
         <?php
         include 'sidebar/institutional_values_sidebar.php';
         ?>
-
-
         <div class="col-12 col-md-10 mt-3 mt-sm-0 pt-5">
-
           <div class="row mx-0">
-            <h2 class=" text-center" style="color:#001055;
-                                    text-transform: capitalize;
-                                    font-weight:700!important; font-size:2.4vmax">Environmental Consciousness and <span class="d-block d-sm-inline">Sustainability</span></h2>
-            <div class="container mb-5 mt-5">
+          <h1 class="tmu-text-primary tmu-page-heading"><span> Environmental Consciousness and </span><span> Sustainability</span></h1>
+            <div class="container mb-3 mt-3">
               <hr class="horizontal-line">
 
               <button class="careers-accordion"> Solar Energy<span class="icon">+</span></button>
@@ -248,7 +117,7 @@ include 'head.php';
                     </tr>
                   </tbody>
                 </table>
-                <div class="row justify-content-center gutter-30 col-mb-5">
+                <div class="row gutter-30 col-mb-5">
                   <div class="col-sm-4 col-md-4">
                     <div class="team card shadow-sm border-0 h-shadow h-translatey-sm all-ts rounded-4 overflow-hidden">
                       <div class="team-image">
@@ -256,7 +125,7 @@ include 'head.php';
                       </div>
                       <div class="team-desc p-2">
                         <div class="team-title pt-0">
-                          <h4>Solar Panels</h4><span class="fst-normal" style="font-size:16px; font-family:'poppins';"><i class="fa-solid fa-building"></i> Dental College Roof </span>
+                          <h4 class="fs-14">Solar Panels</h4><span class="fst-normal fs-12" style="font-size:16px; font-family:'poppins';"><i class="fa-solid fa-building"></i> Dental College Roof </span>
                         </div>
                       </div>
                     </div>
@@ -269,7 +138,7 @@ include 'head.php';
                       </div>
                       <div class="team-desc p-2">
                         <div class="team-title pt-0">
-                          <h4>Solar Panels</h4><span class="fst-normal" style="font-size:16px; font-family:'poppins';"><i class="fa-solid fa-building"></i> Teerthanker Mahaveer Hospital Roof</span>
+                          <h4 class="fs-14">Solar Panels</h4><span class="fst-normal fs-12" style="font-size:16px; font-family:'poppins';"><i class="fa-solid fa-building"></i> Teerthanker Mahaveer Hospital Roof</span>
                         </div>
                       </div>
                     </div>
@@ -282,7 +151,7 @@ include 'head.php';
                       </div>
                       <div class="team-desc p-2">
                         <div class="team-title pt-0">
-                          <h4>Solar Panels</h4><span class="fst-normal" style="font-size:16px; font-family:'poppins';"><i class="fa-solid fa-building"></i> Sub-Station No.3 Roof</span>
+                          <h4 class="fs-14">Solar Panels</h4><span class="fst-normal fs-12" style="font-size:16px; font-family:'poppins';"><i class="fa-solid fa-building"></i> Sub-Station No.3 Roof</span>
                         </div>
                       </div>
                     </div>
@@ -295,7 +164,7 @@ include 'head.php';
                       </div>
                       <div class="team-desc p-2">
                         <div class="team-title pt-0">
-                          <h4>Solar Panels</h4><span class="fst-normal" style="font-size:16px; font-family:'poppins';"><i class="fa-solid fa-building"></i> Engineering Block-I Roof </span>
+                          <h4 class="fs-14">Solar Panels</h4><span class="fst-normal fs-12" style="font-size:16px; font-family:'poppins';"><i class="fa-solid fa-building"></i> Engineering Block-I Roof </span>
                         </div>
                       </div>
                     </div>
@@ -308,7 +177,7 @@ include 'head.php';
                       </div>
                       <div class="team-desc p-2">
                         <div class="team-title pt-0">
-                          <h4>Solar Panels</h4><span class="fst-normal" style="font-size:16px; font-family:'poppins';"><i class="fa-solid fa-building"></i> Indoor Stadium Roof</span>
+                          <h4 class="fs-14">Solar Panels</h4><span class="fst-normal fs-12" style="font-size:16px; font-family:'poppins';"><i class="fa-solid fa-building"></i> Indoor Stadium Roof</span>
                         </div>
                       </div>
                     </div>
@@ -321,7 +190,7 @@ include 'head.php';
                       </div>
                       <div class="team-desc p-2">
                         <div class="team-title pt-0">
-                          <h4>Solar Panels</h4><span class="fst-normal" style="font-size:16px; font-family:'poppins';"><i class="fa-solid fa-building"></i> TMU Morchary 3 Roof</span>
+                          <h4 class="fs-14">Solar Panels</h4><span class="fst-normal fs-12" style="font-size:16px; font-family:'poppins';"><i class="fa-solid fa-building"></i> TMU Morchary 3 Roof</span>
                         </div>
                       </div>
                     </div>
@@ -335,7 +204,7 @@ include 'head.php';
                       </div>
                       <div class="team-desc p-2">
                         <div class="team-title pt-0">
-                          <h4>Solar Panels</h4><span class="fst-normal" style="font-size:16px; font-family:'poppins';"><i class="fa-solid fa-building"></i> Mala Bhawan Roof </span>
+                          <h4 class="fs-14">Solar Panels</h4><span class="fst-normal fs-12" style="font-size:16px; font-family:'poppins';"><i class="fa-solid fa-building"></i> Mala Bhawan Roof </span>
                         </div>
                       </div>
                     </div>
@@ -348,7 +217,7 @@ include 'head.php';
                       </div>
                       <div class="team-desc p-2">
                         <div class="team-title pt-0">
-                          <h4>Solar Panels</h4><span class="fst-normal" style="font-size:16px; font-family:'poppins';"><i class="fa-solid fa-building"></i> College of Nursing Roof </span>
+                          <h4 class="fs-14">Solar Panels</h4><span class="fst-normal fs-12" style="font-size:16px; font-family:'poppins';"><i class="fa-solid fa-building"></i> College of Nursing Roof </span>
                         </div>
                       </div>
                     </div>
@@ -361,7 +230,7 @@ include 'head.php';
                       </div>
                       <div class="team-desc p-2">
                         <div class="team-title pt-0">
-                          <h4>Solar Panels</h4><span class="fst-normal" style="font-size:16px; font-family:'poppins';"><i class="fa-solid fa-building"></i> TMU Faculty Block Roof </span>
+                          <h4 class="fs-14">Solar Panels</h4><span class="fst-normal fs-12" style="font-size:16px; font-family:'poppins';"><i class="fa-solid fa-building"></i> TMU Faculty Block Roof </span>
                         </div>
                       </div>
                     </div>
@@ -374,7 +243,7 @@ include 'head.php';
                       </div>
                       <div class="team-desc p-2">
                         <div class="team-title pt-0">
-                          <h4>Solar Panels</h4><span class="fst-normal" style="font-size:16px; font-family:'poppins';"><i class="fa-solid fa-building"></i> Medical College & Research Centre Roof </span>
+                          <h4 class="fs-14">Solar Panels</h4><span class="fst-normal fs-12" style="font-size:16px; font-family:'poppins';"><i class="fa-solid fa-building"></i> Medical College & Research Centre Roof </span>
                         </div>
                       </div>
                     </div>
@@ -387,7 +256,7 @@ include 'head.php';
                       </div>
                       <div class="team-desc p-2">
                         <div class="team-title pt-0">
-                          <h4>Solar Panels</h4><span class="fst-normal" style="font-size:16px; font-family:'poppins';"><i class="fa-solid fa-building"></i> Vardhaman Bhawan Roof </span>
+                          <h4 class="fs-14">Solar Panels</h4><span class="fst-normal fs-12" style="font-size:16px; font-family:'poppins';"><i class="fa-solid fa-building"></i> Vardhaman Bhawan Roof </span>
                         </div>
                       </div>
                     </div>
@@ -400,7 +269,7 @@ include 'head.php';
                       </div>
                       <div class="team-desc p-2">
                         <div class="team-title pt-0">
-                          <h4>Solar Panels</h4><span class="fst-normal" style="font-size:16px; font-family:'poppins';"><i class="fa-solid fa-building"></i> Gyan Bhawan Roof </span>
+                          <h4 class="fs-14">Solar Panels</h4><span class="fst-normal fs-12" style="font-size:16px; font-family:'poppins';"><i class="fa-solid fa-building"></i> Gyan Bhawan Roof </span>
                         </div>
                       </div>
                     </div>
@@ -413,7 +282,7 @@ include 'head.php';
                       </div>
                       <div class="team-desc p-2">
                         <div class="team-title pt-0">
-                          <h4>Solar Panels</h4><span class="fst-normal" style="font-size:16px; font-family:'poppins';"><i class="fa-solid fa-building"></i>Prakash Bhawan Roof </span>
+                          <h4 class="fs-14">Solar Panels</h4><span class="fst-normal fs-12" style="font-size:16px; font-family:'poppins';"><i class="fa-solid fa-building"></i>Prakash Bhawan Roof </span>
                         </div>
                       </div>
                     </div>
@@ -426,7 +295,7 @@ include 'head.php';
                       </div>
                       <div class="team-desc p-2">
                         <div class="team-title pt-0">
-                          <h4>Solar Panels</h4><span class="fst-normal" style="font-size:16px; font-family:'poppins';"><i class="fa-solid fa-building"></i> Engineering Block-II Roof </span>
+                          <h4 class="fs-14">Solar Panels</h4><span class="fst-normal fs-12" style="font-size:16px; font-family:'poppins';"><i class="fa-solid fa-building"></i> Engineering Block-II Roof </span>
                         </div>
                       </div>
                     </div>
@@ -439,7 +308,7 @@ include 'head.php';
                       </div>
                       <div class="team-desc p-2">
                         <div class="team-title pt-0">
-                          <h4>Solar Panels</h4><span class="fst-normal" style="font-size:16px; font-family:'poppins';"><i class="fa-solid fa-building"></i> Vidya Bhawan Roof </span>
+                          <h4 class="fs-14">Solar Panels</h4><span class="fst-normal fs-12" style="font-size:16px; font-family:'poppins';"><i class="fa-solid fa-building"></i> Vidya Bhawan Roof </span>
                         </div>
                       </div>
                     </div>
@@ -452,7 +321,7 @@ include 'head.php';
                       </div>
                       <div class="team-desc p-2">
                         <div class="team-title pt-0">
-                          <h4>Solar Panels</h4><span class="fst-normal" style="font-size:16px; font-family:'poppins';"><i class="fa-solid fa-building"></i> Pharmacy Block Roof </span>
+                          <h4 class="fs-14">Solar Panels</h4><span class="fst-normal fs-12" style="font-size:16px; font-family:'poppins';"><i class="fa-solid fa-building"></i> Pharmacy Block Roof </span>
                         </div>
                       </div>
                     </div>
@@ -465,7 +334,7 @@ include 'head.php';
                       </div>
                       <div class="team-desc p-2">
                         <div class="team-title pt-0">
-                          <h4>Solar Panels</h4><span class="fst-normal" style="font-size:16px; font-family:'poppins';"><i class="fa-solid fa-building"></i> Faculty of Education Block Roof </span>
+                          <h4 class="fs-14">Solar Panels</h4><span class="fst-normal fs-12" style="font-size:16px; font-family:'poppins';"><i class="fa-solid fa-building"></i> Faculty of Education Block Roof </span>
                         </div>
                       </div>
                     </div>
@@ -488,7 +357,7 @@ include 'head.php';
                       </div>
                       <div class="team-desc p-2">
                         <div class="team-title pt-0">
-                          <h4>BioGas Plant </h4><span class="fst-normal" style="font-size:16px; font-family:'poppins';"><i class="fa-solid fa-building"></i> TMU Campus</span>
+                          <h4 class="fs-14">BioGas Plant </h4><span class="fst-normal fs-12" style="font-size:16px; font-family:'poppins';"><i class="fa-solid fa-building"></i> TMU Campus</span>
                         </div>
                       </div>
                     </div>
@@ -507,7 +376,7 @@ include 'head.php';
               <button class="careers-accordion">Sensor-based Energy Conservation <span class="icon">+</span></button>
               <div class="panel">
                 <p>TThe University has installed sensor based & wireless facility of conserve the energy at administrative block.</p>
-                <div class="row justify-content-center gutter-30 col-mb-5">
+                <div class="row gutter-30 col-mb-5">
                   <div class="col-sm-4 col-md-4">
                     <div class="team card shadow-sm border-0 h-shadow h-translatey-sm all-ts rounded-4 overflow-hidden">
                       <div class="team-image">
@@ -515,7 +384,7 @@ include 'head.php';
                       </div>
                       <div class="team-desc p-2">
                         <div class="team-title pt-0">
-                          <h4>Sensor based Automatic Water Control System</h4><span class="fst-normal" style="font-size:16px; font-family:'poppins';"><i class="fa-solid fa-building"></i> Ground Floor, Medical College & Research Centre</span>
+                          <h4 class="fs-14">Sensor based Automatic Water Control System</h4><span class="fst-normal fs-12" style="font-size:16px; font-family:'poppins';"><i class="fa-solid fa-building"></i> Ground Floor, Medical College & Research Centre</span>
                         </div>
                       </div>
                     </div>
@@ -528,7 +397,7 @@ include 'head.php';
                       </div>
                       <div class="team-desc p-2">
                         <div class="team-title pt-0">
-                          <h4>Sensor Based Energy Conservation </h4><span class="fst-normal" style="font-size:16px; font-family:'poppins';"><i class="fa-solid fa-building"></i> Indoor Stadium, Teerthanker Mahaveer University</span>
+                          <h4 class="fs-14">Sensor Based Energy Conservation </h4><span class="fst-normal fs-12" style="font-size:16px; font-family:'poppins';"><i class="fa-solid fa-building"></i> Indoor Stadium, Teerthanker Mahaveer University</span>
                         </div>
                       </div>
                     </div>
@@ -541,7 +410,7 @@ include 'head.php';
                       </div>
                       <div class="team-desc p-2">
                         <div class="team-title pt-0">
-                          <h4>Sensor Based Automatic Street Light System</h4><span class="fst-normal" style="font-size:16px; font-family:'poppins';"><i class="fa-solid fa-building"></i> Teerthanker Mahaveer University</span>
+                          <h4 class="fs-14">Sensor Based Automatic Street Light System</h4><span class="fst-normal fs-12" style="font-size:16px; font-family:'poppins';"><i class="fa-solid fa-building"></i> Teerthanker Mahaveer University</span>
                         </div>
                       </div>
                     </div>
@@ -554,7 +423,7 @@ include 'head.php';
                       </div>
                       <div class="team-desc p-2">
                         <div class="team-title pt-0">
-                          <h4>Sensor Based Energy Conservation Room</h4><span class="fst-normal" style="font-size:16px; font-family:'poppins';"><i class="fa-solid fa-building"></i> Administrative Block, Teerthanker Mahaveer University</span>
+                          <h4 class="fs-14">Sensor Based Energy Conservation Room</h4><span class="fst-normal fs-12" style="font-size:16px; font-family:'poppins';"><i class="fa-solid fa-building"></i> Administrative Block, Teerthanker Mahaveer University</span>
                         </div>
                       </div>
                     </div>
@@ -567,134 +436,77 @@ include 'head.php';
                       </div>
                       <div class="team-desc p-2">
                         <div class="team-title pt-0">
-                          <h4>Sensor Based Automatic Street Light System</h4><span class="fst-normal" style="font-size:16px; font-family:'poppins';"><i class="fa-solid fa-building"></i> Teerthanker Mahaveer University</span>
+                          <h4 class="fs-14">Sensor Based Automatic Street Light System</h4><span class="fst-normal fs-12" style="font-size:16px; font-family:'poppins';"><i class="fa-solid fa-building"></i> Teerthanker Mahaveer University</span>
                         </div>
                       </div>
                     </div>
                   </div>
-
                 </div>
               </div>
               <hr class="horizontal-line">
-
               <button class="careers-accordion"> Use of LED Bulbs / Power-efficient Equipment<span class="icon">+</span></button>
               <div class="panel">
                 <p>The University purchases only LED lights &replaced old tube light/ bulb from new LED lights as and when required presently 95% of the lights are LED. The updated &power saver equipmentlike fan, AC, fridge & other electronic items are replaced by five star rated equipment.</p>
-                <div class="row justify-content-center gutter-30 col-mb-5">
-                  <div class="col-sm-6 col-md-6">
+                <div class="row gutter-30 col-mb-5">
+                  <div class="col-sm-4 col-md-4">
                     <div class="team card shadow-sm border-0 h-shadow h-translatey-sm all-ts rounded-4 overflow-hidden">
                       <div class="team-image">
                         <img src="https://www.tmu.ac.in/img/facilities/institutional_values/solar/led.jpeg" alt="">
                       </div>
                       <div class="team-desc p-2">
                         <div class="team-title pt-0">
-                          <h4>Uses of LED Bulbs</h4><span class="fst-normal" style="font-size:16px; font-family:'poppins';"><i class="fa-solid fa-building"></i> Teerthanker Mahaveer University</span>
+                          <h4 class="fs-14">Uses of LED Bulbs</h4><span class="fst-normal fs-12" style="font-size:16px; font-family:'poppins';"><i class="fa-solid fa-building"></i> Teerthanker Mahaveer University</span>
                         </div>
                       </div>
                     </div>
                   </div>
-
-                  <div class="col-sm-6 col-md-6">
+                  <div class="col-sm-4 col-md-4">
                     <div class="team card shadow-sm border-0 h-shadow h-translatey-sm all-ts rounded-4 overflow-hidden">
                       <div class="team-image">
                         <img src="https://www.tmu.ac.in/img/facilities/institutional_values/5_star/ac_1.jpeg" alt="">
                       </div>
                       <div class="team-desc p-2">
                         <div class="team-title pt-0">
-                          <h4>Uses of Power Efficient Equipments</h4><span class="fst-normal" style="font-size:16px; font-family:'poppins';"><i class="fa-solid fa-building"></i> Teerthanker Mahaveer University</span>
+                          <h4 class="fs-14">Uses of Power Efficient Equipments</h4><span class="fst-normal fs-12" style="font-size:16px; font-family:'poppins';"><i class="fa-solid fa-building"></i> Teerthanker Mahaveer University</span>
                         </div>
                       </div>
                     </div>
                   </div>
-
-                  <div class="col-sm-6 col-md-6">
-                    <div class="team card shadow-sm border-0 h-shadow h-translatey-sm all-ts rounded-4 overflow-hidden">
-                      <div class="team-image">
-                        <img src="https://www.tmu.ac.in/img/facilities/institutional_values/solar/led1.jpg" alt="" style="height:400px!important;">
-                      </div>
-                      <div class="team-desc p-2">
-                        <div class="team-title pt-0">
-                          <h4>LED Street Light</h4><span class="fst-normal" style="font-size:16px; font-family:'poppins';"><i class="fa-solid fa-building"></i> Teerthanker Mahaveer University</span>
-                        </div>
-                      </div>
-                    </div>
-                  </div>
-
-                  <div class="col-sm-6 col-md-6">
-                    <div class="team card shadow-sm border-0 h-shadow h-translatey-sm all-ts rounded-4 overflow-hidden">
-                      <div class="team-image">
-                        <img src="https://www.tmu.ac.in/img/facilities/institutional_values/solar/led2.jpg" alt="" style="height:400px!important;">
-                      </div>
-                      <div class="team-desc p-2">
-                        <div class="team-title pt-0">
-                          <h4>LED Street Light</h4><span class="fst-normal" style="font-size:16px; font-family:'poppins';"><i class="fa-solid fa-building"></i> Teerthanker Mahaveer University</span>
-                        </div>
-                      </div>
-                    </div>
-                  </div>
-
-
-                </div>
-                <div class="row justify-content-center gutter-30 col-mb-5">
                   <div class="col-sm-4 col-md-4">
                     <div class="team card shadow-sm border-0 h-shadow h-translatey-sm all-ts rounded-4 overflow-hidden">
                       <div class="team-image">
-                        <img src="https://www.tmu.ac.in/img/facilities/institutional_values/solar/bio_gas.jpeg" alt="">
+                        <img src="https://www.tmu.ac.in/img/facilities/institutional_values/solar/led1.jpg" alt="" style="height:300px!important;">
                       </div>
                       <div class="team-desc p-2">
                         <div class="team-title pt-0">
-                          <h4>BioGas Plant </h4><span class="fst-normal" style="font-size:16px; font-family:'poppins';"><i class="fa-solid fa-building"></i> TMU Campus</span>
+                          <h4 class="fs-14">LED Street Light</h4><span class="fst-normal fs-12" style="font-size:16px; font-family:'poppins';"><i class="fa-solid fa-building"></i> Teerthanker Mahaveer University</span>
+                        </div>
+                      </div>
+                    </div>
+                  </div>
+                  <div class="col-sm-4 col-md-4">
+                    <div class="team card shadow-sm border-0 h-shadow h-translatey-sm all-ts rounded-4 overflow-hidden">
+                      <div class="team-image">
+                        <img src="https://www.tmu.ac.in/img/facilities/institutional_values/solar/led2.jpg" alt="" style="height:300px!important;">
+                      </div>
+                      <div class="team-desc p-2">
+                        <div class="team-title pt-0">
+                          <h4 class="fs-14">LED Street Light</h4><span class="fst-normal fs-12" style="font-size:16px; font-family:'poppins';"><i class="fa-solid fa-building"></i> Teerthanker Mahaveer University</span>
                         </div>
                       </div>
                     </div>
                   </div>
                 </div>
-
               </div>
               <hr class="horizontal-line">
-
-
             </div>
           </div>
-
         </div>
       </div>
-
-
     </div>
   </div>
-
 </section><!-- #content end -->
 
-<br /><br />
-<script>
-  //   career accordian
-  var acc = document.getElementsByClassName("careers-accordion");
-  var i;
-
-  for (i = 0; i < acc.length; i++) {
-    acc[i].addEventListener("click", function() {
-      var panel = this.nextElementSibling;
-      if (panel.style.display === "block") {
-        panel.style.display = "none";
-        this.querySelector(".icon").innerHTML = "+";
-        this.classList.remove("clicked"); // Remove clicked class when closing
-      } else {
-        // Close all other panels
-        var allPanels = document.querySelectorAll('.panel');
-        for (var j = 0; j < allPanels.length; j++) {
-          allPanels[j].style.display = 'none';
-          var accordion = allPanels[j].previousElementSibling;
-          accordion.querySelector(".icon").innerHTML = "+";
-          accordion.classList.remove("clicked"); // Remove clicked class from other accordions
-        }
-        panel.style.display = "block";
-        this.querySelector(".icon").innerHTML = "-";
-        this.classList.add("clicked"); // Add clicked class when opening
-      }
-    });
-  }
-</script>
 
 <?php
 include 'footer.php';

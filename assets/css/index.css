@@ -54,11 +54,11 @@ p {
 }
 
 .fs-12{
-    font-size: 12px;
+    font-size: 12px !important;
 }
 
 .fs-14{
-    font-size:14px;
+    font-size:14px !important;
 }
 .w-fit-content{
     width: fit-content;
@@ -2836,6 +2836,7 @@ body {
     background-color: var(--bs-table-bg);
     border-bottom-width: var(--bs-border-width);
     box-shadow: inset 0 0 0 9999px var(--bs-table-bg-state, var(--bs-table-bg-type, var(--bs-table-accent-bg)));
+    font-size: 14px;
   }
   /* css fixing padding in table end */
 
@@ -2917,6 +2918,18 @@ CSS for IQAC Pages start
     font-family:'poppins'!important;
   
   }
+
+/* For overwriting the existing font of template */
+  .team-title h4 {
+    font-family: 'poppins' !important;
+  }
+
+/* Pdf Document hover inside the Faqs Table  */
+.fa-solid.fa-file-pdf:hover {
+    color: #001055;
+    justify-content: center;
+  }
+
 /* ----------------------------
 CSS for IQAC Pages end
 ---------------------------- */
