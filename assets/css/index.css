@@ -67,6 +67,9 @@ p {
 .ff-poppins{
     font-family: 'Poppins', sans-serif !important;
 }
+.tmu-color {
+    color: #FF7900 !important;
+}
 
 
 /* For larger devices */
