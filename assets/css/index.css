@@ -2963,3 +2963,58 @@ Read more feature CSS start
 -----------------
 Read more feature CSS end 
 -----------------  */
+
+
+
+
+/* CSS for CRC pages start*/
+.custom-sec-heading{
+	color:#001055;
+		text-transform: capitalize;
+		font-weight:700!important;
+	font-size:2.4vmax;
+	line-height: 1.2;
+  text-align: center;
+}
+@media screen and (max-width:480px) {
+	.custom-sec-heading{
+		font-size: 22px;
+		line-height: 0;
+    text-align: left;
+    margin-top:1rem;
+    text-wrap: wrap;
+	}
+}
+/* CSS for CRC pages end */
+
+
+/* ------------------------
+Global List CSS start
+------------------------ */
+.m-ol-list li{
+  list-style-type: disc;
+  font-size:14px;
+}
+.m-ol-list li::marker{
+  font-size: 1.3vmax;
+  color:#FF7900;
+  font-weight: 700;
+}
+.m-ol-list b{
+  /* color:#FF7900; */
+  color:#001055;
+  font-size: 1.4vmax;
+}
+@media screen and (max-width:480px) {
+.m-ol-list li::marker{
+font-size: 16px;
+}
+.m-ol-list b{
+  /* color:#FF7900; */
+  color:#001055;
+  font-size: 14px;
+}
+}
+/* ------------------------
+Global List CSS end
+------------------------ */

@@ -4,19 +4,10 @@ include 'head.php';
 
 
 
-<style>
-    h2 {
-        margin: 0 0 10px 0;
-    }
-
-    p {
-        margin: 0 0 10px 0;
-    }
-</style>
 
 <section id="content">
     <div class="content-wrap py-0">
-        <div class="container-fluid my-0  px-0 px-md-3">
+        <div class="container-fluid my-0  px-0">
             <div class="row">
                 <?php
                 include 'sidebar/nep_sidebar.php';
@@ -24,12 +15,10 @@ include 'head.php';
 
 
                 <div class="col-12 col-md-10 mt-3 mt-sm-0 pt-5 ">
-                    <h2 class=" text-center" style="color:#001055;
-                          text-transform: capitalize;
-                          font-weight:700!important; font-size:2.4vmax">Admission Related <span class="d-block d-sm-inline"> Documents</span></h2>
+                    <h1 class="tmu-text-primary tmu-page-heading"><span>Admission Related </span><span > Documents</span></h2>
 
                     <div class="container">
-                        <p style="text-align:justify;"><strong><u>Annexure 1</u></strong></p>
+                        <h4 style="text-align:justify;" class="tmu-text-primary fw-bold mb-0"><span>Annexure</span><span> 1</span></h4>
                         <p style="text-align:justify;">Identified List of Disciplines along with its related Minor</p>
                         <table class="table table-bordered">
                             <thead>
@@ -143,9 +132,9 @@ include 'head.php';
                         </table>
 
 
-                        <p style="text-align:justify;"><strong><u>Annexure-02</u></strong></p>
+                        <h4 style="text-align:justify;" class="tmu-text-primary fw-bold mb-0"><span>Annexure</span><span> 2</span></h4>
                         <p style="text-align:justify;"><strong>Note:</strong> Students are not allowed to choose or repeat courses already undergone at the higher secondary level (12th class) and from the chosen Major & Minor disciplines. MDC group once chosen can’t be changed in subsequent semesters.</p>
-                        <h3>MDC Group-1 (Humanities & Social Sciences)</h3>
+                        <h3 class="tmu-text-primary mt-4 mb-2 fw-bold"><span>MDC Group-1 </span><span>(Humanities & Social Sciences)</span></h3>
                         <table class="table table-bordered">
                             <thead>
                                 <tr>
@@ -174,7 +163,7 @@ include 'head.php';
                             </tbody>
                         </table>
 
-                        <h3>MDC Group 2 (Library, Information & Media Sciences)</h3>
+                        <h3 class="tmu-text-primary mt-4 mb-2 fw-bold"><span>MDC Group 2 </span><span>(Library, Information & Media Sciences)</span></h3>
                         <table class="table table-bordered">
                             <thead>
                                 <tr>
@@ -204,7 +193,7 @@ include 'head.php';
                             </tbody>
                         </table>
 
-                        <h3>MDC Group 3 (Commerce & Management)</h2>
+                        <h3 class="tmu-text-primary mt-4 mb-2 fw-bold"><span>MDC Group 3 </span><span>(Commerce & Management)</span></h2>
                             <table class="table table-bordered">
                                 <thead>
                                     <tr>
@@ -233,7 +222,7 @@ include 'head.php';
                                 </tbody>
                             </table>
 
-                            <h3>MDC Group 4 (Natural & Physical Sciences)</h3>
+                            <h3 class="tmu-text-primary mt-4 mb-2 fw-bold"><span>MDC Group 4 </span><span>(Natural & Physical Sciences)</span></h3>
                             <table class="table table-bordered">
                                 <thead>
                                     <tr>
@@ -262,7 +251,7 @@ include 'head.php';
                                 </tbody>
                             </table>
 
-                            <h3>MDC Group 5 (Mathematics, Statistics & Computer Applications)</h3>
+                            <h3 class="tmu-text-primary mt-4 mb-2 fw-bold"><span>MDC Group 5 </span><span>(Mathematics, Statistics & Computer Applications)</span></h3>
                             <table class="table table-bordered">
                                 <thead>
                                     <tr>
@@ -291,7 +280,7 @@ include 'head.php';
                                 </tbody>
                             </table>
 
-                            <h3>Subject Allocation Card</h3>
+                            <h3 class="tmu-text-primary mt-4 mb-2 fw-bold"> <span>Subject </span><span>Allocation Card</span></h3>
                             <div class="row">
                                 <div class="col-md-12">
                                     <object data="https://www.tmu.ac.in/pdf/nep_cell_2020/student_performa/subject_allocation_card.pdf" type="application/pdf" width="100%" height="1100px">
@@ -301,7 +290,7 @@ include 'head.php';
                                 </div>
                             </div>
 
-                            <h3>Student Choice Filling Proforma Faculty of Engineering</h3>
+                            <h3 class="tmu-text-primary mt-4 mb-2 fw-bold"><span>Student Choice Filling Proforma </span><span>Faculty of Engineering</span></h3>
                             <div class="row">
                                 <div class="col-md-12">
                                     <object data="https://www.tmu.ac.in/pdf/nep_cell_2020/student_performa/student_choice_filling_proforma_FOE.pdf" type="application/pdf" width="100%" height="1100px">
@@ -311,7 +300,7 @@ include 'head.php';
                                 </div>
                             </div>
 
-                            <h3>Choice Filling Proforma Faculty of Humanities & Social Science </h3>
+                            <h3 class="tmu-text-primary mt-4 mb-2 fw-bold"><span>Choice Filling Proforma Faculty of </span><span>Humanities & Social Science </span></h3>
                             <div class="row">
                                 <div class="col-md-12">
                                     <object data="https://www.tmu.ac.in/pdf/nep_cell_2020/student_performa/student_choice_filling_proforma_FOHSS.pdf" type="application/pdf" width="100%" height="1100px">
@@ -321,7 +310,7 @@ include 'head.php';
                                 </div>
                             </div>
 
-                            <h3>Student Choice Filling Proforma Faculty of Commerce, Management & Law</h3>
+                            <h3 class="tmu-text-primary mt-4 mb-2 fw-bold"><span>Student Choice Filling Proforma Faculty of </span><span>Commerce, Management & Law</span></h3>
                             <div class="row mb-2">
                                 <div class="col-md-12">
                                     <object data="https://www.tmu.ac.in/pdf/nep_cell_2020/student_performa/student_choice_filling_proforma_FOC,MGMT,LAW.pdf" type="application/pdf" width="100%" height="1100px">

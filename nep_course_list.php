@@ -2,21 +2,9 @@
 include 'head.php';
 ?>
 
-
-
-<style>
-    h2 {
-        margin: 0 0 10px 0;
-    }
-
-    p {
-        margin: 0 0 10px 0;
-    }
-</style>
-
 <section id="content">
     <div class="content-wrap py-0">
-        <div class="container-fluid my-0  px-0 px-md-3">
+        <div class="container-fluid my-0  px-0">
             <div class="row">
                 <?php
                 include 'sidebar/nep_sidebar.php';
@@ -24,12 +12,10 @@ include 'head.php';
 
 
                 <div class="col-12 col-md-10 mt-3 mt-sm-0 pt-5 ">
-                    <h2 class=" text-center" style="color:#001055;
-                          text-transform: capitalize;
-                          font-weight:700!important; font-size:2.4vmax">Ability Enhancement Courses <span class="d-block d-sm-inline"> (AEC)</span></h2>
+                    <h1 class="tmu-text-primary tmu-page-heading"><span>Ability Enhancement Courses </span><span > (AEC)</span></h1>
 
                     <div class="container">
-                        <h3>AEC (Modern Indian Language & English language focused on language and communication skills)</h3>
+                        <h3 class=" mt-3 mb-1 tmu-text-primary"><span>AEC (Modern Indian Language & English language </span><span>focused on language and communication skills)</span></h3>
                         <div class="table-responisve">
                             <table class="table table-bordered">
                                 <thead>
@@ -65,12 +51,11 @@ include 'head.php';
                                 </tbody>
                             </table>
                         </div>
-                        <br />
-                        <h2 class="text-center" style="color:#001055; font-weight:700!important;">List of Multi-Disciplinary Groups</h2>
+                        <h2 class="tmu-text-primary text-center"><span>List of </span><span>Multi-Disciplinary Groups</span></h2>
                         <p style="text-align:justify;"><strong>Note:</strong> Students are not allowed to choose or repeat courses already undergone at the higher secondary level (12th class) and from the chosen Major & Minor disciplines. MDC group once chosen can’t be changed in subsequent semesters.</p>
 
-                        <h3>MDC Group-1 (Humanities & Social Sciences)</h3>
-                        <div class="table-responsive">
+                        <h3 class=" mt-3 mb-1 tmu-text-primary"><span>MDC Group-1 </span><span>(Humanities & Social Sciences)</span></h3>
+                        <div class="table-responsive ">
                             <table class="table table-bordered">
                                 <thead>
                                     <tr>
@@ -101,7 +86,7 @@ include 'head.php';
                             </table>
                         </div>
                         <br />
-                        <h3>MDC Group 2 (Library, Information & Media Sciences)</h3>
+                        <h3 class=" mt-0 mb-1 tmu-text-primary"><span>MDC Group 2 </span><span>(Library, Information & Media Sciences)</span></h3>
                         <div class="table-responsive">
                             <table class="table table-bordered">
                                 <thead>
@@ -134,7 +119,7 @@ include 'head.php';
                         </div>
                         <br />
 
-                        <h3>MDC Group 3 (Commerce & Management)</h3>
+                        <h3 class=" mt-3 mb-1 tmu-text-primary"><span>MDC Group 3 </span><span>(Commerce & Management)</span></h3>
                         <div class="table-responsive">
                             <table class="table table-bordered">
                                 <thead>
@@ -166,7 +151,7 @@ include 'head.php';
                         </div>
                         <br />
 
-                        <h3>MDC Group 4 (Natural & Physical Sciences)</h3>
+                        <h3 class=" mt-3 mb-1 tmu-text-primary"><span>MDC Group 4 </span><span>(Natural & Physical Sciences)</span></h3>
                         <div class="table-responsive">
                             <table class="table table-bordered">
                                 <thead>
@@ -197,7 +182,7 @@ include 'head.php';
                             </table>
                         </div>
                         <br />
-                        <h3>MDC Group 5 (Mathematics, Statistics & Computer Applications)</h3>
+                        <h3 class=" mt-3 mb-1 tmu-text-primary"><span>MDC Group 5 </span><span>(Mathematics, Statistics & Computer Applications)</span></h3>
                         <div class="table-responsive">
                             <table class="table table-bordered">
                                 <thead>
@@ -230,13 +215,13 @@ include 'head.php';
                         <br />
                         <div class="row center">
                             <div class="col-md-12">
-                                <h2 class="text-center" style="color:#001055; font-weight:700!important;">
-                                    List of Skill Enhancement Courses (SEC)
+                                <h2 class="text-center tmu-text-primary">
+                                <span>List of Skill </span><span>Enhancement Courses (SEC)</span>
                                 </h2>
                             </div>
                         </div>
 
-                        <h3>SEC (Practical Skills, Hands-on Training, Soft Skills, etc., to enhance employability)</h3>
+                        <h3 class=" mt-3 mb-1 tmu-text-primary"><span>SEC (Practical Skills, Hands-on Training, </span><span>Soft Skills, etc., to enhance employability)</span></h3>
                         <div class="table-responsive">
                             <table class="table table-bordered">
                                 <thead>
@@ -275,13 +260,13 @@ include 'head.php';
                         <br />
                         <div class="row center">
                             <div class="col-md-12">
-                                <h2 class="text-center" style="color:#001055; font-weight:700!important;">
-                                    List of Value-Added Courses (VAC)
+                                <h2 class="text-center tmu-text-primary">
+                                <span> List of Value-Added</span><span> Courses (VAC)</span>
                                 </h2>
                             </div>
                         </div>
                         <p style="text-align:justify;">VAC (Common to all) on Understanding India, Environmental Science/ Education, Digital and Technological Solutions, Health & Wellness, Yoga Education, Sports, and Fitness</p>
-                        <div class="table-responsive">
+                        <div class="table-responsive mb-4">
                             <table class="table table-bordered">
                                 <thead>
                                     <tr>

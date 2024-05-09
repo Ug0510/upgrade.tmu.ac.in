@@ -4,17 +4,13 @@ include 'head.php';
 
 <section id="content">
     <div class="content-wrap py-0">
-        <div class="container-fluid my-0  px-0 px-md-3">
+        <div class="container-fluid my-0  px-0">
             <div class="row">
                 <?php
                 include 'sidebar/nep_sidebar.php';
                 ?>
-
-
                 <div class="col-12 col-md-10 mt-3 mt-sm-0 pt-5 ">
-                    <h2 class=" text-center" style="color:#001055;
-                          text-transform: capitalize;
-                          font-weight:700!important; font-size:2.4vmax">2-NEP Immplementation <span class="d-block d-sm-inline"> Committee</span></h2>
+                    <h1 class="tmu-text-primary tmu-page-heading"><span>2-NEP Immplementation </span><span> Committee</span></h1>
 
                     <object data="https://www.tmu.ac.in/pdf/research/Circulars_R.O._2023-24_002.pdf" type="application/pdf" width="100%" height="1100px">
                         <p>Your web browser doesn't have a PDF plugin. Instead you can</p>

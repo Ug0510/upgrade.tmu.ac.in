@@ -4,15 +4,14 @@ include 'head.php';
 
 <section id="content">
     <div class="content-wrap py-0">
-        <div class="container-fluid my-0  px-0 px-md-3">
+        <div class="container-fluid my-0 px-0">
             <div class="row">
                 <?php
                 include 'sidebar/nep_sidebar.php';
                 ?>
 
                 <div class="col-12 col-md-10 mt-3 mt-sm-0 pt-5 ">
-                    <h2 class=" text-center" style="color:#001055; text-transform: capitalize;
-                          font-weight:700!important; font-size:2.4vmax">The National Education Policy <span class="d-block d-sm-inline"> (NEP) 2020 PREAMBLE</span></h2>
+                    <h1 class="tmu-text-primary tmu-page-heading"><span>The National Education Policy </span><span> (NEP) 2020 PREAMBLE</span></h2>
 
                     <div class="container">
                         <p style="text-align:justify; margin:0 10px!important;">The National Education Policy (NEP) 2020 recognizes that higher education plays an extremely important role in promoting human as well as societal well-being and in developing India as envisioned in its Constitution - a democratic, just, socially conscious, cultured, and humane nation upholding liberty, equality, fraternity, and justice for all. It notes that “given the 21st - century requirements,
@@ -26,7 +25,6 @@ include 'head.php';
         </div>
     </div>
 </section>
-
 
 <?php
 include 'footer.php';

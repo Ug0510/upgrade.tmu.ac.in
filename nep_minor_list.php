@@ -10,8 +10,6 @@ include 'head.php';
                 <?php
                 include 'sidebar/nep_sidebar.php';
                 ?>
-
-
                 <div class="col-12 col-md-10 mt-3 mt-sm-0 pt-5">
                     <h1 class="tmu-text-primary tmu-page-heading"><span>List of Minors </span><span > Under FYUP</span></h2>
 
