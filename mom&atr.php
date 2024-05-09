@@ -28,7 +28,7 @@ include 'head.php';
 						</h1>
 
 						<div class="container">
-							<h3 class="mb-2 pb-0 tmu-text-primary"> <span>Minutes of Meetings of IQAC</span></h3>
+							<h3 class="mb-2 pb-0 tmu-text-primary"><span>Minutes of Meetings </span><span>of IQAC</span></h3>
 							<div class="row">
 								<div class="col-md-3 mb-4">
 									<div class="card text-center">
@@ -135,7 +135,7 @@ include 'head.php';
 									</div>
 								</div>
 
-								<h3 class="mb-3 pb-0 tmu-text-primary"><span>Action Taken Report</span></h3>
+								<h3 class="mb-3 pb-0 tmu-text-primary"><span>Action Taken <span></span>Report</span></h3>
 								<div class="col-md-3 mb-4">
 									<div class="card text-center">
 										<div class="card-body">
