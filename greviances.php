@@ -2,67 +2,6 @@
  include 'head.php';
 ?>
 
-<style>
-	
-.color{
-color:#FF7900!important;
-}
-
-h3{
-margin:0 0 5px 0;	
-}
-
-.font-body {
-  font-size:22px;
-  color:#001055;
-  font-weight: 700;
-}
-
-p {
-  margin-bottom:15px!important; 
-  font-family:'poppins'!important;
-  font-size:14px;
-
-}
-
-.title-bottom-border::before, .title-bottom-border::after {
-  display: none;
-}
-.title-bottom-border h1, .title-bottom-border .h1,
-.title-bottom-border h2,
-.title-bottom-border .h2,
-.title-bottom-border h3,
-.title-bottom-border .h3,
-.title-bottom-border h4,
-.title-bottom-border .h4,
-.title-bottom-border h5,
-.title-bottom-border .h5,
-.title-bottom-border h6,
-.title-bottom-border .h6 {
-  width: 100%;
-  padding: 0 0 3px 0;
-  border-bottom: calc(var(--cnvs-fancy-title-border-size) * 2) solid var(--cnvs-themecolor);
-}
-
-.m-ol-list li::marker{
-    font-size: 1.6vmax;
-    color:#FF7900;
-    font-weight: 700;
- }
-.m-ol-list b{
-    /* color:#FF7900; */
-    color:#001055;
-    font-size: 1.4vmax;
- }
-
- .m-ol-list > li{
-  position: relative;
-
- }
-
- 
-</style>
-
 <?php
  include 'sidebar/greviances_sidebar.php';
 ?>
@@ -71,16 +10,16 @@ p {
 					<!-- Write content for right side here  -->
                     
                     <div class="row mx-0" >
-						<h2 class=" text-center" style="color:#001055; text-transform: capitalize;
-                        font-weight:700!important; font-size:2.4vmax">About <span class="d-block d-sm-inline"> Cell</span></h2>
+						      <h1 class="tmu-text-primary tmu-page-heading"><span>About </span><span> Cell</span></h1>
 
                         <p>In order to promote a responsive and conducive academic environment on the campus, each College/Independent Teaching Department shall establish a 'Students' Grievance Redressal Cell'. 
                         The ‘Cell’ shall provide a friendly mechanism to the students to report their grievances and the faster disposal of the same. It shall also provide a platform to the students to come forward with constructive suggestions for more efficient and effective teaching-learning atmosphere</p>
                         <p>Further, the University has established a Students' Help Desk at the Administrative Block with an objective of guiding the university students to the appropriate Office/Officer for addressing their queries or resolving a difficulty. The ‘Help Desk’ shall also advise the students about the procedure involved in the matter.
                         It may also facilitate in resolving any grievance of a student remaining unattended at the College/Department level.</p>
+
                         <p>[<strong style="color:#001055; text-transform:capitalize; font-size:1vmax;">NOTE:</strong> The term “Grievance” refers to a difficulty, problem, or a feeling of discontent at individual student level due to an act/omission of the staff of University/College/Department]</p>
  
-                        <h3 class="mb-2 pb-0"><b>Objective</b></h3>
+                        <h3 class="mb-2 pb-0 mt-2 tmu-text-primary"><span> Objec</span><span>tive</span></h3>
 						<ol class="ps-5 m-ol-list">
 							<li><b>Students’ Help Desk</b></li>
 							<ul style="list-style-type:disc;">
@@ -97,7 +36,7 @@ p {
 							</ul>
 						</ol>
 
-						<h3 class="mb-2 pb-0"><b>CONSTITUTION OF THE STUDENTS’ GRIEVANCE REDRESSAL CELL</b></h3>
+						<h3 class="mb-2 pb-0 tmu-text-primary"><span>Constitution of the students’ </span><span>Grievance Redressal Cell</span></h3>
 						<ol class="ps-5 m-ol-list">
 							<li><b>For Colleges</b></li>
 							<div class="table-responsive">
@@ -164,7 +103,7 @@ p {
 </div>
 </ol>
 
-<h3 class="mb-2 pb-0"><b>SCOPE</b></h3>
+<h3 class="mb-2 pb-0 tmu-text-primary"><span>Sco</span><span>pe</span></h3>
 <p>The Students' Grievance Redressal Cell shall strive to resolve all types of grievances of routine nature raised by the students of the respective College/Department, except those mentioned in the ‘Exclusion’ clause or the ones that infringe upon the working of any other Authority.</p>
 <p>As such, the 'Cell' shall deal with the following types of grievances/suggestions (the list is only indicative in nature):</p>
 <ol class="ps-5 m-ol-list">
@@ -174,7 +113,7 @@ p {
   <li><b>Hostel:</b> Accommodation, Services, Hygiene, Cleanliness, Food.</li>
 </ol>
 
-<h3 class="mb-2 pb-0"><b>PROCEDURE TO FILE A GRIEVANCE/SUGGESTION</b></h3>
+<h3 class="mb-2 pb-0 tmu-text-primary"><span>Procedure to file a </span><span> Grievance/Suggestion</span></h3>
 <ol class="ps-5 m-ol-list">
   <li>A student may approach the Students' Grievance Redressal Cell in person and file her/his grievance/suggestion.</li>
   <li>The matter may also be reported through e-mail to the Chairperson of the 'Cell'.</li>
@@ -185,7 +124,7 @@ p {
   <li>Incomplete proforma or anonymous proforma shall be summarily rejected.</li>
 </ol>
 
-<h3 class="mb-2 pb-0"><b>COMPLAINT PROCESSING</b></h3>
+<h3 class="mb-2 pb-0 tmu-text-primary"><span>Complaint </span><span> Processing</span></h3>
 <ol class="ps-5 m-ol-list">
   <li>Suggestion/Grievance Box maintained at the College/Department will be opened every Monday & Thursday by the Member Secretary of the Cell.</li>
   <li>In case of the University the Suggestion/Grievance Box shall be opened by an authorized representative of the Registrar.</li>
@@ -197,7 +136,7 @@ p {
   <li>A monthly report of the above shall be sent to the office of the Registrar along with other monthly reports.</li>
 </ol>
 
-<h3 class="mb-2 pb-0"><b>EXCLUSION</b></h3>
+<h3 class="mb-2 pb-0 tmu-text-primary"><span>Exclu</span><span>sion</span></h3>
 <p>The Students' Grievance Redressal Cell or Students’ Help Desk shall not entertain the grievance arising out of any of the following:</p>
 <ol class="ps-5 m-ol-list">
 <li>Decisions of the Executive Council, Academic Council, University Court, Planning Board, Finance Committee.</li>
@@ -206,7 +145,7 @@ p {
 <li>Decisions of the competent authority on assessment and examination results.</li>
 </ol>
 
-<h3 class="mb-2 pb-0"><b>APPELLATE AUTHORITY & POWER TO REMOVE DIFFICULTIES</b></h3>
+<h3 class="mb-2 pb-0 tmu-text-primary"><span>Appellate authority & power to </span><span>remove Difficulties</span></h3>
 <ol class="ps-5 m-ol-list">
   <li>The Vice Chancellor of the University shall be the Appellate Authority, whose decision shall be final and binding on all.</li>
   <li>The Vice Chancellor shall also be the competent authority to remove any difficulty or ambiguity in interpretation and effecting these 'Rules'.</li>
