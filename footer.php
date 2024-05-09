@@ -207,6 +207,7 @@
 
 <script src="https://unpkg.com/swiper@8.4.7/swiper-bundle.min.js"></script>
 <script src="https://cdnjs.cloudflare.com/ajax/libs/OwlCarousel2/2.3.4/owl.carousel.min.js"></script>
+<script src="js/components/bs-datatable.js"></script>
 
 <script src="./assets/js/index.js"></script>
 

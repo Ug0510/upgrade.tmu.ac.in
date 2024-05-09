@@ -1191,3 +1191,14 @@ window.addEventListener('load', function() {
      // -------------------------------------------------------
     // Javascript for Read more function implementation end
     // -------------------------------------------------------
+
+// -------------------------------------------------------
+    // Javascript for cbcs circular (data tables) function implementation start
+    // -------------------------------------------------------
+
+    jQuery(document).ready(function() {
+        jQuery('#datatable1').dataTable();
+    });
+// -------------------------------------------------------
+    // Javascript for cbcs circular (data tables) function implementation End
+    // -------------------------------------------------------
