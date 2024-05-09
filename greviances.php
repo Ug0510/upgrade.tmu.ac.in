@@ -159,8 +159,6 @@
 	</div>
 </section><!-- #content end -->
 
-	<br /><br />
-
 	
 <?php
  include 'footer.php';

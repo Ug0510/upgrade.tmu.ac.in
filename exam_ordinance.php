@@ -2,12 +2,6 @@
  include 'head.php';
 ?>
 
-<style>
-    .color1 {
-	background-color: #001055 !important;
-	color: #fff !important;
-}
-</style>
 <!-- Page Title
 		============================================= -->
 <?php
@@ -15,11 +9,9 @@ include 'sidebar/examination_system_sidebar.php';
 ?>
 
                 <div class="col-12 col-md-10 mt-3 mt-sm-0 pt-5 ">
-            
-        <h2 class="text-center" style="color:#001055; text-transform: capitalize;
-         font-weight:700!important; font-size:2.4vmax">Examination<span class="d-block d-sm-inline"> Ordinance</span></h2>
-          <div class="row">
-								<div class="col-md-3">
+        			<h1 class="tmu-text-primary tmu-page-heading"><span> Examination </span><span> Ordinance</span></h1>
+          					<div class="row">
+								<div class="col-md-3 mb-3">
       								<div class="card text-center">
         								<div class="card-body">
           								<!-- Icon -->
@@ -33,7 +25,7 @@ include 'sidebar/examination_system_sidebar.php';
       								</div>
     							</div>
 
-								<div class="col-md-3">
+								<div class="col-md-3 mb-3">
       								<div class="card text-center">
         								<div class="card-body">
           								<!-- Icon -->
@@ -46,7 +38,7 @@ include 'sidebar/examination_system_sidebar.php';
       								</div>
     							</div>
 
-								<div class="col-md-3">
+								<div class="col-md-3 mb-3">
       								<div class="card text-center">
         								<div class="card-body">
           								<!-- Icon -->
@@ -59,7 +51,7 @@ include 'sidebar/examination_system_sidebar.php';
       								</div>
     							</div>
 
-								<div class="col-md-3">
+								<div class="col-md-3 mb-3">
       								<div class="card text-center">
         								<div class="card-body">
           								<!-- Icon -->
@@ -72,7 +64,7 @@ include 'sidebar/examination_system_sidebar.php';
       								</div>
     							</div>
 
-								<div class="col-md-3">
+								<div class="col-md-3 mb-3">
       								<div class="card text-center">
         								<div class="card-body">
           								<!-- Icon -->
@@ -85,7 +77,7 @@ include 'sidebar/examination_system_sidebar.php';
       								</div>
     							</div>
 
-								<div class="col-md-3">
+								<div class="col-md-3 mb-3">
       								<div class="card text-center">
         								<div class="card-body">
           								<!-- Icon -->
@@ -97,11 +89,10 @@ include 'sidebar/examination_system_sidebar.php';
         								</div>
       								</div>
     							</div>
-              
-        </div>
-      </div>
-    </div>
-</section><!-- #content end -->
+        					</div>
+      					</div>
+    				</div>
+				</section><!-- #content end -->
 
 <?php
  include 'footer.php';    
