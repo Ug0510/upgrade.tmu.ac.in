@@ -2,54 +2,19 @@
 include 'head.php';
 ?>
 
-<style>
-    .color {
-        color: #FF7900 !important;
-    }
-
-    h3 {
-        margin: 0 0 2px 0;
-    }
-
-    .font-body {
-        font-size: 22px;
-        color: #001055;
-        font-weight: 700;
-    }
-
-    p {
-        margin-bottom: 15px !important;
-    }
-
-
-
-    ul {
-        margin-left: 20px;
-    }
-</style>
 <section id="content">
     <div class="content-wrap py-0">
-
-
-
         <div class="container-fluid my-0  px-0 px-md-3">
-
-
             <div class="row">
                 <?php
                 include 'sidebar/iqac_sidebar.php';
                 ?>
-
                 <div class="col-12 col-md-10 mt-3 mt-sm-0 pt-5">
-
                     <div class="row mx-0">
-                        <h2 class=" text-center" style="color:#001055;
-                                    text-transform: capitalize;
-                                    font-weight:700!important; font-size:2.4vmax">Best Practices of<span class="d-block d-sm-inline"> IQAC Cell</span></h2>
-
+                    <h1 class="tmu-text-primary tmu-page-heading"><span> Best Practices of </span><span> IQAC Cell</span></h1>
                         <section>
                             <div class="container">
-                                <h3>I. Title of the Practice:</h3>
+                                <h3 class="tmu-text-primary">I. Title of the Practice:</h3>
                                 <p>Establishment of Centre for Teaching, Learning and Development (CTLD).</p>
 
                                 <ol class="ps-5 m-ol-list">
@@ -63,14 +28,14 @@ include 'head.php';
 
                         <section>
 
-                            <h3>II. Title of the Practice:</h3>
+                            <h3 class="tmu-text-primary">II. Title of the Practice:</h3>
                             <p>Incentivization Schemes for Research Promotion (ISRP).</p>
 
                             <ol class="ps-5 m-ol-list">
                                 <li><b>Objective of the Prcatice:</b> To encourage the faculty for quality research publications, seminars & Workshop.</li>
                                 <li style="margin-top:10px;"><b>The Context:</b>To improve overall research performance and promote research activities.</li>
                                 <li style="margin-top:10px;"><b>The Practice:</b><br>1. Faculty Participation in Conferences/Seminars/Workshops/FDPs.
-                                    <br>2. Incentives for Research publications.
+                                    <br> 2. Incentives for Research publications.
                                     <br> 3. Incentives on External Funded Projects.
                                     <br> 4. Seed Money Project Scheme.
                                     <br> 5. Financial Assistance to faculty pursuing Ph.D. from the University.
@@ -94,20 +59,21 @@ include 'head.php';
                                 <li><b>12B Status:</b> TMU has been awarded the 12 (B) Status from the University Grants Commission (UGC), making TMU the fifth private university in the state of Uttar Pradesh & sixteenth on a national level.</li>
                                 <li style="margin-top:10px;"><b>4 Star rating for IIC:</b>TMU's Institution Innovation Council (IIC) bagged the highest- 4 Star Rating, awarded to the educational institutions that robustly stimulate the innovation & entrepreneurship ecosystems, driving creative minds to explore their ideas and implement them for the betterment of society. </li>
                                 <li style="margin-top:10px;"><b>Collaborations:</b> TMU has numerous industrial collaborations with national and international Universities, educational institutions and organizations.</li>
-                                <h3>AIC-BAMU/ Atal Incubation Centre “BIMTECH”</strong></h3>
-                                <h3>i. BOSCH</h3>
+                            </ol>    
+                                <h3 class="tmu-text-primary mb-2">AIC-BAMU/ Atal Incubation Centre “BIMTECH”</strong></h3>
+                                <h4 class="tmu-text-primary">i. BOSCH</h4>
                                 <p> TMU has teamed with the Bosch India Foundation, expertise in skill development science 1961, reinforced by the President of India's, Best Achievement Awards, 54 times, (18 times in a row) for its technical training trade programs.</p>
-                                <h3>ii. Academic Collaborations</h3>
+                                <h4 class="tmu-text-primary">ii. Academic Collaborations</h4>
                                 <p> TMU's numerous educational integrations with big names in international and national significance like IBM, Microsoft IT Academy, Cisco, Redhat, Bombay stock exchange, i-Nurture, Safeducate come in handy. The university is also an active member of 20+ professional bodies like IEEE, GIFT, AIU, ISTE, FICCI.</p>
-                                <h3>iii. International Academic Collaborations:h3><p>The University entered into MoU with Monash University, Australia.</p>
-
+                                <h4 class="tmu-text-primary">iii. International Academic Collaborations:<h4><p>The University entered into MoU with Monash University, Australia.</p>
+                                <ol class="ps-5 m-ol-list">
                                     <li style="margin-top:10px;"><b>TMU-BIC</b></li>
                                     <li style="margin-top:10px;"><b>Infrastructure</b></li>
                                     <li style="margin-top:10px;"><b>NBA accreditation of B.Tech (CSE ) programme</b></li>
                                     <li style="margin-top:10px;"><b>NAAC Acrreditation with Grade-A and overall score of 3.15</b></li>
                                     <li style="margin-top:10px;"><b>DSIR registration of the University</b></li>
                                     <li style="margin-top:10px;"><b>ICAR Accreditation of B.Sc(H) Agriculture Programme</b></li>
-                            </ol>
+                                 </ol>
                         </section>
                     </div>
                 </div>
@@ -115,12 +81,7 @@ include 'head.php';
             </div>
         </div>
     </div>
-
 </section><!-- #content end -->
-
-
-<br /><br />
-
 
 <?php
 include 'footer.php';

@@ -12,5 +12,6 @@
 		<li><a href="/iqac_erp_screenshot.php" data-filter=".sf-quality-policy">ERP Screenshot</a></li>
 		<li><a href="/iqac_erp_policy.php" data-filter=".sf-composition">ERP Policy</a></li>
 		<li><a href="/iqac_erp_license.php" data-filter=".sf-mom-and-report">ERP License</a></li>
+		<hr>
 	</ul>
 </div>

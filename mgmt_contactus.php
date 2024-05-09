@@ -54,9 +54,7 @@ include 'head.php';
                                     <div class="col-lg-4 col-sm-6">
                                         <h3 class="mb-2 pb-0" style="color: #001055;">Get in Touch</h3>
                                         <h4 class="pb-0 mb-0"><b></b></h4>
-                                        <p>For any query related to TMIMT College of Management, you may drop message or
-                                            contact the
-                                            officials at college.</p>
+                                        <p>For any query related to TMIMT College of Management, you may drop message or contact the officials at college.</p>
                                     </div>
                                     <div class="col-lg-4 col-sm-6">
                                         <h3 class="mb-2 pb-0" style="color: #001055;">College Hours</h3>
@@ -66,13 +64,11 @@ include 'head.php';
                                     </div>
                                 </div>
                                 <div class="row gx-lg-0 gy-4 mt-3">
-
                                     <div class="col-lg-12">
                                         <form action="forms/contact.php" method="post" role="form"
                                             class="php-email-form">
                                             <h3 class="text-left mt-1 mb-4" style="color:#001055; "> NEED MORE
                                                 INFORMATION?</h3>
-
                                             <div class="row">
                                                 <div class="col-md-6 form-group">
                                                     <input type="text" name="name" class="form-control" id="name"
@@ -96,20 +92,14 @@ include 'head.php';
                                             </div>
                                         </form>
                                     </div><!-- End Contact Form -->
-
                                 </div>
-
                             </div>
                     </section><!-- End Contact Section -->
-
-
-
                 </div>
             </div>
         </div>
     </div>
 </section><!-- #content end -->
-<br /><br />
 <?php
 include 'footer.php';
 ?>

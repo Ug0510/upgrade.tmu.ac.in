@@ -32,36 +32,40 @@ include 'head.php';
             <div class="row justify-content-center">
                 <div class="col-6 col-lg-3 px-1">
                     <div class="card text-center py-3 rounded-0 fw-semibold text-uppercase ls-1">
-                        <div class="card-body gap-4 text-tmu-primary under-banner-cards"> <span>82%</span>
+                        <div class="card-body gap-4 text-tmu-primary under-banner-cards"> 
+                            <span>CTLD: </span>
                             <br>
-                            <span class="d-block pt-1">Placement Rate</span>
+                            <span class="d-block pt-1">Soft Skills Training Department</span>
                         </div>
                     </div>
                 </div>
                 <div class="col-6 col-lg-3 px-1">
                     <div class="card text-center py-3 rounded-0 fw-semibold text-uppercase ls-1">
+                    <br>
                         <div class="card-body gap-4 text-tmu-primary under-banner-cards">
-                            <span>100%</span>
+                            <span>Psychomotor </span>
                             <br>
-                            <span class="d-block pt-1">Placement Assistance</span>
+                            <span class="d-block pt-1">Implementation Centre</span>
                         </div>
                     </div>
                 </div>
                 <div class="col-6 col-lg-3 px-1">
                     <div class="card text-center py-3 rounded-0 fw-semibold text-uppercase ls-1">
+                    <br>
                         <div class="card-body gap-4 text-tmu-primary under-banner-cards">
-                            <span>60 LPA</span>
+                            <span>Integrated</span>
                             <br>
-                            <span class="d-block pt-1">Highest Package</span>
+                            <span class="d-block pt-1">Dual Degree Programmes</span>
                         </div>
                     </div>
                 </div>
                 <div class="col-6 col-lg-3 px-1">
                     <div class="card text-center py-3 rounded-0 fw-semibold text-uppercase ls-1">
+                    <br>
                         <div class="card-body gap-4 text-tmu-primary under-banner-cards">
-                            <span>100+</span>
+                            <span>Approved </span>
                             <br>
-                            <span class="d-block pt-1">Global Collaborations</span>
+                            <span class="d-block pt-1">by NCTE and SCERT</span>
                         </div>
                     </div>
                 </div>
@@ -79,19 +83,20 @@ include 'head.php';
                     <div class="carousel-item active">
                         <div class="row">
                             <div class="col-6">
-                                <div class="card text-center py-3 rounded-0 fw-semibold text-uppercase ls-1">
-                                    <div class="card-body gap-4 text-tmu-primary under-banner-cards"> <span>82%</span>
+                                <div class="card text-center py-3 rounded-0 fw-semibold text-uppercase ls-1"> <br>
+                                    <div class="card-body gap-4 text-tmu-primary under-banner-cards"> 
+                                        <span>CTLD: </span>
                                         <br>
-                                        <span class="d-block pt-1">Placement Rate</span>
+                                        <span class="d-block pt-1">Soft Skills Training Department</span>
                                     </div>
                                 </div>
                             </div>
                             <div class="col-6">
-                                <div class="card text-center py-3 rounded-0 fw-semibold text-uppercase ls-1">
+                                <div class="card text-center py-3 rounded-0 fw-semibold text-uppercase ls-1"> <br>
                                     <div class="card-body gap-4 text-tmu-primary under-banner-cards">
-                                        <span>100%</span>
+                                        <span>Psychomotor </span>
                                         <br>
-                                        <span class="d-block pt-1">Placement Assistance</span>
+                                        <span class="d-block pt-1">Implementation Centre</span>
                                     </div>
                                 </div>
                             </div>
@@ -100,20 +105,20 @@ include 'head.php';
                     <div class="carousel-item">
                         <div class="row">
                             <div class="col-6">
-                                <div class="card text-center py-3 rounded-0 fw-semibold text-uppercase ls-1">
+                                <div class="card text-center py-3 rounded-0 fw-semibold text-uppercase ls-1"> <br>
                                     <div class="card-body gap-4 text-tmu-primary under-banner-cards">
-                                        <span>60 LPA</span>
+                                        <span>Integrated</span>
                                         <br>
-                                        <span class="d-block pt-1">Highest Package</span>
+                                        <span class="d-block pt-1">Dual Degree Programmes</span>
                                     </div>
                                 </div>
                             </div>
                             <div class="col-6">
                                 <div class="card text-center py-3 rounded-0 fw-semibold text-uppercase ls-1">
                                     <div class="card-body gap-4 text-tmu-primary under-banner-cards">
-                                        <span>100+</span>
+                                        <span>Approved </span>
                                         <br>
-                                        <span class="d-block pt-1">Global Collaborations</span>
+                                        <span class="d-block pt-1">by NCTE and SCERT</span>
                                     </div>
                                 </div>
                             </div>
@@ -158,19 +163,24 @@ include 'head.php';
             <div class="tab-content second ps-5 px-md-5" id="myTabContent">
                 <div class="tab-pane fade show active" id="Tab1" role="tabpanel" aria-labelledby="tab1-tab">
                     <h3>Key Highlights</h3>
-                    <ul class="m-ol-list ps-4">
+                    <ul class="m-ol-list ps-4 mb-0">
                         <li>Get guidance and attend practice sessions for various competitive exams,including TGT, PGT, CTET, Super TET, NET, JRF, and more.</li>
                         <li>Participate in Scouts and Guides along with National Service Scheme (NSS) activities.</li>
                         <li>Attend classes to enhance your soft skills and communication skills, preparing you for a successful career.</li>
-                        <li>Be a part of the regular activities in villages to promote education and community development.</li>
-                        <li>Enhance practical learning experiences by implementing psychomotor skills.</li>
-						<li>Stay updated with regular educational and leadership talks on emerging issues to broaden your horizon.</li>
                     </ul>
+                    <div class="read-more-content">
+                        <ul class="m-ol-list ps-4">      
+                            <li>Be a part of the regular activities in villages to promote education and community development.</li>
+                            <li>Enhance practical learning experiences by implementing psychomotor skills.</li>
+						    <li>Stay updated with regular educational and leadership talks on emerging issues to broaden your horizon.</li>
+                        </ul>
+                    </div>
+                    <a href="javascript:void(0);" class="read-more ms-0 mt-1" title="Read More">Read More</a>  
                 </div>
                 <div class="tab-pane fade" id="Tab2" role="tabpanel" aria-labelledby="tab2-tab">
                     <h3>Placement/Internship</h3>
                     <p>At the leading Education College, we understand the importance of practical experience and industry exposure. That's why we offer valuable internship opportunities in reputed schools of the NCR, allowing you to apply your knowledge in real-world settings.
-                        <br><br>Moreover, our dedicated Corporate Resource Centre (CRC) organises campus placement drives, connecting you with renowned education institutions for potential employment. With comprehensive training on resume building, interview techniques, grooming, and presentation skills, we ensure you are well-prepared to secure your dream job and kick-start your successful career.</p>
+                    <br><br>Moreover, our dedicated Corporate Resource Centre (CRC) organises campus placement drives, connecting you with renowned education institutions for potential employment. With comprehensive training on resume building, interview techniques, grooming, and presentation skills, we ensure you are well-prepared to secure your dream job and kick-start your successful career.</p>
                 </div>
                 <div class="tab-pane fade" id="Tab3" role="tabpanel" aria-labelledby="tab3-tab">
                     <h3>Curriculum</h3>
@@ -180,22 +190,27 @@ Stay ahead in the ever-evolving field of Education!</p>
                 <div class="tab-pane fade" id="Tab4" role="tabpanel" aria-labelledby="tab4-tab">
                     <h3>Infrastructure</h3>
                     <p>From state-of-the-art classrooms to cutting-edge facilities, we provide an environment that nurtures knowledge, creativity, and growth. Access</p>
-                    <ul class="m-ol-list ps-4">
+                    <ul class="m-ol-list ps-4 mb-0">
                         <li>Rich Library</li>
                         <li>Physics Lab</li>
                         <li>Chemistry Lab</li>
                         <li>Zoology Lab</li>
                         <li>Botany Lab</li>
-                        <li>Psychology Lab</li>
-                        <li>Mathematics Lab</li>
-                        <li>Music Lab</li>
-						<li>Computer Lab</li>
-						<li>Lecture Theatre (LT)</li>
-						<li>Hostel Facilities</li>
-						<li>Medical Services</li>
-						<li>Sports Facilities</li>
-				   </ul>
+                    </ul>
+                    <div class="read-more-content">
+                        <ul class="m-ol-list ps-4">    
+                            <li>Psychology Lab</li>
+                            <li>Mathematics Lab</li>
+                            <li>Music Lab</li>
+						    <li>Computer Lab</li>
+						    <li>Lecture Theatre (LT)</li>
+						    <li>Hostel Facilities</li>
+						    <li>Medical Services</li>
+						    <li>Sports Facilities</li>
+				        </ul>    
 				   <p>Step into the temple of teaching!</p>
+                    </div>
+                    <a href="javascript:void(0);" class="read-more ms-0 mt-1" title="Read More">Read More</a>  
                 </div>
             </div>
         </div>

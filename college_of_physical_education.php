@@ -32,36 +32,37 @@ include 'head.php';
             <div class="row justify-content-center">
                 <div class="col-6 col-lg-3 px-1">
                     <div class="card text-center py-3 rounded-0 fw-semibold text-uppercase ls-1">
-                        <div class="card-body gap-4 text-tmu-primary under-banner-cards"> <span>82%</span>
+                        <div class="card-body gap-4 text-tmu-primary under-banner-cards"> 
+                            <span>BCCI </span>
                             <br>
-                            <span class="d-block pt-1">Placement Rate</span>
+                            <span class="d-block pt-1">Certified Coaches</span>
                         </div>
                     </div>
                 </div>
                 <div class="col-6 col-lg-3 px-1">
                     <div class="card text-center py-3 rounded-0 fw-semibold text-uppercase ls-1">
                         <div class="card-body gap-4 text-tmu-primary under-banner-cards">
-                            <span>100%</span>
+                            <span>Top-Tier </span>
                             <br>
-                            <span class="d-block pt-1">Placement Assistance</span>
+                            <span class="d-block pt-1">Indoor Outdoor Stadium</span>
                         </div>
                     </div>
                 </div>
                 <div class="col-6 col-lg-3 px-1">
                     <div class="card text-center py-3 rounded-0 fw-semibold text-uppercase ls-1">
                         <div class="card-body gap-4 text-tmu-primary under-banner-cards">
-                            <span>60 LPA</span>
+                            <span>TOSS </span>
                             <br>
-                            <span class="d-block pt-1">Highest Package</span>
+                            <span class="d-block pt-1">Cricket Academy</span>
                         </div>
                     </div>
                 </div>
                 <div class="col-6 col-lg-3 px-1">
                     <div class="card text-center py-3 rounded-0 fw-semibold text-uppercase ls-1">
                         <div class="card-body gap-4 text-tmu-primary under-banner-cards">
-                            <span>100+</span>
+                            <span>Member </span>
                             <br>
-                            <span class="d-block pt-1">Global Collaborations</span>
+                            <span class="d-block pt-1">of AIU Sports Council</span>
                         </div>
                     </div>
                 </div>
@@ -80,18 +81,19 @@ include 'head.php';
                         <div class="row">
                             <div class="col-6">
                                 <div class="card text-center py-3 rounded-0 fw-semibold text-uppercase ls-1">
-                                    <div class="card-body gap-4 text-tmu-primary under-banner-cards"> <span>82%</span>
+                                    <div class="card-body gap-4 text-tmu-primary under-banner-cards"> 
+                                        <span>BCCI </span>
                                         <br>
-                                        <span class="d-block pt-1">Placement Rate</span>
+                                        <span class="d-block pt-1">Certified Coaches</span>
                                     </div>
                                 </div>
                             </div>
                             <div class="col-6">
                                 <div class="card text-center py-3 rounded-0 fw-semibold text-uppercase ls-1">
                                     <div class="card-body gap-4 text-tmu-primary under-banner-cards">
-                                        <span>100%</span>
+                                        <span>Top-Tier </span>
                                         <br>
-                                        <span class="d-block pt-1">Placement Assistance</span>
+                                        <span class="d-block pt-1">Indoor Outdoor Stadium</span>
                                     </div>
                                 </div>
                             </div>
@@ -102,18 +104,18 @@ include 'head.php';
                             <div class="col-6">
                                 <div class="card text-center py-3 rounded-0 fw-semibold text-uppercase ls-1">
                                     <div class="card-body gap-4 text-tmu-primary under-banner-cards">
-                                        <span>60 LPA</span>
+                                        <span>TOSS </span>
                                         <br>
-                                        <span class="d-block pt-1">Highest Package</span>
+                                        <span class="d-block pt-1">Cricket Academy</span>
                                     </div>
                                 </div>
                             </div>
                             <div class="col-6">
                                 <div class="card text-center py-3 rounded-0 fw-semibold text-uppercase ls-1">
                                     <div class="card-body gap-4 text-tmu-primary under-banner-cards">
-                                        <span>100+</span>
+                                        <span>Member </span>
                                         <br>
-                                        <span class="d-block pt-1">Global Collaborations</span>
+                                        <span class="d-block pt-1">of AIU Sports Council</span>
                                     </div>
                                 </div>
                             </div>
@@ -156,17 +158,22 @@ include 'head.php';
             <div class="tab-content second ps-5 px-md-5" id="myTabContent">
                 <div class="tab-pane fade show active" id="Tab1" role="tabpanel" aria-labelledby="tab1-tab">
                     <h3>Key Highlights</h3>
-                    <ul class="m-ol-list ps-4">
-                    <li>Follow the Outcome-based education and Psycho-motor skills.</li>
+                        <ul class="m-ol-list ps-4 mb-0">
+                            <li>Follow the Outcome-based education and Psycho-motor skills.</li>
                             <li>Qualified, committed and competent educators to shape the personalities of teacher trainees into successful professionals.</li>
                             <li>The College has spacious, furnished classrooms, Classrooms with ICT facilities, contemporary laboratories, a library etc. with modern equipment for learning and research purposes.</li>
+                        </ul>
+                        <div class="read-more-content">
+                        <ul class="m-ol-list ps-4">    
                             <li>Excellent indoor facilities are available for table tennis, basketball, volleyball, badminton, gymnastics, yoga, squash and skating.</li>
                             <li>Excellent outdoor facilities are available for cricket, football, hockey, track & field and tennis.</li>
                             <li>Leadership Training Camp.</li>
                             <li>Language Proficiency Classes.</li>
                             <li>Sports Scholarship and financial support to meritorious sports person or Providing Sports and Jain Scholarship Scheme.</li>
                             <li>To develop the leading capacity to organise different sporting events.</li>
-                    </ul>
+                        </ul>
+                        </div>
+                        <a href="javascript:void(0);" class="read-more ms-0 mt-1" title="Read More">Read More</a>  
                 </div>
                 <div class="tab-pane fade" id="Tab2" role="tabpanel" aria-labelledby="tab2-tab">
                     <h3>Placement/Internship</h3>
@@ -182,19 +189,24 @@ include 'head.php';
                 </div>
                 <div class="tab-pane fade" id="Tab4" role="tabpanel" aria-labelledby="tab4-tab">
                     <h3>Infrastructure</h3>
-                    <ul class="m-ol-list ps-4">
+                    <ul class="m-ol-list ps-4 mb-0">
                         <li>Physiotherapy Clinic</li>
                         <li>Dietary Policy</li>
                         <li>Sports Scholarship</li>
                         <li>International-level multipurpose Indoor sports complex for Volleyball/Badminton/Basketball/Gymnastics/Yoga/Skating</li>
-                        <li>Excellent pavilion with cricket ground.</li>
-                        <li>Two Kabaddi court</li>
-                        <li>One Taekwondo court</li>
-                        <li>Two Squash court</li>
-                        <li>Two National Level Gymnasiums (Male & Female)</li>
-                        <li>Four tables for Table-tennis</li>
-                        <li>Pool table of Snooker</li>
                     </ul>
+                    <div class="read-more-content">
+                        <ul class="m-ol-list ps-4">    
+                            <li>Excellent pavilion with cricket ground.</li>
+                            <li>Two Kabaddi court</li>
+                            <li>One Taekwondo court</li>
+                            <li>Two Squash court</li>
+                            <li>Two National Level Gymnasiums (Male & Female)</li>
+                            <li>Four tables for Table-tennis</li>
+                            <li>Pool table of Snooker</li>
+                        </ul>
+                    </div>
+                    <a href="javascript:void(0);" class="read-more ms-0 mt-1" title="Read More">Read More</a>  
                 </div>
             </div>
         </div>

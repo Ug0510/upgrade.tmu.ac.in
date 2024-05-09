@@ -2,13 +2,6 @@
 include 'head.php';
 ?>
 
-<style>
-  ul {
-    margin-left: 20px;
-  }
-</style>
-
-
 <section id="content">
   <div class="content-wrap py-0">
     <div class="container-fluid my-0  px-0 px-md-3">
@@ -20,9 +13,7 @@ include 'head.php';
 
         <div class="col-12 col-md-10 mt-3 mt-sm-0 pt-5 ">
           <div class="row mx-0">
-            <h2 class=" text-center" style="color:#001055;
-                                    text-transform: capitalize;
-                                    font-weight:700!important; font-size:2.4vmax"> Enterprise Resource Planning <span class="d-block d-sm-inline">(ERP)</span></h2>
+          <h1 class="tmu-text-primary tmu-page-heading"><span> Enterprise Resource </span><span> Planning (ERP)</span></h1>
 
             <p class="mt-0">Teerthanker Mahaveer University (TMU) began its Inception for ERP in 2015 and Implementation and Deployment started by 2017-18.</p>
             <p class="mt-0">It is based on Microsoft Dynamics Nav and .Net Framework with SQL Server Database. It is deployed on 9 Server Cluster. We formed an In House Team for maintenance and support in 2020 and also further developments based on the .Net Framework.</p>
@@ -32,17 +23,17 @@ include 'head.php';
             <div class="table-responsive">
               <table class="table table-bordered table-striped">
                 <thead>
-                  <th>#</th>
+                  <th>S.No.</th>
                   <th>Main Modules</th>
                   <th>Sub-Modules</th>
                   <th>View</th>
                 </thead>
                 <tbody>
                   <tr>
-                    <td>1</td>
+                    <td class="text-center">1</td>
                     <td>Planning and Development</td>
                     <td><b>Academics</b>
-                      <ul>
+                      <ul class="m-ol-list ps-4">
                         <li>Student IDCard Generation</li>
                         <li>Student Attendance</li>
                         <li>Scheme of Work</li>
@@ -65,14 +56,14 @@ include 'head.php';
                         <li>Miscellaneous Events Notification</li>
                       </ul>
                     </td>
-                    <td><a href="https://www.tmu.ac.in/tmu/iqac-cell/erp/academic-module"><i class="fa-solid fa-file-pdf"></i></a></td>
+                    <td class="text-center"><a href="https://www.tmu.ac.in/tmu/iqac-cell/erp/academic-module"><i class="fa-solid fa-file-pdf"></i></a></td>
                   </tr>
 
                   <tr>
                     <td></td>
                     <td></td>
                     <td><b>Faculty Portal</b>
-                      <ul>
+                      <ul class="m-ol-list ps-4">
                         <li>Faculty Login</li>
                         <li>Faculty Profile</li>
                         <li>Create and View Time Table</li>
@@ -87,14 +78,14 @@ include 'head.php';
                         <li>Principal and HOD Approve and Finalize Detainee List</li>
                       </ul>
                     </td>
-                    <td><a href="https://www.tmu.ac.in/tmu/iqac-cell/erp/faculty-module"><i class="fa-solid fa-file-pdf"></i></a></td>
+                    <td class="text-center"><a href="https://www.tmu.ac.in/tmu/iqac-cell/erp/faculty-module"><i class="fa-solid fa-file-pdf"></i></a></td>
                   </tr>
 
                   <tr>
-                    <td>2.</td>
+                    <td class="text-center">2.</td>
                     <td>Administration (including Hospital Administration and Medical Records)</td>
                     <td><b>Hostel & Mess Management</b>
-                      <ul>
+                      <ul class="m-ol-list ps-4">
                         <li>Hostel Enquiry Capturing</li>
                         <li>Hostel Fee Collection</li>
                         <li>Hostel Rooms</li>
@@ -108,14 +99,14 @@ include 'head.php';
                         <li>Mess Attendance</li>
                       </ul>
                     </td>
-                    <td><a href="https://www.tmu.ac.in/tmu/iqac-cell/erp/hostel-module"><i class="fa-solid fa-file-pdf"></i></a></td>
+                    <td class="text-center"><a href="https://www.tmu.ac.in/tmu/iqac-cell/erp/hostel-module"><i class="fa-solid fa-file-pdf"></i></a></td>
                   </tr>
 
                   <tr>
                     <td></td>
                     <td></td>
                     <td><b>Transport Management</b>
-                      <ul>
+                      <ul class="m-ol-list ps-4">
                         <li>Vehicle Record-Keeping</li>
                         <li>Vehicle Maintenance</li>
                         <li>Route Allotment</li>
@@ -127,28 +118,28 @@ include 'head.php';
                         <li>Tyre & Battery Maintenance</li>
                       </ul>
                     </td>
-                    <td><a href="https://www.tmu.ac.in/tmu/iqac-cell/erp/transport-module"><i class="fa-solid fa-file-pdf"></i></a></td>
+                    <td class="text-center"><a href="https://www.tmu.ac.in/tmu/iqac-cell/erp/transport-module"><i class="fa-solid fa-file-pdf"></i></a></td>
                   </tr>
 
                   <tr>
                     <td></td>
                     <td></td>
                     <td><b>Placement Management</b>
-                      <ul>
+                      <ul class="m-ol-list ps-4">
                         <li>Placement Register</li>
                         <li>Company List for Placement</li>
                         <li>Student Eligible for Placements</li>
                         <li>Placement Schedule</li>
                       </ul>
                     </td>
-                    <td><a href="https://www.tmu.ac.in/tmu/iqac-cell/erp/placement-module"><i class="fa-solid fa-file-pdf"></i></a></td>
+                    <td class="text-center"><a href="https://www.tmu.ac.in/tmu/iqac-cell/erp/placement-module"><i class="fa-solid fa-file-pdf"></i></a></td>
                   </tr>
 
                   <tr>
                     <td></td>
                     <td></td>
                     <td><b>HR & Payroll</b>
-                      <ul>
+                      <ul class="m-ol-list ps-4">
                         <li>Hiring Procedure</li>
                         <li>Employee Records Maintenance</li>
                         <li>Employee-wise Shift Allotment</li>
@@ -161,14 +152,14 @@ include 'head.php';
                         <li>Employee Taxation Planning</li>
                       </ul>
                     </td>
-                    <td><a href="https://www.tmu.ac.in/tmu/iqac-cell/erp/hr-module"><i class="fa-solid fa-file-pdf"></i></a></td>
+                    <td class="text-center"><a href="https://www.tmu.ac.in/tmu/iqac-cell/erp/hr-module"><i class="fa-solid fa-file-pdf"></i></a></td>
                   </tr>
 
                   <tr>
                     <td></td>
                     <td></td>
                     <td><b>Employee Portal</b>
-                      <ul>
+                      <ul class="m-ol-list ps-4">
                         <li>Employees have access to their daily punch data</li>
                         <li>View Attendance</li>
                         <li>Appraisal Forms</li>
@@ -177,21 +168,21 @@ include 'head.php';
                         <li>Tour Claims</li>
                       </ul>
                     </td>
-                    <td><a href="https://www.tmu.ac.in/tmu/iqac-cell/erp/employee-module"><i class="fa-solid fa-file-pdf"></i></a></td>
+                    <td class="text-center"><a href="https://www.tmu.ac.in/tmu/iqac-cell/erp/employee-module"><i class="fa-solid fa-file-pdf"></i></a></td>
                   </tr>
 
                   <tr>
                     <td></td>
                     <td></td>
                     <td><b>Security</b></td>
-                    <td><a href="https://www.tmu.ac.in/tmu/iqac-cell/erp/security-module"><i class="fa-solid fa-file-pdf"></i></a></td>
+                    <td class="text-center"><a href="https://www.tmu.ac.in/tmu/iqac-cell/erp/security-module"><i class="fa-solid fa-file-pdf"></i></a></td>
                   </tr>
 
                   <tr>
-                    <td>3.</td>
+                    <td class="text-center">3.</td>
                     <td>Finance and Accounts</td>
                     <td><b>Fee Management</b>
-                      <ul>
+                      <ul class="m-ol-list ps-4">
                         <li>Fee Set-up</li>
                         <li>Fee Classification</li>
                         <li>Fee Collection</li>
@@ -205,14 +196,14 @@ include 'head.php';
                         <li>Fee payment linked to Student Portal</li>
                       </ul>
                     </td>
-                    <td><a href="https://www.tmu.ac.in/tmu/iqac-cell/erp/fee-module"><i class="fa-solid fa-file-pdf"></i></a></td>
+                    <td class="text-center"><a href="https://www.tmu.ac.in/tmu/iqac-cell/erp/fee-module"><i class="fa-solid fa-file-pdf"></i></a></td>
                   </tr>
 
                   <tr>
                     <td></td>
                     <td></td>
                     <td><b>Purchase</b>
-                      <ul>
+                      <ul class="m-ol-list ps-4">
                         <li>Vendor & Item Registration</li>
                         <li>PO & PI entries</li>
                         <li>Warehouse Maintenance</li>
@@ -220,14 +211,14 @@ include 'head.php';
                         <li>Approval for Departments</li>
                       </ul>
                     </td>
-                    <td><a href="https://www.tmu.ac.in/tmu/iqac-cell/erp/purchase-module"><i class="fa-solid fa-file-pdf"></i></a></td>
+                    <td class="text-center"><a href="https://www.tmu.ac.in/tmu/iqac-cell/erp/purchase-module"><i class="fa-solid fa-file-pdf"></i></a></td>
                   </tr>
 
                   <tr>
-                    <td>4.</td>
+                    <td class="text-center">4.</td>
                     <td>Student Admission and Support</td>
                     <td><b>Student Admission Management</b>
-                      <ul>
+                      <ul class="m-ol-list ps-4">
                         <li>Student Enquiry</li>
                         <li>Application</li>
                         <li>Creation of Student</li>
@@ -238,14 +229,14 @@ include 'head.php';
                         <li>Analysis from inquiry till registration</li>
                       </ul>
                     </td>
-                    <td><a href="https://www.tmu.ac.in/tmu/iqac-cell/erp/admissions-module"><i class="fa-solid fa-file-pdf"></i></a></td>
+                    <td class="text-center"><a href="https://www.tmu.ac.in/tmu/iqac-cell/erp/admissions-module"><i class="fa-solid fa-file-pdf"></i></a></td>
                   </tr>
 
                   <tr>
                     <td></td>
                     <td></td>
                     <td><b>Student Portal</b>
-                      <ul>
+                      <ul class="m-ol-list ps-4">
                         <li>Student Login</li>
                         <li>Student Profile</li>
                         <li>Student Course-wise Details</li>
@@ -255,14 +246,14 @@ include 'head.php';
                         <li>Syllabus</li>
                       </ul>
                     </td>
-                    <td><a href="https://www.tmu.ac.in/tmu/iqac-cell/erp/student-module"><i class="fa-solid fa-file-pdf"></i></a></td>
+                    <td class="text-center"><a href="https://www.tmu.ac.in/tmu/iqac-cell/erp/student-module"><i class="fa-solid fa-file-pdf"></i></a></td>
                   </tr>
 
                   <tr>
-                    <td>5.</td>
+                    <td class="text-center">5.</td>
                     <td>Examination</td>
                     <td><b>Examination Management</b>
-                      <ul>
+                      <ul class="m-ol-list ps-4">
                         <li>Examination Form</li>
                         <li>Examination Schedule</li>
                         <li>Exam Center & Room/Seat Allocation</li>
@@ -285,7 +276,7 @@ include 'head.php';
                         <li>Result Analysis</li>
                       </ul>
                     </td>
-                    <td><a href="https://www.tmu.ac.in/tmu/iqac-cell/erp/examination-module"><i class="fa-solid fa-file-pdf"></i></a></td>
+                    <td class="text-center"><a href="https://www.tmu.ac.in/tmu/iqac-cell/erp/examination-module"><i class="fa-solid fa-file-pdf"></i></a></td>
                   </tr>
                 </tbody>
               </table>

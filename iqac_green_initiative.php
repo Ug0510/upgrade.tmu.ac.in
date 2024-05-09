@@ -2,95 +2,9 @@
 include 'head.php';
 ?>
 
-<style>
-  @media (max-width: 992px) {
-    .blocks-faqs-3 .sticky-section {
-      position: relative !important;
-    }
-  }
-
-  .blocks-faqs-3 .faqs .toggle {
-    background-color: #ffffff;
-    border-radius: 3px;
-    box-shadow: 0 2px 3px rgba(0, 0, 0, 0.085);
-    width: 98%;
-    /* Set width to 100% */
-    margin: 0 auto;
-    /* Center horizontally */
-  }
-
-  .blocks-faqs-3 .faqs .toggle-header {
-    padding: 15px 20px;
-    margin: 0;
-    background-color: #001055;
-    color: #fff;
-    font-size: 18px;
-    letter-spacing: 1px;
-  }
-
-  .blocks-faqs-3 .faqs .toggle-content {
-    border-top: 1px solid #000;
-    padding: 20px 25px;
-  }
-
-  h3 {
-    margin: 0 0 2px 0;
-  }
-
-  .font-body {
-    font-size: 22px;
-    color: #001055;
-    font-weight: 700;
-  }
-
-  p {
-    margin-bottom: 15px !important;
-  }
-
-
-  .fa-solid.fa-file-pdf:hover {
-    color: #001055;
-    justify-content: center;
-  }
-
-  .centered-icon {
-    text-align: center;
-  }
-
-  .text-middle {
-    color: #001055;
-    text-transform: capitalize;
-    font-weight: 700 !important;
-    font-size: 2.4vmax;
-    margin: 0 0 10px 0;
-    text-align: center;
-  }
-
-  .vh-75 {
-    height: 0vh !important;
-  }
-
-  .team-title h4 {
-    font-size: 16px;
-    font-family: 'poppins' !important;
-    text-align: center;
-  }
-
-  .team-title h4 span {
-    font-size: 12px;
-    font-family: 'poppins' !important;
-    text-align: center;
-  }
-</style>
-
 <section id="content">
   <div class="content-wrap py-0">
-
-
-
     <div class="container-fluid my-0  px-0 px-md-3">
-
-
       <div class="row">
 
         <?php
@@ -100,9 +14,7 @@ include 'head.php';
         <div class="col-12 col-md-10 mt-3 mt-sm-0 pt-5">
 
           <div class="row mx-0">
-            <h2 class=" text-center" style="color:#001055;
-                          text-transform: capitalize;
-                          font-weight:700!important; font-size:2.4vmax">Green Campus<span class="d-block d-sm-inline"> Initiatives</span></h2>
+              <h1 class="tmu-text-primary tmu-page-heading"><span>Green Campus </span> <span> Initiatives</span></h1>
 
             <div class="container mb-5 mt-5">
               <hr class="horizontal-line">
@@ -118,7 +30,7 @@ include 'head.php';
                       </div>
                       <div class="team-desc p-2">
                         <div class="team-title pt-0">
-                          <h4>Restricted Entry of Automobiles</h4><span class="fst-normal"><i class="fa-solid fa-location-dot"></i> TMU Campus</span>
+                          <h4 class="fs-14">Restricted Entry of Automobiles</h4><span class="fst-normal fs-12"><i class="fa-solid fa-location-dot"></i> TMU Campus</span>
                         </div>
                       </div>
                     </div>
@@ -144,11 +56,11 @@ include 'head.php';
                   <div class="col-sm-4 col-md-4">
                     <div class="team card shadow-sm border-0 h-shadow h-translatey-sm all-ts rounded-4 overflow-hidden">
                       <div class="team-image">
-                        <img src="	https://www.tmu.ac.in/img/facilities/institutional_values/green_campus/battery_power_vehicle1.jpeg" alt="" style="height: 300px;">
+                        <img src="https://www.tmu.ac.in/img/facilities/institutional_values/green_campus/battery_power_vehicle1.jpeg" alt="" style="height: 300px;">
                       </div>
                       <div class="team-desc p-2">
                         <div class="team-title pt-0">
-                          <h4>Battery Operted Golf Cart</h4><span class="fst-normal"><i class="fa-solid fa-location-dot"></i> TMU Campus</span>
+                          <h4 class="fs-14">Battery Operted Golf Cart</h4><span class="fst-normal fs-12"><i class="fa-solid fa-location-dot"></i> TMU Campus</span>
                         </div>
                       </div>
                     </div>
@@ -161,7 +73,7 @@ include 'head.php';
                       </div>
                       <div class="team-desc p-2">
                         <div class="team-title pt-0">
-                          <h4>E-Rickshaws</h4><span class="fst-normal"><i class="fa-solid fa-location-dot"></i> TMU Campus</span>
+                          <h4 class="fs-14">E-Rickshaws</h4><span class="fst-normal fs-12"><i class="fa-solid fa-location-dot"></i> TMU Campus</span>
                         </div>
                       </div>
                     </div>
@@ -175,7 +87,7 @@ include 'head.php';
                 <p>The University have pedestrian / walkways to connect different buildings of the university constructed through eco-friendly interlocked bricks.</p>
                 <table class="table table-bordered table-striped">
                   <thead>
-                    <th>#</th>
+                    <th>S.No.</th>
                     <th>From</th>
                     <th>To</th>
                   </thead>
@@ -270,7 +182,7 @@ include 'head.php';
                     </tr>
                   </tbody>
                 </table>
-                <div class="row justify-content-center gutter-30 col-mb-5">
+                <div class="row gutter-30 col-mb-5">
                   <div class="col-sm-4 col-md-4">
                     <div class="team card shadow-sm border-0 h-shadow h-translatey-sm all-ts rounded-4 overflow-hidden">
                       <div class="team-image">
@@ -278,7 +190,7 @@ include 'head.php';
                       </div>
                       <div class="team-desc p-2">
                         <div class="team-title pt-0">
-                          <h4>Pedestrian-Friendly Pathways</h4><span class="fst-normal"><i class="fa-solid fa-location-dot"></i>
+                          <h4 class="fs-14">Pedestrian-Friendly Pathways</h4><span class="fst-normal fs-12"><i class="fa-solid fa-location-dot"></i>
                             TMU Campus</span>
                         </div>
                       </div>
@@ -292,7 +204,7 @@ include 'head.php';
                       </div>
                       <div class="team-desc p-2">
                         <div class="team-title pt-0">
-                          <h4>Pedestrian-Friendly Pathways</h4><span class="fst-normal"><i class="fa-solid fa-location-dot"></i>
+                          <h4 class="fs-14">Pedestrian-Friendly Pathways</h4><span class="fst-normal fs-12"><i class="fa-solid fa-location-dot"></i>
                             TMU Campus</span>
                         </div>
                       </div>
@@ -305,16 +217,15 @@ include 'head.php';
               <button class="careers-accordion">Ban on use of Plastic<span class="icon">+</span></button>
               <div class="panel">
                 <p>The different colleges/ department of the university celebrates world environment day every year on 5th June. The volunteers of NSS Unit organizes the awareness program <a href="https://www.tmu.ac.in/news/swachhta-pakhwada-2019">(Swachhta Pakhwada (Click here to View))</a> to stop the use of plastic. The notification is issued from the Registrar office to stop the single use plastic.The students & staff of the university are actively involved in the Swacch Bharat Abhiyan.</p>
-
                 <div class="row justify-content-center gutter-30 col-mb-5">
                   <div class="col-sm-4 col-md-4">
                     <div class="team card shadow-sm border-0 h-shadow h-translatey-sm all-ts rounded-4 overflow-hidden">
                       <div class="team-image">
-                        <img src="https://www.tmu.ac.in/img/facilities/institutional…stic_ban/7.1.5_BAN_ON_USE_OF_PLASTIC_TMIMT_1.jpeg" alt="first-img" style="height: 350px;">
+                        <img src="https://www.tmu.ac.in/img/facilities/institutional_values/green_campus/plastic_ban/7.1.5_BAN_ON_USE_OF_PLASTIC_TMIMT_1.jpeg" alt="first-img" style="height: 350px;">
                       </div>
                       <div class="team-desc p-2">
                         <div class="team-title pt-0">
-                          <h4>Ban on use of Plastic</h4><span class="fst-normal"><i class="fa-solid fa-location-dot"></i>
+                          <h4 class="fs-14">Ban on use of Plastic</h4><span class="fst-normal fs-12"><i class="fa-solid fa-location-dot"></i>
                             TMU Campus</span>
                         </div>
                       </div>
@@ -324,11 +235,11 @@ include 'head.php';
                   <div class="col-sm-4 col-md-4">
                     <div class="team card shadow-sm border-0 h-shadow h-translatey-sm all-ts rounded-4 overflow-hidden">
                       <div class="team-image">
-                        <img src="https://www.tmu.ac.in/img/facilities/institutional…stic_ban/7.1.5_BAN_ON_USE_OF_PLASTIC_TMIMT_2.jpeg" alt="second-img" style="height: 350px;">
+                        <img src="https://www.tmu.ac.in/img/facilities/institutional_values/green_campus/plastic_ban/7.1.5_BAN_ON_USE_OF_PLASTIC_TMIMT_2.jpeg" alt="second-img" style="height: 350px;">
                       </div>
                       <div class="team-desc p-2">
                         <div class="team-title pt-0">
-                          <h4>Ban on use of Plastic</h4><span class="fst-normal"><i class="fa-solid fa-location-dot"></i>
+                          <h4 class="fs-14">Ban on use of Plastic</h4><span class="fst-normal fs-12"><i class="fa-solid fa-location-dot"></i>
                             TMU Campus</span>
                         </div>
                       </div>
@@ -338,16 +249,59 @@ include 'head.php';
                   <div class="col-sm-4 col-md-4">
                     <div class="team card shadow-sm border-0 h-shadow h-translatey-sm all-ts rounded-4 overflow-hidden">
                       <div class="team-image">
-                        <img src="https://www.tmu.ac.in/img/facilities/institutional…stic_ban/7.1.5_BAN_ON_USE_OF_PLASTIC_TMIMT_3.jpeg" alt="third-img" style="height: 350px;">
+                        <img src="https://www.tmu.ac.in/img/facilities/institutional_values/green_campus/MEDICAL_NO_USE_OF_PLASTIC_SIGNAGES.jpg" alt="third-img" style="height: 350px;">
                       </div>
                       <div class="team-desc p-2">
                         <div class="team-title pt-0">
-                          <h4>Ban on use of Plastic</h4><span class="fst-normal"><i class="fa-solid fa-location-dot"></i>
+                          <h4 class="fs-14">Ban on use of Plastic</h4><span class="fst-normal fs-12"><i class="fa-solid fa-location-dot"></i>
                             TMU Campus</span>
                         </div>
                       </div>
                     </div>
                   </div>
+
+                  <div class="col-sm-4 col-md-4">
+                    <div class="team card shadow-sm border-0 h-shadow h-translatey-sm all-ts rounded-4 overflow-hidden">
+                      <div class="team-image">
+                        <img src="https://www.tmu.ac.in/img/facilities/institutional_values/green_campus/GUEST_HOUSE_NO_USE_OF_PLASTIC_SIGNAGES.jpg" alt="third-img" style="height: 350px;">
+                      </div>
+                      <div class="team-desc p-2">
+                        <div class="team-title pt-0">
+                          <h4 class="fs-14">Ban on use of Plastic</h4><span class="fst-normal fs-12"><i class="fa-solid fa-location-dot"></i>
+                            TMU Campus</span>
+                        </div>
+                      </div>
+                    </div>
+                  </div>
+
+                  <div class="col-sm-4 col-md-4">
+                    <div class="team card shadow-sm border-0 h-shadow h-translatey-sm all-ts rounded-4 overflow-hidden">
+                      <div class="team-image">
+                        <img src="https://www.tmu.ac.in/img/facilities/institutional_values/green_campus/CCSIT_NO_USE_OF_PLASTIC_SIGNAGES.jpg" alt="third-img" style="height: 350px;">
+                      </div>
+                      <div class="team-desc p-2">
+                        <div class="team-title pt-0">
+                          <h4 class="fs-14">Ban on use of Plastic</h4><span class="fst-normal fs-12"><i class="fa-solid fa-location-dot"></i>
+                            TMU Campus</span>
+                        </div>
+                      </div>
+                    </div>
+                  </div>
+
+                  <div class="col-sm-4 col-md-4">
+                    <div class="team card shadow-sm border-0 h-shadow h-translatey-sm all-ts rounded-4 overflow-hidden">
+                      <div class="team-image">
+                        <img src="https://www.tmu.ac.in/img/facilities/institutional_values/green_campus/plastic_ban/7.1.5_BAN_ON_USE_OF_PLASTIC_TMIMT_3.jpeg" alt="third-img" style="height: 350px;">
+                      </div>
+                      <div class="team-desc p-2">
+                        <div class="team-title pt-0">
+                          <h4 class="fs-14">Ban on use of Plastic</h4><span class="fst-normal fs-12"><i class="fa-solid fa-location-dot"></i>
+                            TMU Campus</span>
+                        </div>
+                      </div>
+                    </div>
+                  </div>
+
                 </div>
               </div>
               <hr class="horizontal-line">
@@ -357,7 +311,7 @@ include 'head.php';
                 <p>The University has planned an attractive landscaping scheme through which lawns and grounds are maintained. In the last five years University has taken the initiation & large no of trees & plants are implanted in the grounds & road side area. Different constituent’s college/ departments celebrates the World Environment Day every year, on 5thjune.
                   In 2019 the tree plantation campaign was inaugurated by Mohd. Shami, Member-Indian Cricket Team</p>
 
-                <div class="row justify-content-center gutter-30 col-mb-5">
+                <div class="row gutter-30 col-mb-5">
                   <div class="col-sm-4 col-md-4">
                     <div class="team card shadow-sm border-0 h-shadow h-translatey-sm all-ts rounded-4 overflow-hidden">
                       <div class="team-image">
@@ -365,7 +319,7 @@ include 'head.php';
                       </div>
                       <div class="team-desc p-2">
                         <div class="team-title pt-0">
-                          <h4>Nursery</h4><span class="fst-normal"><i class="fa-solid fa-location-dot"></i>
+                          <h4 class="fs-14">Nursery</h4><span class="fst-normal fs-12"><i class="fa-solid fa-location-dot"></i>
                             TMU Campus</span>
                         </div>
                       </div>
@@ -379,7 +333,7 @@ include 'head.php';
                       </div>
                       <div class="team-desc p-2">
                         <div class="team-title pt-0">
-                          <h4>landscaping</h4><span class="fst-normal"><i class="fa-solid fa-location-dot"></i>
+                          <h4 class="fs-14">landscaping</h4><span class="fst-normal fs-12"><i class="fa-solid fa-location-dot"></i>
                             TMU Campus</span>
                         </div>
                       </div>
@@ -393,7 +347,7 @@ include 'head.php';
                       </div>
                       <div class="team-desc p-2">
                         <div class="team-title pt-0">
-                          <h4>landscaping</h4><span class="fst-normal"><i class="fa-solid fa-location-dot"></i>
+                          <h4 class="fs-14">landscaping</h4><span class="fst-normal fs-12"><i class="fa-solid fa-location-dot"></i>
                             TMU Campus</span>
                         </div>
                       </div>
@@ -407,7 +361,7 @@ include 'head.php';
                       </div>
                       <div class="team-desc p-2">
                         <div class="team-title pt-0">
-                          <h4>landscaping</h4><span class="fst-normal"><i class="fa-solid fa-location-dot"></i>
+                          <h4 class="fs-14">landscaping</h4><span class="fst-normal fs-12"><i class="fa-solid fa-location-dot"></i>
                             TMU Campus</span>
                         </div>
                       </div>
@@ -421,7 +375,7 @@ include 'head.php';
                       </div>
                       <div class="team-desc p-2">
                         <div class="team-title pt-0">
-                          <h4>landscaping</h4><span class="fst-normal"><i class="fa-solid fa-location-dot"></i>
+                          <h4 class="fs-14">landscaping</h4><span class="fst-normal fs-12"><i class="fa-solid fa-location-dot"></i>
                             TMU Campus</span>
                         </div>
                       </div>
@@ -435,7 +389,7 @@ include 'head.php';
                       </div>
                       <div class="team-desc p-2">
                         <div class="team-title pt-0">
-                          <h4>landscaping Green Grass</h4><span class="fst-normal"><i class="fa-solid fa-location-dot"></i>
+                          <h4 class="fs-14">landscaping Green Grass</h4><span class="fst-normal fs-12"><i class="fa-solid fa-location-dot"></i>
                             TMU Campus</span>
                         </div>
                       </div>
@@ -449,7 +403,7 @@ include 'head.php';
                       </div>
                       <div class="team-desc p-2">
                         <div class="team-title pt-0">
-                          <h4>plantation by Mohd. Shami, Memeber-Indian Cricekt Team</h4><span class="fst-normal"><i class="fa-solid fa-location-dot"></i>
+                          <h4 class="fs-14">plantation by Mohd. Shami, Memeber-Indian Cricekt Team</h4><span class="fst-normal fs-12"><i class="fa-solid fa-location-dot"></i>
                             TMU Campus</span>
                         </div>
                       </div>
@@ -464,7 +418,7 @@ include 'head.php';
                       </div>
                       <div class="team-desc p-2">
                         <div class="team-title pt-0">
-                          <h4>landscaping</h4><span class="fst-normal"><i class="fa-solid fa-location-dot"></i>
+                          <h4 class="fs-14">landscaping</h4><span class="fst-normal fs-12"><i class="fa-solid fa-location-dot"></i>
                             TMU Campus</span>
                         </div>
                       </div>
@@ -478,7 +432,7 @@ include 'head.php';
                       </div>
                       <div class="team-desc p-2">
                         <div class="team-title pt-0">
-                          <h4>landscaping Flowering</h4><span class="fst-normal"><i class="fa-solid fa-location-dot"></i>
+                          <h4 class="fs-14">landscaping Flowering</h4><span class="fst-normal fs-12"><i class="fa-solid fa-location-dot"></i>
                             TMU Campus</span>
                         </div>
                       </div>
@@ -492,7 +446,7 @@ include 'head.php';
                       </div>
                       <div class="team-desc p-2">
                         <div class="team-title pt-0">
-                          <h4>landscaping</h4><span class="fst-normal"><i class="fa-solid fa-location-dot"></i>
+                          <h4 class="fs-14">landscaping</h4><span class="fst-normal fs-12"><i class="fa-solid fa-location-dot"></i>
                             TMU Campus</span>
                         </div>
                       </div>
@@ -501,16 +455,13 @@ include 'head.php';
                 </div>
               </div>
               <hr class="horizontal-line">
-
-
-
             </div>
           </div>
         </div>
       </div>
     </div>
   </div>
-</section><!-- #content end -->
+</section>
 
 
 

@@ -21,7 +21,7 @@ include 'head.php';
                     <div class="pe-lg-4 position-relative p-0">
                         <div style="z-index: 2;">
                             <!-- <iframe width="560" height="315" src="https://www.youtube.com/embed/iXHRmCyHszY?si=BcZ5NOfT-V8ECc6z" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen style="z-index: 2; margin:0;"></iframe> -->
-                            <img src="/assets/image/tmimt-banner.png" alt="" class="p-0 m-0">
+                            <img src="https://upgrade.tmu.ac.in/assets/image/tmimt-banner.png" alt="" class="p-0 m-0">
                         </div>
                     </div>
                 </div>
@@ -32,36 +32,38 @@ include 'head.php';
             <div class="row justify-content-center">
                 <div class="col-6 col-lg-3 px-1">
                     <div class="card text-center py-3 rounded-0 fw-semibold text-uppercase ls-1">
-                        <div class="card-body gap-4 text-tmu-primary under-banner-cards"> <span>82%</span>
+                        <div class="card-body gap-4 text-tmu-primary under-banner-cards"> 
+                            <span>AA+</span>
                             <br>
-                            <span class="d-block pt-1">Placement Rate</span>
+                            <span class="d-block pt-1">Rated Top B-school by <br> Careers360</span>
                         </div>
                     </div>
                 </div>
                 <div class="col-6 col-lg-3 px-1">
                     <div class="card text-center py-3 rounded-0 fw-semibold text-uppercase ls-1">
                         <div class="card-body gap-4 text-tmu-primary under-banner-cards">
-                            <span>100%</span>
+                            <span>India's 1st</span>
                             <br>
-                            <span class="d-block pt-1">Placement Assistance</span>
+                            <span class="d-block pt-1">Centre of Excellence in Cybersecurity</span>
                         </div>
                     </div>
                 </div>
                 <div class="col-6 col-lg-3 px-1">
                     <div class="card text-center py-3 rounded-0 fw-semibold text-uppercase ls-1">
                         <div class="card-body gap-4 text-tmu-primary under-banner-cards">
-                            <span>60 LPA</span>
+                            <span>5 B-Schools</span>
                             <br>
-                            <span class="d-block pt-1">Highest Package</span>
+                            <span class="d-block pt-1">Among the Top 5 B-Schools in North India</span>
                         </div>
                     </div>
                 </div>
                 <div class="col-6 col-lg-3 px-1">
                     <div class="card text-center py-3 rounded-0 fw-semibold text-uppercase ls-1">
                         <div class="card-body gap-4 text-tmu-primary under-banner-cards">
-                            <span>100+</span>
+                            <span>IACBE</span>
                             <br>
-                            <span class="d-block pt-1">Global Collaborations</span>
+                            <span class="d-block pt-1">Member of IACBE</span>
+                            &nbsp;&nbsp;
                         </div>
                     </div>
                 </div>
@@ -80,18 +82,19 @@ include 'head.php';
                         <div class="row">
                             <div class="col-6">
                                 <div class="card text-center py-3 rounded-0 fw-semibold text-uppercase ls-1">
-                                    <div class="card-body gap-4 text-tmu-primary under-banner-cards"> <span>82%</span>
+                                    <div class="card-body gap-4 text-tmu-primary under-banner-cards">
+                                        <span>AA+</span>
                                         <br>
-                                        <span class="d-block pt-1">Placement Rate</span>
+                                        <span class="d-block pt-1">Rated Top B-school by <br> Careers360</span>
                                     </div>
                                 </div>
                             </div>
                             <div class="col-6">
                                 <div class="card text-center py-3 rounded-0 fw-semibold text-uppercase ls-1">
                                     <div class="card-body gap-4 text-tmu-primary under-banner-cards">
-                                        <span>100%</span>
-                                        <br>
-                                        <span class="d-block pt-1">Placement Assistance</span>
+                                    <span>India's 1st</span>
+                                    <br>
+                                    <span class="d-block pt-1">Centre of Excellence in Cybersecurity</span>
                                     </div>
                                 </div>
                             </div>
@@ -102,18 +105,19 @@ include 'head.php';
                             <div class="col-6">
                                 <div class="card text-center py-3 rounded-0 fw-semibold text-uppercase ls-1">
                                     <div class="card-body gap-4 text-tmu-primary under-banner-cards">
-                                        <span>60 LPA</span>
-                                        <br>
-                                        <span class="d-block pt-1">Highest Package</span>
+                                    <span>5 B-Schools</span>
+                                    <br>
+                                    <span class="d-block pt-1">Among the Top 5 B-Schools in North India</span>
                                     </div>
                                 </div>
                             </div>
                             <div class="col-6">
                                 <div class="card text-center py-3 rounded-0 fw-semibold text-uppercase ls-1">
                                     <div class="card-body gap-4 text-tmu-primary under-banner-cards">
-                                        <span>100+</span>
-                                        <br>
-                                        <span class="d-block pt-1">Global Collaborations</span>
+                                    <span>IACBE</span>
+                            <br>
+                            <span class="d-block pt-1">Member of IACBE</span>
+                            &nbsp;&nbsp;
                                     </div>
                                 </div>
                             </div>

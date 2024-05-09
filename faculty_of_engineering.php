@@ -32,7 +32,26 @@ include 'head.php';
             <div class="row justify-content-center">
                 <div class="col-6 col-lg-3 px-1">
                     <div class="card text-center py-3 rounded-0 fw-semibold text-uppercase ls-1">
-                        <div class="card-body gap-4 text-tmu-primary under-banner-cards"> <span>82%</span>
+                        <div class="card-body gap-4 text-tmu-primary under-banner-cards"> 
+                            <span> Affiliated</span>
+                            <br>
+                            <span class="d-block pt-1">Engineering Council of India </span>
+                        </div>
+                    </div>
+                </div>
+                <div class="col-6 col-lg-3 px-1">
+                    <div class="card text-center py-3 rounded-0 fw-semibold text-uppercase ls-1">
+                        <div class="card-body gap-4 text-tmu-primary under-banner-cards">
+                            <span>NBA </span>
+                            <br>
+                            <span class="d-block pt-1">Accredited BTech CSE</span>
+                        </div>
+                    </div>
+                </div>
+                <div class="col-6 col-lg-3 px-1">
+                    <div class="card text-center py-3 rounded-0 fw-semibold text-uppercase ls-1">
+                        <div class="card-body gap-4 text-tmu-primary under-banner-cards">
+                            <span>82% </span>
                             <br>
                             <span class="d-block pt-1">Placement Rate</span>
                         </div>
@@ -41,27 +60,9 @@ include 'head.php';
                 <div class="col-6 col-lg-3 px-1">
                     <div class="card text-center py-3 rounded-0 fw-semibold text-uppercase ls-1">
                         <div class="card-body gap-4 text-tmu-primary under-banner-cards">
-                            <span>100%</span>
+                            <span>CRC</span>
                             <br>
-                            <span class="d-block pt-1">Placement Assistance</span>
-                        </div>
-                    </div>
-                </div>
-                <div class="col-6 col-lg-3 px-1">
-                    <div class="card text-center py-3 rounded-0 fw-semibold text-uppercase ls-1">
-                        <div class="card-body gap-4 text-tmu-primary under-banner-cards">
-                            <span>60 LPA</span>
-                            <br>
-                            <span class="d-block pt-1">Highest Package</span>
-                        </div>
-                    </div>
-                </div>
-                <div class="col-6 col-lg-3 px-1">
-                    <div class="card text-center py-3 rounded-0 fw-semibold text-uppercase ls-1">
-                        <div class="card-body gap-4 text-tmu-primary under-banner-cards">
-                            <span>100+</span>
-                            <br>
-                            <span class="d-block pt-1">Global Collaborations</span>
+                            <span class="d-block pt-1">Dedicated Placement Cell</span>
                         </div>
                     </div>
                 </div>
@@ -80,18 +81,19 @@ include 'head.php';
                         <div class="row">
                             <div class="col-6">
                                 <div class="card text-center py-3 rounded-0 fw-semibold text-uppercase ls-1">
-                                    <div class="card-body gap-4 text-tmu-primary under-banner-cards"> <span>82%</span>
+                                    <div class="card-body gap-4 text-tmu-primary under-banner-cards"> 
+                                        <span> Affiliated</span>
                                         <br>
-                                        <span class="d-block pt-1">Placement Rate</span>
+                                        <span class="d-block pt-1">Engineering Council of India </span>
                                     </div>
                                 </div>
                             </div>
                             <div class="col-6">
                                 <div class="card text-center py-3 rounded-0 fw-semibold text-uppercase ls-1">
                                     <div class="card-body gap-4 text-tmu-primary under-banner-cards">
-                                        <span>100%</span>
+                                        <span>NBA </span>
                                         <br>
-                                        <span class="d-block pt-1">Placement Assistance</span>
+                                        <span class="d-block pt-1">Accredited BTech CSE</span>
                                     </div>
                                 </div>
                             </div>
@@ -102,18 +104,18 @@ include 'head.php';
                             <div class="col-6">
                                 <div class="card text-center py-3 rounded-0 fw-semibold text-uppercase ls-1">
                                     <div class="card-body gap-4 text-tmu-primary under-banner-cards">
-                                        <span>60 LPA</span>
+                                        <span>82% </span>
                                         <br>
-                                        <span class="d-block pt-1">Highest Package</span>
+                                        <span class="d-block pt-1">Placement Rate</span>
                                     </div>
                                 </div>
                             </div>
                             <div class="col-6">
                                 <div class="card text-center py-3 rounded-0 fw-semibold text-uppercase ls-1">
                                     <div class="card-body gap-4 text-tmu-primary under-banner-cards">
-                                        <span>100+</span>
+                                        <span>CRC</span>
                                         <br>
-                                        <span class="d-block pt-1">Global Collaborations</span>
+                                        <span class="d-block pt-1">Dedicated Placement Cell</span>
                                     </div>
                                 </div>
                             </div>
@@ -157,47 +159,67 @@ include 'head.php';
             <div class="tab-content second ps-5 px-md-5" id="myTabContent">
                 <div class="tab-pane fade show active" id="Tab1" role="tabpanel" aria-labelledby="tab1-tab">
                     <h3>Key Highlights</h3>
-                    <ul class="m-ol-list ps-4">
+                    <ul class="m-ol-list ps-4 mb-0">
                         <li>Affiliated with UGC, AICTE, and NBA.</li>
 						<li>IEEE received activities based on the Branch Incentive Award 2022”.</li>
 						<li>We ranked 71 among top Government & Private Engineering Colleges in India by “DATAQUEST- 2022”.</li>
+                    </ul>
+                    <div class="read-more-content mt-1">
+                    <ul class="m-ol-list ps-4">
 						<li>Ranked 14 in Engineering Colleges of Excellence, India by “CSR-GHRDC Engineering College ranking-2021”.</li>
 						<li>Ranked 10 in Engineering Colleges in Uttar Pradesh by “CSR-GHRDC Engineering College ranking-2021”.</li>
 						<li>Ranked 84 in Top Engineering Colleges, India by “DataQuest-2021”.</li>
 						<li>Ranked 58 in Top Engineering Colleges in all over India by “Digital Learning-2021”.</li>
                     </ul>
+                    </div>
+                    <a href="javascript:void(0);" class="read-more ms-2 mt-1" title="Read More">Read More</a>    
                 </div>
                 <div class="tab-pane fade" id="Tab2" role="tabpanel" aria-labelledby="tab2-tab">
                     <h3>Placement/Internship</h3>
                     <p>Get ready to explore Limitless Possibilities at FOE College!.</p>
-                    <ul class="m-ol-list ps-4">
+                    <ul class="m-ol-list ps-4 mb-0">
                         <li><strong>Internship Opportunities: </Strong>Gain practical experience and enhance your skills through exclusive internship programmes offered.</li>
 						<li><strong>Connect with Renowned Companies: </Strong>Work with companies like L&T, Jubilant, Ultra Tech Cement, HCL, Wipro, TCS, and many more. They visit TMU, opening doors to remarkable placement opportunities.</li>
-						<li><strong>Dedicated Corporate Resource Centre (CRC): </Strong>Our CRC tirelessly works to generate placements and training opportunities throughout the year, ensuring you are well-prepared for your career.</li>
-						<li><strong>89% Placement Track Record: </Strong>We take pride in our exceptional placement record, striving to assist all our students in securing the best available jobs in their respective fields.</li>
                     </ul>
-                    <p>Join FOE College, the epitome of excellence and the best private engineering college in Uttar Pradesh. Unleash your potential and build a rewarding future with us!</p>
+                    <div class="read-more-content mt-1">
+                        <ul class="m-ol-list ps-4">
+                            <li><strong>Dedicated Corporate Resource Centre (CRC): </Strong>Our CRC tirelessly works to generate placements and training opportunities throughout the year, ensuring you are well-prepared for your career.</li>
+						    <li><strong>89% Placement Track Record: </Strong>We take pride in our exceptional placement record, striving to assist all our students in securing the best available jobs in their respective fields.</li>
+                        </ul>
+                        <p>Join FOE College, the epitome of excellence and the best private engineering college in Uttar Pradesh. Unleash your potential and build a rewarding future with us!</p>
+                    </div>
+                    <a href="javascript:void(0);" class="read-more ms-2 mt-1" title="Read More">Read More</a>    
                 </div>
                 <div class="tab-pane fade" id="Tab3" role="tabpanel" aria-labelledby="tab3-tab">
                     <h3>Curriculum</h3>
                     <p>Join FOE College, the epitome of excellence and the best private engineering college in Uttar Pradesh. Unleash your potential and build a rewarding future with us!</p>
-                    <ul class="m-ol-list ps-4">
+                    <ul class="m-ol-list ps-4 mb-0">
 						<li><strong>Experience Skill Enhancement: </Strong>Our curriculum encompasses value-added courses and hands-on lab work, aligning with industry trends to enhance your skills and complement your learning journey.</li>
 						<li><strong>Professional Industry Connections: </Strong> Benefit from our strong ties, as we provide opportunities to connect with experts through workshops, seminars, and guest lectures. We have two Centre of Excellence, namely</li>
-						<li><strong>Centre of Excellence: </strong>Ultra-Tech. It aims to equip the civil engineering students with the ultra-modern equipment and industry relevant knowledge.</li>
+                    </ul>
+                    <div class="read-more-content mt-1">
+                        <ul class="m-ol-list ps-4">	
+                        <li><strong>Centre of Excellence: </strong>Ultra-Tech. It aims to equip the civil engineering students with the ultra-modern equipment and industry relevant knowledge.</li>
 						<li><strong>Future-Ready Engineering Education: </Strong>We prepare you to thrive as competent engineers in the ever-evolving landscape, equipping you with the necessary tech skills to excel in your career.</li>
 					</ul>
 					<p>Join us at our prestigious institution, where your engineering aspirations will flourish, paving the way for a successful future. Together, let's make your mark in the engineering world! We are proud to be the best private engineering college in UP.</p>
                 </div>
+                <a href="javascript:void(0);" class="read-more ms-2 mt-1" title="Read More">Read More</a> 
+            </div>
                 <div class="tab-pane fade" id="Tab4" role="tabpanel" aria-labelledby="tab4-tab">
                     <h3>Infrastructure</h3>
-                    <ul class="m-ol-list ps-4">
+                    <ul class="m-ol-list ps-4 mb-0">
 						<li><strong>State-of-the-Art Labs:</strong> The Faculty of Engineering is equipped with advanced facilities, enabling students to engage in practical learning and hands-on experimentation.</li>
 						<li><strong>Industry-Academia Collaborations:</strong> The Engineering college enjoys strong partnerships with esteemed organisations like NVIDIA, BSNL, TCS-iON, Voltrans, and more. These collaborations foster research, development, and technology incubation, providing valuable opportunities for students.</li>
-						<li><strong>Leading University Partnerships:</strong> We are proud to be associated with renowned universities and institutions such as IIT Kanpur, IIT Bombay, and Spoken Tutorial IITB. These partnerships enhance our students' exposure to world-class resources and cutting-edge technologies.</li>
+                    </ul>
+                        <div class="read-more-content mt-1">
+                        <ul class="m-ol-list ps-4">		
+                        <li><strong>Leading University Partnerships:</strong> We are proud to be associated with renowned universities and institutions such as IIT Kanpur, IIT Bombay, and Spoken Tutorial IITB. These partnerships enhance our students' exposure to world-class resources and cutting-edge technologies.</li>
 						<li><strong>Live Project Opportunities:</strong> We encourage students to undertake live projects under the mentorship of experienced professionals. This invaluable experience enhances students' practical skills and prepares them for real-world challenges.</li>
 					</ul>
 					<p style="text-align:justify">Experience a transformative engineering education that combines industry expertise, advanced infrastructure, and practical exposure. Join us at the top private engineering college in Moradabad.</p>
+                    </div>
+                    <a href="javascript:void(0);" class="read-more ms-2 mt-1" title="Read More">Read More</a> 
                 </div>
             </div>
         </div>
