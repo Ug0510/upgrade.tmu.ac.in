@@ -221,9 +221,10 @@
                         </div>
 
 
-                        <div id="nav-banner">
-                            <img src="https://www.hindustantimes.com/ht-img/img/2023/08/08/550x309/Screenshot_2023-08-08_183058_1691499721701_1691499729400.png" class="w-100" alt="">
-                            <div class="blue-overlay"></div>
+                        <div id="nav-banner" class="w-100">
+                            <!-- <img src="https://www.hindustantimes.com/ht-img/img/2023/08/08/550x309/Screenshot_2023-08-08_183058_1691499721701_1691499729400.png" class="w-100" alt=""> -->
+                            <img src="./assets/image/banner-image.jpeg" alt="" class="w-100">
+                            <!-- <div class="blue-overlay"></div> -->
                         </div>
 
                         <!-- <img src="./assets/image/Asset 1@4x.png" alt="" style="width: 100%; margin:auto; "> -->
