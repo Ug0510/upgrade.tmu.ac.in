@@ -2,50 +2,6 @@
 include 'head.php';
 ?>
 
-<style>
-  .color {
-    color: #FF7900 !important;
-  }
-
-  h3 {
-    margin: 0 0 5px 0;
-  }
-
-  .font-body {
-    font-size: 22px;
-    color: #001055;
-    font-weight: 700;
-  }
-
-  p {
-    margin-bottom: 15px !important;
-    font-family: 'poppins' !important;
-    font-size: 14px;
-
-  }
-
-  .title-bottom-border::before,
-  .title-bottom-border::after {
-    display: none;
-  }
-
-  .title-bottom-border h1,
-  .title-bottom-border .h1,
-  .title-bottom-border h2,
-  .title-bottom-border .h2,
-  .title-bottom-border h3,
-  .title-bottom-border .h3,
-  .title-bottom-border h4,
-  .title-bottom-border .h4,
-  .title-bottom-border h5,
-  .title-bottom-border .h5,
-  .title-bottom-border h6,
-  .title-bottom-border .h6 {
-    width: 100%;
-    padding: 0 0 3px 0;
-    border-bottom: calc(var(--cnvs-fancy-title-border-size) * 2) solid var(--cnvs-themecolor);
-  }
-</style>
 
 <section id="content">
   <div class="content-wrap py-0">
@@ -55,11 +11,11 @@ include 'head.php';
         include 'sidebar/nss_sidebar.php';
         ?>
 
-        <div class="col-12 col-md-10 mt-3 mt-sm-0 pt-5 px-4">
+        <div class="col-12 col-md-10 mt-sm-0 pt-4 px-4 mb-4">
           <!-- Write content for right side here  -->
 
           <div class="row mx-0">
-            <h1 class="tmu-text-primary tmu-page-heading">
+            <h1 class="tmu-text-primary tmu-page-heading mb-2">
               <span>About </span>
               <span> NSS</span>
             </h1>
