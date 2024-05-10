@@ -2,19 +2,23 @@
 include 'head.php';
 ?>
 
+<section id="content">
+    <div class="content-wrap py-0">
+        <div class="container-fluid my-0  px-0 px-md-3">
+            <div class="row">
 
-<?php
-include 'sidebar/iic_sidebar.php';
-?>
+                <?php
+                include 'sidebar/iic_sidebar.php';
+                ?>
 
-				<div class="col-12 col-md-10 mt-3 mt-sm-0 pt-5 ">
+                <div class="col-12 col-md-10 mt-3 mt-sm-0 pt-5 ">
 
-					<div class="row mx-0">
-						<h1 class="tmu-text-primary tmu-page-heading">Innovation &  <span>Startup Policies</span></h1>
+                    <div class="row mx-0">
+                        <h1 class="tmu-text-primary tmu-page-heading"><span>Innovation & </span><span>Startup Policies</span></h1>
 
-						<div class="container">
+                        <div class="container">
                             <div class="row">
-                                <div class="col-md-3">
+                                <div class="col-md-3 ">
                                     <div class="card text-center">
                                         <div class="card-body">
                                             <!-- Icon -->
@@ -31,20 +35,15 @@ include 'sidebar/iic_sidebar.php';
 
 
 
-					</div>
+                    </div>
 
-				</div>
-			</div>
-		</div>
+                </div>
+            </div>
+        </div>
 
 
-	</div>
+    </div>
 </section><!-- #content end -->
-
-
-
-<script src="https://code.jquery.com/jquery-3.6.0.min.js"></script>
-<script src="https://cdn.jsdelivr.net/npm/owl.carousel@2.3.4/dist/owl.carousel.min.js"></script>
 
 <?php
 include 'footer.php';
