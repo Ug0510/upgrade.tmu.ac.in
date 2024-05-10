@@ -70,6 +70,9 @@ p {
 .tmu-color {
     color: #FF7900 !important;
 }
+.tmu-color-blue{
+    color:#001055 !important;
+}
 
 
 /* For larger devices */
@@ -3020,6 +3023,7 @@ font-size: 16px;
 Global List CSS end
 ------------------------ */
 
+
 /* ------------------------
 Conferences Cards CSS start
 ------------------------ */
@@ -3243,3 +3247,43 @@ Journals CSS start
 /* ------------------------
 Journals CSS ends 
 ------------------------ */
+
+----------------
+CTLD Page CSS start
+---------------------- */
+.card_ctld {
+    width: 254px;
+    height: 254px;
+    border-radius: 50%;
+    /* box-shadow: 3px 3px 8px #161a1d; */
+    background-image: url('https://www.tmu.ac.in/img/ctld/our_team/R_N_Krishnia_DD.jpg');
+    /* background-position: center center; */
+    background-size: cover;
+    background-color: black;
+    display: flex;
+    justify-content: center;
+    align-items: flex-end;
+    position: relative;
+    margin-bottom: 2rem;
+    border:1px solid #001055;
+}
+.profile_name_ctld{
+    border:none;
+    border-radius: 5px;
+    background-color: #001055;
+    color:white;
+    cursor: normal;
+}
+.card-animation{
+    box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+    transition: all 0.3s ease;
+}
+.card-animation:hover{
+    transform: translateY(-5px);
+    box-shadow: 0 8px 12px rgba(0, 0, 0, 0.1);
+}
+
+/* 
+----------------------
+CTLD Page CSS end
+---------------------- */

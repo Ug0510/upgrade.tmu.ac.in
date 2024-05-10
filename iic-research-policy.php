@@ -2,18 +2,28 @@
 include 'head.php';
 ?>
 
-<?php
-include 'sidebar/iic_sidebar.php';
-?>
+<section id="content">
+    <div class="content-wrap py-0">
+
+
+
+        <div class="container-fluid my-0  px-0 px-md-3">
+
+
+            <div class="row">
+
+                <?php
+                include 'sidebar/iic_sidebar.php';
+                ?>
 
                 <div class="col-12 col-md-10 mt-3 mt-sm-0 pt-5">
 
                     <div class="row mx-0">
                         <h1 class="tmu-text-primary tmu-page-heading"> <span>Research </span><span>Policy</span></h1>
-                        
+
                         <div class="container">
                             <div class="row">
-                                <div class="col-md-3">
+                                <div class="col-md-3 mb-4">
                                     <div class="card text-center">
                                         <div class="card-body">
                                             <!-- Icon -->
@@ -25,7 +35,7 @@ include 'sidebar/iic_sidebar.php';
                                         </div>
                                     </div>
                                 </div>
-                                <div class="col-md-3">
+                                <div class="col-md-3 mb-4">
                                     <div class="card text-center">
                                         <div class="card-body">
                                             <!-- Icon -->
@@ -37,7 +47,7 @@ include 'sidebar/iic_sidebar.php';
                                         </div>
                                     </div>
                                 </div>
-                                <div class="col-md-3">
+                                <div class="col-md-3 mb-4">
                                     <div class="card text-center">
                                         <div class="card-body">
                                             <!-- Icon -->
@@ -48,8 +58,8 @@ include 'sidebar/iic_sidebar.php';
                                             <a href="https://www.tmu.ac.in/pdf/research/incentive_policy.pdf" class="more-link fst-normal ms-2" style="font-family:'Poppins';font-size:12px;">View pdf <i class="bi-arrow-right"></i></a>
                                         </div>
                                     </div>
-                                </div>  
-                                <div class="col-md-3">
+                                </div>
+                                <div class="col-md-3 mb-4">
                                     <div class="card text-center">
                                         <div class="card-body">
                                             <!-- Icon -->
@@ -61,7 +71,7 @@ include 'sidebar/iic_sidebar.php';
                                         </div>
                                     </div>
                                 </div>
-                                <div class="col-md-3">
+                                <div class="col-md-3 mb-4">
                                     <div class="card text-center">
                                         <div class="card-body">
                                             <!-- Icon -->
@@ -88,10 +98,6 @@ include 'sidebar/iic_sidebar.php';
     </div>
 </section><!-- #content end -->
 
-
-
-<script src="https://code.jquery.com/jquery-3.6.0.min.js"></script>
-<script src="https://cdn.jsdelivr.net/npm/owl.carousel@2.3.4/dist/owl.carousel.min.js"></script>
 
 <?php
 include 'footer.php';
