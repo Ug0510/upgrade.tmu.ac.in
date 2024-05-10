@@ -17,7 +17,7 @@ include 'head.php';
 
           <h1 class="tmu-text-primary tmu-page-heading"><span>Policies &</span><span> Sops</span></h1>
           <div class="row col-mb-30">
-            <h2 class="tmu-text-primary"><span>Policies</span></h3>
+            <h2 class="tmu-text-primary"><span>Policies</span></h2>
             <div class="col-md-3">
               <div class="card text-center">
                 <div class="card-body">

@@ -402,7 +402,7 @@ include 'head.php';
                                         <div class="col-md-4">
                                             <!-- Card -->
                                             <div class="card shadow-sm ">
-                                                <img src="https://images.unsplash.com/photo-1537462715879-360eeb61a0ad?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Mnx8bWVjaGFuaWNhbHxlbnwwfHwwfHx8MA%3D%3D&auto=format&fit=crop&w=500&q=60" class="card-img-top" alt="...">
+                                                <img src="assets/img/programme_stock_img/paramedical/16.jpg" class="card-img-top" alt="...">
                                                 <div class="card-body">
 
                                                     <h4 class="mb-2">B.Sc. (Radiological Imaging Techniques)</h4>
@@ -419,7 +419,7 @@ include 'head.php';
                                         <div class="col-md-4">
                                             <!-- Card -->
                                             <div class="card shadow-sm ">
-                                                <img src="https://images.unsplash.com/photo-1537462715879-360eeb61a0ad?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Mnx8bWVjaGFuaWNhbHxlbnwwfHwwfHx8MA%3D%3D&auto=format&fit=crop&w=500&q=60" class="card-img-top" alt="...">
+                                                <img src="assets/img/programme_stock_img/paramedical/18.jpg" class="card-img-top" alt="...">
                                                 <div class="card-body">
 
                                                     <h4 class="mb-2">B.Sc. (Forensic Sciences) </h4>
@@ -436,7 +436,7 @@ include 'head.php';
                                         <div class="col-md-4">
                                             <!-- Card -->
                                             <div class="card shadow-sm ">
-                                                <img src="https://images.unsplash.com/photo-1537462715879-360eeb61a0ad?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Mnx8bWVjaGFuaWNhbHxlbnwwfHwwfHx8MA%3D%3D&auto=format&fit=crop&w=500&q=60" class="card-img-top" alt="...">
+                                                <img src="assets/img/programme_stock_img/paramedical/17.jpg" class="card-img-top" alt="...">
                                                 <div class="card-body">
 
                                                     <h4 class="mb-2">B.Sc. (Medical Laboratory Techniques)</h4>
@@ -453,7 +453,7 @@ include 'head.php';
                                         <div class="col-md-4">
                                             <!-- Card -->
                                             <div class="card shadow-sm ">
-                                                <img src="https://images.unsplash.com/photo-1537462715879-360eeb61a0ad?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Mnx8bWVjaGFuaWNhbHxlbnwwfHwwfHx8MA%3D%3D&auto=format&fit=crop&w=500&q=60" class="card-img-top" alt="...">
+                                                <img src="assets/img/programme_stock_img/paramedical/19.jpg" class="card-img-top" alt="...">
                                                 <div class="card-body">
 
                                                     <h4 class="mb-2">B.Optom. (Bachelor of Optometry)</h4>
@@ -480,7 +480,7 @@ include 'head.php';
                                         <div class="col-md-4">
                                             <!-- Card -->
                                             <div class="card shadow-sm">
-                                                <img src="https://images.unsplash.com/photo-1537462715879-360eeb61a0ad?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Mnx8bWVjaGFuaWNhbHxlbnwwfHwwfHx8MA%3D%3D&auto=format&fit=crop&w=500&q=60" height="178px" class="card-img-top" alt="...">
+                                                <img src="assets/img/programme_stock_img/paramedical/20.jpg" height="178px" class="card-img-top" alt="...">
                                                 <div class="card-body">
 
                                                     <h4 class="mb-2">M.Sc. (Radiological Imaging Techniques)</h4>
@@ -497,7 +497,7 @@ include 'head.php';
                                     <div class="col-md-4">
                                             <!-- Card -->
                                             <div class="card shadow-sm">
-                                                <img src="https://images.unsplash.com/photo-1537462715879-360eeb61a0ad?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Mnx8bWVjaGFuaWNhbHxlbnwwfHwwfHx8MA%3D%3D&auto=format&fit=crop&w=500&q=60" height="178px" class="card-img-top" alt="...">
+                                                <img src="assets/img/programme_stock_img/paramedical/21.jpg" height="178px" class="card-img-top" alt="...">
                                                 <div class="card-body">
 
                                                     <h4 class="mb-2">M.Sc. (Medical Laboratory Techniques)</h4>
@@ -514,7 +514,7 @@ include 'head.php';
                                         <div class="col-md-4">
                                             <!-- Card -->
                                             <div class="card shadow-sm">
-                                                <img src="https://images.unsplash.com/photo-1537462715879-360eeb61a0ad?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Mnx8bWVjaGFuaWNhbHxlbnwwfHwwfHx8MA%3D%3D&auto=format&fit=crop&w=500&q=60" height="178px" class="card-img-top" alt="...">
+                                                <img src="assets/img/programme_stock_img/paramedical/22.jpg" height="178px" class="card-img-top" alt="...">
                                                 <div class="card-body">
 
                                                     <h4 class="mb-2">M.Sc. (Forensic Science)</h4>
@@ -531,7 +531,7 @@ include 'head.php';
                                         <div class="col-md-4">
                                             <!-- Card -->
                                             <div class="card shadow-sm progcard">
-                                                <img src="https://d1vwxdpzbgdqj.cloudfront.net/s3-public-images/program/mit-data-science-machine-learning-program.jpg" height="178px" class="card-img-top" alt="...">
+                                                <img src="assets/img/programme_stock_img/paramedical/13.jpg" height="178px" class="card-img-top" alt="...">
                                                 <div class="card-body progcardbody">
 
                                                     <h4 class="mb-2">M.Sc. (Optometry)

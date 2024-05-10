@@ -22,7 +22,7 @@ include 'head.php';
                     <div class="row mx-0">
                         <h1 class="tmu-text-primary tmu-page-heading"><span>About IQAC</span> <span>(Internal Quality Assurance Cell)</span></h1>
                         <div id="" class="mb-20 last:mb-0">
-                            <div class="richtext fancylists prose-body">
+                            <div class="richtext fancylists prose-body mb-2">
                                 <p>The Internal Quality Assurance Cell (IQAC) is the cell that is formulated for monitoring the quality parameters in TMU. The Composition of IQAC members as per the recommendations given by National Assessment Accreditation Committee.</p>
                             </div>
                         </div>

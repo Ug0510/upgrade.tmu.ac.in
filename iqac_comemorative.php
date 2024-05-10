@@ -14,7 +14,7 @@ include 'head.php';
         <div class="col-12 col-md-10 mt-3 mt-sm-0 pt-5">
           <div class="row mx-2">
           <h1 class="tmu-text-primary tmu-page-heading"><span> Commemorative </span><span> Days</span></h1>
-            <h3>National and International Commemorative Days, Events and Festivals</h3>
+            <h3 class="tmu-text-primary"><span>National and International Commemorative Days, </span><span>Events and Festivals</span></h3>
             <p>Various activities has been organised by the different colleges / department of the university for inculcating values for becoming responsible citizens.</p>
             <table class="table table-bordered table-striped table-center">
               <thead>

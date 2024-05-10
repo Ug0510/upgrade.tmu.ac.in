@@ -206,7 +206,7 @@ include 'head.php';
 
                   </tbody>
                 </table>
-                <div class="row justify-content-center gutter-30 col-mb-5">
+                <div class="row gutter-30 col-mb-5">
                   <div class="col-sm-3 col-md-3">
                     <div class="team card shadow-sm border-0 h-shadow h-translatey-sm all-ts rounded-4 overflow-hidden">
                       <div class="team-image">
@@ -214,7 +214,7 @@ include 'head.php';
                       </div>
                       <div class="team-desc p-2">
                         <div class="team-title pt-0">
-                          <h4>Lift No. 1 Old Hospital Lift</h4><span class="fst-normal"><i class="fa-solid fa-location-dot"></i>
+                          <h4 class="fs-14">Lift No. 1 Old Hospital Lift</h4><span class="fst-normal fs-12"><i class="fa-solid fa-location-dot"></i>
                             TMU Campus</span>
                         </div>
                       </div>
@@ -228,7 +228,7 @@ include 'head.php';
                       </div>
                       <div class="team-desc p-2">
                         <div class="team-title pt-0">
-                          <h4>Lift No. 2 Old Dental Block</h4><span class="fst-normal"><i class="fa-solid fa-location-dot"></i>
+                          <h4 class="fs-14">Lift No. 2 Old Dental Block</h4><span class="fst-normal fs-12"><i class="fa-solid fa-location-dot"></i>
                             TMU Campus</span>
                         </div>
                       </div>
@@ -242,7 +242,7 @@ include 'head.php';
                       </div>
                       <div class="team-desc p-2">
                         <div class="team-title pt-0">
-                          <h4>Lift No. 3 Mala Bhawan</h4><span class="fst-normal"><i class="fa-solid fa-location-dot"></i>
+                          <h4 class="fs-14">Lift No. 3 Mala Bhawan</h4><span class="fst-normal fs-12"><i class="fa-solid fa-location-dot"></i>
                             TMU Campus</span>
                         </div>
                       </div>
@@ -256,7 +256,7 @@ include 'head.php';
                       </div>
                       <div class="team-desc p-2">
                         <div class="team-title pt-0">
-                          <h4>Lift No. 4 Medical College & Research Centre</h4><span class="fst-normal"><i class="fa-solid fa-location-dot"></i>
+                          <h4 class="fs-14">Lift No. 4 Medical College & Research Centre</h4><span class="fst-normal fs-12"><i class="fa-solid fa-location-dot"></i>
                             TMU Campus</span>
                         </div>
                       </div>
@@ -270,7 +270,7 @@ include 'head.php';
                       </div>
                       <div class="team-desc p-2">
                         <div class="team-title pt-0">
-                          <h4>Lift No. 5 New Hospital Lift</h4><span class="fst-normal"><i class="fa-solid fa-location-dot"></i>
+                          <h4 class="fs-14">Lift No. 5 New Hospital Lift</h4><span class="fst-normal fs-12"><i class="fa-solid fa-location-dot"></i>
                             TMU Campus</span>
                         </div>
                       </div>
@@ -284,7 +284,7 @@ include 'head.php';
                       </div>
                       <div class="team-desc p-2">
                         <div class="team-title pt-0">
-                          <h4>Lift No. 6 New Hospital Lift</h4><span class="fst-normal"><i class="fa-solid fa-location-dot"></i>
+                          <h4 class="fs-14">Lift No. 6 New Hospital Lift</h4><span class="fst-normal fs-12"><i class="fa-solid fa-location-dot"></i>
                             TMU Campus</span>
                         </div>
                       </div>
@@ -298,7 +298,7 @@ include 'head.php';
                       </div>
                       <div class="team-desc p-2">
                         <div class="team-title pt-0">
-                          <h4>Lift No. 7</h4><span class="fst-normal"><i class="fa-solid fa-location-dot"></i>
+                          <h4 class="fs-14">Lift No. 7</h4><span class="fst-normal fs-12"><i class="fa-solid fa-location-dot"></i>
                             TMU Campus</span>
                         </div>
                       </div>
@@ -313,7 +313,7 @@ include 'head.php';
                       </div>
                       <div class="team-desc p-2">
                         <div class="team-title pt-0">
-                          <h4>Lift No. 8 New Hospital Lift</h4><span class="fst-normal"><i class="fa-solid fa-location-dot"></i>
+                          <h4 class="fs-14">Lift No. 8 New Hospital Lift</h4><span class="fst-normal fs-12"><i class="fa-solid fa-location-dot"></i>
                             TMU Campus</span>
                         </div>
                       </div>
@@ -327,7 +327,7 @@ include 'head.php';
                       </div>
                       <div class="team-desc p-2">
                         <div class="team-title pt-0">
-                          <h4>Lift No. 9 Gyan Bhawan Lift</h4><span class="fst-normal"><i class="fa-solid fa-location-dot"></i>
+                          <h4 class="fs-14">Lift No. 9 Gyan Bhawan Lift</h4><span class="fst-normal fs-12"><i class="fa-solid fa-location-dot"></i>
                             TMU Campus</span>
                         </div>
                       </div>
@@ -341,7 +341,7 @@ include 'head.php';
                       </div>
                       <div class="team-desc p-2">
                         <div class="team-title pt-0">
-                          <h4>Lift No. 10 Gyan Bhawan Lift</h4><span class="fst-normal"><i class="fa-solid fa-location-dot"></i>
+                          <h4 class="fs-14">Lift No. 10 Gyan Bhawan Lift</h4><span class="fst-normal fs-12"><i class="fa-solid fa-location-dot"></i>
                             TMU Campus</span>
                         </div>
                       </div>
@@ -355,7 +355,7 @@ include 'head.php';
                       </div>
                       <div class="team-desc p-2">
                         <div class="team-title pt-0">
-                          <h4>Lift No. 11 Engineering Block</h4><span class="fst-normal"><i class="fa-solid fa-location-dot"></i>
+                          <h4 class="fs-14">Lift No. 11 Engineering Block</h4><span class="fst-normal fs-12"><i class="fa-solid fa-location-dot"></i>
                             TMU Campus</span>
                         </div>
                       </div>
@@ -369,7 +369,7 @@ include 'head.php';
                       </div>
                       <div class="team-desc p-2">
                         <div class="team-title pt-0">
-                          <h4>Lift No. 12 College of Pharmacy Lift</h4><span class="fst-normal"><i class="fa-solid fa-location-dot"></i>
+                          <h4 class="fs-14">Lift No. 12 College of Pharmacy Lift</h4><span class="fst-normal fs-12"><i class="fa-solid fa-location-dot"></i>
                             TMU Campus</span>
                         </div>
                       </div>
@@ -383,7 +383,7 @@ include 'head.php';
                       </div>
                       <div class="team-desc p-2">
                         <div class="team-title pt-0">
-                          <h4>Lift No. 13, College of Computing Sciences & IT</h4><span class="fst-normal"><i class="fa-solid fa-location-dot"></i>
+                          <h4 class="fs-14">Lift No. 13, College of Computing Sciences & IT</h4><span class="fst-normal fs-12"><i class="fa-solid fa-location-dot"></i>
                             TMU Campus</span>
                         </div>
                       </div>
@@ -397,8 +397,8 @@ include 'head.php';
                       </div>
                       <div class="team-desc p-2">
                         <div class="team-title pt-0">
-                          <h4>Lift No. 14, Engineering Block
-                          </h4><span class="fst-normal"><i class="fa-solid fa-location-dot"></i>
+                          <h4 class="fs-14">Lift No. 14, Engineering Block
+                          </h4><span class="fst-normal fs-12"><i class="fa-solid fa-location-dot"></i>
                             TMU Campus</span>
                         </div>
                       </div>
@@ -412,7 +412,7 @@ include 'head.php';
                       </div>
                       <div class="team-desc p-2">
                         <div class="team-title pt-0">
-                          <h4>Lift No. 15, Vidya Bhawan</h4><span class="fst-normal"><i class="fa-solid fa-location-dot"></i>
+                          <h4 class="fs-14">Lift No. 15, Vidya Bhawan</h4><span class="fst-normal fs-12"><i class="fa-solid fa-location-dot"></i>
                             TMU Campus</span>
                         </div>
                       </div>
@@ -426,7 +426,7 @@ include 'head.php';
                       </div>
                       <div class="team-desc p-2">
                         <div class="team-title pt-0">
-                          <h4>Lift No. 16, College of Nursing</h4><span class="fst-normal"><i class="fa-solid fa-location-dot"></i>
+                          <h4 class="fs-14">Lift No. 16, College of Nursing</h4><span class="fst-normal fs-12"><i class="fa-solid fa-location-dot"></i>
                             TMU Campus</span>
                         </div>
                       </div>
@@ -440,7 +440,7 @@ include 'head.php';
                       </div>
                       <div class="team-desc p-2">
                         <div class="team-title pt-0">
-                          <h4>Lift No. 17, College of Nursing</h4><span class="fst-normal"><i class="fa-solid fa-location-dot"></i>
+                          <h4 class="fs-14">Lift No. 17, College of Nursing</h4><span class="fst-normal fs-12"><i class="fa-solid fa-location-dot"></i>
                             TMU Campus</span>
                         </div>
                       </div>
@@ -454,7 +454,7 @@ include 'head.php';
                       </div>
                       <div class="team-desc p-2">
                         <div class="team-title pt-0">
-                          <h4>Lift No. 18, Dental College & Research Centre</h4><span class="fst-normal"><i class="fa-solid fa-location-dot"></i>
+                          <h4 class="fs-14">Lift No. 18, Dental College & Research Centre</h4><span class="fst-normal fs-12"><i class="fa-solid fa-location-dot"></i>
                             TMU Campus</span>
                         </div>
                       </div>
@@ -468,7 +468,7 @@ include 'head.php';
                       </div>
                       <div class="team-desc p-2">
                         <div class="team-title pt-0">
-                          <h4>Lift No. 19, Dental College & Research Centre</h4><span class="fst-normal"><i class="fa-solid fa-location-dot"></i>
+                          <h4 class="fs-14">Lift No. 19, Dental College & Research Centre</h4><span class="fst-normal fs-12"><i class="fa-solid fa-location-dot"></i>
                             TMU Campus</span>
                         </div>
                       </div>
@@ -482,7 +482,7 @@ include 'head.php';
                       </div>
                       <div class="team-desc p-2">
                         <div class="team-title pt-0">
-                          <h4>Lift No. 20, Vardhman Bhawan</h4><span class="fst-normal"><i class="fa-solid fa-location-dot"></i>
+                          <h4 class="fs-14">Lift No. 20, Vardhman Bhawan</h4><span class="fst-normal fs-12"><i class="fa-solid fa-location-dot"></i>
                             TMU Campus</span>
                         </div>
                       </div>
@@ -496,7 +496,7 @@ include 'head.php';
                       </div>
                       <div class="team-desc p-2">
                         <div class="team-title pt-0">
-                          <h4>Lift No. 21, Vardhman Bhawan</h4><span class="fst-normal"><i class="fa-solid fa-location-dot"></i>
+                          <h4 class="fs-14">Lift No. 21, Vardhman Bhawan</h4><span class="fst-normal fs-12"><i class="fa-solid fa-location-dot"></i>
                             TMU Campus</span>
                         </div>
                       </div>
@@ -510,7 +510,7 @@ include 'head.php';
                       </div>
                       <div class="team-desc p-2">
                         <div class="team-title pt-0">
-                          <h4>Lift No. 22, Vardhman Bhawan </h4><span class="fst-normal"><i class="fa-solid fa-location-dot"></i>
+                          <h4 class="fs-14">Lift No. 22, Vardhman Bhawan </h4><span class="fst-normal fs-12"><i class="fa-solid fa-location-dot"></i>
                             TMU Campus</span>
                         </div>
                       </div>
@@ -524,7 +524,7 @@ include 'head.php';
                       </div>
                       <div class="team-desc p-2">
                         <div class="team-title pt-0">
-                          <h4>Lift No. 23, Vardhman Bhawan</h4><span class="fst-normal"><i class="fa-solid fa-location-dot"></i>
+                          <h4 class="fs-14">Lift No. 23, Vardhman Bhawan</h4><span class="fst-normal fs-12"><i class="fa-solid fa-location-dot"></i>
                             TMU Campus</span>
                         </div>
                       </div>
@@ -538,7 +538,7 @@ include 'head.php';
                       </div>
                       <div class="team-desc p-2">
                         <div class="team-title pt-0">
-                          <h4>Lift No. 24, University Guest House</h4><span class="fst-normal"><i class="fa-solid fa-location-dot"></i>
+                          <h4 class="fs-14">Lift No. 24, University Guest House</h4><span class="fst-normal fs-12"><i class="fa-solid fa-location-dot"></i>
                             TMU Campus</span>
                         </div>
                       </div>
@@ -552,7 +552,7 @@ include 'head.php';
                       </div>
                       <div class="team-desc p-2">
                         <div class="team-title pt-0">
-                          <h4>Lift No. 25, Tmimt College of Management</h4><span class="fst-normal"><i class="fa-solid fa-location-dot"></i>
+                          <h4 class="fs-14">Lift No. 25, Tmimt College of Management</h4><span class="fst-normal fs-12"><i class="fa-solid fa-location-dot"></i>
                             TMU Campus</span>
                         </div>
                       </div>
@@ -566,7 +566,7 @@ include 'head.php';
                       </div>
                       <div class="team-desc p-2">
                         <div class="team-title pt-0">
-                          <h4>Lift No. 26, Administrative Block</h4><span class="fst-normal"><i class="fa-solid fa-location-dot"></i>
+                          <h4 class="fs-14">Lift No. 26, Administrative Block</h4><span class="fst-normal fs-12"><i class="fa-solid fa-location-dot"></i>
                             TMU Campus</span>
                         </div>
                       </div>
@@ -580,7 +580,7 @@ include 'head.php';
                       </div>
                       <div class="team-desc p-2">
                         <div class="team-title pt-0">
-                          <h4>Lift No. 27, Administrative Block</h4><span class="fst-normal"><i class="fa-solid fa-location-dot"></i>
+                          <h4 class="fs-14">Lift No. 27, Administrative Block</h4><span class="fst-normal fs-12"><i class="fa-solid fa-location-dot"></i>
                             TMU Campus</span>
                         </div>
                       </div>
@@ -594,7 +594,7 @@ include 'head.php';
                       </div>
                       <div class="team-desc p-2">
                         <div class="team-title pt-0">
-                          <h4>Lift No. 28, Girnar Apartment</h4><span class="fst-normal"><i class="fa-solid fa-location-dot"></i>
+                          <h4 class="fs-14">Lift No. 28, Girnar Apartment</h4><span class="fst-normal fs-12"><i class="fa-solid fa-location-dot"></i>
                             TMU Campus</span>
                         </div>
                       </div>
@@ -608,7 +608,7 @@ include 'head.php';
                       </div>
                       <div class="team-desc p-2">
                         <div class="team-title pt-0">
-                          <h4>Lift No. 29, Kailash Apartment</h4><span class="fst-normal"><i class="fa-solid fa-location-dot"></i>
+                          <h4 class="fs-14">Lift No. 29, Kailash Apartment</h4><span class="fst-normal fs-12"><i class="fa-solid fa-location-dot"></i>
                             TMU Campus</span>
                         </div>
                       </div>
@@ -622,7 +622,7 @@ include 'head.php';
                       </div>
                       <div class="team-desc p-2">
                         <div class="team-title pt-0">
-                          <h4>Lift No. 30, Arihant Apartment</h4><span class="fst-normal"><i class="fa-solid fa-location-dot"></i>
+                          <h4 class="fs-14">Lift No. 30, Arihant Apartment</h4><span class="fst-normal fs-12"><i class="fa-solid fa-location-dot"></i>
                             TMU Campus</span>
                         </div>
                       </div>
@@ -636,7 +636,7 @@ include 'head.php';
                       </div>
                       <div class="team-desc p-2">
                         <div class="team-title pt-0">
-                          <h4>Lift No. 31, Shikhar Apartment</h4><span class="fst-normal"><i class="fa-solid fa-location-dot"></i>
+                          <h4 class="fs-14">Lift No. 31, Shikhar Apartment</h4><span class="fst-normal fs-12"><i class="fa-solid fa-location-dot"></i>
                             TMU Campus</span>
                         </div>
                       </div>
@@ -650,7 +650,7 @@ include 'head.php';
                       </div>
                       <div class="team-desc p-2">
                         <div class="team-title pt-0">
-                          <h4>Lift No. 32, Vaishali Apartment</h4><span class="fst-normal"><i class="fa-solid fa-location-dot"></i>
+                          <h4 class="fs-14">Lift No. 32, Vaishali Apartment</h4><span class="fst-normal fs-12"><i class="fa-solid fa-location-dot"></i>
                             TMU Campus</span>
                         </div>
                       </div>
@@ -664,7 +664,7 @@ include 'head.php';
                       </div>
                       <div class="team-desc p-2">
                         <div class="team-title pt-0">
-                          <h4>Lift No. 33, Vaishali Apartment</h4><span class="fst-normal"><i class="fa-solid fa-location-dot"></i>
+                          <h4 class="fs-14">Lift No. 33, Vaishali Apartment</h4><span class="fst-normal fs-12"><i class="fa-solid fa-location-dot"></i>
                             TMU Campus</span>
                         </div>
                       </div>
@@ -759,7 +759,7 @@ include 'head.php';
                     </tbody>
                   </table>
 
-                  <div class="row justify-content-center gutter-30 col-mb-5">
+                  <div class="row gutter-30 col-mb-5">
                     <div class="col-sm-3 col-md-3">
                       <div class="team card shadow-sm border-0 h-shadow h-translatey-sm all-ts rounded-4 overflow-hidden">
                         <div class="team-image">
@@ -767,7 +767,7 @@ include 'head.php';
                         </div>
                         <div class="team-desc p-2">
                           <div class="team-title pt-0">
-                            <h4>Ramp, Prakash Bhawan</h4><span class="fst-normal"><i class="fa-solid fa-location-dot"></i>
+                            <h4 class="fs-14">Ramp, Prakash Bhawan</h4><span class="fst-normal fs-12"><i class="fa-solid fa-location-dot"></i>
                               TMU Campus</span>
                           </div>
                         </div>
@@ -781,7 +781,7 @@ include 'head.php';
                         </div>
                         <div class="team-desc p-2">
                           <div class="team-title pt-0">
-                            <h4>Ramp, TMU Hospital</h4><span class="fst-normal"><i class="fa-solid fa-location-dot"></i>
+                            <h4 class="fs-14">Ramp, TMU Hospital</h4><span class="fst-normal fs-12"><i class="fa-solid fa-location-dot"></i>
                               TMU Campus</span>
                           </div>
                         </div>
@@ -795,7 +795,7 @@ include 'head.php';
                         </div>
                         <div class="team-desc p-2">
                           <div class="team-title pt-0">
-                            <h4>Ramp, Center Store (Medical)</h4><span class="fst-normal"><i class="fa-solid fa-location-dot"></i>
+                            <h4 class="fs-14">Ramp, Center Store (Medical)</h4><span class="fst-normal fs-12"><i class="fa-solid fa-location-dot"></i>
                               TMU Campus</span>
                           </div>
                         </div>
@@ -809,7 +809,7 @@ include 'head.php';
                         </div>
                         <div class="team-desc p-2">
                           <div class="team-title pt-0">
-                            <h4>Ramp, Vidya Bhawan </h4><span class="fst-normal"><i class="fa-solid fa-location-dot"></i>
+                            <h4 class="fs-14">Ramp, Vidya Bhawan </h4><span class="fst-normal fs-12"><i class="fa-solid fa-location-dot"></i>
                               TMU Campus</span>
                           </div>
                         </div>
@@ -823,7 +823,7 @@ include 'head.php';
                         </div>
                         <div class="team-desc p-2">
                           <div class="team-title pt-0">
-                            <h4>Ramp, Gyan Bhawan</h4><span class="fst-normal"><i class="fa-solid fa-location-dot"></i>
+                            <h4 class="fs-14">Ramp, Gyan Bhawan</h4><span class="fst-normal fs-12"><i class="fa-solid fa-location-dot"></i>
                               TMU Campus</span>
                           </div>
                         </div>
@@ -837,7 +837,7 @@ include 'head.php';
                         </div>
                         <div class="team-desc p-2">
                           <div class="team-title pt-0">
-                            <h4>Ramp University Guest House</h4><span class="fst-normal"><i class="fa-solid fa-location-dot"></i>
+                            <h4 class="fs-14">Ramp University Guest House</h4><span class="fst-normal fs-12"><i class="fa-solid fa-location-dot"></i>
                               TMU Campus</span>
                           </div>
                         </div>
@@ -851,7 +851,7 @@ include 'head.php';
                         </div>
                         <div class="team-desc p-2">
                           <div class="team-title pt-0">
-                            <h4>Ramp, Jinalya</h4><span class="fst-normal"><i class="fa-solid fa-location-dot"></i>
+                            <h4 class="fs-14">Ramp, Jinalya</h4><span class="fst-normal fs-12"><i class="fa-solid fa-location-dot"></i>
                               TMU Campus</span>
                           </div>
                         </div>
@@ -866,7 +866,7 @@ include 'head.php';
                         </div>
                         <div class="team-desc p-2">
                           <div class="team-title pt-0">
-                            <h4>Ramp, Prakash Bhawan</h4><span class="fst-normal"><i class="fa-solid fa-location-dot"></i>
+                            <h4 class="fs-14">Ramp, Prakash Bhawan</h4><span class="fst-normal fs-12"><i class="fa-solid fa-location-dot"></i>
                               TMU Campus</span>
                           </div>
                         </div>
@@ -880,7 +880,7 @@ include 'head.php';
                         </div>
                         <div class="team-desc p-2">
                           <div class="team-title pt-0">
-                            <h4>Ramp, TMU Hospital</h4><span class="fst-normal"><i class="fa-solid fa-location-dot"></i>
+                            <h4 class="fs-14">Ramp, TMU Hospital</h4><span class="fst-normal fs-12"><i class="fa-solid fa-location-dot"></i>
                               TMU Campus</span>
                           </div>
                         </div>
@@ -894,7 +894,7 @@ include 'head.php';
                         </div>
                         <div class="team-desc p-2">
                           <div class="team-title pt-0">
-                            <h4>Ramp, Vardhaman Bhawan</h4><span class="fst-normal"><i class="fa-solid fa-location-dot"></i>
+                            <h4 class="fs-14">Ramp, Vardhaman Bhawan</h4><span class="fst-normal fs-12"><i class="fa-solid fa-location-dot"></i>
                               TMU Campus</span>
                           </div>
                         </div>
@@ -908,7 +908,7 @@ include 'head.php';
                         </div>
                         <div class="team-desc p-2">
                           <div class="team-title pt-0">
-                            <h4>Ramp, Physiotherapy OPD</h4><span class="fst-normal"><i class="fa-solid fa-location-dot"></i>
+                            <h4 class="fs-14">Ramp, Physiotherapy OPD</h4><span class="fst-normal fs-12"><i class="fa-solid fa-location-dot"></i>
                               TMU Campus</span>
                           </div>
                         </div>
@@ -922,7 +922,7 @@ include 'head.php';
                         </div>
                         <div class="team-desc p-2">
                           <div class="team-title pt-0">
-                            <h4>Ramp, Ridhisidhi Bhawan</h4><span class="fst-normal"><i class="fa-solid fa-location-dot"></i>
+                            <h4 class="fs-14">Ramp, Ridhisidhi Bhawan</h4><span class="fst-normal fs-12"><i class="fa-solid fa-location-dot"></i>
                               TMU Campus</span>
                           </div>
                         </div>
@@ -936,7 +936,7 @@ include 'head.php';
                         </div>
                         <div class="team-desc p-2">
                           <div class="team-title pt-0">
-                            <h4>Ramp, Dental College & Research Centre</h4><span class="fst-normal"><i class="fa-solid fa-location-dot"></i>
+                            <h4 class="fs-14">Ramp, Dental College & Research Centre</h4><span class="fst-normal fs-12"><i class="fa-solid fa-location-dot"></i>
                               TMU Campus</span>
                           </div>
                         </div>
@@ -950,8 +950,8 @@ include 'head.php';
                         </div>
                         <div class="team-desc p-2">
                           <div class="team-title pt-0">
-                            <h4>Ramp, Dental College & Research Centre
-                            </h4><span class="fst-normal"><i class="fa-solid fa-location-dot"></i>
+                            <h4 class="fs-14">Ramp, Dental College & Research Centre
+                            </h4><span class="fst-normal fs-12"><i class="fa-solid fa-location-dot"></i>
                               TMU Campus</span>
                           </div>
                         </div>
@@ -965,7 +965,7 @@ include 'head.php';
                         </div>
                         <div class="team-desc p-2">
                           <div class="team-title pt-0">
-                            <h4>Ramp, Test Tube Baby Centre</h4><span class="fst-normal"><i class="fa-solid fa-location-dot"></i>
+                            <h4 class="fs-14">Ramp, Test Tube Baby Centre</h4><span class="fst-normal fs-12"><i class="fa-solid fa-location-dot"></i>
                               TMU Campus</span>
                           </div>
                         </div>
@@ -979,7 +979,7 @@ include 'head.php';
                         </div>
                         <div class="team-desc p-2">
                           <div class="team-title pt-0">
-                            <h4>Ramp, Tmimt College of Physical Education</h4><span class="fst-normal"><i class="fa-solid fa-location-dot"></i>
+                            <h4 class="fs-14">Ramp, Tmimt College of Physical Education</h4><span class="fst-normal fs-12"><i class="fa-solid fa-location-dot"></i>
                               TMU Campus</span>
                           </div>
                         </div>
@@ -993,7 +993,7 @@ include 'head.php';
                         </div>
                         <div class="team-desc p-2">
                           <div class="team-title pt-0">
-                            <h4>Ramp, TMU Hospital</h4><span class="fst-normal"><i class="fa-solid fa-location-dot"></i>
+                            <h4 class="fs-14">Ramp, TMU Hospital</h4><span class="fst-normal fs-12"><i class="fa-solid fa-location-dot"></i>
                               TMU Campus</span>
                           </div>
                         </div>
@@ -1012,7 +1012,7 @@ include 'head.php';
                 <p>As per norms, separate rest rooms are available for persons with disabilities (PwD) in all blocks. On the
                   request of PwD the wheelchairs are also provided.</p>
 
-                <div class="row justify-content-center gutter-30 col-mb-5">
+                <div class="row gutter-30 col-mb-5">
                   <div class="col-sm-4 col-md-4">
                     <div class="team card shadow-sm border-0 h-shadow h-translatey-sm all-ts rounded-4 overflow-hidden">
                       <div class="team-image">
@@ -1020,7 +1020,7 @@ include 'head.php';
                       </div>
                       <div class="team-desc p-2">
                         <div class="team-title pt-0">
-                          <h4>PwD Friendly Washrooms Persons</h4><span class="fst-normal"><i class="fa-solid fa-location-dot"></i>
+                          <h4 class="fs-14">PwD Friendly Washrooms Persons</h4><span class="fst-normal fs-12"><i class="fa-solid fa-location-dot"></i>
                             Denatl College & Research Centre, TMU Campus</span>
                         </div>
                       </div>
@@ -1034,7 +1034,7 @@ include 'head.php';
                       </div>
                       <div class="team-desc p-2">
                         <div class="team-title pt-0">
-                          <h4>PwD Friendly Washrooms Persons</h4><span class="fst-normal"><i class="fa-solid fa-location-dot"></i>
+                          <h4 class="fs-14">PwD Friendly Washrooms Persons</h4><span class="fst-normal fs-12"><i class="fa-solid fa-location-dot"></i>
                             Denatl College & Research Centre, TMU Campus</span>
                         </div>
                       </div>
@@ -1048,7 +1048,7 @@ include 'head.php';
                       </div>
                       <div class="team-desc p-2">
                         <div class="team-title pt-0">
-                          <h4>PwD Friendly Washrooms Persons</h4><span class="fst-normal"><i class="fa-solid fa-location-dot"></i>
+                          <h4 class="fs-14">PwD Friendly Washrooms Persons</h4><span class="fst-normal fs-12"><i class="fa-solid fa-location-dot"></i>
                             Administrative Block, TMU Campus</span>
                         </div>
                       </div>
@@ -1061,7 +1061,7 @@ include 'head.php';
               <button class="careers-accordion">Signage including Tactile Path Lights, Display Boards and Signposts<span class="icon">+</span></button>
               <div class="panel">
                 <p>Signage boards are displayed at the prominent places of the university to help the PwD.</p>
-                <div class="row justify-content-center gutter-30 col-mb-5">
+                <div class="row gutter-30 col-mb-5">
                   <div class="col-sm-4 col-md-4">
                     <div class="team card shadow-sm border-0 h-shadow h-translatey-sm all-ts rounded-4 overflow-hidden">
                       <div class="team-image">
@@ -1069,7 +1069,7 @@ include 'head.php';
                       </div>
                       <div class="team-desc p-2">
                         <div class="team-title pt-0">
-                          <h4>SignAge for Pwd Persons</h4><span class="fst-normal"><i class="fa-solid fa-location-dot"></i>
+                          <h4 class="fs-14">SignAge for Pwd Persons</h4><span class="fst-normal fs-12"><i class="fa-solid fa-location-dot"></i>
                             TMU Campus</span>
                         </div>
                       </div>
@@ -1083,7 +1083,7 @@ include 'head.php';
                       </div>
                       <div class="team-desc p-2">
                         <div class="team-title pt-0">
-                          <h4>SignAge for Pwd Persons</h4><span class="fst-normal"><i class="fa-solid fa-location-dot"></i>
+                          <h4 class="fs-14">SignAge for Pwd Persons</h4><span class="fst-normal fs-12"><i class="fa-solid fa-location-dot"></i>
                             TMU Campus</span>
                         </div>
                       </div>
@@ -1097,7 +1097,7 @@ include 'head.php';
                       </div>
                       <div class="team-desc p-2">
                         <div class="team-title pt-0">
-                          <h4>SignAge for Pwd Persons</h4><span class="fst-normal"><i class="fa-solid fa-location-dot"></i>
+                          <h4 class="fs-14">SignAge for Pwd Persons</h4><span class="fst-normal fs-12"><i class="fa-solid fa-location-dot"></i>
                             TMU Campus</span>
                         </div>
                       </div>
@@ -1111,7 +1111,7 @@ include 'head.php';
                       </div>
                       <div class="team-desc p-2">
                         <div class="team-title pt-0">
-                          <h4>SignAge for Pwd Persons</h4><span class="fst-normal"><i class="fa-solid fa-location-dot"></i>
+                          <h4 class="fs-14">SignAge for Pwd Persons</h4><span class="fst-normal fs-12"><i class="fa-solid fa-location-dot"></i>
                             TMU Campus</span>
                         </div>
                       </div>
@@ -1125,7 +1125,7 @@ include 'head.php';
                       </div>
                       <div class="team-desc p-2">
                         <div class="team-title pt-0">
-                          <h4>SignAge for Pwd Persons</h4><span class="fst-normal"><i class="fa-solid fa-location-dot"></i>
+                          <h4 class="fs-14">SignAge for Pwd Persons</h4><span class="fst-normal fs-12"><i class="fa-solid fa-location-dot"></i>
                             TMU Campus</span>
                         </div>
                       </div>
@@ -1139,7 +1139,7 @@ include 'head.php';
                       </div>
                       <div class="team-desc p-2">
                         <div class="team-title pt-0">
-                          <h4>SignAge for Pwd Persons</h4><span class="fst-normal"><i class="fa-solid fa-location-dot"></i>
+                          <h4 class="fs-14">SignAge for Pwd Persons</h4><span class="fst-normal fs-12"><i class="fa-solid fa-location-dot"></i>
                             TMU Campus</span>
                         </div>
                       </div>
@@ -1153,7 +1153,7 @@ include 'head.php';
                       </div>
                       <div class="team-desc p-2">
                         <div class="team-title pt-0">
-                          <h4>SignAge for Pwd Persons</h4><span class="fst-normal"><i class="fa-solid fa-location-dot"></i>
+                          <h4 class="fs-14">SignAge for Pwd Persons</h4><span class="fst-normal fs-12"><i class="fa-solid fa-location-dot"></i>
                             TMU Campus</span>
                         </div>
                       </div>
@@ -1167,7 +1167,7 @@ include 'head.php';
                       </div>
                       <div class="team-desc p-2">
                         <div class="team-title pt-0">
-                          <h4>SignAge for Pwd Persons</h4><span class="fst-normal"><i class="fa-solid fa-location-dot"></i>
+                          <h4 class="fs-14">SignAge for Pwd Persons</h4><span class="fst-normal fs-12"><i class="fa-solid fa-location-dot"></i>
                             TMU Campus</span>
                         </div>
                       </div>
@@ -1181,7 +1181,7 @@ include 'head.php';
                       </div>
                       <div class="team-desc p-2">
                         <div class="team-title pt-0">
-                          <h4>SignAge for Pwd Persons</h4><span class="fst-normal"><i class="fa-solid fa-location-dot"></i>
+                          <h4 class="fs-14">SignAge for Pwd Persons</h4><span class="fst-normal fs-12"><i class="fa-solid fa-location-dot"></i>
                             TMU Campus</span>
                         </div>
                       </div>
@@ -1195,7 +1195,7 @@ include 'head.php';
                       </div>
                       <div class="team-desc p-2">
                         <div class="team-title pt-0">
-                          <h4>SignAge for Pwd Persons</h4><span class="fst-normal"><i class="fa-solid fa-location-dot"></i>
+                          <h4 class="fs-14">SignAge for Pwd Persons</h4><span class="fst-normal fs-12"><i class="fa-solid fa-location-dot"></i>
                             TMU Campus</span>
                         </div>
                       </div>
@@ -1209,7 +1209,7 @@ include 'head.php';
                       </div>
                       <div class="team-desc p-2">
                         <div class="team-title pt-0">
-                          <h4>SignAge for Pwd Persons</h4><span class="fst-normal"><i class="fa-solid fa-location-dot"></i>
+                          <h4 class="fs-14">SignAge for Pwd Persons</h4><span class="fst-normal fs-12"><i class="fa-solid fa-location-dot"></i>
                             TMU Campus</span>
                         </div>
                       </div>
@@ -1223,7 +1223,7 @@ include 'head.php';
                       </div>
                       <div class="team-desc p-2">
                         <div class="team-title pt-0">
-                          <h4>SignAge for Pwd Persons</h4><span class="fst-normal"><i class="fa-solid fa-location-dot"></i>
+                          <h4 class="fs-14">SignAge for Pwd Persons</h4><span class="fst-normal fs-12"><i class="fa-solid fa-location-dot"></i>
                             TMU Campus</span>
                         </div>
                       </div>
@@ -1237,7 +1237,7 @@ include 'head.php';
                       </div>
                       <div class="team-desc p-2">
                         <div class="team-title pt-0">
-                          <h4>SignAge for Pwd Persons</h4><span class="fst-normal"><i class="fa-solid fa-location-dot"></i>
+                          <h4 class="fs-14">SignAge for Pwd Persons</h4><span class="fst-normal fs-12"><i class="fa-solid fa-location-dot"></i>
                             TMU Campus</span>
                         </div>
                       </div>
@@ -1250,7 +1250,7 @@ include 'head.php';
               <button class="careers-accordion">Assistive technology and facilities for persons with disabilities<span class="icon">+</span></button>
               <div class="panel">
                 <p>This University website is assessable and handy for PwD to follow the "Sugamya Bharat Abhiyan".</p>
-                <div class="row justify-content-center gutter-30 col-mb-5">
+                <div class="row gutter-30 col-mb-5">
                   <div class="col-sm-6 col-md-6">
                     <div class="team card shadow-sm border-0 h-shadow h-translatey-sm all-ts rounded-4 overflow-hidden">
                       <div class="team-image">
@@ -1258,7 +1258,7 @@ include 'head.php';
                       </div>
                       <div class="team-desc p-2">
                         <div class="team-title pt-0">
-                          <h4>Assistive technology and facilities at tmu portal for Pwd Persons</h4><span class="fst-normal"><i class="fa-solid fa-location-dot"></i>
+                          <h4 class="fs-14">Assistive technology and facilities at tmu portal for Pwd Persons</h4><span class="fst-normal fs-12"><i class="fa-solid fa-location-dot"></i>
                             TMU Campus</span>
                         </div>
                       </div>
@@ -1272,7 +1272,7 @@ include 'head.php';
                       </div>
                       <div class="team-desc p-2">
                         <div class="team-title pt-0">
-                          <h4>Assistive technology and facilities at tmu portal for Pwd Persons</h4><span class="fst-normal"><i class="fa-solid fa-location-dot"></i>
+                          <h4 class="fs-14">Assistive technology and facilities at tmu portal for Pwd Persons</h4><span class="fst-normal fs-12"><i class="fa-solid fa-location-dot"></i>
                             TMU Campus</span>
                         </div>
                       </div>
@@ -1286,7 +1286,7 @@ include 'head.php';
                       </div>
                       <div class="team-desc p-2">
                         <div class="team-title pt-0">
-                          <h4>Assistive technology and facilities at tmu portal for Pwd Persons</h4><span class="fst-normal"><i class="fa-solid fa-location-dot"></i>
+                          <h4 class="fs-14">Assistive technology and facilities at tmu portal for Pwd Persons</h4><span class="fst-normal fs-12"><i class="fa-solid fa-location-dot"></i>
                             TMU Campus</span>
                         </div>
                       </div>
@@ -1300,7 +1300,7 @@ include 'head.php';
                       </div>
                       <div class="team-desc p-2">
                         <div class="team-title pt-0">
-                          <h4>Assistive technology and facilities at tmu portal for Pwd Persons</h4><span class="fst-normal"><i class="fa-solid fa-location-dot"></i>
+                          <h4 class="fs-14">Assistive technology and facilities at tmu portal for Pwd Persons</h4><span class="fst-normal fs-12"><i class="fa-solid fa-location-dot"></i>
                             TMU Campus</span>
                         </div>
                       </div>
@@ -1314,7 +1314,7 @@ include 'head.php';
               <div class="panel">
                 <p>The university has established a facility office at the entrance for the assistance of PwD and E-Operated wheel
                   chair facility is also provided on request.</p>
-                <div class="row justify-content-center gutter-30 col-mb-5">
+                <div class="row gutter-30 col-mb-5">
                   <div class="col-sm-6 col-md-6">
                     <div class="team card shadow-sm border-0 h-shadow h-translatey-sm all-ts rounded-4 overflow-hidden">
                       <div class="team-image">
@@ -1322,7 +1322,7 @@ include 'head.php';
                       </div>
                       <div class="team-desc p-2">
                         <div class="team-title pt-0">
-                          <h4>Assistive technology and facilities at tmu portal for Pwd Persons</h4><span class="fst-normal"><i class="fa-solid fa-location-dot"></i>
+                          <h4 class="fs-14">Assistive technology and facilities at tmu portal for Pwd Persons</h4><span class="fst-normal fs-12"><i class="fa-solid fa-location-dot"></i>
                             TMU Campus</span>
                         </div>
                       </div>
@@ -1336,7 +1336,7 @@ include 'head.php';
                       </div>
                       <div class="team-desc p-2">
                         <div class="team-title pt-0">
-                          <h4>Assistive technology and facilities at tmu portal for Pwd Persons</h4><span class="fst-normal"><i class="fa-solid fa-location-dot"></i>
+                          <h4 class="fs-14">Assistive technology and facilities at tmu portal for Pwd Persons</h4><span class="fst-normal fs-12"><i class="fa-solid fa-location-dot"></i>
                             TMU Campus</span>
                         </div>
                       </div>

@@ -14,7 +14,7 @@ include 'head.php';
                     <h1 class="tmu-text-primary tmu-page-heading"><span> Best Practices of </span><span> IQAC Cell</span></h1>
                         <section>
                             <div class="container">
-                                <h3 class="tmu-text-primary">I. Title of the Practice:</h3>
+                                <h3 class="tmu-text-primary"><span>I. Title of </span><span>the Practice:</span></h3>
                                 <p>Establishment of Centre for Teaching, Learning and Development (CTLD).</p>
 
                                 <ol class="ps-5 m-ol-list">
@@ -28,7 +28,7 @@ include 'head.php';
 
                         <section>
 
-                            <h3 class="tmu-text-primary">II. Title of the Practice:</h3>
+                            <h3 class="tmu-text-primary"><span>II. Title of </span><span> the Practice:</span></h3>
                             <p>Incentivization Schemes for Research Promotion (ISRP).</p>
 
                             <ol class="ps-5 m-ol-list">
@@ -60,7 +60,7 @@ include 'head.php';
                                 <li style="margin-top:10px;"><b>4 Star rating for IIC:</b>TMU's Institution Innovation Council (IIC) bagged the highest- 4 Star Rating, awarded to the educational institutions that robustly stimulate the innovation & entrepreneurship ecosystems, driving creative minds to explore their ideas and implement them for the betterment of society. </li>
                                 <li style="margin-top:10px;"><b>Collaborations:</b> TMU has numerous industrial collaborations with national and international Universities, educational institutions and organizations.</li>
                             </ol>    
-                                <h3 class="tmu-text-primary mb-2">AIC-BAMU/ Atal Incubation Centre “BIMTECH”</strong></h3>
+                                <h3 class="tmu-text-primary mb-2"><span>AIC-BAMU/ Atal Incubation Centre </span><span> “BIMTECH”</span></strong></h3>
                                 <h4 class="tmu-text-primary">i. BOSCH</h4>
                                 <p> TMU has teamed with the Bosch India Foundation, expertise in skill development science 1961, reinforced by the President of India's, Best Achievement Awards, 54 times, (18 times in a row) for its technical training trade programs.</p>
                                 <h4 class="tmu-text-primary">ii. Academic Collaborations</h4>
