@@ -1,50 +1,27 @@
 <?php
- include 'head.php';
+include 'head.php';
 ?>
 
-<style>
-p{
- margin-bottom:15px!important; 
-  font-family:'poppins'!important;
-  font-size:15px;
-}
+<section id="content">
+    <div class="content-wrap py-0">
+        <div class="container-fluid my-0  px-0 px-md-3">
+            <div class="row">
 
-.m-ol-list li::marker{
-    font-size: 1.6vmax;
-    color:#FF7900;
-    font-weight: 700;
- }
-.m-ol-list b{
-    /* color:#FF7900; */
-    color:#001055;
-    font-size: 1.4vmax;
- }
+                <?php
+                include 'sidebar/research_development_center_sidebar.php';
+                ?>
 
- .m-ol-list > li{
-  position: relative;
+                <div class="col-12 col-md-10 mt-3 mt-sm-0 pt-5 ">
 
- }
+                    <!-- Write content for right side here  -->
+                    <div class="row mx-0">
+                        <h1 class="tmu-text-primary tmu-page-heading"><span>About Research </span><span class="d-block d-sm-inline"> & Development Center</span></h2>
 
+                            <h4 class="text-center fw-bold" style="color:#E74C3C;">Research and Development Center at Teerthanker Mahaveer University is an interdisciplinary center dedicated to research, education, industrial collaborations, outreach, and service. The center aims to combine Science,
+                                Engineering and cutting edge technology with green, sustainable, equitable and environment-friendly design to deliver innovative and holistic services to the world.</h4>
 
-</style>
+                            <p class="mt-0 mb-3">The mission of the Research and Development Center (RDC) is to enhance and fortify basic research and expand the advance research by bringing together young and leading researchers, faculty members, scientists, engineers, and graduate students from across multidisciplinary research areas in the emerging field of Chemical Sciences, Physical Sciences, Biological Sciences, Nanoscience and Nanotechnology, Pharmacy, Medical, and health sectors.</p>
 
-
-<?php
- include 'sidebar/research_development_center_sidebar.php';
-?>
-
-						<div class="col-12 col-md-10 mt-3 mt-sm-0 pt-5 ">
-
-						     <!-- Write content for right side here  -->
-                            <div class="row mx-0" >
-						    <h2 class=" text-center" style="color:#001055; text-transform: capitalize;
-                             font-weight:700!important; font-size:2.4vmax">About Research <span class="d-block d-sm-inline"> & Development Center</span></h2>
-
-                            <p class="text-center" style="color:#E74C3C; font-size:1.4vmax; line-height:28px;"><strong>Research and Development Center at Teerthanker Mahaveer University is an interdisciplinary center dedicated to research, education, industrial collaborations, outreach, and service. The center aims to combine Science, 
-                            Engineering and cutting edge technology with green, sustainable, equitable and environment-friendly design to deliver innovative and holistic services to the world.</strong></p>
-                       
-                            <p class="mt-0">The mission of the Research and Development Center (RDC) is to enhance and fortify basic research and expand the advance research by bringing together young and leading researchers, faculty members, scientists, engineers, and graduate students from across multidisciplinary research areas in the emerging field of Chemical Sciences, Physical Sciences, Biological Sciences, Nanoscience and Nanotechnology, Pharmacy, Medical, and health sectors.</p>
-                       
                             <p><b>The Research and Development Center’s mission is comprised of the following objectives:</b></p>
                             <ol class="ps-5 m-ol-list">
                                 <li>Conduct world-class scientific research in multidisciplinary areas, with a long-term outlook and openness to unknown territories.</li>
@@ -59,14 +36,14 @@ p{
                                 <li>Promote ethics in research.</li>
                             </ol>
 
-                            <p>The Research and Development Center has published several research papers in reputed international journals with high impact factors. The Center is currently focusing on research in the areas of Synthetic Organic Chemistry, Green Chemistry and Engineering, Nucleic Acid Chemistry, Cheminformatics, Nuclear and Particle Physics and Astrophysics. The Center continually develops collaborations with national and international organizations to foster interdisciplinary research.</p>
-                        </div>
-					</div>
-				</div>
+                            <p class="mb-4">The Research and Development Center has published several research papers in reputed international journals with high impact factors. The Center is currently focusing on research in the areas of Synthetic Organic Chemistry, Green Chemistry and Engineering, Nucleic Acid Chemistry, Cheminformatics, Nuclear and Particle Physics and Astrophysics. The Center continually develops collaborations with national and international organizations to foster interdisciplinary research.</p>
+                    </div>
+                </div>
+            </div>
 
 
-			</div>
-		</section><!-- #content end -->	
+        </div>
+</section><!-- #content end -->
 <?php
- include 'footer.php';
+include 'footer.php';
 ?>

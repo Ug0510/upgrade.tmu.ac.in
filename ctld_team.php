@@ -90,7 +90,7 @@ include 'head.php';
                 <div class="card card-animation">
                   <img src="images/CTLD_CARDS_IMAGES/1.jpg" class="card-img-top" alt="Image 3">
                   <div class="card-body text-center"> <!-- Added 'text-center' class -->
-                    <h5 class="card-title  fs-14 tmu-color fw-bold">PROF. (DR.) R. N. KRISHNIA</h5>
+                    <h5 class="card-title fs-14 tmu-color fw-bold">PROF. (DR.) R. N. KRISHNIA</h5>
                     <p class="card-text fs-14 tmu-color-blue">Director (Centre for Teaching Learning & Development)</p>
 
                   </div>
