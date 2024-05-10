@@ -2,7 +2,6 @@
 include 'head.php';
 ?>
 
-
 <section id="content">
     <div class="content-wrap py-0">
         <div class="container-fluid my-0  px-0 px-md-3">
@@ -12,7 +11,7 @@ include 'head.php';
                 ?>
                 <div class="col-12 col-md-10 mt-3 mt-sm-0 pt-5 ">
                     <div class="box d-none d-sm-block">
-                        <h2 class="hm text-center pt-2 tmu-text-primary" id="overall"><span>NIRF 2024 </span> <span> Overall Data</span></h3>
+                        <h2 class="hm text-center pt-2 tmu-text-primary" id="overall"><span>NIRF 2024 </span> <span> Overall Data</span></h2>
                         <div class="container">
                             <object data="https://www.tmu.ac.in/pdf/nirf/2024/TMU_NIRF_2024_Overall.pdf" type="application/pdf" width="100%" height="1100px">
                                 <p>Your web browser doesn't have a PDF plugin. Instead you can</p>

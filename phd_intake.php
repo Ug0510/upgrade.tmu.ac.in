@@ -1,63 +1,26 @@
 <?php
  include 'head.php';
 ?>
-<style>
-
-
-    h3 {
-    font-size: 25px !important;
-    margin-top: 20px;
-    margin-bottom: 10px;
-    line-height: 1.4em !important;
-}
-
-p {
-    font-size: 14px;
-    margin: 0 0 10px !important;
-    font-weight: 300;
-}
-
-.container-fluid {
-    padding-right: 15px!important;
-    padding-left: 40px;
-}
-
-p {
-    display: block;
-    margin-block-start: 0.9em;
-    margin-block-end: 0.9em;
-    margin-inline-start: 0px;
-    margin-inline-end: 0px;
-}
-
-.btn .fa {
-	font-size: .8rem;
-	vertical-align: middle;
-	margin-top: -2px
-}
-.btn-danger {
-	background-color: #ff3547
-}
-	</style>
-
+	
+<section id="content">
+    <div class="content-wrap py-0">
+        <div class="container-fluid my-0  px-0 px-md-3">
+            <div class="row">
 
 <?php
 include 'sidebar/research_sidebar.php';
 ?>
-
 						<div class="col-12 col-md-10 mt-3 mt-sm-0 pt-5 ">
 						<!-- Write content for right side here  -->
-
                         <div class="row mx-0" >
-						    <h2 class=" text-center" style="color:#001055; text-transform: capitalize;
-                             font-weight:700!important; font-size:2.4vmax">Intake for January <span class="d-block d-sm-inline"> 2024 Cycle of Ph.D. programme</span></h2>
+						    <h1 class="tmu-text-primary tmu-page-heading"><span>Intake for January </span><span> 2024 Cycle of Ph.D. programme</span></h1>
 
                 <div class="row">
                     <div class="table-responsive">
-                        <table class="table table-bordered table-striped table-condensed mb-none">
+                        <table class="table table-bordered table-striped">
 								<thead>
 									<tr>
-										<th style="text-align:center">#</th>
+										<th style="text-align:center">Sr.no.</th>
 										<th style="text-align:center;width:30%">Name of Colleges</th>
 										<th style="text-align:center;width:40%">Discipline</th>
 										<th style="text-align:center;width:30%">Intake</th>

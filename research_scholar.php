@@ -2,134 +2,27 @@
  include 'head.php';
 ?>
 
-<style>
-/* carrer accordian */
-.careers-accordion {
-		background-color: white;
-		color: #000;
-		cursor: pointer;
-		padding: 5px;
-		width: 100%;
-		text-align: left;
-		border: none;
-		outline: none;
-		transition: background-color 0.3s ease;
-		font-size: 18px;
-		font-weight: bold;
-		display: flex;
-		/* Added */
-		align-items: center;
-		/* Added */
-		justify-content: space-between;
-		/* Added */
-	}
-
-	.careers-accordion:hover {
-		background-color: #001055;
-		color: #fff;
-	}
-
-	.panel {
-		padding: 0 18px;
-		display: none;
-		overflow: hidden;
-		border-top: 1px solid #ddd;
-		/* Added */
-		overflow-y: auto;
-		/* Added */
-	}
-
-	.panel p {
-		margin-top: 20px;
-	}
-
-	.panel.active {
-		display: block;
-	}
-
-	.icon {
-		font-size: 35px;
-		font-weight: 400;
-		margin-left: 5px;
-	}
-
-	/* Add style for the horizontal line */
-	.horizontal-line {
-		border-top: 1px solid #4f4f4f;
-		margin: 0;
-	}
-
-	/* Added class for clicked state */
-	.clicked {
-		background-color: #001055;
-		color: #fff;
-	}
-
-	.text-color {
-		color: #212529;
-		line-height: 18px;
-		font-size: 12px;
-		font-weight: 400;
-		text-align: justify;
-	}
-
-h3{
-margin:0 0 2px 0;	
-}
-
-.font-body {
-  font-size:22px;
-  color:#001055;
-  font-weight: 700;
-}
-
-p {
-  margin-bottom:15px!important; 
-}
-
-
-.fa-solid.fa-file-pdf:hover {
-color: #001055;
-justify-content:center;
-}
-.centered-icon {
-    text-align: center;
-}
-.text-middle{
-    color:#001055;
-    text-transform: capitalize; 
-    font-weight:700!important;
-	font-size:2.4vmax;
-    margin:0 0 10px 0;
-    text-align: center;
-}
-
-.vh-75 {
-    height: 0vh !important;
-}
-</style>
-
+<section id="content">
+    <div class="content-wrap py-0">
+        <div class="container-fluid my-0  px-0 px-md-3">
+            <div class="row">
 
 <?php
 include 'sidebar/research_sidebar.php';
 ?>
 
         <div class="col-12 col-md-10 mt-3 mt-sm-0 pt-5 ">
-
                   <div class="row mx-0">
-            <h2 class=" text-center" style="color:#001055;
-                          text-transform: capitalize;
-                          font-weight:700!important; font-size:2.4vmax">Research <span
-                class="d-block d-sm-inline"> Scholars</span></h2>
+            <h1 class="tmu-text-primary tmu-page-heading"><span>Research </span><span> Scholars</span></h1>
                 <hr class="horizontal-line">
 <button class="careers-accordion">Medical College & Research Centre <span class="icon">+</span></button>
 <div class="panel">
-<h4 class="mb-3 mt-2" style="color:#E74C3C;"><b>Registered Scholar</b></h4>
+<h4 class="mb-3 mt-2" style="color:#ff7900;"><b>Registered Scholar</b></h4>
 <div class="table-responsive">
-    <table class="table table-bordered">
+    <table class="table table-bordered table-striped">
         <thead>
             <tr>
-                <th style="width:2%;text-align:center">#</th>
+                <th style="width:2%;text-align:center">Sr. No.</th>
                 <th style="text-align:center">Name of Scholar</th>
                 <th style="text-align:center">Discipline</th>
 				<th style="text-align:center">Registration No.</th>
@@ -215,12 +108,12 @@ include 'sidebar/research_sidebar.php';
     </table>
 </div>
 
-    <h4 class="mb-3 mt-2" style="color:#E74C3C;"><b>Degree Awarded</b></h4>
+    <h4 class="mb-3 mt-2" style="color:#ff7900;"><b>Degree Awarded</b></h4>
                                         <div class="table-responsive">
-                                        <table class="table table-bordered">
+                                        <table class="table table-bordered table-striped">
                                             <thead>
                                                 <tr>
-                                                    <th style="width:2%;text-align:center">#</th>
+                                                    <th style="width:2%;text-align:center">Sr. No.</th>
                                                     <th style="text-align:center">Name of Scholar</th>
 													<th style="text-align:center">Discipline</th>
                                                     <th style="text-align:center">Registration No.</th>
@@ -278,12 +171,12 @@ include 'sidebar/research_sidebar.php';
 <hr class="horizontal-line">
 <button class="careers-accordion"> Dental College & Research Centre <span class="icon">+</span> </button>
 <div class="panel">
-<h4 class="mb-3 mt-2" style="color:#E74C3C;"><b>Registered Scholar</b></h4>
+<h4 class="mb-3 mt-2" style="color:#ff7900;"><b>Registered Scholar</b></h4>
                                     <div class="table-responsive">
-                                        <table class="table table-bordered">
+                                        <table class="table table-bordered table-striped">
                                             <thead>
                                                 <tr>
-                                                    <th style="width:2%;text-align:center">#</th>
+                                                    <th style="width:2%;text-align:center">Sr. No.</th>
                                                     <th style="text-align:center">Name of Scholar</th>
                                                     <th style="text-align:center">Discipline</th>
 													<th style="text-align:center">Registration No.</th>
@@ -332,12 +225,12 @@ include 'sidebar/research_sidebar.php';
                                             </tbody>
                                         </table>
                                         </div>
-                                        <h4 class="mb-3 mt-2" style="color:#E74C3C;"><b>Degree Awarded</b></h4>
+                                        <h4 class="mb-3 mt-2" style="color:#ff7900;"><b>Degree Awarded</b></h4>
                                         <div class="table-responsive">
-                                        <table class="table table-bordered">
+                                        <table class="table table-bordered table-striped">
                                             <thead>
                                                 <tr>
-                                                    <th style="width:2%;text-align:center">#</th>
+                                                    <th style="width:2%;text-align:center">Sr. No.</th>
                                                     <th style="text-align:center">Name of Scholar</th>
 													<th style="text-align:center">Discipline</th>
                                                     <th style="text-align:center">Registration No.</th>
@@ -364,12 +257,12 @@ include 'sidebar/research_sidebar.php';
 <hr class="horizontal-line">
 <button class="careers-accordion"> College of Pharmacy<span class="icon">+</span> </button>
 <div class="panel">
-<h4 class="mb-3 mt-2" style="color:#E74C3C;"><b>Registered Scholar</b></h4>
+<h4 class="mb-3 mt-2" style="color:#ff7900;"><b>Registered Scholar</b></h4>
                                 <div class="table-responsive">
-                                        <table class="table table-bordered">
+                                        <table class="table table-bordered table-striped">
                                             <thead>
                                                 <tr>
-                                                    <th style="width:2%;text-align:center">#</th>
+                                                    <th style="width:2%;text-align:center">Sr. No.</th>
                                                     <th style="text-align:center">Name of Scholar</th>
                                                     <th style="text-align:center">Discipline</th>
 													<th style="text-align:center">Registration No.</th>
@@ -593,12 +486,12 @@ include 'sidebar/research_sidebar.php';
                                         </table>
                                     </div>
 
-                                    <h4 class="mb-3 mt-2" style="color:#E74C3C;"><b>Degree Awarded</b></h4>
+                                    <h4 class="mb-3 mt-2" style="color:#ff7900;"><b>Degree Awarded</b></h4>
                                     <div class="table-responsive">
-                                        <table class="table table-bordered">
+                                        <table class="table table-bordered table-striped">
                                             <thead>
                                                 <tr>
-                                                    <th style="width:2%;text-align:center">#</th>
+                                                    <th style="width:2%;text-align:center">Sr. No.</th>
                                                     <th style="text-align:center">Name of Scholar</th>
 													<th style="text-align:center">Discipline</th>
                                                     <th style="text-align:center">Registration No.</th>
@@ -698,12 +591,12 @@ include 'sidebar/research_sidebar.php';
 <hr class="horizontal-line">
 <button class="careers-accordion"> College of Paramedical Sciences<span class="icon">+</span> </button>
 <div class="panel">
-<h4 class="mb-3 mt-2" style="color:#E74C3C;"><b>Registered Scholar</b></h4>
+<h4 class="mb-3 mt-2" style="color:#ff7900;"><b>Registered Scholar</b></h4>
                             <div class="table-responsive">
-                                        <table class="table table-bordered">
+                                        <table class="table table-bordered table-striped">
                                             <thead>
                                                 <tr>
-                                                    <th style="width:2%;text-align:center">#</th>
+                                                    <th style="width:2%;text-align:center">Sr. No.</th>
                                                     <th style="text-align:center">Name of Scholar</th>
                                                     <th style="text-align:center">Discipline</th>
 													<th style="text-align:center">Registration No.</th>
@@ -772,12 +665,12 @@ include 'sidebar/research_sidebar.php';
                                             </tbody>
                                         </table>
                                         </div>
-                                        <h4 class="mb-3 mt-2" style="color:#E74C3C;"><b>Degree Awarded</b></h4>
+                                        <h4 class="mb-3 mt-2" style="color:#ff7900;"><b>Degree Awarded</b></h4>
                                         <div class="table-responsive">
-                                        <table class="table table-bordered">
+                                        <table class="table table-bordered table-striped">
                                             <thead>
                                                 <tr>
-                                                    <th style="width:2%;text-align:center">#</th>
+                                                    <th style="width:2%;text-align:center">Sr. No.</th>
                                                     <th style="text-align:center">Name of Scholar</th>
 													<th style="text-align:center">Discipline</th>
                                                     <th style="text-align:center">Registration No.</th>
@@ -797,12 +690,12 @@ include 'sidebar/research_sidebar.php';
 <hr class="horizontal-line">
 <button class="careers-accordion"> Department Of Physiotherapy<span class="icon">+</span> </button>
 <div class="panel">
-<h4 class="mb-3 mt-2" style="color:#E74C3C;"><b>Registered Scholar</b></h4>
+<h4 class="mb-3 mt-2" style="color:#ff7900;"><b>Registered Scholar</b></h4>
                                      <div class="table-responsive">
-                                        <table class="table table-bordered">
+                                        <table class="table table-bordered table-striped">
                                             <thead>
                                                 <tr>
-                                                    <th style="width:2%;text-align:center">#</th>
+                                                    <th style="width:2%;text-align:center">Sr. No.</th>
                                                     <th style="text-align:center">Name of Scholar</th>
                                                     <th style="text-align:center">Discipline</th>
 													<th style="text-align:center">Registration No.</th>
@@ -861,12 +754,12 @@ include 'sidebar/research_sidebar.php';
                                             </tbody>
                                         </table>
                                     </div>
-                                    <h4 class="mb-3 mt-2" style="color:#E74C3C;"><b>Degree Awarded</b></h4>
+                                    <h4 class="mb-3 mt-2" style="color:#ff7900;"><b>Degree Awarded</b></h4>
                                         <div class="table-responsive">
-                                        <table class="table table-bordered">
+                                        <table class="table table-bordered table-striped">
                                             <thead>
                                                 <tr>
-                                                    <th style="width:2%;text-align:center">#</th>
+                                                    <th style="width:2%;text-align:center">Sr. No.</th>
                                                     <th style="text-align:center">Name of Scholar</th>
 													<th style="text-align:center">Discipline</th>
                                                     <th style="text-align:center">Registration No.</th>
@@ -887,12 +780,12 @@ include 'sidebar/research_sidebar.php';
 <hr class="horizontal-line">
 <button class="careers-accordion">TMIMT College of Managmenet <span class="icon">+</span> </button>
 <div class="panel">
-<h4 class="mb-3 mt-2" style="color:#E74C3C;"><b>Registered Scholar</b></h4>
+<h4 class="mb-3 mt-2" style="color:#ff7900;"><b>Registered Scholar</b></h4>
                                     <div class="table-responsive">
-                                        <table class="table table-bordered">
+                                        <table class="table table-bordered table-striped">
                                             <thead>
                                                 <tr>
-                                                    <th style="width:2%;text-align:center">#</th>
+                                                    <th style="width:2%;text-align:center">Sr. No.</th>
                                                     <th style="text-align:center">Name of Scholar</th>
                                                     <th style="text-align:center">Discipline</th>
 													<th style="text-align:center">Registration No.</th>
@@ -1101,12 +994,12 @@ include 'sidebar/research_sidebar.php';
                                             </tbody>
                                         </table>
                                     </div>
-                                    <h4 class="mb-3 mt-2" style="color:#E74C3C;"><b>Degree Awarded</b></h4>
+                                    <h4 class="mb-3 mt-2" style="color:#ff7900;"><b>Degree Awarded</b></h4>
                                         <div class="table-responsive">
-                                        <table class="table table-bordered">
+                                        <table class="table table-bordered table-striped">
                                             <thead>
                                                 <tr>
-                                                    <th style="width:2%;text-align:center">#</th>
+                                                    <th style="width:2%;text-align:center">Sr. No.</th>
                                                     <th style="text-align:center">Name of Scholar</th>
 													<th style="text-align:center">Discipline</th>
                                                     <th style="text-align:center">Registration No.</th>
@@ -1342,12 +1235,12 @@ include 'sidebar/research_sidebar.php';
 <hr class="horizontal-line">
 <button class="careers-accordion"> Faculty of Engineering<span class="icon">+</span> </button>
 <div class="panel">
-<h4 class="mb-3 mt-2" style="color:#E74C3C;"><b>Registered Scholar</b></h4>
+<h4 class="mb-3 mt-2" style="color:#ff7900;"><b>Registered Scholar</b></h4>
                               <div class="table-responsive">
-                                        <table class="table table-bordered">
+                                        <table class="table table-bordered table-striped">
                                             <thead>
                                                 <tr>
-                                                    <th style="width:2%;text-align:center">#</th>
+                                                    <th style="width:2%;text-align:center">Sr. No.</th>
                                                     <th style="text-align:center">Name of Scholar</th>
                                                     <th style="text-align:center">Discipline</th>
 													<th style="text-align:center">Registration No.</th>
@@ -1576,12 +1469,12 @@ include 'sidebar/research_sidebar.php';
                                             </tbody>
                                         </table>
                                     </div>
-                                    <h4 class="mb-3 mt-2" style="color:#E74C3C;"><b>Degree Awarded</b></h4>
+                                    <h4 class="mb-3 mt-2" style="color:#ff7900;"><b>Degree Awarded</b></h4>
                                         <div class="table-responsive">
-                                        <table class="table table-bordered">
+                                        <table class="table table-bordered table-striped">
                                             <thead>
                                                 <tr>
-                                                    <th style="width:2%;text-align:center">#</th>
+                                                    <th style="width:2%;text-align:center">Sr. No.</th>
                                                     <th style="text-align:center">Name of Scholar</th>
 													<th style="text-align:center">Discipline</th>
                                                     <th style="text-align:center">Registration No.</th>
@@ -1747,12 +1640,12 @@ Teerthanker Mahaveer University, Moradabad
 <hr class="horizontal-line">
 <button class="careers-accordion">College of Computing Sciences & IT <span class="icon">+</span> </button>
 <div class="panel">
-<h4 class="mb-3 mt-2" style="color:#E74C3C;"><b>Registered Scholar</b></h4>
+<h4 class="mb-3 mt-2" style="color:#ff7900;"><b>Registered Scholar</b></h4>
                                      <div class="table-responsive">
-                                     <table class="table table-bordered">
+                                     <table class="table table-bordered table-striped">
                                             <thead>
                                                 <tr>
-                                                    <th style="width:2%;text-align:center">#</th>
+                                                    <th style="width:2%;text-align:center">Sr. No.</th>
                                                     <th style="text-align:center">Name of Scholar</th>
                                                     <th style="text-align:center">Discipline</th>
 													<th style="text-align:center">Registration No.</th>
@@ -1956,12 +1849,12 @@ Teerthanker Mahaveer University, Moradabad
                                             </tbody>
                                         </table>
                                     </div>
-                                    <h4 class="mb-3 mt-2" style="color:#E74C3C;"><b>Degree Awarded</b></h4>
+                                    <h4 class="mb-3 mt-2" style="color:#ff7900;"><b>Degree Awarded</b></h4>
                                         <div class="table-responsive">
-                                        <table class="table table-bordered">
+                                        <table class="table table-bordered table-striped">
                                             <thead>
                                                 <tr>
-                                                    <th style="width:2%;text-align:center">#</th>
+                                                    <th style="width:2%;text-align:center">Sr. No.</th>
                                                     <th style="text-align:center">Name of Scholar</th>
 													<th style="text-align:center">Discipline</th>
                                                     <th style="text-align:center">Registration No.</th>
@@ -2144,12 +2037,12 @@ Teerthanker Mahaveer University, Moradabad
 <hr class="horizontal-line">
 <button class="careers-accordion">College of Journalism & Mass Communication<span class="icon">+</span> </button>
 <div class="panel">
-<h4 class="mb-3 mt-2" style="color:#E74C3C;"><b>Registered Scholar</b></h4>
+<h4 class="mb-3 mt-2" style="color:#ff7900;"><b>Registered Scholar</b></h4>
                                      <div class="table-responsive">
-                                     <table class="table table-bordered">
+                                     <table class="table table-bordered table-striped">
                                             <thead>
                                                 <tr>
-                                                    <th style="width:2%;text-align:center">#</th>
+                                                    <th style="width:2%;text-align:center">Sr. No.</th>
                                                     <th style="text-align:center">Name of Scholar</th>
                                                     <th style="text-align:center">Discipline</th>
 													<th style="text-align:center">Registration No.</th>
@@ -2171,12 +2064,12 @@ Teerthanker Mahaveer University, Moradabad
                                             </tbody>
                                         </table>
                                     </div>
-                                    <h4 class="mb-3 mt-2" style="color:#E74C3C;"><b>Degree Awarded</b></h4>
+                                    <h4 class="mb-3 mt-2" style="color:#ff7900;"><b>Degree Awarded</b></h4>
                                         <div class="table-responsive">
-                                        <table class="table table-bordered">
+                                        <table class="table table-bordered table-striped">
                                             <thead>
                                                 <tr>
-                                                    <th style="width:2%;text-align:center">#</th>
+                                                    <th style="width:2%;text-align:center">Sr. No.</th>
                                                     <th style="text-align:center">Name of Scholar</th>
 													<th style="text-align:center">Discipline</th>
                                                     <th style="text-align:center">Registration No.</th>
@@ -2197,12 +2090,12 @@ Teerthanker Mahaveer University, Moradabad
 <hr class="horizontal-line">
 <button class="careers-accordion">Fcaulty of Education <span class="icon">+</span></button>
 <div class="panel">
-<h4 class="mb-3 mt-2" style="color:#E74C3C;"><b>Registered Scholar</b></h4>
+<h4 class="mb-3 mt-2" style="color:#ff7900;"><b>Registered Scholar</b></h4>
                                      <div class="table-responsive">
-                                     <table class="table table-bordered">
+                                     <table class="table table-bordered table-striped">
                                             <thead>
                                                 <tr>
-                                                    <th style="width:2%;text-align:center">#</th>
+                                                    <th style="width:2%;text-align:center">Sr. No.</th>
                                                     <th style="text-align:center">Name of Scholar</th>
                                                     <th style="text-align:center">Discipline</th>
 													<th style="text-align:center">Registration No.</th>
@@ -2269,12 +2162,12 @@ Teerthanker Mahaveer University, Moradabad
                                             </tbody>
                                         </table>
                                     </div>
-                                    <h4 class="mb-3 mt-2" style="color:#E74C3C;"><b>Degree Awarded</b></h4>
+                                    <h4 class="mb-3 mt-2" style="color:#ff7900;"><b>Degree Awarded</b></h4>
                                         <div class="table-responsive">
-                                        <table class="table table-bordered">
+                                        <table class="table table-bordered table-striped">
                                             <thead>
                                                 <tr>
-                                                    <th style="width:2%;text-align:center">#</th>
+                                                    <th style="width:2%;text-align:center">Sr. No.</th>
                                                     <th style="text-align:center">Name of Scholar</th>
 													<th style="text-align:center">Discipline</th>
                                                     <th style="text-align:center">Registration No.</th>
@@ -2295,12 +2188,12 @@ Teerthanker Mahaveer University, Moradabad
 <hr class="horizontal-line">
 <button class="careers-accordion"> College of Jain Studies<span class="icon">+</span> </button>
 <div class="panel">
-<h4 class="mb-3 mt-2" style="color:#E74C3C;"><b>Registered Scholar</b></h4>
+<h4 class="mb-3 mt-2" style="color:#ff7900;"><b>Registered Scholar</b></h4>
                                      <div class="table-responsive">
-                                     <table class="table table-bordered">
+                                     <table class="table table-bordered table-striped">
                                             <thead>
                                                 <tr>
-                                                    <th style="width:2%;text-align:center">#</th>
+                                                    <th style="width:2%;text-align:center">Sr. No.</th>
                                                     <th style="text-align:center">Name of Scholar</th>
                                                     <th style="text-align:center">Discipline</th>
 													<th style="text-align:center">Registration No.</th>
@@ -2477,12 +2370,12 @@ Teerthanker Mahaveer University, Moradabad
                                             </tbody>
                                         </table>
                                     </div>
-                                    <h4 class="mb-3 mt-2" style="color:#E74C3C;"><b>Degree Awarded</b></h4>
+                                    <h4 class="mb-3 mt-2" style="color:#ff7900;"><b>Degree Awarded</b></h4>
                                         <div class="table-responsive">
-                                        <table class="table table-bordered">
+                                        <table class="table table-bordered table-striped">
                                             <thead>
                                                 <tr>
-                                                    <th style="width:2%;text-align:center">#</th>
+                                                    <th style="width:2%;text-align:center">Sr. No.</th>
                                                     <th style="text-align:center">Name of Scholar</th>
 													<th style="text-align:center">Discipline</th>
                                                     <th style="text-align:center">Registration No.</th>
@@ -2611,12 +2504,12 @@ TMIMT,<br/>Teerthanker Mahaveer University, Moradabad
 <hr class="horizontal-line">
 <button class="careers-accordion"> College of Physical Education <span class="icon">+</span> </button>
 <div class="panel">
-<h4 class="mb-3 mt-2" style="color:#E74C3C;"><b>Registered Scholar</b></h4>
+<h4 class="mb-3 mt-2" style="color:#ff7900;"><b>Registered Scholar</b></h4>
                                      <div class="table-responsive">
-                                     <table class="table table-bordered">
+                                     <table class="table table-bordered table-striped">
                                             <thead>
                                                 <tr>
-                                                    <th style="width:2%;text-align:center">#</th>
+                                                    <th style="width:2%;text-align:center">Sr. No.</th>
                                                     <th style="text-align:center">Name of Scholar</th>
                                                     <th style="text-align:center">Discipline</th>
 													<th style="text-align:center">Registration No.</th>
@@ -2703,12 +2596,12 @@ TMIMT,<br/>Teerthanker Mahaveer University, Moradabad
                                             </tbody>
                                         </table>
                                     </div>
-                                    <h4 class="mb-3 mt-2" style="color:#E74C3C;"><b>Degree Awarded</b></h4>
+                                    <h4 class="mb-3 mt-2" style="color:#ff7900;"><b>Degree Awarded</b></h4>
                                         <div class="table-responsive">
-                                        <table class="table table-bordered">
+                                        <table class="table table-bordered table-striped">
                                             <thead>
                                                 <tr>
-                                                    <th style="width:2%;text-align:center">#</th>
+                                                    <th style="width:2%;text-align:center">Sr. No.</th>
                                                     <th style="text-align:center">Name of Scholar</th>
 													<th style="text-align:center">Discipline</th>
                                                     <th style="text-align:center">Registration No.</th>
@@ -2735,12 +2628,12 @@ TMIMT,<br/>Teerthanker Mahaveer University, Moradabad
 <hr class="horizontal-line">
 <button class="careers-accordion"> Centre of Language Studies<span class="icon">+</span> </button>
 <div class="panel">
-<h4 class="mb-3 mt-2" style="color:#E74C3C;"><b>Registered Scholar</b></h4>
+<h4 class="mb-3 mt-2" style="color:#ff7900;"><b>Registered Scholar</b></h4>
                                      <div class="table-responsive">
-                                     <table class="table table-bordered">
+                                     <table class="table table-bordered table-striped">
                                             <thead>
                                                 <tr>
-                                                    <th style="width:2%;text-align:center">#</th>
+                                                    <th style="width:2%;text-align:center">Sr. No.</th>
                                                     <th style="text-align:center">Name of Scholar</th>
                                                     <th style="text-align:center">Discipline</th>
 													<th style="text-align:center">Registration No.</th>
@@ -2755,12 +2648,12 @@ TMIMT,<br/>Teerthanker Mahaveer University, Moradabad
                                             </tbody>
                                         </table>
                                     </div>
-                                    <h4 class="mb-3 mt-2" style="color:#E74C3C;"><b>Degree Awarded</b></h4>
+                                    <h4 class="mb-3 mt-2" style="color:#ff7900;"><b>Degree Awarded</b></h4>
                                         <div class="table-responsive">
-                                        <table class="table table-bordered">
+                                        <table class="table table-bordered table-striped">
                                             <thead>
                                                 <tr>
-                                                    <th style="width:2%;text-align:center">#</th>
+                                                    <th style="width:2%;text-align:center">Sr. No.</th>
                                                     <th style="text-align:center">Name of Scholar</th>
 													<th style="text-align:center">Discipline</th>
                                                     <th style="text-align:center">Registration No.</th>
@@ -2787,12 +2680,12 @@ TMIMT,<br/>Teerthanker Mahaveer University, Moradabad
 <hr class="horizontal-line">
 <button class="careers-accordion"> Department of Social Work<span class="icon">+</span> </button>
 <div class="panel">
-<h4 class="mb-3 mt-2" style="color:#E74C3C;"><b>Registered Scholar</b></h4>
+<h4 class="mb-3 mt-2" style="color:#ff7900;"><b>Registered Scholar</b></h4>
                                      <div class="table-responsive">
-                                     <table class="table table-bordered">
+                                     <table class="table table-bordered table-striped">
                                             <thead>
                                                 <tr>
-                                                    <th style="width:2%;text-align:center">#</th>
+                                                    <th style="width:2%;text-align:center">Sr. No.</th>
                                                     <th style="text-align:center">Name of Scholar</th>
                                                     <th style="text-align:center">Discipline</th>
 													<th style="text-align:center">Registration No.</th>
@@ -2814,12 +2707,12 @@ TMIMT,<br/>Teerthanker Mahaveer University, Moradabad
                                             </tbody>
                                         </table>
                                     </div>
-                                    <h4 class="mb-3 mt-2" style="color:#E74C3C;"><b>Degree Awarded</b></h4>
+                                    <h4 class="mb-3 mt-2" style="color:#ff7900;"><b>Degree Awarded</b></h4>
                                         <div class="table-responsive">
-                                        <table class="table table-bordered">
+                                        <table class="table table-bordered table-striped">
                                             <thead>
                                                 <tr>
-                                                    <th style="width:2%;text-align:center">#</th>
+                                                    <th style="width:2%;text-align:center">Sr. No.</th>
                                                     <th style="text-align:center">Name of Scholar</th>
 													<th style="text-align:center">Discipline</th>
                                                     <th style="text-align:center">Registration No.</th>
@@ -2847,12 +2740,12 @@ TMIMT,<br/>Teerthanker Mahaveer University, Moradabad
 <hr class="horizontal-line">
 <button class="careers-accordion"> College of Finearts<span class="icon">+</span> </button>
 <div class="panel">
-<h4 class="mb-3 mt-2" style="color:#E74C3C;"><b>Registered Scholar</b></h4>
+<h4 class="mb-3 mt-2" style="color:#ff7900;"><b>Registered Scholar</b></h4>
                                      <div class="table-responsive">
-                                     <table class="table table-bordered">
+                                     <table class="table table-bordered table-striped">
                                             <thead>
                                                 <tr>
-                                                    <th style="width:2%;text-align:center">#</th>
+                                                    <th style="width:2%;text-align:center">Sr. No.</th>
                                                     <th style="text-align:center">Name of Scholar</th>
                                                     <th style="text-align:center">Discipline</th>
 													<th style="text-align:center">Registration No.</th>
@@ -2902,12 +2795,12 @@ TMIMT,<br/>Teerthanker Mahaveer University, Moradabad
                                             </tbody>
                                         </table>
                                     </div>
-                                    <h4 class="mb-3 mt-2" style="color:#E74C3C;"><b>Degree Awarded</b></h4>
+                                    <h4 class="mb-3 mt-2" style="color:#ff7900;"><b>Degree Awarded</b></h4>
                                         <div class="table-responsive">
-                                        <table class="table table-bordered">
+                                        <table class="table table-bordered table-striped">
                                             <thead>
                                                 <tr>
-                                                    <th style="width:2%;text-align:center">#</th>
+                                                    <th style="width:2%;text-align:center">Sr. No.</th>
                                                     <th style="text-align:center">Name of Scholar</th>
 													<th style="text-align:center">Discipline</th>
                                                     <th style="text-align:center">Registration No.</th>
@@ -2929,12 +2822,12 @@ TMIMT,<br/>Teerthanker Mahaveer University, Moradabad
 <hr class="horizontal-line">
 <button class="careers-accordion"> College of Law<span class="icon">+</span> </button>
 <div class="panel">
-<h4 class="mb-3 mt-2" style="color:#E74C3C;"><b>Registered Scholar</b></h4>
+<h4 class="mb-3 mt-2" style="color:#ff7900;"><b>Registered Scholar</b></h4>
                                      <div class="table-responsive">
-                                     <table class="table table-bordered">
+                                     <table class="table table-bordered table-striped">
                                             <thead>
                                                 <tr>
-                                                    <th style="width:2%;text-align:center">#</th>
+                                                    <th style="width:2%;text-align:center">Sr. No.</th>
                                                     <th style="text-align:center">Name of Scholar</th>
                                                     <th style="text-align:center">Discipline</th>
 													<th style="text-align:center">Registration No.</th>
@@ -2981,40 +2874,6 @@ TMIMT,<br/>Teerthanker Mahaveer University, Moradabad
 </section><!-- #content end -->
 
 
-<br /><br />
-
-<script>
-    //   career accordian
-var acc = document.getElementsByClassName("careers-accordion");
-var i;
-
-for (i = 0; i < acc.length; i++) {
-acc[i].addEventListener("click", function () {
-  var panel = this.nextElementSibling;
-  if (panel.style.display === "block") {
-    panel.style.display = "none";
-    this.querySelector(".icon").innerHTML = "+";
-    this.classList.remove("clicked"); // Remove clicked class when closing
-  } else {
-    // Close all other panels
-    var allPanels = document.querySelectorAll('.panel');
-    for (var j = 0; j < allPanels.length; j++) {
-      allPanels[j].style.display = 'none';
-      var accordion = allPanels[j].previousElementSibling;
-      accordion.querySelector(".icon").innerHTML = "+";
-      accordion.classList.remove("clicked"); // Remove clicked class from other accordions
-    }
-    panel.style.display = "block";
-    this.querySelector(".icon").innerHTML = "-";
-    this.classList.add("clicked"); // Add clicked class when opening
-  }
-});
-}
-</script>
-
-	<br /><br />
-
-	
 <?php
  include 'footer.php';
 ?>
