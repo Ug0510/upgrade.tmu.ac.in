@@ -2,9 +2,6 @@
 include 'head.php';
 ?>
 
-
-
-
 <section id="content">
     <div class="content-wrap py-0">
         <div class="container-fluid my-0  px-0">
@@ -15,7 +12,7 @@ include 'head.php';
 
 
                 <div class="col-12 col-md-10 mt-3 mt-sm-0 pt-5 ">
-                    <h1 class="tmu-text-primary tmu-page-heading"><span>Admission Related </span><span > Documents</span></h2>
+                    <h1 class="tmu-text-primary tmu-page-heading"><span>Admission Related </span><span > Documents</span></h1>
 
                     <div class="container">
                         <h4 style="text-align:justify;" class="tmu-text-primary fw-bold mb-0"><span>Annexure</span><span> 1</span></h4>
@@ -193,7 +190,7 @@ include 'head.php';
                             </tbody>
                         </table>
 
-                        <h3 class="tmu-text-primary mt-4 mb-2 fw-bold"><span>MDC Group 3 </span><span>(Commerce & Management)</span></h2>
+                        <h3 class="tmu-text-primary mt-4 mb-2 fw-bold"><span>MDC Group 3 </span><span>(Commerce & Management)</span></h3>
                             <table class="table table-bordered">
                                 <thead>
                                     <tr>
