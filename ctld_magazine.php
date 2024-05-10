@@ -17,7 +17,7 @@ include 'head.php';
 
                 <div class="col-12 col-md-10 mt-3 mt-sm-0 pt-5 ">
                     <div class="box d-none d-sm-block">
-                        <h3 class="hm" style="text-align: center;">Annual Magazine</h3>
+                        <h1 class="tmu-text-primary tmu-page-heading"><span>Annual </span><span> Magazine</span></h3>
                         <div class="container">
                             <div class="row">
 
@@ -25,7 +25,7 @@ include 'head.php';
 
                                     <div class="front">
                                         <div class="cover">
-                                            <a href="https://www.tmu.ac.in/pdf/ctld_magazine/jigyasa_magazine_final.pdf" target="_blank"><img src="https://www.tmu.ac.in/publications/materials/ctld_magzine/ctld_magazin_1.jpg" alt="Book Cover Image"></a>
+                                            <a href="https://www.tmu.ac.in/pdf/ctld_magazine/jigyasa_magazine_final.pdf" target="_blank"><img class="col-6" src="https://www.tmu.ac.in/publications/materials/ctld_magzine/ctld_magazin_1.jpg" alt="Book Cover Image"></a>
 
                                         </div>
                                     </div>
@@ -39,7 +39,7 @@ include 'head.php';
                                 <div class="book">
                                     <div class="front">
                                         <div class="cover">
-                                            <a href="https://www.tmu.ac.in/pdf/ctld_magazine/Jigyasa_final_magazine_2023.pdf" target="_blank"><img src="https://www.tmu.ac.in/publications/materials/ctld_magzine/ctld_magazin_2.jpg" alt="Book Cover Image"></a>
+                                            <a href="https://www.tmu.ac.in/pdf/ctld_magazine/Jigyasa_final_magazine_2023.pdf" target="_blank"><img class="col-6" src="https://www.tmu.ac.in/publications/materials/ctld_magzine/ctld_magazin_2.jpg" alt="Book Cover Image"></a>
 
                                         </div>
                                     </div>
