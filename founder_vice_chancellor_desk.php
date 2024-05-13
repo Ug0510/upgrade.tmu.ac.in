@@ -1,81 +1,13 @@
 <?php
 include 'head.php';
 ?>
-<div id="wrapper">
-
-    <style>
-        .person-details {
-            /* border:2px solid #A07046; */
-            border-top: none;
-            padding-left: 1.5rem;
-            margin-top: 0;
-            line-height: 2.3rem;
-            color: #001055;
-            font-weight: 600;
-            font-size: 1.2rem;
-            text-transform: uppercase;
-            float: left;
-            letter-spacing: 1.2px;
-            /* margin-top: -4rem; */
-            padding-bottom: 2rem;
-            font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
-        }
-
-        .person-details span {
-            color: #FF7900;
-            font-family: 'Poppins', sans-serif;
-        }
-
-        .person-quote {
-            text-align: justify;
-            font-size: 14px;
-            /* padding-top: 2rem; */
-        }
-
-
-        .person-quote i {
-            color: #555;
-            font-size: 2.5rem;
-            margin-right: 0rem;
-            color: #FF7900;
-            position: absolute;
-            top: 0rem;
-            left: 0rem;
-        }
-
-
-        .highlight {
-            background-color: transparent;
-            color: #FF7900;
-            font-weight: 600;
-        }
-
-        @media screen and (max-width:786px) {
-            .person-quote i {
-                color: #555;
-                font-size: 2.5rem;
-                margin-right: 0rem;
-                color: #FF7900;
-                position: absolute;
-                top: 0rem;
-                left: 1rem;
-
-            }
-        }
-    </style>
-
 
     <!-- Content
     ============================================= -->
     <section id="content">
         <div class="content-wrap py-0">
-
-
-
-            <div class="container-fluid my-0  px-0 px-md-3">
-
-
-                <div class="row">
+             <div class="container-fluid my-0  px-0 px-md-3">
+                    <div class="row">
                     <?php
                     include 'sidebar/about_tmu_sidebar.php';
                     ?>
@@ -99,13 +31,9 @@ include 'head.php';
                                         My best wishes to all the aspiring students.
                                     <div class="person-details float-right">Prof. R. K. Mittal <br><span>(संस्थापक कुलपति)</span></div>
                                     </p>
-
                                 </div>
-
-
                             </div>
                         </div>
-
                     </div>
                 </div>
             </div>
