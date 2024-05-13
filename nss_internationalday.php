@@ -20,9 +20,6 @@ include 'head.php';
                     <!-- Write content for right side here  -->
 
                     <div class="row mx-0">
-                        <h2 class=" text-center" style="color:#001055; text-transform: capitalize;
-                        font-weight:700!important; font-size:2.4vmax"><span class="d-block d-sm-inline"></span></h2>
-                       
                        <h1 class="tmu-text-primary tmu-page-heading">
                         <span>International & </span>
                         <span> National Days</span>

@@ -3,18 +3,11 @@ include 'head.php';
 ?>
 <section id="content">
   <div class="content-wrap py-0">
-
-
-
     <div class="container-fluid my-0  px-0 px-md-3">
-
-
       <div class="row">
-
         <?php
         include 'sidebar/nss_sidebar.php';
         ?>
-
         <div class="col-12 col-md-10 mt-3 mt-sm-0 pt-5 ">
           <!-- Write content for right side here  -->
 
