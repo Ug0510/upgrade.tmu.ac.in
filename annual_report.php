@@ -2,12 +2,6 @@
 include 'head.php';
 ?>
 
-<style>
-	.card-title {
-		font-family: 'poppins' !important;
-	}
-</style>
-
 <section id="content">
 	<div class="content-wrap py-0">
 
@@ -24,13 +18,11 @@ include 'head.php';
 				<div class="col-12 col-md-10 mt-3 mt-sm-0 pt-5">
 
 					<div class="row mx-0">
-						<h2 class=" text-center" style="color:#001055;
-                                    text-transform: capitalize;
-                                    font-weight:700!important; font-size:2.4vmax">Annual <span class="d-block d-sm-inline"> Reports</span></h2>
+						<h1 class="tmu-text-primary tmu-page-heading"><span>Annual </span><span class="d-block d-sm-inline"> Reports</span></h2>
 
 						<div class="container">
 							<div class="row">
-								<div class="col-md-3">
+								<div class="col-md-3 mb-3">
 									<div class="card text-center">
 										<div class="card-body">
 											<!-- Icon -->
@@ -43,7 +35,7 @@ include 'head.php';
 									</div>
 								</div>
 
-								<div class="col-md-3">
+								<div class="col-md-3 mb-3">
 									<div class="card text-center">
 										<div class="card-body">
 											<!-- Icon -->
@@ -56,7 +48,7 @@ include 'head.php';
 									</div>
 								</div>
 
-								<div class="col-md-3">
+								<div class="col-md-3 mb-3">
 									<div class="card text-center">
 										<div class="card-body">
 											<!-- Icon -->
@@ -69,7 +61,7 @@ include 'head.php';
 									</div>
 								</div>
 
-								<div class="col-md-3">
+								<div class="col-md-3 mb-3">
 									<div class="card text-center">
 										<div class="card-body">
 											<!-- Icon -->
@@ -82,7 +74,7 @@ include 'head.php';
 									</div>
 								</div>
 
-								<div class="col-md-3">
+								<div class="col-md-3 mb-3">
 									<div class="card text-center">
 										<div class="card-body">
 											<!-- Icon -->
@@ -95,7 +87,7 @@ include 'head.php';
 									</div>
 								</div>
 
-								<div class="col-md-3">
+								<div class="col-md-3 mb-3">
 									<div class="card text-center">
 										<div class="card-body">
 											<!-- Icon -->
@@ -108,7 +100,7 @@ include 'head.php';
 									</div>
 								</div>
 
-								<div class="col-md-3">
+								<div class="col-md-3 mb-3">
 									<div class="card text-center">
 										<div class="card-body">
 											<!-- Icon -->
@@ -121,7 +113,7 @@ include 'head.php';
 									</div>
 								</div>
 
-								<div class="col-md-3">
+								<div class="col-md-3 mb-3">
 									<div class="card text-center">
 										<div class="card-body">
 											<!-- Icon -->
@@ -134,7 +126,7 @@ include 'head.php';
 									</div>
 								</div>
 
-								<div class="col-md-3">
+								<div class="col-md-3 mb-3">
 									<div class="card text-center">
 										<div class="card-body">
 											<!-- Icon -->
@@ -147,7 +139,7 @@ include 'head.php';
 									</div>
 								</div>
 
-								<div class="col-md-3">
+								<div class="col-md-3 mb-3">
 									<div class="card text-center">
 										<div class="card-body">
 											<!-- Icon -->
@@ -160,7 +152,7 @@ include 'head.php';
 									</div>
 								</div>
 
-								<div class="col-md-3">
+								<div class="col-md-3 mb-3">
 									<div class="card text-center">
 										<div class="card-body">
 											<!-- Icon -->
@@ -173,7 +165,7 @@ include 'head.php';
 									</div>
 								</div>
 
-								<div class="col-md-3">
+								<div class="col-md-3 mb-3">
 									<div class="card text-center">
 										<div class="card-body">
 											<!-- Icon -->
@@ -186,7 +178,7 @@ include 'head.php';
 									</div>
 								</div>
 
-								<div class="col-md-3">
+								<div class="col-md-3 mb-3">
 									<div class="card text-center">
 										<div class="card-body">
 											<!-- Icon -->

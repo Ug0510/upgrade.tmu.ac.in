@@ -61,11 +61,11 @@ include 'head.php';
                                 <li style="margin-top:10px;"><b>Collaborations:</b> TMU has numerous industrial collaborations with national and international Universities, educational institutions and organizations.</li>
                             </ol>    
                                 <h3 class="tmu-text-primary mb-2"><span>AIC-BAMU/ Atal Incubation Centre </span><span> “BIMTECH”</span></strong></h3>
-                                <h4 class="tmu-text-primary">i. BOSCH</h4>
+                                <h4 class="mt-3 mb-0 fw-bold tmu-text-primary">i. BOSCH</h4>
                                 <p> TMU has teamed with the Bosch India Foundation, expertise in skill development science 1961, reinforced by the President of India's, Best Achievement Awards, 54 times, (18 times in a row) for its technical training trade programs.</p>
-                                <h4 class="tmu-text-primary">ii. Academic Collaborations</h4>
+                                <h4 class="mt-3 mb-0 fw-bold tmu-text-primary">ii. Academic Collaborations</h4>
                                 <p> TMU's numerous educational integrations with big names in international and national significance like IBM, Microsoft IT Academy, Cisco, Redhat, Bombay stock exchange, i-Nurture, Safeducate come in handy. The university is also an active member of 20+ professional bodies like IEEE, GIFT, AIU, ISTE, FICCI.</p>
-                                <h4 class="tmu-text-primary">iii. International Academic Collaborations:<h4><p>The University entered into MoU with Monash University, Australia.</p>
+                                <h4 class="mt-3 mb-0 fw-bold tmu-text-primary">iii. International Academic Collaborations:<h4><p>The University entered into MoU with Monash University, Australia.</p>
                                 <ol class="ps-5 m-ol-list">
                                     <li style="margin-top:10px;"><b>TMU-BIC</b></li>
                                     <li style="margin-top:10px;"><b>Infrastructure</b></li>

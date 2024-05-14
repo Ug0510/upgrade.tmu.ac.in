@@ -181,7 +181,7 @@ include 'head.php';
           </div>
           <!-- Sops code start here  -->
           <br>
-          <div class="row mb-2 mt-2">
+          <div class="row mb-2 mt-2 mb-4">
             <h2 class="tmu-text-primary"><span>Sops</span></h2>
             <div class="col-md-3">
               <div class="card text-center">

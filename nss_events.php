@@ -16,7 +16,6 @@ include 'head.php';
 				<?php
 				include 'sidebar/nss_sidebar.php';
 				?>
-
 				<div class="col-12 col-md-10 mt-3 mt-sm-0 pt-3 pt-md-5 ">
 					<!-- Write content for right side here  -->
 

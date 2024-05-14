@@ -3,18 +3,11 @@ include 'head.php';
 ?>
 <section id="content">
   <div class="content-wrap py-0">
-
-
-
     <div class="container-fluid my-0  px-0 px-md-3">
-
-
       <div class="row">
-
         <?php
         include 'sidebar/nss_sidebar.php';
         ?>
-
         <div class="col-12 col-md-10 mt-3 mt-sm-0 pt-5 ">
           <!-- Write content for right side here  -->
 
@@ -23,7 +16,7 @@ include 'head.php';
               <span>NSS </span>
               <span> Vounteers</span>
             </h1>
-            <div class="row">
+            <div class="row mb-3">
               <p class="mb-3"><b>Who can enroll:</b> Any person who is enroll himself / herself as a regular student in any undergraduate course at +2 stage affiliated to the Universities recognized by UGC / State Government. Only for NSS open unit at the University level any person who is socially oriented and in willing to devote his / her time for social service can enroll himself / herself.</li>
               <p class="mb-3"><b>When he / she can enrol:</b> As soon as he / she secure admission for his / her studies for the above mentioned course he is eligible to enroll himself / herself in NSS as a volunteer. Generally the enrolment is done between June and July of every academic year.</li>
               <p class="mb-3"><b>Whom to contact:</b> An assistant Professor / teacher who is incharge of NSS activities in the institution where you are studying should be contacted. The NSS in-charge is designated as NSS programme officer. If you don’t get the information then you can contact the Principal/registrar of the institution. For NSS open unit contact NSS Programme coordinator of the University.</li>

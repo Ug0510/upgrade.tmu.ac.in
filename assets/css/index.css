@@ -70,9 +70,13 @@ p {
 .tmu-color {
     color: #FF7900 !important;
 }
-.tmu-color-blue{
-    color:#001055 !important;
+.tmu-color-blue {
+    color: #001055 !important;
 }
+.tmu-color-red {
+    color: #E74C3C !important;
+}
+
 
 
 /* For larger devices */
@@ -3024,6 +3028,70 @@ font-size: 16px;
 /* ------------------------
 Global List CSS end
 ------------------------ */
+
+
+
+/* 
+---------------------------------
+Chancellor Desk Page CSS start
+---------------------------------- */
+
+.person-details {
+    /* border:2px solid #A07046; */
+    border-top: none;
+    padding-left: 1.5rem;
+    margin-top: 0;
+    line-height: 2.3rem;
+    color: #001055;
+    font-weight: 600;
+    font-size: 1.2rem;
+    text-transform: uppercase;
+    float: left;
+    letter-spacing: 1.2px;
+    /* margin-top: -4rem; */
+    padding-bottom: 2rem;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+.person-details span {
+    color: #FF7900;
+    font-family: 'Poppins', sans-serif;
+}
+.person-quote {
+    text-align: justify;
+    font-size: 14px;
+    /* padding-top: 2rem; */
+}
+.person-quote i {
+    color: #555;
+    font-size: 2.5rem;
+    margin-right: 0rem;
+    color: #FF7900;
+    position: absolute;
+    top: 0rem;
+    left: 0rem;
+}
+.highlight {
+    background-color: transparent;
+    color: #FF7900;
+    font-weight: 600;
+}
+@media screen and (max-width:786px) {
+    .person-quote i {
+        color: #555;
+        font-size: 2.5rem;
+        margin-right: 0rem;
+        color: #FF7900;
+        position: absolute;
+        top: 0rem;
+        left: 1rem;
+    }
+}
+
+/* 
+---------------------------------
+Chancellor Desk Page CSS end
+---------------------------------- */
+/*
 
 ----------------
 CTLD Page CSS start

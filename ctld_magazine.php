@@ -17,7 +17,9 @@ include 'head.php';
 
                 <div class="col-12 col-md-10 mt-3 mt-sm-0 pt-5 ">
                     <div class="box d-none d-sm-block">
-                        <h1 class="tmu-text-primary tmu-page-heading"><span>Annual </span><span> Magazine</span></h3>
+
+                        <h1 class="tmu-text-primary tmu-page-heading"><span>Annual </span><span> Magazine</span></h1>
+
                         <div class="container">
                             <div class="row">
 
@@ -30,9 +32,7 @@ include 'head.php';
                                         </div>
                                     </div>
                                     <div class="left-side_ctld">
-                                        <h2 class="book-left-side">
-                                            <span>Annual Magazine</span>
-                                        </h2>
+                                    <h2 class="tmu-text-primary mt-3"><span>Annual </span><span> Magazine</span></h2>
                                     </div>
 
                                 </div>
@@ -44,9 +44,7 @@ include 'head.php';
                                         </div>
                                     </div>
                                     <div class="left-side_ctld">
-                                        <h2 class="book-left-side">
-                                            <span>Annual Magazine</span>
-                                        </h2>
+                                    <h2 class="tmu-text-primary mt-3"><span>Annual </span><span> Magazine</span></h2>
                                     </div>
 
                                 </div>
@@ -57,11 +55,9 @@ include 'head.php';
 
                                         </div>
                                     </div>
-                                    <div class="left-side_ctld">
-                                        <h2 class="book-left-side">
-                                            <span>Annual Magazine</span>
-                                        </h2>
-                                    </div>
+                                    <!-- <div class="left-side_ctld">
+                                    <h2 class="tmu-text-primary mt-3"><span>Annual </span><span> Magazine</span></h2>
+                                    </div> -->
                                 </div>
                             </div>
                         </div>

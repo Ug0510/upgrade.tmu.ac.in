@@ -2,23 +2,6 @@
 include 'head.php';
 ?>
 
-
-
-<style>
-    .m-ol-list li::marker {
-        font-size: 1.6vmax;
-        color: #FF7900;
-        font-weight: 700;
-    }
-
-    .m-ol-list b {
-        /* color:#FF7900; */
-        color: #001055;
-        font-size: 1.4vmax;
-    }
-</style>
-
-
 <section id="content">
     <div class="content-wrap py-0">
         <div class="container-fluid my-0  px-0 px-md-3">
@@ -30,9 +13,7 @@ include 'head.php';
                 <div class="col-12 col-md-10 mt-3 mt-sm-0 pt-5">
 
                     <div class="row mx-0">
-                        <h2 class=" text-center" style="color:#001055;
-                                    text-transform: capitalize;
-                                    font-weight:700!important; font-size:2.4vmax">NAAC Accreditation Certificate <span class="d-block d-sm-inline"> (Cycle-I)</span></h2>
+                        <h1 class="tmu-text-primary tmu-page-heading"><span>NAAC Accreditation Certificate </span><span class="d-block d-sm-inline"> (Cycle-I)</span></h2>
                         <p>
                         <div class="card mb-2">
                             <div class="card-body">

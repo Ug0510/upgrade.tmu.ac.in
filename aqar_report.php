@@ -21,7 +21,7 @@ include 'head.php';
 											<!-- Icon -->
 											<i class="fas fa-file-pdf fa-4x mb-3" style="color:#FF7900; "></i>
 											<!-- Document Name -->
-											<h5 class="card-title">The Annual Quality Assurance Report (AQAR) of the IQAC (Academic Session 2019-20)</h5>
+											<h5 class="card-title fs-12">The Annual Quality Assurance Report (AQAR) of the IQAC (Academic Session 2019-20)</h5>
 											<!-- View PDF Button -->
 											<a href="https://www.tmu.ac.in/pdf/iqac_minutes/ATR_IQAC_20_01_2022_compressed.pdf" class="more-link fst-normal ms-2" style="font-family:'poppins'; font-size:14px!important;">View pdf <i class="bi-arrow-right"></i></a>
 										</div>
@@ -34,7 +34,7 @@ include 'head.php';
 											<!-- Icon -->
 											<i class="fas fa-file-pdf fa-4x mb-3" style="color:#FF7900; "></i>
 											<!-- Document Name -->
-											<h5 class="card-title">The Annual Quality Assurance Report (AQAR) of the IQAC (Academic Session 2018-19)</h5>
+											<h5 class="card-title fs-12">The Annual Quality Assurance Report (AQAR) of the IQAC (Academic Session 2018-19)</h5>
 											<!-- View PDF Button -->
 											<a href="https://www.tmu.ac.in/tmu/iqac-report-2018-19" class="more-link fst-normal ms-2" style="font-family:'poppins'; font-size:14px!important;">View pdf <i class="bi-arrow-right"></i></a>
 										</div>
@@ -47,7 +47,7 @@ include 'head.php';
 											<!-- Icon -->
 											<i class="fas fa-file-pdf fa-4x mb-3" style="color:#FF7900; "></i>
 											<!-- Document Name -->
-											<h5 class="card-title">The Annual Quality Assurance Report (AQAR) of the IQAC (Academic Session 2017-18)</h5>
+											<h5 class="card-title fs-12">The Annual Quality Assurance Report (AQAR) of the IQAC (Academic Session 2017-18)</h5>
 											<!-- View PDF Button -->
 											<a href="https://www.tmu.ac.in/tmu/iqac-report-2017-18" class="more-link fst-normal ms-2" style="font-family:'poppins'; font-size:14px!important;">View pdf <i class="bi-arrow-right"></i></a>
 										</div>
@@ -60,7 +60,7 @@ include 'head.php';
 											<!-- Icon -->
 											<i class="fas fa-file-pdf fa-4x mb-3" style="color:#FF7900; "></i>
 											<!-- Document Name -->
-											<h5 class="card-title">The Annual Quality Assurance Report (AQAR) of the IQAC (Academic Session 2016-17)</h5>
+											<h5 class="card-title fs-12">The Annual Quality Assurance Report (AQAR) of the IQAC (Academic Session 2016-17)</h5>
 											<!-- View PDF Button -->
 											<a href="https://www.tmu.ac.in/pdf/iqac-report-2016-17.pdf" class="more-link fst-normal ms-2" style="font-family:'poppins'; font-size:14px!important;">View pdf <i class="bi-arrow-right"></i></a>
 										</div>
