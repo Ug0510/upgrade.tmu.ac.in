@@ -9,13 +9,10 @@ include 'head.php';
                 <?php
                     include 'sidebar/iqac_sidebar.php';
                 ?>
-
-                <div class="col-12 col-md-10 mt-3 mt-sm-0 pt-5 ">
+                <div class="col-12 col-md-10 mt-3 mt-sm-0 pt-5 mb-5">
                     <section id="contact" class="contact">
                         <div class="container" data-aos="fade-up">
-
                         <h1 class="tmu-text-primary tmu-page-heading"><span> Contact </span><span> Us</span></h1>
-
                             <div class="container">
                                 <div class="row">
                                     <h3 class="mb-2 pb-0 tmu-text-primary"><span>Contact </span><span> Person</span></h3>
