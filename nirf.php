@@ -11,7 +11,7 @@ include 'head.php';
                 include 'sidebar/nirf_sidebar.php';
                 ?>
                 <div class="col-12 col-md-10 mt-3 mt-sm-0 pt-5 ">
-                    <div class="box d-none d-sm-block">
+                    <div class=" d-none d-sm-block">
                         <h2 class="hm text-center pt-2 tmu-text-primary" id="overall"><span>NIRF 2024 </span> <span> Overall Data</span></h3>
                         <div class="container">
                             <object data="https://www.tmu.ac.in/pdf/nirf/2024/TMU_NIRF_2024_Overall.pdf" type="application/pdf" width="100%" height="1100px">
