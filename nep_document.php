@@ -2,9 +2,6 @@
 include 'head.php';
 ?>
 
-
-
-
 <section id="content">
     <div class="content-wrap py-0">
         <div class="container-fluid my-0  px-0">
