@@ -5,23 +5,18 @@ include 'head.php';
 
 <section id="content">
     <div class="content-wrap py-0">
-
-
-
         <div class="container-fluid my-0  px-0 px-md-3">
-
-
             <div class="row">
                 <?php
                 include 'sidebar/ctld_sidebar.php';
                 ?>
                 <div class="col-12 col-md-10 mt-3 mt-sm-0 pt-5 ">
                     <div class="row mx-0">
-                        <h2 class=" text-center" style="color:#001055; text-transform: capitalize; font-weight:700!important; font-size:2.4vmax">Aims & <span class="d-block d-sm-inline"> Objectives of CTLD</span></h2>
-                        <p class="text-center" style="color:#E74C3C; font-size:1.4vmax"><strong>
-                                What does the Centre for Teaching Learning & Development do?</strong>
-                        </p>
-                        <p class="text-center" style="font-size:1.8vmax"><strong>
+                        <h1 class="tmu-text-primary tmu-page-heading mb-1"><span>Aims & </span><span> Objectives of CTLD</span></h2>
+                        <h3 class="text-center fw-bold" style="color:#E74C3C;">
+                                What does the Centre for Teaching Learning & Development do?
+</h3>
+                        <p  style="font-size:1.8vmax"><strong>
                                 What is the importance of Soft skills & Quantitative aptitude?</strong>
                         </p>
 

@@ -2,35 +2,9 @@
 include 'head.php';
 ?>
 
-
-
-<style>
-    .card_ctld {
-        width: 254px;
-        height: 254px;
-        border-radius: 50%;
-        /* box-shadow: 3px 3px 8px #161a1d; */
-
-        cursor: pointer;
-        background-image: url('https://www.tmu.ac.in/img/ctld/our_team/R_N_Krishnia_DD.jpg');
-        /* background-position: center center; */
-        background-size: cover;
-        background-color: black;
-        display: flex;
-        justify-content: center;
-        align-items: flex-end;
-        position: relative;
-    }
-</style>
-
 <section id="content">
     <div class="content-wrap py-0">
-
-
-
         <div class="container-fluid my-0  px-0 px-md-3">
-
-
             <div class="row">
                 <?php
                 include 'sidebar/ctld_sidebar.php';
@@ -40,10 +14,13 @@ include 'head.php';
                 <div class="col-12 col-md-10 mt-3 mt-sm-0 pt-5 ">
                     <div class="container">
                         <div class="row">
-                            <h2 class=" text-center" style="color:#001055; text-transform: capitalize; font-weight:700!important; font-size:2.4vmax">Director's<span class="d-block d-sm-inline"> Desk </span></h2>
+                            <h1 class="tmu-text-primary tmu-page-heading">
+                                <span>Director's </span>
+                                <span> Desk</span>
+                            </h1>
                             <div class="col-md-3 text-centre">
                                 <div class="card_ctld">
-                                    <button class="button_ctld">Prof. (Dr.) R. N. Krishnia</button>
+                                    <div class="profile_name_ctld px-4 py-2 mt-5">Prof. (Dr.) R. N. Krishnia</div>
                                 </div>
 
                             </div>
