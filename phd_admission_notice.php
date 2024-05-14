@@ -10,14 +10,14 @@ include 'head.php';
                                 include 'sidebar/research_sidebar.php';
                                 ?>
 
-                <div class="col-12 col-md-10 mt-3 mt-sm-0 pt-5 ">
+                <div class="col-12 col-md-10 mt-3 mt-sm-0 pt-5">
 
                     <div class="row mx-0">
                         <h1 class="tmu-text-primary tmu-page-heading"><span>Admission Notice for </span>
                             <span> Ph.D. Programme</span>
                         </h1>
 
-                        <div class="col-md-12">
+                        <div class="col-md-12 mb-3">
                             <img class="card-img-top" src="	https://www.tmu.ac.in/pdf/research/Ph.D_ADVT_July_2024.jpg"
                                 alt="Card image cap">
                             <a href="#!">

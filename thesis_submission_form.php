@@ -12,7 +12,7 @@ include 'head.php';
 
         <div class="col-12 col-md-10 mt-3 mt-sm-0 pt-5 ">
 
-          <div class="row mx-0">
+          <div class="row mx-0 mb-3">
             <h2 class="tmu-text-primary tmu-page-heading"><span>Thesis submission </span><span> Form</span></h2>
 
             <object data="https://www.tmu.ac.in/pdf/research/thesis_submission_form_for_external_evaluation.pdf" type="application/pdf" width="100%" height="1100px">
