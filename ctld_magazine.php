@@ -17,7 +17,9 @@ include 'head.php';
 
                 <div class="col-12 col-md-10 mt-3 mt-sm-0 pt-5 ">
                     <div class="box d-none d-sm-block">
+
                         <h1 class="tmu-text-primary tmu-page-heading"><span>Annual </span><span> Magazine</span></h1>
+
                         <div class="container">
                             <div class="row">
 

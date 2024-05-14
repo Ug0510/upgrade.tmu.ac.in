@@ -19,7 +19,9 @@ include 'head.php';
             <div class="container">
               <div class="row">
                 <h3 class="mb-0 pb-0 tmu-text-primary mb-2 fw-bold"><span>NSS</span> <span> Team</span></h3>
+
                 <h4 class="mb-2 pb-0" style="text-transform:capitalize;">Dr Ratnesh Jain - <br> COORDINATOR NATIONAL SERVICE SCHEME</h4>
+
                 <p>
                   <i class="fa-solid fa-location-dot"></i> &nbsp<b>Address:</b> Teerthanker Mahaveer University, Moradabad (U.P.) 244001 <br>
                   <i class="fa-solid fa-phone"></i> &nbsp<b>Landline:</b>+91 - 9415058287<br>

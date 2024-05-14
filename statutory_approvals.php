@@ -18,7 +18,9 @@ include 'head.php';
 						<h1 class="tmu-text-primary tmu-page-heading"><span>Statutory </span><span> Approvals</span></h1>
 						<p>The Teerthanker Mahaveer University, established by an 'Act' of the Government of Uttar Pradesh, and approved by the <strong class="fs-14"><a href="http://www.ugc.ac.in/privateuniversitylist.aspx?id=33&Unitype=3">University Grants Commission (UGC)</a></strong>, since inception in 2008, is the preferred destination for students of modern sciences and myriad subjects in languages and arts.</p>
 
+
 						<h3 class="mb-0 mt-3 pb-0 fw-bold">State Government Recognition</h3>
+
 						<p>Teerthanker Mahaveer University is a Jain Minority State Private University established by Act No. 30 to 2008 of the Government of Uttar Pradesh.</p>
 
 						<div class="row">
@@ -45,6 +47,7 @@ include 'head.php';
 										<!-- View PDF Button -->
 										<a href="https://www.tmu.ac.in/img/approval/2.jpg" class="more-link fst-normal ms-2" style="font-size:12px; font-family:'poppins';">View image <i class="bi-arrow-right"></i></a>
 									</div>
+
 								</div>
 							</div>
 
@@ -65,6 +68,7 @@ include 'head.php';
 							<h3 class="mb-1 mt-2 pb-0 fw-bold">UG Government Recognition</h3>
 							<div class="col-md-9">
 								<p class="text-justify mb-4">Teerthanker Mahaveer University has been approved by University Grants Commission (UGC) under Section 2(f) and has powers to award degrees u/s 22(1) of UGC Act, 1956.</p>
+
 							</div>
 							<div class="text-center col-md-3">
 								<img class="img-fluid mb-3" src="https://www.tmu.ac.in/img/approval/ugc.png" alt="TMU approved by UGC" height="200">
@@ -110,17 +114,21 @@ include 'head.php';
 								</div>
 							</div>
 
+
 							<p class="mt-3">its visit to Teerthanker Mahaveer University to assess and evaluate its propels in accordance with UGC (Establishment of and Maintenance of Standards in Private University) Regulations, 2003.</p>
+
 						</div>
 					</div>
 
 
 
 					<div class="row ps-1">
+
 						<h3 class="mb-0 mt-3 pb-0">Approval by Regulatory Bodies</h3>
 						<p class="my-2">The University has the necessary approvals of all the regulatory bodies governing different programmes detailed as under:</p>
 
 						<div class="table-responsive mb-4">
+
 							<table class="table table-bordered table-striped">
 								<thead>
 									<tr>

@@ -2,8 +2,10 @@
 include 'head.php';
 ?>
 
-    <!-- Content
+
+<!-- Content
     ============================================= -->
+
     <section id="content">
         <div class="content-wrap py-0">
              <div class="container-fluid my-0  px-0 px-md-3">
@@ -33,11 +35,14 @@ include 'head.php';
                                     </p>
                                 </div>
                             </div>
+
                         </div>
                     </div>
+
                 </div>
             </div>
         </div>
-    </section>
+    </div>
+</section>
 
-    <?php include 'footer.php'; ?>
+<?php include 'footer.php'; ?>

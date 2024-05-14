@@ -9,7 +9,8 @@ include 'head.php';
         <?php
         include 'sidebar/about_tmu_sidebar.php';
         ?>
-        <div class="col-12 col-md-10 mt-3 mt-sm-0 pt-5 mb-4">
+       <div class="col-12 col-md-10 mt-3 mt-sm-0 pt-5 mb-4">
+
           <h1 class="tmu-text-primary tmu-page-heading"><span>University</span><span> Administration</span></h1>
           <div class="container">
             <div class="row row-cols-1 row-cols-md-3 g-4 mt-5">
@@ -48,7 +49,8 @@ include 'head.php';
               </div>
               <div class="col-sm-6 col-lg-4 col-xl-4 col-md-6 col-xs-12">
                 <div class="card card-animation">
-                  <img src="https://www.tmu.ac.in/img/tmu/administration/p(vkj1.jpg" class="card-img-top" alt="Image 1">
+                   <img src="https://www.tmu.ac.in/img/tmu/administration/p(vkj1.jpg" class="card-img-top" alt="Image 1">
+
                   <div class="card-body text-center"> <!-- Added 'text-center' class -->
                     <h5 class="card-title">Prof. (Dr.) V K Jain</h5>
                     <p class="card-text">Vice Chancellor</p>

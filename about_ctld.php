@@ -13,7 +13,9 @@ include 'head.php';
                 <div class="col-12 col-md-10 mt-3 mt-sm-0 pt-5 ">
                     <div class="row mx-0">
                         <h1 class="tmu-text-primary tmu-page-heading"><span>About Centre for Teaching</span> <span>Learning & Development (CTLD)</span></h1>
+
                         <h3 class="text-center mb-4 fw-bold tmu-color-red">
+
                             Aren’t able to crack the Group Discussion (GD) and Personal Interview (PI) for that dream company?
                         </h3>
                         <h3 class="text-center" style="font-size:1.8vmax"><strong>

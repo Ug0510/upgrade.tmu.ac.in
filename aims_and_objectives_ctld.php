@@ -16,7 +16,9 @@ include 'head.php';
                         <h3 class="text-center fw-bold" style="color:#E74C3C;">
                                 What does the Centre for Teaching Learning & Development do?
 </h3>
+
                         <p  style="font-size:1.8vmax"><strong>
+
                                 What is the importance of Soft skills & Quantitative aptitude?</strong>
                         </p>
 

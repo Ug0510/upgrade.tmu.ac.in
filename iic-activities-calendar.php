@@ -3,9 +3,13 @@ include 'head.php';
 ?>
 <link rel="stylesheet" href="./assets/css/custom-accordian.css">
 
-<?php
-include 'sidebar/iic_sidebar.php';
-?>
+<section id="content">
+    <div class="content-wrap py-0">
+        <div class="container-fluid my-0  px-0 px-md-3">
+            <div class="row">
+                <?php
+                include 'sidebar/iic_sidebar.php';
+                ?>
 
                 <div class="col-12 col-md-10 mt-3 mt-sm-0 pt-5 ">
 
@@ -580,11 +584,6 @@ include 'sidebar/iic_sidebar.php';
 
     </div>
 </section><!-- #content end -->
-
-
-
-<script src="https://code.jquery.com/jquery-3.6.0.min.js"></script>
-<script src="https://cdn.jsdelivr.net/npm/owl.carousel@2.3.4/dist/owl.carousel.min.js"></script>
 
 <?php
 include 'footer.php';
