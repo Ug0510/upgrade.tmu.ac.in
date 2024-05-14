@@ -10,7 +10,7 @@
 include 'sidebar/research_sidebar.php';
 ?>
 
-                <div class="col-12 col-md-10 mt-3 mt-sm-0 pt-5 ">
+                <div class="col-12 col-md-10 mt-3 mt-sm-0 pt-5">
 
                     <div class="row mx-0">
                         <h1 class="tmu-text-primary tmu-page-heading"><span>Research </span><span> Scholars</span></h1>
@@ -19,7 +19,7 @@ include 'sidebar/research_sidebar.php';
                                 class="icon">+</span></button>
                         <div class="panel">
                             <h4 class="tmu-text-primary"><span>Registered </span><span>Scholar</span></h4>
-                            <div class="table-responsive">
+                            <div class="table-responsive mb-4 mt-0">
                                 <table class="table table-bordered table-striped">
                                     <thead>
                                         <tr>
@@ -111,7 +111,7 @@ include 'sidebar/research_sidebar.php';
                             </div>
 
                             <h4 class="tmu-text-primary"><span>Degree </span><span>Awarded</span></h4>
-                            <div class="table-responsive">
+                            <div class="table-responsive mb-4 mt-0">
                                 <table class="table table-bordered table-striped">
                                     <thead>
                                         <tr>
@@ -186,7 +186,7 @@ include 'sidebar/research_sidebar.php';
                     </button>
                     <div class="panel">
                         <h4 class="tmu-text-primary"><span>Registered </span><span>Scholar</span></h4>
-                        <div class="table-responsive">
+                        <div class="table-responsive mb-4 mt-0">
                             <table class="table table-bordered table-striped">
                                 <thead>
                                     <tr>
@@ -244,7 +244,7 @@ include 'sidebar/research_sidebar.php';
                             </table>
                         </div>
                         <h4 class="tmu-text-primary"><span>Degree </span><span>Awarded</span></h4>
-                        <div class="table-responsive">
+                        <div class="table-responsive mb-4 mt-0">
                             <table class="table table-bordered table-striped">
                                 <thead>
                                     <tr>
@@ -280,7 +280,7 @@ include 'sidebar/research_sidebar.php';
                     <button class="careers-accordion"> College of Pharmacy<span class="icon">+</span> </button>
                     <div class="panel">
                         <h4 class="tmu-text-primary"><span>Registered </span><span>Scholar</span></h4>
-                        <div class="table-responsive">
+                        <div class="table-responsive mb-4 mt-0">
                             <table class="table table-bordered table-striped">
                                 <thead>
                                     <tr>
@@ -517,7 +517,7 @@ include 'sidebar/research_sidebar.php';
                         </div>
 
                         <h4 class="tmu-text-primary"><span>Degree </span><span>Awarded</span></h4>
-                        <div class="table-responsive">
+                        <div class="table-responsive mb-4 mt-0">
                             <table class="table table-bordered table-striped">
                                 <thead>
                                     <tr>
@@ -649,7 +649,7 @@ include 'sidebar/research_sidebar.php';
                     </button>
                     <div class="panel">
                         <h4 class="tmu-text-primary"><span>Registered </span><span>Scholar</span></h4>
-                        <div class="table-responsive">
+                        <div class="table-responsive mb-4 mt-0">
                             <table class="table table-bordered table-striped">
                                 <thead>
                                     <tr>
@@ -723,7 +723,7 @@ include 'sidebar/research_sidebar.php';
                             </table>
                         </div>
                         <h4 class="tmu-text-primary"><span>Degree </span><span>Awarded</span></h4>
-                        <div class="table-responsive">
+                        <div class="table-responsive mb-4 mt-0">
                             <table class="table table-bordered table-striped">
                                 <thead>
                                     <tr>
@@ -749,7 +749,7 @@ include 'sidebar/research_sidebar.php';
                     <button class="careers-accordion"> Department Of Physiotherapy<span class="icon">+</span> </button>
                     <div class="panel">
                         <h4 class="tmu-text-primary"><span>Registered </span><span>Scholar</span></h4>
-                        <div class="table-responsive">
+                        <div class="table-responsive mb-4 mt-0">
                             <table class="table table-bordered table-striped">
                                 <thead>
                                     <tr>
@@ -817,7 +817,7 @@ include 'sidebar/research_sidebar.php';
                             </table>
                         </div>
                         <h4 class="tmu-text-primary"><span>Degree </span><span>Awarded</span></h4>
-                        <div class="table-responsive">
+                        <div class="table-responsive mb-4 mt-0">
                             <table class="table table-bordered table-striped">
                                 <thead>
                                     <tr>
@@ -843,7 +843,7 @@ include 'sidebar/research_sidebar.php';
                     <button class="careers-accordion">TMIMT College of Managmenet <span class="icon">+</span> </button>
                     <div class="panel">
                         <h4 class="tmu-text-primary"><span>Registered </span><span>Scholar</span></h4>
-                        <div class="table-responsive">
+                        <div class="table-responsive mb-4 mt-0">
                             <table class="table table-bordered table-striped">
                                 <thead>
                                     <tr>
@@ -1062,7 +1062,7 @@ include 'sidebar/research_sidebar.php';
                             </table>
                         </div>
                         <h4 class="tmu-text-primary"><span>Degree </span><span>Awarded</span></h4>
-                        <div class="table-responsive">
+                        <div class="table-responsive mb-4 mt-0">
                             <table class="table table-bordered table-striped">
                                 <thead>
                                     <tr>
@@ -1367,7 +1367,7 @@ include 'sidebar/research_sidebar.php';
                     <button class="careers-accordion"> Faculty of Engineering<span class="icon">+</span> </button>
                     <div class="panel">
                         <h4 class="tmu-text-primary"><span>Registered </span><span>Scholar</span></h4>
-                        <div class="table-responsive">
+                        <div class="table-responsive mb-4 mt-0">
                             <table class="table table-bordered table-striped">
                                 <thead>
                                     <tr>
@@ -1601,7 +1601,7 @@ include 'sidebar/research_sidebar.php';
                             </table>
                         </div>
                         <h4 class="tmu-text-primary"><span>Degree </span><span>Awarded</span></h4>
-                        <div class="table-responsive">
+                        <div class="table-responsive mb-4 mt-0">
                             <table class="table table-bordered table-striped">
                                 <thead>
                                     <tr>
@@ -1816,7 +1816,7 @@ include 'sidebar/research_sidebar.php';
                     </button>
                     <div class="panel">
                         <h4 class="tmu-text-primary"><span>Registered </span><span>Scholar</span></h4>
-                        <div class="table-responsive">
+                        <div class="table-responsive mb-4 mt-0">
                             <table class="table table-bordered table-striped">
                                 <thead>
                                     <tr>
@@ -2038,7 +2038,7 @@ include 'sidebar/research_sidebar.php';
                             </table>
                         </div>
                         <h4 class="tmu-text-primary"><span>Degree </span><span>Awarded</span></h4>
-                        <div class="table-responsive">
+                        <div class="table-responsive mb-4 mt-0">
                             <table class="table table-bordered table-striped">
                                 <thead>
                                     <tr>
@@ -2273,7 +2273,7 @@ include 'sidebar/research_sidebar.php';
                             class="icon">+</span> </button>
                     <div class="panel">
                         <h4 class="tmu-text-primary"><span>Registered </span><span>Scholar</span></h4>
-                        <div class="table-responsive">
+                        <div class="table-responsive mb-4 mt-0">
                             <table class="table table-bordered table-striped">
                                 <thead>
                                     <tr>
@@ -2301,7 +2301,7 @@ include 'sidebar/research_sidebar.php';
                             </table>
                         </div>
                         <h4 class="tmu-text-primary"><span>Degree </span><span>Awarded</span></h4>
-                        <div class="table-responsive">
+                        <div class="table-responsive mb-4 mt-0">
                             <table class="table table-bordered table-striped">
                                 <thead>
                                     <tr>
@@ -2327,7 +2327,7 @@ include 'sidebar/research_sidebar.php';
                     <button class="careers-accordion">Fcaulty of Education <span class="icon">+</span></button>
                     <div class="panel">
                         <h4 class="tmu-text-primary"><span>Registered </span><span>Scholar</span></h4>
-                        <div class="table-responsive">
+                        <div class="table-responsive mb-4 mt-0">
                             <table class="table table-bordered table-striped">
                                 <thead>
                                     <tr>
@@ -2402,7 +2402,7 @@ include 'sidebar/research_sidebar.php';
                             </table>
                         </div>
                         <h4 class="tmu-text-primary"><span>Degree </span><span>Awarded</span></h4>
-                        <div class="table-responsive">
+                        <div class="table-responsive mb-4 mt-0">
                             <table class="table table-bordered table-striped">
                                 <thead>
                                     <tr>
@@ -2428,7 +2428,7 @@ include 'sidebar/research_sidebar.php';
                     <button class="careers-accordion"> College of Jain Studies<span class="icon">+</span> </button>
                     <div class="panel">
                         <h4 class="tmu-text-primary"><span>Registered </span><span>Scholar</span></h4>
-                        <div class="table-responsive">
+                        <div class="table-responsive mb-4 mt-0">
                             <table class="table table-bordered table-striped">
                                 <thead>
                                     <tr>
@@ -2613,7 +2613,7 @@ include 'sidebar/research_sidebar.php';
                             </table>
                         </div>
                         <h4 class="tmu-text-primary"><span>Degree </span><span>Awarded</span></h4>
-                        <div class="table-responsive">
+                        <div class="table-responsive mb-4 mt-0">
                             <table class="table table-bordered table-striped">
                                 <thead>
                                     <tr>
@@ -2776,7 +2776,7 @@ include 'sidebar/research_sidebar.php';
                     </button>
                     <div class="panel">
                         <h4 class="tmu-text-primary"><span>Registered </span><span>Scholar</span></h4>
-                        <div class="table-responsive">
+                        <div class="table-responsive mb-4 mt-0">
                             <table class="table table-bordered table-striped">
                                 <thead>
                                     <tr>
@@ -2869,7 +2869,7 @@ include 'sidebar/research_sidebar.php';
                             </table>
                         </div>
                         <h4 class="tmu-text-primary"><span>Degree </span><span>Awarded</span></h4>
-                        <div class="table-responsive">
+                        <div class="table-responsive mb-4 mt-0">
                             <table class="table table-bordered table-striped">
                                 <thead>
                                     <tr>
@@ -2902,7 +2902,7 @@ include 'sidebar/research_sidebar.php';
                     <button class="careers-accordion"> Centre of Language Studies<span class="icon">+</span> </button>
                     <div class="panel">
                         <h4 class="tmu-text-primary"><span>Registered </span><span>Scholar</span></h4>
-                        <div class="table-responsive">
+                        <div class="table-responsive mb-4 mt-0">
                             <table class="table table-bordered table-striped">
                                 <thead>
                                     <tr>
@@ -2922,7 +2922,7 @@ include 'sidebar/research_sidebar.php';
                             </table>
                         </div>
                         <h4 class="tmu-text-primary"><span>Degree </span><span>Awarded</span></h4>
-                        <div class="table-responsive">
+                        <div class="table-responsive mb-4 mt-0">
                             <table class="table table-bordered table-striped">
                                 <thead>
                                     <tr>
@@ -2956,7 +2956,7 @@ include 'sidebar/research_sidebar.php';
                     <button class="careers-accordion"> Department of Social Work<span class="icon">+</span> </button>
                     <div class="panel">
                         <h4 class="tmu-text-primary"><span>Registered </span><span>Scholar</span></h4>
-                        <div class="table-responsive">
+                        <div class="table-responsive mb-4 mt-0">
                             <table class="table table-bordered table-striped">
                                 <thead>
                                     <tr>
@@ -2984,7 +2984,7 @@ include 'sidebar/research_sidebar.php';
                             </table>
                         </div>
                         <h4 class="tmu-text-primary"><span>Degree </span><span>Awarded</span></h4>
-                        <div class="table-responsive">
+                        <div class="table-responsive mb-4 mt-0">
                             <table class="table table-bordered table-striped">
                                 <thead>
                                     <tr>
@@ -3020,7 +3020,7 @@ include 'sidebar/research_sidebar.php';
                     <button class="careers-accordion"> College of Finearts<span class="icon">+</span> </button>
                     <div class="panel">
                         <h4 class="tmu-text-primary"><span>Registered </span><span>Scholar</span></h4>
-                        <div class="table-responsive">
+                        <div class="table-responsive mb-4 mt-0">
                             <table class="table table-bordered table-striped">
                                 <thead>
                                     <tr>
@@ -3075,7 +3075,7 @@ include 'sidebar/research_sidebar.php';
                             </table>
                         </div>
                         <h4 class="tmu-text-primary"><span>Degree </span><span>Awarded</span></h4>
-                        <div class="table-responsive">
+                        <div class="table-responsive mb-4 mt-0">
                             <table class="table table-bordered table-striped">
                                 <thead>
                                     <tr>
@@ -3099,10 +3099,10 @@ include 'sidebar/research_sidebar.php';
 
 
                     <hr class="horizontal-line">
-                    <button class="careers-accordion"> College of Law<span class="icon">+</span> </button>
+                    <button class="careers-accordion mb-3"> College of Law<span class="icon">+</span> </button>
                     <div class="panel">
                         <h4 class="tmu-text-primary"><span>Registered </span><span>Scholar</span></h4>
-                        <div class="table-responsive">
+                        <div class="table-responsive mb-4 mt-0">
                             <table class="table table-bordered table-striped">
                                 <thead>
                                     <tr>
@@ -3140,8 +3140,8 @@ include 'sidebar/research_sidebar.php';
                                 </tbody>
                             </table>
                         </div>
+                        <hr class="horizontal-line">
                     </div>
-                    <hr class="horizontal-line">
                 </div>
             </div>
         </div>

@@ -6,16 +6,16 @@
 
 <section id="content">
     <div class="content-wrap py-0">
-        <div class="container-fluid my-0  px-0 px-md-3">
+        <div class="container-fluid my-0 px-0">
             <div class="row">
                 <?php
                 include 'sidebar/research_sidebar.php';
                 ?>
-                <div class="col-12 col-md-10 mt-3 mt-sm-0 pt-5 ">
+                <div class="col-12 col-md-10 mt-3 mt-sm-0 pt-5">
                     <div class="row mx-0">
                         <h1 class="tmu-text-primary tmu-page-heading"><span>Research </span><span> Policy</span></h1>
 
-                        <div class="container my-5 py-2">
+                        <div class="container my-2 py-2">
                             <ul class="nav nav-tabs justify-content-center py-2 gap-2 gap-md-5" id="myTabs"
                                 role="tablist">
                                 <li class="nav-item" role="presentation">

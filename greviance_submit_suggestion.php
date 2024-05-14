@@ -2,17 +2,11 @@
 <?php
  include 'head.php';
 ?>
-<style>
-  .contact .php-email-form {
-    width: 100%;
-    height: 100%;
-    background: #fff;
-    box-shadow: 0px 2px 25px rgba(0, 0, 0, 0.1);
-    padding: 30px;
-    border-radius: 0 10px 10px 0;
-  }
 
-</style>
+<section id="content">
+	<div class="content-wrap py-0">
+		<div class="container-fluid my-0  px-0">
+			<div class="row">
 <?php
  include 'sidebar/greviances_sidebar.php';
 ?>
@@ -22,14 +16,14 @@
                     
                     <div class="row mx-0" >
 
-<section id="contact" class="contact">
+<section id="contact" class="contact mb-5">
             <div class="container" data-aos="fade-up">
 
              <h1 class="tmu-text-primary tmu-page-heading"><span> Write </span><span> To Us</span></h1>
               <div class="row gx-lg-0 gy-4 mt-2">
               <div class="col-lg-12">
                 <form action="forms/contact.php" method="post" role="form" class="php-email-form">
-                  <div class="row gx-lg-0 gy-4 mt-3">
+                  <div class="row gx-lg-0 gy-4 mt-2">
                     <div class="col-lg-12">
                       <form action="forms/contact.php" method="post" role="form"
                          class="php-email-form">
@@ -39,12 +33,12 @@
                                                     <input type="text" name="name" class="form-control" id="name"
                                                         placeholder="Your Name" required>
                                                 </div>
-                                                <div class="col-md-4 form-group mt-3 mt-md-0">
+                                                <div class="col-md-4 form-group mt-2 mt-md-0">
                                                     <input type="text" class="form-control" name="rollnumber" id="rollnumber"
                                                         placeholder="Your Enrolment Number" required>
                                                 </div>
 
-                                                <div class="col-md-4 form-group mt-3 mt-md-0">
+                                                <div class="col-md-4 form-group mt-2 mt-md-0">
                                                     <input type="text" class="form-control" name="text" id="f-name"
                                                         placeholder="Your Father's Name" required>
                                                 </div>
@@ -54,7 +48,7 @@
                                                     <input type="text" name="programme" class="form-control" id="programme"
                                                         placeholder="Programme Name" required>
                                                 </div>
-                                                <div class="col-md-6 form-group mt-3 mt-md-0">
+                                                <div class="col-md-6 form-group mt-2 mt-md-0">
                                                     <input type="number" class="form-control" name="Semester" id="semester"
                                                         placeholder="Semester" required>
                                                 </div>
@@ -64,7 +58,7 @@
                                                     <input type="email" name="programme" class="form-control" id="email"
                                                         placeholder="Your Mail Id" required>
                                                 </div>
-                                                <div class="col-md-6 form-group mt-3 mt-md-0">
+                                                <div class="col-md-6 form-group mt-2 mt-md-0">
                                                     <input type="number" class="form-control" name="contact" id="contact"
                                                         placeholder="Your Conatact Number" required>
                                                 </div>
@@ -82,7 +76,7 @@
                                                     placeholder="Message" required></textarea>
                                             </div>
                                             <div style="text-align: center;">
-                                                <button class="tmu-btn btn-1 py-2 mt-4">Send Us!</button>
+                                                <button class="tmu-btn btn-1 py-2 mt-3">Send Us!</button>
                                             </div>
                                         </form>
                                     </div><!-- End Contact Form -->

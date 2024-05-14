@@ -11,7 +11,8 @@
                 ?>
 
                 <div class="col-12 col-md-10 mt-3 mt-sm-0 pt-5 ">
-                    <div class="row mx-0">
+                    <div class="container">
+                        <div class="row mx-0">
                         <h1 class="tmu-text-primary tmu-page-heading"><span>List </span><span> of Publications</span>
                         </h1>
                         <div class="table-responsive">
@@ -23,7 +24,7 @@
                                     <tbody>
 
                                         <tr>
-                                            <th>Sl.no</th>
+                                            <th>Sl.No</th>
                                             <th>Title of paper</th>
                                             <th>Name of the author/s</th>
                                             <th>Name of journal</th>
@@ -36591,6 +36592,7 @@
                                     </tbody>
                                 </table>
                             </div>
+                        </div>
                         </div>
                     </div>
                 </div>
