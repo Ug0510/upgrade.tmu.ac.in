@@ -196,15 +196,14 @@ include 'sidebar/research_sidebar.php';
   
                 <div class="row mx-0">
                     
-                    <h2 class="tmu-text-primary tmu-page-heading">About Innovation & <span>Startup Cell</span></h2>
-                        <h2 class=" text-center d-none d-md-block" style="color:#001055; text-transform: capitalize; font-weight:700!important; font-size:2.4vmax">About Innovation & <span>Startup Cell</span></h2>
+                    <h1 class="tmu-text-primary tmu-page-heading"><span>About Innovation & </span><span>Startup Cell</span></h1>
                     
                     <div class="col-md-12">
                         
                         
                         
                     <p style="text-align:justify">As an educational institution, the University encourages students and scholars to expand human knowledge through analysis, innovation, and insight.</p>
-                        <p style="text-align:justify">To lend a helping hand to the scholar burning the midnight oil, the University subscribes the following database providing access to thousands of journals in different disciplines for full text research articles and sector specific reports.</p>
+                        <p style="text-align:justify" class="my-2">To lend a helping hand to the scholar burning the midnight oil, the University subscribes the following database providing access to thousands of journals in different disciplines for full text research articles and sector specific reports.</p>
                     </div>
                     <div class="col-md-4 col-sm-4 mb-1">
                             <a href="https://www.ebsco.com/" target="_blank"><img src="https://www.tmu.ac.in/img/research/EBSCOhost_Flat.png" alt="Material Design for Bootstrap - example photo" class="img-fluid img-thumbnail z-depth-1-half"></a>
@@ -217,17 +216,17 @@ include 'sidebar/research_sidebar.php';
                         </div>
                 </div>
 
-                <div class="row">
+                <div class="row mt-3">
                     <div class="col-md-12">
                         <p style="text-align:justify">The University collaborates with national and international institutions for teaching, research and exchange of faculty and students to contribute to cutting-edge research and evolve new standards. Another project, “UKIERI”, had been undertaken to improve teaching pedagogy and IT enabled teaching in the College of Nursing in collaboration with Napier University, U. K.</p>
                     </div>
                 </div>
-                <div class="row">
+                <div class="row my-3">
                     <div class="col-md-12">
                         <p style="text-align:justify">A number of projects sponsored and funded by external agencies are in progress. Projects sponsored by the Ministry of Labor and Employment, Government of India, a project with the Consultancy Development Center, and a project under the aegis of UNICEF, are underway.</p>
                     </div>
                 </div>
-                <p>The University publishes the following journals on periodic basis:</p>
+                <p class="mb-2">The University publishes the following journals on periodic basis:</p>
 
                     <div class="box d-none d-sm-block">
                         <div class="container">
@@ -322,7 +321,7 @@ include 'sidebar/research_sidebar.php';
                     </div>
                     <div class="row">
                     <div class="col-md-12">
-                        <p style="text-align:justify">Students and faculty members are encouraged to contribute towards research and participate in national and international conferences and seminars. The faculty members publish quality research papers which go a long way in contributing towards the promotion of research in varied disciplines.</p>
+                        <p style="text-align:justify" class="mt-3">Students and faculty members are encouraged to contribute towards research and participate in national and international conferences and seminars. The faculty members publish quality research papers which go a long way in contributing towards the promotion of research in varied disciplines.</p>
                     </div>
 				</div>
                 </div>
