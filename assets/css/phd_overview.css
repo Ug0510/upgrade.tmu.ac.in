@@ -1,0 +1,91 @@
+
+
+    section {
+        overflow: hidden;
+        font-family: 'poppins';
+    }
+
+    .section-bg {
+        background-color: #f6f7f6;
+    }
+
+    .section-title {
+        padding-bottom: 40px;
+    }
+
+    .section-title h2 {
+        font-size: 14px;
+        font-weight: 500;
+        padding: 0;
+        line-height: 1px;
+        margin: 0 0 5px 0;
+        letter-spacing: 2px;
+        text-transform: uppercase;
+        color: #aaaaaa;
+        font-family: "Poppins", sans-serif;
+    }
+
+    .section-title h2::after {
+        content: "";
+        width: 120px;
+        height: 1px;
+        display: inline-block;
+        background: #FF7900;
+        margin: 4px 10px;
+    }
+
+    .section-title p {
+        margin: 0;
+        margin: 0;
+        font-size: 36px;
+        font-weight: 700;
+        text-transform: uppercase;
+        font-family: "Poppins", sans-serif;
+        color: #37423b;
+    }
+
+    .courses .course-item {
+        border-radius: 5px;
+        border: 1px solid #eef0ef;
+    }
+
+    .courses .course-content {
+        padding: 15px;
+    }
+
+    .courses .course-content h3 {
+        font-weight: 700;
+        font-size: 20px;
+        line-height: 15px;
+        margin-bottom: 15px;
+    }
+
+    .courses .course-content h3 a {
+        color: #37423b;
+        transition: 0.3s;
+    }
+
+    .courses .course-content h3 a:hover {
+        color: #5fcf80;
+    }
+
+    .courses .course-content p {
+        font-size: 14px;
+        color: #777777;
+    }
+
+    .courses .course-content h4 {
+        font-size: 14px;
+        background: #FF7900;
+        padding: 7px 14px;
+        color: #fff;
+        margin: 0;
+        border-radius: 10px;
+    }
+
+    .courses .course-content .price {
+        margin: 0;
+        font-weight: 700;
+        font-size: 18px;
+        color: #37423b;
+    }
