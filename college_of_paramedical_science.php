@@ -166,16 +166,16 @@ include 'head.php';
                     <p>The College of Paramedical Sciences offers specialised training in four disciplines, delivered by qualified professionals.</p>
                     <ul class="m-ol-list ps-4">
                         <li>
-                            <p class="p-0 m-0"><b>Medical Laboratory Techniques:</b>It is a hub of academic research and consultancy that grooms professionals by providing diplomas, graduate, post-graduate and doctorate-level programmes with the knowledge and skills necessary to excel in the ever-evolving pharmacy field.</p>
+                            <p class="p-0 m-0"><span class="fw-bold fs-16 tmu-color-blue">Medical Laboratory Techniques:</span>It is a hub of academic research and consultancy that grooms professionals by providing diplomas, graduate, post-graduate and doctorate-level programmes with the knowledge and skills necessary to excel in the ever-evolving pharmacy field.</p>
                         </li>
                         <li>
-                            <p class="p-0 m-0"><b>Radiological Imaging Techniques:</b>  Develop proficiency in radiological imaging techniques. Such as X-Ray, Color Doppler, Ultrasound, CT-SCAN, and MRI.</p>
+                            <p class="p-0 m-0"><span class="fw-bold fs-16 tmu-color-blue">Radiological Imaging Techniques:</span>  Develop proficiency in radiological imaging techniques. Such as X-Ray, Color Doppler, Ultrasound, CT-SCAN, and MRI.</p>
                         </li>
                         <li>
-                            <p class="p-0 m-0"><b>Optometry:</b> Become a specialised health care professional that provides comprehensive eye care, examining the eyes and structures for defects or abnormalities.</p>
+                            <p class="p-0 m-0"><span class="fw-bold fs-16 tmu-color-blue">Optometry:</span> Become a specialised health care professional that provides comprehensive eye care, examining the eyes and structures for defects or abnormalities.</p>
                         </li>
                         <li>
-                            <p class="p-0 m-0"><b>Forensic Science:</b> Gain valuable exposure and practical industrial training for both faculty and students alike.</p>
+                            <p class="p-0 m-0"><span class="fw-bold fs-16 tmu-color-blue">Forensic Science:</span> Gain valuable exposure and practical industrial training for both faculty and students alike.</p>
                         </li>
                     </ul>
                 </div>
