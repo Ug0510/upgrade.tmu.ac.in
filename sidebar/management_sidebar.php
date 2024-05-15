@@ -41,15 +41,11 @@
 		<!--<li><a href="/nep_course_list.php" data-filter=".sf-nep-course-lis">Study Material</a></li>-->
 		<li><a href="/mgmt_timetable.php" data-filter=".sf-nep-document">Time Table</a></li>
 		<li><a href="http://library.tmu.ac.in/" data-filter=".sf-nep-minor-list">Old Exam Papers</a></li>
-		<li><a href="/mgmt_anti_ragging.php" data-filter=".sf-nep-minor-list">Anti Ragging Committee</a>
-		</li>
-		<li>
-			<hr>
-		</li>
+		<li><a href="/mgmt_anti_ragging.php" data-filter=".sf-nep-minor-list">Anti Ragging Committee</a></li>
+		<li><hr></li>
 		<li><a href="#" class="text-dark fw-semibold side-head" data-filter="*">Quick Links</a></li>
 		<li><a href="/mgmt_guestlecture.php" data-filter=".sf-nep-minor-list">Guest Lectures </a></li>
-		<li><a href="/journal.php" data-filter=".sf-nep-minor-list">Conference Proceedings</a>
-		</li>
+		<li><a href="/journal.php" data-filter=".sf-nep-minor-list">Conference Proceedings</a></li>
 		<li><a href="#" data-filter=".sf-nep-minor-list">Gallery</a></li>
 		<li><a href="/mgmt_contactus.php" data-filter=".sf-nep-minor-list">Contact Us</a></li>
 
