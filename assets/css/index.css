@@ -3133,3 +3133,80 @@ CTLD Page CSS start
 CTLD Page CSS end
 ---------------------- */
 
+/* 
+----------------------
+Conferences Cards CSS Starts
+---------------------- */
+.entry-image {
+    position: relative;
+    border-top: 1px solid #FF7900; /* Apply border to the top side */
+    border-left: 1px solid #FF7900; /* Apply border to the left side */
+}
+
+.entry-image::after {
+    content: '';
+    position: absolute;
+    right: 0;
+    bottom: 0;
+    border-bottom: 1px solid #FF7900; /* Simulate border at the bottom-right */
+    border-right: 1px solid #FF7900; /* Simulate border at the bottom-right */
+    width: 100%; /* Ensure it spans the full width */
+    height: 100%; /* Ensure it spans the full height */
+    box-sizing: border-box;
+}
+
+.entry {
+    margin-bottom: 0.55rem;
+}
+
+.entry-title h2 , .entry-title .h2 {
+    color: #000;
+    font-size: 1.022rem!important;
+    font-family:'poppins';
+    line-height: 1.6;
+}
+
+.entry-title h2 {
+    overflow: hidden; 
+    max-width: 100%; 
+    display: block; 
+}
+
+.entry-meta{
+    margin-top:-5px;
+}
+
+@media (min-width: 768px) and (max-width: 1024px) {
+    .entry.event {
+        flex: 0 0 50%; 
+        max-width: 50%; 
+    }
+}
+
+.badge{
+	background-color:#0010551e!important;
+	color:#001055!important;
+}
+
+/* 
+----------------------
+Conference cards CSS end
+---------------------- */
+
+/* 
+----------------------
+Contact Us Card CSS Start
+---------------------- */
+.contact .php-email-form {
+    width: 100%;
+    height: 100%;
+    background: #fff;
+    box-shadow: 0px 2px 25px rgba(0, 0, 0, 0.1);
+    padding: 30px;
+    border-radius: 0 10px 10px 0;
+  }
+
+  /* 
+----------------------
+Contact Us Card end
+---------------------- */

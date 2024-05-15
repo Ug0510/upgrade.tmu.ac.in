@@ -18,8 +18,8 @@ include 'head.php';
             <div class="row">
               <div class="col-md-12">
                 <ol class="m-ol-list ps-4">
-                  <li style="text-align:justify">Self attested copies of the following are to be uploaded on the portal for applying in Ph.D Programme:-
-                    <ul style="list-style-type:disc;" class="ps-5">
+                  <li>Self attested copies of the following are to be uploaded on the portal for applying in Ph.D Programme:-</li>
+                    <ul class="ps-5 m-ol-list">
                       <li>Matriculation marksheet</li>
                       <li>Matriculation certificate</li>
                       <li>10+2 marksheet</li>
@@ -34,22 +34,17 @@ include 'head.php';
                       <li>Any other educational qualification certificate</li>
                       <li>All experience certificates</li>
                       <li>SC&nbsp;/ST&nbsp;/PH&nbsp;/OBC&nbsp;/Minority certificate, if applicable.</li>
+                      <li >No Objection Certificate from Head of the department/institution, if applicant is employed.</li>
+                      <li >Any other relevant information/publication.</li>
+                      <li >Colour photograph.</li>
+                      <li >TRAT fee of Rs.2,000/- is to be paid online . </li>
                     </ul>
-                  </li>
-                  <li style="text-align:justify">No Objection Certificate from Head of the department/institution, if applicant is employed.</li>
-                  <li style="text-align:justify">Any other relevant information/publication.</li>
-
-                  <li style="text-align:justify">Colour photograph.</li>
-
-                  <li style="text-align:justify">TRAT fee of Rs.2,000/- is to be paid online . </li>
-                  </ul>
-                  <br>
                   <div class="alert alert-">
                     <strong class="tmu-text-primary"><span></span><span>Note:</span></strong><br />
-                    <ul style="list-style-type:lower-roman" class="ps-3">
-                      <li style="text-align:justify">The original documents shall be required to be produced at the time of registration..</li>
-                      <li style="text-align:justify">Candidates who have qualified UGC-NET(including JRF)/UGC-CSIR NET(including JRF)/SLET/Teacher Fellowship holder or have passed M.Phil Programme are exempted from the <b class="fs-14">University TRAT</b>.</li>
-                      <li style="text-align:justify">Candidates applying for Ph.D. in Jainology are exempted from the <b class="fs-14">University TRAT Fee.</b></li>
+                    <ul class="ps-3 m-ol-list">
+                      <li >The original documents shall be required to be produced at the time of registration..</li>
+                      <li >Candidates who have qualified UGC-NET(including JRF)/UGC-CSIR NET(including JRF)/SLET/Teacher Fellowship holder or have passed M.Phil Programme are exempted from the <b class="fs-14">University TRAT</b>.</li>
+                      <li >Candidates applying for Ph.D. in Jainology are exempted from the <b class="fs-14">University TRAT Fee.</b></li>
                     </ul>
                   </div>
               </div>
