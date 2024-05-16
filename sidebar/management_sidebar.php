@@ -7,7 +7,7 @@
 	</span>
 
 	<ul class="list-unstyled items-nav sticky-sidebar shop-filter mt-4 d-none d-sm-block" data-container="#shop">
-		<li><a href="#" class="text-dark fw-semibold side-head" data-filter="*">About Us</a></li>
+		<li class="no-divider"><a href="#" class="text-dark fw-semibold side-head" data-filter=".sf-new">About Us</a></li>
 		<li><a href="/nep_guidelines.php" data-filter=".sf-nep-guidelines">Home</a></li>
 		<li><a href="/nep_guidelines.php" data-filter=".sf-nep-guidelines">About Us</a></li>
 		<li><a href="/nep_immplement_committee.php" data-filter=".sf-nep-immplement-committee">College
@@ -16,7 +16,7 @@
 		<li>
 			<hr>
 		</li>
-		<li><a href="#" class="text-dark fw-semibold side-head" data-filter="*">Academics</a></li>
+		<li class="no-divider"><a href="#" class="text-dark fw-semibold side-head" data-filter=".sf-new">Academics</a></li>
 		<!--<li><a href="/nep_coordinator.php" data-filter=".sf-nep-coordinator">Programme Offered</a></li>-->
 		<!--<li><a href="/nep_academic_bank.php" data-filter=".sf-nep-academic">Programme Structure</a></li>-->
 		<li><a href="/nep_disciplines_list.php" data-filter=".sf-nep-discipline-list">Syllabus</a></li>
@@ -24,7 +24,7 @@
 		<li>
 			<hr>
 		</li>
-		<li><a href="#" class="text-dark fw-semibold side-head" data-filter="*">Training &
+		<li class="no-divider"><a href="#" class="text-dark fw-semibold side-head" data-filter=".sf-new">Training &
 				Placements</a></li>
 		<li><a href="/nep_fyup_salient.php" data-filter=".sf-nep-fyup-salient">Training Placements
 				Cell</a></li>
@@ -37,13 +37,13 @@
 		<li>
 			<hr>
 		</li>
-		<li><a href="#" class="text-dark fw-semibold side-head" data-filter="*">Student Corner</a></li>
+		<li class="no-divider"><a href="#" class="text-dark fw-semibold side-head" data-filter=".sf-new">Student Corner</a></li>
 		<!--<li><a href="/nep_course_list.php" data-filter=".sf-nep-course-lis">Study Material</a></li>-->
 		<li><a href="/mgmt_timetable.php" data-filter=".sf-nep-document">Time Table</a></li>
 		<li><a href="http://library.tmu.ac.in/" data-filter=".sf-nep-minor-list">Old Exam Papers</a></li>
 		<li><a href="/mgmt_anti_ragging.php" data-filter=".sf-nep-minor-list">Anti Ragging Committee</a></li>
 		<li><hr></li>
-		<li><a href="#" class="text-dark fw-semibold side-head" data-filter="*">Quick Links</a></li>
+		<li class="no-divider"><a href="#" class="text-dark fw-semibold side-head" data-filter=".sf-new">Quick Links</a></li>
 		<li><a href="/mgmt_guestlecture.php" data-filter=".sf-nep-minor-list">Guest Lectures </a></li>
 		<li><a href="/journal.php" data-filter=".sf-nep-minor-list">Conference Proceedings</a></li>
 		<li><a href="#" data-filter=".sf-nep-minor-list">Gallery</a></li>
