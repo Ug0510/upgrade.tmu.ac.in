@@ -63,6 +63,9 @@ p {
 .fs-16{
     font-size: 16px !important;
 }
+.fs-24{
+    font-size: 24px !important;
+}
 .w-fit-content{
     width: fit-content !important;
 }
@@ -360,9 +363,7 @@ p {
 .tmu-btn.btn-1:hover,
 .tmu-btn.btn-2:hover {
     border: 1px solid #FF7900;
-    background-color: white;
-    /* background-color: #dd6900;
-border:1px solid #dd6900; */
+    background-color: transparent;
     color: #FF7900;
 }
 
@@ -384,7 +385,7 @@ border:1px solid #dd6900; */
     border:1px solid #001055; 
 }
 .tmu-btn.btn-4:hover{
-    background-color: #fff;
+    background-color: transparent;
     color:#001055;
     
 }
