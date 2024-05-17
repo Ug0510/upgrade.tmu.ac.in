@@ -2493,12 +2493,12 @@ body {
 }
 
 .under-banner-cards>span:first-child {
-    font-size: 1.6rem;
+    font-size: 1.2rem;
 }
 
 @media screen and (max-width:480px) {
     .under-banner-cards>span:first-child {
-        font-size: 1.2rem;
+        font-size: 1rem;
     }
 
     .under-banner-cards>span:not(:first-child) {
