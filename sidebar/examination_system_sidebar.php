@@ -1,12 +1,4 @@
-<section id="content">
-	<div class="content-wrap py-0">
-		
 
-
-		<div class="container-fluid my-0  px-0 px-md-3">
-
-
-			<div class="row">
 				<div class="col-md-2 col-lg-2 sticky-sidebar-wrap pe-5 py-0 py-lg-3 " style="background-color: #55555510;">
 
 					<span class="undernav-locator mb-2 ms-3">
@@ -28,12 +20,12 @@
 							<li class="no-divider"><a href="" class="text-dark fw-semibold side-head" data-filter=".sf-new">Quick Links</a></li>
 							<li><a href="#" data-filter=".sf-about-us">About University</a></li>
 							<li><a href="/tmu_vision&mission.php" data-filter=".sf-vision-&-mission">Vision & Mission</a></li>
-               <li><a href="/statutoy_approvals.php" data-filter=".sf-statutory-approvals">Statutory Approvals</a></li>
-              <li><a href="#" data-filter=".sf-awards-recognitions">Rating/Award/<br>Recognition</a></li>
-               <li><a href="#" data-filter=".sf-why-tmu">Why Choose TMU?</a></li>
-              <li><a href="#" data-filter=".sf-governance">University Governance</a></li>
-              <li><a href="#" data-filter=".sf-administration">University Administration</a></li>
-              <li><a href="#" data-filter=".sf-map-location">Campus Map & Location</a></li>
+               				<li><a href="/statutoy_approvals.php" data-filter=".sf-statutory-approvals">Statutory Approvals</a></li>
+              				<li><a href="#" data-filter=".sf-awards-recognitions">Rating/Award/<br>Recognition</a></li>
+              				<li><a href="#" data-filter=".sf-why-tmu">Why Choose TMU?</a></li>
+              				<li><a href="#" data-filter=".sf-governance">University Governance</a></li>
+              				<li><a href="#" data-filter=".sf-administration">University Administration</a></li>
+              				<li><a href="#" data-filter=".sf-map-location">Campus Map & Location</a></li>
 					</ul>
 
 
