@@ -142,10 +142,10 @@
 							<div class="grid-inner bg-white row g-0 p-3 border-0 rounded-5 shadow-sm h-shadow all-ts h-translate-y-sm">
 								<div class="col-md-4 mb-md-0">
 									<a href="#" class="entry-image mb-0 h-100">
-										<img src="https://source.unsplash.com/fIHozNWfcvs/800x450" alt="Inventore voluptates velit totam ipsa tenetur" class="rounded-2 h-100 object-cover">
+										<img src="https://www.tmu.ac.in/uploads/events/past_event/543_title_image.jpg" alt="Inventore voluptates velit totam ipsa tenetur" class="rounded-2 h-100 object-cover">
 										<div class="bg-overlay">
 											<div class="bg-overlay-content justify-content-start align-items-start">
-												<div class="badge bg-light text-dark rounded-pill">Academics</div>
+												<div class="tmu-btn btn-1 px-3 py-1 fs-12 rounded-pill">Academics</div>
 											</div>
 										</div>
 									</a>
@@ -153,7 +153,7 @@
 								<div class="col-md-8 p-4">
 									<div class="entry-meta no-separator mb-1 mt-0">
 										<ul>
-											<li><a href="#" class="text-uppercase fw-medium">Fri, Jan 23 @ 5:30PM</a></li>
+											<li><a href="#" class="text-uppercase fw-medium">Fri, Jan 23 </a></li>
 										</ul>
 									</div>
 
@@ -177,7 +177,7 @@
 							<div class="grid-inner bg-white row g-0 p-3 border-0 rounded-5 shadow-sm h-shadow all-ts h-translate-y-sm">
 								<div class="col-md-4 mb-md-0">
 									<a href="#" class="entry-image mb-0 h-100">
-										<img src="https://source.unsplash.com/fIHozNWfcvs/800x450" alt="Inventore voluptates velit totam ipsa tenetur" class="rounded-2 h-100 object-cover">
+										<img src="https://www.tmu.ac.in/uploads/events/past_event/539_title_image.webp" alt="Inventore voluptates velit totam ipsa tenetur" class="rounded-2 h-100 object-cover">
 										<div class="bg-overlay">
 											<div class="bg-overlay-content justify-content-start align-items-start">
 												<div class="badge bg-light text-dark rounded-pill">Achievements</div>
@@ -188,7 +188,7 @@
 								<div class="col-md-8 p-4">
 									<div class="entry-meta no-separator mb-1 mt-0">
 										<ul>
-											<li><a href="#" class="text-uppercase fw-medium">Fri, Jan 23 @ 5:30PM</a></li>
+											<li><a href="#" class="text-uppercase fw-medium">Fri, Jan 23 </a></li>
 										</ul>
 									</div>
 
@@ -223,7 +223,7 @@
 								<div class="col-md-8 p-4">
 									<div class="entry-meta no-separator mb-1 mt-0">
 										<ul>
-											<li><a href="#" class="text-uppercase fw-medium">Mon, Feb 12 @ 3:00PM</a></li>
+											<li><a href="#" class="text-uppercase fw-medium">Mon, Feb 12 </a></li>
 										</ul>
 									</div>
 
@@ -293,7 +293,7 @@
 								<div class="col-md-8 p-4">
 									<div class="entry-meta no-separator mb-1 mt-0">
 										<ul>
-											<li><a href="#" class="text-uppercase fw-medium">Fri, Jan 23 @ 5:30PM</a></li>
+											<li><a href="#" class="text-uppercase fw-medium">Fri, Jan 23 </a></li>
 										</ul>
 									</div>
 
