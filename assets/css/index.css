@@ -64,7 +64,10 @@ p {
     font-size: 16px !important;
 }
 .w-fit-content{
-    width: fit-content;
+    width: fit-content !important;
+}
+.text-justtify{
+    text-align: justify !important;
 }
 
 .ff-poppins{
