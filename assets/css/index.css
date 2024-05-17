@@ -3147,20 +3147,6 @@ Conferences Cards CSS Starts
 ---------------------- */
 .entry-image {
     position: relative;
-    border-top: 1px solid #FF7900; /* Apply border to the top side */
-    border-left: 1px solid #FF7900; /* Apply border to the left side */
-}
-
-.entry-image::after {
-    content: '';
-    position: absolute;
-    right: 0;
-    bottom: 0;
-    border-bottom: 1px solid #FF7900; /* Simulate border at the bottom-right */
-    border-right: 1px solid #FF7900; /* Simulate border at the bottom-right */
-    width: 100%; /* Ensure it spans the full width */
-    height: 100%; /* Ensure it spans the full height */
-    box-sizing: border-box;
 }
 
 .entry {
@@ -3173,7 +3159,9 @@ Conferences Cards CSS Starts
     font-family:'poppins';
     line-height: 1.6;
 }
-
+.entry-title h3 a {
+    line-height: 1.4;
+}
 .entry-title h2 {
     overflow: hidden; 
     max-width: 100%; 
