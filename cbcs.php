@@ -2,7 +2,10 @@
  include 'head.php';
 ?>
 
-
+<section id="content">
+    <div class="content-wrap py-0">
+        <div class="container-fluid my-0  px-0">
+            <div class="row">
 
 
 <?php
@@ -17,7 +20,7 @@ include 'sidebar/open_elective_sidebar.php';
                         <div class="table-responsive mb-3">
                         <table class="table table-bordered table-striped">
 							              <thead>
-                                <th>S. No.</th>
+                                <th>Sl. No.</th>
                                 <th>Name Of College</th>
                                 <th>Name of Department</th>
                                 <th>S.No.</th>

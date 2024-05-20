@@ -1,0 +1,192 @@
+
+.banner {
+        display: flex;
+        height: 380px;
+        width: 100%;
+        background-color: #dcebca;
+    }
+
+    .ban-text {
+        /* padding: 30px;
+  font-size: 20px;
+  line-height: 8px; */
+        margin-top: 0px;
+        padding: 10px;
+        padding-top: 120px;
+    }
+
+    .ban-img {
+        text-align: right;
+        z-index: 2;
+    }
+
+    /* Slideshow container */
+    .slideshow-container {
+        max-width: 100%;
+        position: relative;
+        margin: auto;
+    }
+
+    /* Caption text */
+    .text {
+        color: #ffffff;
+        font-size: 20px;
+        margin-bottom: 100px;
+        margin-left: 50px;
+        margin-top: 20px;
+        padding: 20px;
+        position: absolute;
+        bottom: 8px;
+        width: 40%;
+        text-align: Left;
+        top: 45%;
+        transform: translateY(-50%);
+    }
+
+    .text h1 {
+        color: #ffffff;
+        margin-left: 30px;
+        font-size: 50px;
+        font-weight: bold;
+        line-height: 60px;
+        text-decoration: none;
+        text-align: left;
+    }
+
+    .text p {
+        color: #ffffff;
+        margin-left: 30px;
+        font-size: 20px;
+        line-height: 30px;
+        text-decoration: none;
+        text-align: left;
+    }
+
+    /* Caption text */
+    .img-right {
+        position: absolute;
+        bottom: 0px;
+        height: 100;
+        width: 100%;
+        text-align: Right;
+    }
+
+    .img-right img {
+        width: 50%;
+        height: 50%;
+    }
+
+    @media screen and (max-width: 1250px) {
+        .text h1 {
+            color: #ffffff;
+            margin-left: 30px;
+            font-size: 40px;
+            font-weight: 700;
+            line-height: 50px;
+            text-decoration: none;
+            text-align: left;
+        }
+
+        .text p {
+            color: #ffffff;
+            margin-left: 30px;
+            font-size: 18px;
+            line-height: 26px;
+            text-decoration: none;
+            text-align: left;
+        }
+    }
+
+    @media screen and (max-width: 1105px) {
+        .text h1 {
+            color: #ffffff;
+            margin-left: 25px;
+            font-size: 35px;
+            font-weight: 600;
+            line-height: 40px;
+            text-decoration: none;
+            text-align: left;
+        }
+
+        .text p {
+            color: #ffffff;
+            margin-left: 25px;
+            font-size: 16px;
+            line-height: 20px;
+            text-decoration: none;
+            text-align: left;
+        }
+    }
+
+    @media screen and (max-width: 975px) {
+        .text h1 {
+            color: #ffffff;
+            margin-left: 25px;
+            font-size: 30px;
+            font-weight: 500;
+            line-height: 40px;
+            text-decoration: none;
+            text-align: left;
+        }
+
+        .text p {
+            color: #ffffff;
+            margin-left: 25px;
+            font-size: 14px;
+            line-height: 20px;
+            text-decoration: none;
+            text-align: left;
+        }
+
+        .text {
+            color: #ffffff;
+            font-size: 20px;
+            margin-bottom: 20px;
+            margin-left: 50px;
+            margin-top: 20px;
+            padding: 20px;
+            position: absolute;
+            bottom: 8px;
+            width: 50%;
+            text-align: Left;
+        }
+    }
+
+    .toggle-side {
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+        background-color: #ffffff;
+        border: 1px solid #FF7900;
+        color: #FF7900;
+        justify-content: start;
+        transition: 0.5s ease all;
+        border-radius: 5px;
+    }
+
+    .toggle-side.active {
+        transform: rotate(-90deg) translate(90px, 100px);
+    }
+
+    .toggle-side::before,
+    .toggle-side>.vericaltext {
+        color: #FF7900;
+
+    }
+
+    .scroll>form>input,
+    .scroll>form>textarea {
+        /* border-radius: 5px !important; */
+        font-size: 14px;
+        padding: 0.5rem 1rem;
+    }
+
+    .scroll>form>input:focus,
+    .scroll>form>textarea:focus {
+        border: 1px solid #FF7900;
+    }
+
+    .scroll>form>.btn-1 {
+        background-color: #FF7900;
+        padding-bottom: 30px;
+    }
