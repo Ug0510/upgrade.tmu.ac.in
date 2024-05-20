@@ -30,7 +30,7 @@ include 'head.php';
         <h1>Master of Science in Data Science</h1>
         <p class="mb-4">Go the extra mile to become a data-driven leader.</p>
         <!-- <a href="#" class="tmu-btn btn-4 px-3 py-2 ms-5">Download Brocher</a> -->
-        <a href="#" class="tmu-btn btn-4 px-5 py-2 ms-5">Apply Now</a>
+        <a href="https://admissions.tmu.ac.in/" class="tmu-btn btn-4 px-5 py-2 ms-5">Apply Now</a>
     </div>
     <!-- <div class="img-right img d-none d-sm-block w-fit-content border border-primary">
         <img src="./assets/img/pharmacy/pharmacy.jpeg" alt=".." class="border border-success">
@@ -39,9 +39,9 @@ include 'head.php';
 <div class="banner d-block d-sm-none" style="max-height: 85.1vh; background-image: url('demos/saas-2/images/hero7.jpg');">
     <div class="ban-text">
         <div class="col-xs-6 ban-text">
-            <h1 class="display-4 fw-bolder ls-n-1" style="font-size: 20px; color: #ffffff;">Build Your Future with Data Science</h1>
-            <a class="my-button tmu-btn btn-2">Download Brocher</a>
-            <a class="my-button-blk tmu-btn btn-2">Apply Now</a>
+            <h1 class="display-4 fw-bolder ls-n-1 text-light fs-5 mb-3 mt-3 text-center">Build Your Future with Data Science</h1>
+            
+            <a class="my-button-blk tmu-btn btn-1 px-5 py-2 d-block mx-auto w-fit-content" href="https://admissions.tmu.ac.in/">Apply Now</a>
         </div>
     </div>
 </div>
@@ -145,7 +145,7 @@ include 'head.php';
         </div>
 
     </div>
-    <p class="text-justify">The Teerthanker Mahaveer University Admission Scholarships
+    <p class="text-justify lh-base">The Teerthanker Mahaveer University Admission Scholarships
         is awarded for the first year of the Undergraduate program. Continuation of Admission
         Scholarship in subsequent years is subject to obtaining CGPA of 8 on a scale of 10, having no backlog
         and no discipline case being recorded
@@ -154,7 +154,7 @@ include 'head.php';
         JEE Mains 2023 score or SAT Score. In case candidate is not meeting the Admission scholarship criteria,
         he/she may be eligible for Academic
         Scholarships as outlined in the next section.</p><br>
-    <p>In case candidate is not meeting the Admission scholarship criteria, he/she may be eligible for Academic
+    <p class="lh-base">In case candidate is not meeting the Admission scholarship criteria, he/she may be eligible for Academic
         Scholarships as outlined in the next section.</p>
     <div class="table-wrapper">
         <table>
@@ -234,7 +234,7 @@ include 'head.php';
 
         <div class="row align-items-lg-center min-vh-lg-100">
             <div class="col-lg-6">
-                <img src="eligiblity.jpg" alt="Girl in a jacket">
+                <img src="eligiblity.jpg" alt="Girl in a jacket" class="mx-auto d-block">
             </div>
 
             <div class="col-lg-6 align-self-center">

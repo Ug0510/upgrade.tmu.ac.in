@@ -1,5 +1,5 @@
 
-.banner {
+    .banner {
         display: flex;
         height: 380px;
         width: 100%;
@@ -77,6 +77,11 @@
     }
 
     @media screen and (max-width: 1250px) {
+
+        .text{
+            top:35%;
+            margin-left: 30px;
+        }
         .text h1 {
             color: #ffffff;
             margin-left: 30px;
@@ -101,7 +106,7 @@
         .text h1 {
             color: #ffffff;
             margin-left: 25px;
-            font-size: 35px;
+            font-size: 30px;
             font-weight: 600;
             line-height: 40px;
             text-decoration: none;
@@ -116,9 +121,15 @@
             text-decoration: none;
             text-align: left;
         }
+        .table-container{
+            max-width: 80%;
+        }
     }
 
     @media screen and (max-width: 975px) {
+        .text{
+            top:25%;
+        }
         .text h1 {
             color: #ffffff;
             margin-left: 25px;
@@ -138,17 +149,12 @@
             text-align: left;
         }
 
-        .text {
-            color: #ffffff;
-            font-size: 20px;
-            margin-bottom: 20px;
-            margin-left: 50px;
-            margin-top: 20px;
-            padding: 20px;
-            position: absolute;
-            bottom: 8px;
-            width: 50%;
-            text-align: Left;
+        
+    }
+
+    @media screen and (max-width:480px) {
+        .table-container{
+            max-width: 95%;
         }
     }
 
