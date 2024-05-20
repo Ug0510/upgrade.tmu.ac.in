@@ -3186,16 +3186,16 @@ Conferences Cards CSS Starts
     margin-top:-5px;
 }
 
-@media (min-width: 768px) and (max-width: 1024px) {
+/* @media (min-width: 768px) and (max-width: 1024px) {
     .entry.event {
         flex: 0 0 50%; 
         max-width: 50%; 
     }
-}
+} */
 
 .badge{
-	background-color:#0010551e!important;
-	color:#001055!important;
+	background-color:#FF7900 !important;
+	color:white !important
 }
 
 /* 
