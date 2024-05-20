@@ -1882,6 +1882,9 @@ main1>div>a:hover {
 
 /* <!-------- TMU City In itself End------> */
 
+.p-rl-35{
+    padding: 0 35px;
+}
 
 /* <!-- --------------CSS for preloader----------- --> */
 
@@ -3336,6 +3339,7 @@ Principal desk css Starts
 Principal desk css end
 ---------------------- */
 
+
 /* CSS for Tables to modify it's look  */
 .table-wrapper table th{
     background-color: #001055;
@@ -3351,3 +3355,16 @@ Principal desk css end
 .table-wrapper table th{
     border: 1px solid white;
 }
+
+/* new page tittle start */
+.news-page-title {
+    padding: 1.5rem;
+}
+.news-page-title-text{
+    font-weight: 700;
+    font-size: 2rem;
+    line-height: 2.2rem;
+    margin: 0 0 0px 0;
+}
+/* new page tittle end */
+
