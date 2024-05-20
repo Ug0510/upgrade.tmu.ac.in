@@ -50,7 +50,7 @@
 	line-height: 54px;
 	position: absolute;
 	left: 15px;
-	top: 2rem;
+	top: 4.8rem;
 }
 .tmu-testimonial .overview{
 	text-align: center;
@@ -88,4 +88,21 @@
 {
 	max-height: 4rem;
 	overflow: hidden;
+}
+
+
+
+/* Linkedin Button CSS  */
+.right-no-curve{
+	border-top-right-radius: 0;
+	border-bottom-right-radius: 0;
+}
+.tmu-btn.btn-linkedin{
+	background-color: #036194;
+	color:white;
+	border-top-left-radius: 0;
+	border-bottom-left-radius: 0;
+}
+.tmu-btn.btn-linkedin:hover{
+	background-color: #0485cc;
 }
