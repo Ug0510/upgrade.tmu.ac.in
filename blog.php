@@ -15,13 +15,13 @@
             <div class="page-title-row">
 
                 <div class="page-title-content">
-                    <h2 class="news-page-title-text">TMU News</h2>
+                    <h2 class="news-page-title-text">TMU Blog</h2>
                 </div>
 
                 <nav aria-label="breadcrumb">
                     <ol class="breadcrumb">
                         <li class="breadcrumb-item"><a href="#">Home</a></li>
-                        <li class="breadcrumb-item active" aria-current="page">News</li>
+                        <li class="breadcrumb-item active" aria-current="page">Blog </li>
                     </ol>
                 </nav>
 
@@ -115,14 +115,6 @@
                                 felis euismod semper. Donec id elit non mi porta gravida at eget metus. Vestibulum
                                 id ligula porta felis euismod semper.</p>
                             <!-- Post Single - Content End -->
-					<div class="masonry-thumbs grid-container row row-cols-3" data-big="5" data-lightbox="gallery">
-						<a class="grid-item" href="assets/img/gallery/1.webp" data-lightbox="gallery-item"><img src="assets/img/gallery/1.webp" alt="Gallery Thumb 1"></a>
-						<a class="grid-item" href="assets/img/gallery/2.webp" data-lightbox="gallery-item"><img src="assets/img/gallery/2.webp" alt="Gallery Thumb 2"></a>
-						<a class="grid-item" href="assets/img/gallery/3.webp" data-lightbox="gallery-item"><img src="assets/img/gallery/3.webp" alt="Gallery Thumb 3"></a>
-						<a class="grid-item" href="assets/img/gallery/4.webp" data-lightbox="gallery-item"><img src="assets/img/gallery/4.webp" alt="Gallery Thumb 4"></a>
-						<a class="grid-item" href="assets/img/gallery/5.webp" data-lightbox="gallery-item"><img src="assets/img/gallery/5.webp" alt="Gallery Thumb 5"></a>
-						<a class="grid-item" href="assets/img/gallery/6.webp" data-lightbox="gallery-item"><img src="assets/img/gallery/6.webp" alt="Gallery Thumb 6"></a>
-					</div>
 
 					<div class="divider"><i class="bi-circle-fill"></i></div>
 
