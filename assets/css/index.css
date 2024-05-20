@@ -3151,6 +3151,7 @@ Conferences Cards CSS Starts
 ---------------------- */
 .entry-image {
     position: relative;
+}
 .entry-image::after {
     content: '';
     position: absolute;
@@ -3334,3 +3335,19 @@ Principal desk css Starts
 ----------------------
 Principal desk css end
 ---------------------- */
+
+/* CSS for Tables to modify it's look  */
+.table-wrapper table th{
+    background-color: #001055;
+    font-size: 16px;
+}
+
+.table-wrapper table td{
+    border: 1px solid lightgrey;
+}
+.table-wrapper table tbody tr:nth-of-type(even)>*{
+    background-color: transparent;
+}
+.table-wrapper table th{
+    border: 1px solid white;
+}
