@@ -186,12 +186,16 @@ p {
     content: '';
     width: 100vw;
     height: 100%;
-    background-color: #001055;
+    background-color: #f0f0f0;
     /* background-color: #FF7900; */
     position: absolute;
     top: 0;
     left: 0;
     /* opacity: 0.8; */
+}
+
+.page-title-content H1 {
+    color: #001055;
 }
 
 .side-head::before {
@@ -3147,6 +3151,15 @@ Conferences Cards CSS Starts
 ---------------------- */
 .entry-image {
     position: relative;
+.entry-image::after {
+    content: '';
+    position: absolute;
+    right: 0;
+    bottom: 0;
+    width: 100%; /* Ensure it spans the full width */
+    height: 100%; /* Ensure it spans the full height */
+    box-sizing: border-box;
+
 }
 
 .entry {
@@ -3155,9 +3168,9 @@ Conferences Cards CSS Starts
 
 .entry-title h2 , .entry-title .h2 {
     color: #000;
-    font-size: 1.022rem!important;
+    font-size: 1.5rem!important;
     font-family:'poppins';
-    line-height: 1.6;
+    line-height: 1.2;
 }
 .entry-title h3 a {
     line-height: 1.4;
