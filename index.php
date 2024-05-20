@@ -1484,7 +1484,8 @@ include 'head.php';
                     <a href="#block-modal-ticket1" data-lightbox="inline"><img src="video-testimonial/divya.webp" class="card-img-top" alt="..."></a>
                     <div class="card-body">
                         <!--<span class="badge bg-info1 text-light mb-2 fw-normal px-2 py-1">New</span>-->
-                        <p style="text-align:center;" class="mb-0">Btech Computer Science (Data Science)</p>
+                        <p class="text-center mb-0">Btech Computer Science (Data Science)</p>
+                        <p class="text-center mb-0 fw-bold tmu-color-blue">(2020 - 2024)</p>
                         <center><img src="./assets/image/down-arrow.png" style="width: 10%;" alt="" class="img-fluid career-tran__arrow"></center>
                         <!-- <img src="./assets/image/down-arrow.png" alt=""> -->
                         <p class="career-tran__prev-role mb-4">Senior Technical Account Manager</p>
@@ -1544,7 +1545,8 @@ include 'head.php';
                     <a href="#block-modal-ticket2" data-lightbox="inline"><img src="video-testimonial/animesh.webp" class="card-img-top" alt="..."></a>
                     <div class="card-body">
                         <!--<span class="badge bg-info1 text-light mb-2 fw-normal px-2 py-1">New</span>-->
-                        <p style="text-align:center;" class="mb-2">Btech Computer Science (Data Science)</p>
+                        <p class="text-center mb-0">Btech Computer Science (Data Science)</p>
+                        <p class="text-center mb-0 fw-bold tmu-color-blue">(2020 - 2024)</p>
                         <center><img src="./assets/image/down-arrow.png" style="width: 10%;" alt="" class="img-fluid career-tran__arrow"></center>
                         <p class="career-tran__prev-role mb-4">Senior Technical Account Manager</p>
                         <p class="career-tran__prev-comp">Amazon Web Services (AWS)</p>
@@ -1609,7 +1611,8 @@ include 'head.php';
                     <a href="#block-modal-ticket3" data-lightbox="inline"><img src="video-testimonial/3.svg" class="card-img-top" alt="..."></a>
                     <div class="card-body">
                         <!--<span class="badge bg-info1 text-light mb-2 fw-normal px-2 py-1">New</span>-->
-                        <p style="text-align:center;" class="mb-2">Btech Computer Science (Data Science)</p>
+                        <p class="text-center mb-0">Btech Computer Science (Data Science)</p>
+                        <p class="text-center mb-0 fw-bold tmu-color-blue">(2020 - 2024)</p>
                         <center><img src="./assets/image/down-arrow.png" style="width: 10%;" alt="" class="img-fluid career-tran__arrow"></center>
                         <p class="career-tran__prev-role mb-4">Senior Technical Account Manager</p>
                         <p class="career-tran__prev-comp">Amazon Web Services (AWS)</p>
@@ -1674,7 +1677,8 @@ include 'head.php';
                     <a href="#block-modal-ticket4" data-lightbox="inline"><img src="video-testimonial/4.svg" class="card-img-top" alt="..."></a>
                     <div class="card-body">
                         <!--<span class="badge bg-info1 text-light mb-2 fw-normal px-2 py-1">New</span>-->
-                        <p style="text-align:center;" class="mb-2">Btech Computer Science (Data Science)</p>
+                        <p class="text-center mb-0">Btech Computer Science (Data Science)</p>
+                        <p class="text-center mb-0 fw-bold tmu-color-blue">(2020 - 2024)</p>
                         <center><img src="./assets/image/down-arrow.png" style="width: 10%;" alt="" class="img-fluid career-tran__arrow"></center>
                         <p class="career-tran__prev-role mb-4">Senior Technical Account Manager</p>
                         <p class="career-tran__prev-comp">Amazon Web Services (AWS)</p>
@@ -1739,7 +1743,8 @@ include 'head.php';
                     <a href="#block-modal-ticket5" data-lightbox="inline"><img src="video-testimonial/5.svg" class="card-img-top" alt="..."></a>
                     <div class="card-body">
                         <!--<span class="badge bg-info1 text-light mb-2 fw-normal px-2 py-1">New</span>-->
-                        <p style="text-align:center;" class="mb-2">Btech Computer Science (Data Science)</p>
+                        <p class="text-center mb-0">Btech Computer Science (Data Science)</p>
+                        <p class="text-center mb-0 fw-bold tmu-color-blue">(2020 - 2024)</p>
                         <center><img src="./assets/image/down-arrow.png" style="width: 10%;" alt="" class="img-fluid career-tran__arrow"></center>
                         <p class="career-tran__prev-role mb-4">Senior Technical Account Manager</p>
                         <p class="career-tran__prev-comp">Amazon Web Services (AWS)</p>
@@ -1809,7 +1814,8 @@ include 'head.php';
                     <a href="#block-modal-ticket5" data-lightbox="inline"><img src="video-testimonial/5.svg" class="card-img-top" alt="..."></a>
                     <div class="card-body">
                         <!--<span class="badge bg-info1 text-light mb-2 fw-normal px-2 py-1">New</span>-->
-                        <p style="text-align:center;" class="mb-2">Btech Computer Science (Data Science)</p>
+                        <p class="text-center mb-0">Btech Computer Science (Data Science)</p>
+                        <p class="text-center mb-0 fw-bold tmu-color-blue">(2020 - 2024)</p>
                         <center><img src="./assets/image/down-arrow.png" style="width: 10%;" alt="" class="img-fluid career-tran__arrow"></center>
                         <p class="career-tran__prev-role mb-4">Senior Technical Account Manager</p>
                         <p class="career-tran__prev-comp">Amazon Web Services (AWS)</p>
@@ -1878,7 +1884,8 @@ include 'head.php';
                     <a href="#block-modal-ticket5" data-lightbox="inline"><img src="video-testimonial/5.svg" class="card-img-top" alt="..."></a>
                     <div class="card-body">
                         <!--<span class="badge bg-info1 text-light mb-2 fw-normal px-2 py-1">New</span>-->
-                        <p style="text-align:center;" class="mb-2">Btech Computer Science (Data Science)</p>
+                        <p class="text-center mb-0">Btech Computer Science (Data Science)</p>
+                        <p class="text-center mb-0 fw-bold tmu-color-blue">(2020 - 2024)</p>
                         <center><img src="./assets/image/down-arrow.png" style="width: 10%;" alt="" class="img-fluid career-tran__arrow"></center>
                         <p class="career-tran__prev-role mb-4">Senior Technical Account Manager</p>
                         <p class="career-tran__prev-comp">Amazon Web Services (AWS)</p>

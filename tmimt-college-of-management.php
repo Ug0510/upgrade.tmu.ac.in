@@ -32,7 +32,7 @@ include 'head.php';
             <div class="row justify-content-center">
                 <div class="col-6 col-lg-3 px-1">
                     <div class="card text-center py-3 rounded-0 fw-semibold text-uppercase ls-1">
-                        <div class="card-body gap-4 text-tmu-primary under-banner-cards"> 
+                        <div class="card-body gap-4 text-tmu-primary under-banner-cards">
                             <span>AA+</span>
                             <br>
                             <span class="d-block pt-1">Rated Top B-school by <br> Careers360</span>
@@ -92,9 +92,9 @@ include 'head.php';
                             <div class="col-6">
                                 <div class="card text-center py-3 rounded-0 fw-semibold text-uppercase ls-1">
                                     <div class="card-body gap-4 text-tmu-primary under-banner-cards">
-                                    <span>India's 1st</span>
-                                    <br>
-                                    <span class="d-block pt-1">Centre of Excellence in Cybersecurity</span>
+                                        <span>India's 1st</span>
+                                        <br>
+                                        <span class="d-block pt-1">Centre of Excellence in Cybersecurity</span>
                                     </div>
                                 </div>
                             </div>
@@ -105,19 +105,19 @@ include 'head.php';
                             <div class="col-6">
                                 <div class="card text-center py-3 rounded-0 fw-semibold text-uppercase ls-1">
                                     <div class="card-body gap-4 text-tmu-primary under-banner-cards">
-                                    <span>5 B-Schools</span>
-                                    <br>
-                                    <span class="d-block pt-1">Among the Top 5 B-Schools in North India</span>
+                                        <span>5 B-Schools</span>
+                                        <br>
+                                        <span class="d-block pt-1">Among the Top 5 B-Schools in North India</span>
                                     </div>
                                 </div>
                             </div>
                             <div class="col-6">
                                 <div class="card text-center py-3 rounded-0 fw-semibold text-uppercase ls-1">
                                     <div class="card-body gap-4 text-tmu-primary under-banner-cards">
-                                    <span>IACBE</span>
-                            <br>
-                            <span class="d-block pt-1">Member of IACBE</span>
-                            &nbsp;&nbsp;
+                                        <span>IACBE</span>
+                                        <br>
+                                        <span class="d-block pt-1">Member of IACBE</span>
+                                        &nbsp;&nbsp;
                                     </div>
                                 </div>
                             </div>
@@ -172,42 +172,42 @@ include 'head.php';
                         <li>
                             <p class="p-0 m-0">Dedicated Incubation and Entrepreneurship Cell with a focus on establishing an innovation and entrepreneurship-based ecosystem that will help in converting ideas into sustainable start-ups.</p>
                         </li>
-                            </ul>
-
-                        <div class="read-more-content mt-0">
-                    <ul class="m-ol-list ps-4">
-                        <li>
-                            <p class="p-0 m-0">Domestic and international extrusions tours for better national and global connections</p>
-                        </li>
-                        <li>
-                            <p class="p-0 m-0">Regular mentoring and counseling sessions by trained industry professionals.</p>
-                        </li>
-                        <li>
-                            <p class="p-0 m-0">Implementation of NEP-2020 through a vigorous academic environment supported by various FDPs, MOOCs, Workshops, Conferences, Industry Competitions, Guest Talks, and Seminars.</p>
-                        </li>
-                        <li>
-                            <p class="p-0 m-0">The college has been consistently rated high in Business School surveys and has been conferred with numerous awards and honors.</p>
-                        </li>
                     </ul>
-                    <p class="mb-0 ms-2">All these factors make Teerthanker Mahaveer Institute of Management and Technology (TMIMT), the best management college in Uttar Pradesh, India.</p>
-                    
+
+                    <div class="read-more-content mt-0">
+                        <ul class="m-ol-list ps-4">
+                            <li>
+                                <p class="p-0 m-0">Domestic and international extrusions tours for better national and global connections</p>
+                            </li>
+                            <li>
+                                <p class="p-0 m-0">Regular mentoring and counseling sessions by trained industry professionals.</p>
+                            </li>
+                            <li>
+                                <p class="p-0 m-0">Implementation of NEP-2020 through a vigorous academic environment supported by various FDPs, MOOCs, Workshops, Conferences, Industry Competitions, Guest Talks, and Seminars.</p>
+                            </li>
+                            <li>
+                                <p class="p-0 m-0">The college has been consistently rated high in Business School surveys and has been conferred with numerous awards and honors.</p>
+                            </li>
+                        </ul>
+                        <p class="mb-0 ms-2">All these factors make Teerthanker Mahaveer Institute of Management and Technology (TMIMT), the best management college in Uttar Pradesh, India.</p>
+
                     </div>
                     <a href="javascript:void(0);" class="read-more ms-2 mt-2" title="Read More">Read More</a>
-                
+
                 </div>
                 <div class="tab-pane fade" id="Tab2" role="tabpanel" aria-labelledby="tab2-tab">
                     <h3>Placement/Internship</h3>
                     <p class="mb-0">The college has established strong ties with national and international institutions, allowing students to gain valuable work experience through internships and co-op programs. Additionally, the college provides robust job placement assistance and career counseling services to help students secure rewarding employment opportunities.
-                        
-                        <div class="read-more-content mt-0">
-                    <br>
+
+                    <div class="read-more-content mt-0">
+                        <br>
                         <p class="mb-0"> A remarkable 93% of eligible TMIMTians have been successfully placed with top multinational corporations (MNCs), a testament to the quality of education and training they receive at our institution and 35% of our graduating students have received multiple job offers. This outstanding accomplishment highlights the exceptional caliber of education and training at TMIMT College of Management.
                         </p><br>
                         <p class="mb-0">We are dedicated to nurturing our students' potential and providing them with the tools they need to succeed in their professional journeys. With a focus on academic excellence and industry relevance, TMIMT College of Management continues to shape the leaders of tomorrow and empower them for successful and fulfilling careers.
                         </p>
                     </div>
-                        <a href="javascript:void(0);" class="read-more mt-2" title="Read More">Read More</a>
-                        
+                    <a href="javascript:void(0);" class="read-more mt-2" title="Read More">Read More</a>
+
                     </p>
                 </div>
                 <div class="tab-pane fade" id="Tab3" role="tabpanel" aria-labelledby="tab3-tab">
@@ -215,7 +215,7 @@ include 'head.php';
                     <p>The curriculum of this top management college is thoughtfully designed as per the National Education Policy (NEP 2020) to impart a well-rounded education that equips students with the knowledge and skills necessary to excel in the dynamic business world. The curriculum is continuously updated to stay relevant and in sync with the latest industry trends.
                         <br><br>
                         Through a mix of theoretical learning and practical applications, students gain a comprehensive understanding of business dynamics, problem-solving abilities, and effective decision-making skills. Moreover, our curriculum emphasizes the importance of experiential learning, case studies, industry projects, and internships, ensuring that students are well-prepared to tackle real-world challenges and adapt to the ever-evolving industry landscape.
-                                <br><br>
+                        <br><br>
                     </p>
                 </div>
                 <div class="tab-pane fade" id="Tab4" role="tabpanel" aria-labelledby="tab4-tab">
@@ -384,7 +384,7 @@ include 'head.php';
             </div>
         </div>
 
-       
+
 
 
 
@@ -1043,16 +1043,13 @@ include 'head.php';
                     </div>
 
 
-                  
-                <!-- Code for the Mobile View Ends Here -->
 
-            </div>
+                    <!-- Code for the Mobile View Ends Here -->
+
+                </div>
         </section>
         <!-----Courses section completed-->
 
-
-
-        </style>
 
         <section>
             <div class="container-xl tmu-testimonial mt-5 mb-3">
@@ -1066,7 +1063,8 @@ include 'head.php';
                             <img src="https://www.tmu.ac.in/monaco/assets/image/testimonials/rashmi_raj_bcom.webp" class="mr-3" alt="">
                             <div class="media-body">
                                 <div class="testimonial">
-                                    <p class="overview mb-3"><b>Rashmi Raj</b>, B.Com</p>
+                                    <p class="overview mb-3 fs-14"><b class="fs-14">Rashmi Raj</b> <br>B.Com (2020 - 2024), <br> Data Engineer at Aventra Group <br>
+                                    </p>
                                     <p>For me TMU wasn't just a place of study, it was where I discovered the artistry in
                                         business. Professors here were mentors who helped me navigate the complexities of
                                         creativity. TMU, to me, isn't just an educational space; it's the place where my journey
@@ -1074,94 +1072,78 @@ include 'head.php';
                                     </p>
                                 </div>
                             </div>
-                            <button class="tmu-btn btn-3 py-2 d-block mx-auto my-0 d-flex align-items-center tmu-fs-14" onclick="showTestimonialModal()">Read More <i class="bi bi-chevron-down ps-2"></i></button>
-
-                        </div>
-                    </div>
-
-                    <div class="oc-item text-start">
-                        <div class="media">
-                            <img src="https://www.tmu.ac.in/monaco/assets/image/testimonials/pragati_law.webp" class="mr-3" alt="">
-                            <div class="media-body">
-                                <div class="testimonial">
-                                    <p class="overview mb-3"><b>Ms. Pragati </b>, BA - LLB</p>
-                                    <p>TMU has been a crucible for nurturing leadership skills, offering a transformative
-                                        journey through leadership programmes, mentorship initiatives, and engagement in
-                                        extracurricular activities. The holistic approach at TMU has honed my ability to lead
-                                        effectively, and in clearing this exam. The University’s impact on my leadership journey
-                                        is evident in the accomplishments of my evolving career.</p>
-                                </div>
-                                <button class="tmu-btn btn-3 py-2 d-block mx-auto my-0 d-flex align-items-center tmu-fs-14" onclick="showTestimonialModal()">Read More <i class="bi bi-chevron-down ps-2"></i></button>
+                            <div class="mx-auto my-0 d-flex align-items-center tmu-fs-14">
+                                <button class="tmu-btn btn-3 py-2 d-block pe-2 right-no-curve" onclick="showTestimonialModal()">Read More </button>
+                                <a href="https://www.linkedin.com/in/udit-gupta-ug0510/" class="tmu-btn btn-linkedin py-2 px-3"><i class="bi bi-linkedin"></i></a>
                             </div>
+
+
                         </div>
                     </div>
-
                     <div class="oc-item text-start">
-                        <div class="media">
-                            <img src="https://www.tmu.ac.in/monaco/assets/image/testimonials/abdul_india_mart_mba.webp" class="mr-3" alt="">
+                        <div class="media ">
+                            <img src="https://www.tmu.ac.in/monaco/assets/image/testimonials/rashmi_raj_bcom.webp" class="mr-3" alt="">
                             <div class="media-body">
                                 <div class="testimonial">
-                                    <p class="overview mb-3"><b>Abdul Malik Khan</b>, MBA</p>
-                                    <p>TMU, for me, is not just an MBA destination, it's the crucible where my leadership skills
-                                        were forged. Beyond textbooks and case studies, TMU offered a dynamic learning
-                                        environment where theories met practical challenges. It's a journey where I honed the
-                                        skills that set me apart in the dynamic landscape of business and management.
+                                    <p class="overview mb-3 fs-14"><b class="fs-14">Rashmi Raj</b> <br>B.Com (2020 - 2024), <br> Data Engineer at Aventra Group <br>
+                                    </p>
+                                    <p>For me TMU wasn't just a place of study, it was where I discovered the artistry in
+                                        business. Professors here were mentors who helped me navigate the complexities of
+                                        creativity. TMU, to me, isn't just an educational space; it's the place where my journey
+                                        in the world of commerce became a fascinating and personal expedition.
                                     </p>
                                 </div>
-                                <button class="tmu-btn btn-3 py-2 d-block mx-auto my-0 d-flex align-items-center tmu-fs-14" onclick="showTestimonialModal()">Read More <i class="bi bi-chevron-down ps-2"></i></button>
                             </div>
-                        </div>
-                    </div>
+                            <div class="mx-auto my-0 d-flex align-items-center tmu-fs-14">
+                                <button class="tmu-btn btn-3 py-2 d-block pe-2 right-no-curve" onclick="showTestimonialModal()">Read More </button>
+                                <a href="https://www.linkedin.com/in/udit-gupta-ug0510/" class="tmu-btn btn-linkedin py-2 px-3"><i class="bi bi-linkedin"></i></a>
+                            </div>
 
-                    <div class="oc-item text-start">
-                        <div class="media">
-                            <img src="https://www.tmu.ac.in/monaco/assets/image/testimonials/shaily_jain_mca.webp" class="mr-3" alt="">
+
+                        </div>
+                    </div><div class="oc-item text-start">
+                        <div class="media ">
+                            <img src="https://www.tmu.ac.in/monaco/assets/image/testimonials/rashmi_raj_bcom.webp" class="mr-3" alt="">
                             <div class="media-body">
                                 <div class="testimonial">
-                                    <p class="overview mb-3"><b>Shaily Jain</b>, MCA</p>
-                                    <p>TMU has been instrumental in facilitating life-changing career connections that have had
-                                        a profound impact on my professional journey. The relationships built with faculty,
-                                        alumni, and industry professionals have played a pivotal role in my career progression.
-                                        The supportive and enduring network cultivated at TMU continues to be a cornerstone of
-                                        my ongoing success.</p>
-                                </div>
-                                <button class="tmu-btn btn-3 py-2 d-block mx-auto my-0 d-flex align-items-center tmu-fs-14" onclick="showTestimonialModal()">Read More <i class="bi bi-chevron-down ps-2"></i></button>
-                            </div>
-                        </div>
-                    </div>
-
-                    <div class="oc-item text-start">
-                        <div class="media">
-                            <img src="https://www.tmu.ac.in/monaco/assets/image/testimonials/nikita_shah_bcom.webp" class="mr-3" alt="">
-                            <div class="media-body">
-                                <div class="testimonial">
-                                    <p class="overview mb-3"><b>Nikita Shah</b>, B.Com(H)</p>
-                                    <p>TMU is more than a university to me—it's the heartbeat of my career journey. The
-                                        professors, like mentors and friends, guided me through real-world challenges. Today, as
-                                        I navigate my field with confidence, I owe my success to the practical wisdom TMU
-                                        instilled in me.
+                                    <p class="overview mb-3 fs-14"><b class="fs-14">Rashmi Raj</b> <br>B.Com (2020 - 2024), <br> Data Engineer at Aventra Group <br>
+                                    </p>
+                                    <p>For me TMU wasn't just a place of study, it was where I discovered the artistry in
+                                        business. Professors here were mentors who helped me navigate the complexities of
+                                        creativity. TMU, to me, isn't just an educational space; it's the place where my journey
+                                        in the world of commerce became a fascinating and personal expedition.
                                     </p>
                                 </div>
-                                <button class="tmu-btn btn-3 py-2 d-block mx-auto my-0 d-flex align-items-center tmu-fs-14" onclick="showTestimonialModal()">Read More <i class="bi bi-chevron-down ps-2"></i></button>
                             </div>
+                            <div class="mx-auto my-0 d-flex align-items-center tmu-fs-14">
+                                <button class="tmu-btn btn-3 py-2 d-block pe-2 right-no-curve" onclick="showTestimonialModal()">Read More </button>
+                                <a href="https://www.linkedin.com/in/udit-gupta-ug0510/" class="tmu-btn btn-linkedin py-2 px-3"><i class="bi bi-linkedin"></i></a>
+                            </div>
+
+
                         </div>
-                    </div>
-                    <div class="oc-item text-start">
-                        <div class="media">
-                            <img src="https://www.tmu.ac.in/monaco/assets/image/testimonials/shruti_jain_btech_cse.webp" class="mr-3" alt="">
+                    </div><div class="oc-item text-start">
+                        <div class="media ">
+                            <img src="https://www.tmu.ac.in/monaco/assets/image/testimonials/rashmi_raj_bcom.webp" class="mr-3" alt="">
                             <div class="media-body">
                                 <div class="testimonial">
-                                    <p class="overview mb-3"><b>Shruti Jain</b>, B.Tech CSE</p>
-                                    <p>TMU focuses on developing industry-ready skills. The practical approach to learning,
-                                        coupled with exposure to real-world scenarios, enabled me to seamlessly transition into
-                                        my career. TMU's impact on my professional journey is undeniable. I am thankful for the
-                                        holistic education and support I received here.</p>
+                                    <p class="overview mb-3 fs-14"><b class="fs-14">Rashmi Raj</b> <br>B.Com (2020 - 2024), <br> Data Engineer at Aventra Group <br>
+                                    </p>
+                                    <p>For me TMU wasn't just a place of study, it was where I discovered the artistry in
+                                        business. Professors here were mentors who helped me navigate the complexities of
+                                        creativity. TMU, to me, isn't just an educational space; it's the place where my journey
+                                        in the world of commerce became a fascinating and personal expedition.
+                                    </p>
                                 </div>
-                                <button class="tmu-btn btn-3 py-2 d-block mx-auto my-0 d-flex align-items-center tmu-fs-14" onclick="showTestimonialModal()">Read More <i class="bi bi-chevron-down ps-2"></i></button>
                             </div>
+                            <div class="mx-auto my-0 d-flex align-items-center tmu-fs-14">
+                                <button class="tmu-btn btn-3 py-2 d-block pe-2 right-no-curve" onclick="showTestimonialModal()">Read More </button>
+                                <a href="https://www.linkedin.com/in/udit-gupta-ug0510/" class="tmu-btn btn-linkedin py-2 px-3"><i class="bi bi-linkedin"></i></a>
+                            </div>
+
+
                         </div>
                     </div>
-
                 </div>
 
             </div>
@@ -1173,7 +1155,8 @@ include 'head.php';
             <div class="tmu-modal-box">
                 <div class="close-btn" onclick="closeTestimonialModal()">x</div>
                 <div class="tmu-testimonial bg-light">
-                    <div class="media">
+
+                    <div class="media ">
                         <img src="https://www.tmu.ac.in/monaco/assets/image/testimonials/abdul_india_mart_mba.webp" class="mr-3" alt="">
                         <div class="media-body">
                             <div class="testimonial">
@@ -1191,7 +1174,7 @@ include 'head.php';
         </div>
 
 
-        
+
 
 
 

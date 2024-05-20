@@ -3189,16 +3189,16 @@ Conferences Cards CSS Starts
     margin-top:-5px;
 }
 
-@media (min-width: 768px) and (max-width: 1024px) {
+/* @media (min-width: 768px) and (max-width: 1024px) {
     .entry.event {
         flex: 0 0 50%; 
         max-width: 50%; 
     }
-}
+} */
 
 .badge{
-	background-color:#0010551e!important;
-	color:#001055!important;
+	background-color:#FF7900 !important;
+	color:white !important
 }
 
 /* 
@@ -3339,6 +3339,23 @@ Principal desk css Starts
 Principal desk css end
 ---------------------- */
 
+
+/* CSS for Tables to modify it's look  */
+.table-wrapper table th{
+    background-color: #001055;
+    font-size: 16px;
+}
+
+.table-wrapper table td{
+    border: 1px solid lightgrey;
+}
+.table-wrapper table tbody tr:nth-of-type(even)>*{
+    background-color: transparent;
+}
+.table-wrapper table th{
+    border: 1px solid white;
+}
+
 /* new page tittle start */
 .news-page-title {
     padding: 1.5rem;
@@ -3350,3 +3367,4 @@ Principal desk css end
     margin: 0 0 0px 0;
 }
 /* new page tittle end */
+

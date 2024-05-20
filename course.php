@@ -154,7 +154,7 @@ include 'head.php';
         JEE Mains 2023 score or SAT Score. In case candidate is not meeting the Admission scholarship criteria,
         he/she may be eligible for Academic
         Scholarships as outlined in the next section.</p><br>
-    <p class="lh-base">In case candidate is not meeting the Admission scholarship criteria, he/she may be eligible for Academic
+    <p class="lh-base mb-4">In case candidate is not meeting the Admission scholarship criteria, he/she may be eligible for Academic
         Scholarships as outlined in the next section.</p>
     <div class="table-wrapper">
         <table>
@@ -238,7 +238,7 @@ include 'head.php';
             </div>
 
             <div class="col-lg-6 align-self-center">
-                <h2 class="tmu-text-primary mb-3 fs-24 lh-sm"> <span>B.Tech CSE </span><span> Eligibility Criteria & Selection Process </span></h2>
+                <h2 class="tmu-text-primary mb-3 fs-24 lh-sm mt-4"> <span>B.Tech CSE </span><span> Eligibility Criteria & Selection Process </span></h2>
                 <div class="row">
                     <div class="col-sm-6">
                         <div class="feature-box fbox-plain fbox-sm flex-column">
