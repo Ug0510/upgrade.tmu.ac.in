@@ -60,6 +60,7 @@ function showBanner() {
     const imgBanner = document.getElementById('nav-banner');
 
     imgBanner.classList.add('super-active');
+    imgBanner.classList.add('w-100');
 
     const scrollbar = document.getElementById('main--menubar').querySelector('div>.university-nav');
 
@@ -78,9 +79,11 @@ function hideBanner() {
     if (scrollbar) {
         scrollbar.classList.remove('sw-none');
     }
-    console.log(imgBanner);
     if (imgBanner.classList.contains('super-active'))
-        imgBanner.classList.remove('super-active');
+        {
+            imgBanner.classList.remove('super-active');
+            imgBanner.classList.remove('w-100');
+        }
 }
 
 function removeSuperActiveClass() {
