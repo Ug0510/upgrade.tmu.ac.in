@@ -444,15 +444,15 @@ include 'head.php';
 
                                     <div class="row">
 
-                                        <div class="col-md-4">
+                                        <div class="col-md-4 mb-2">
                                             <!-- Card -->
                                             <div class="card shadow-sm">
                                                 <img src="assets/img/programme_stock_img/medical/26.jpg" height="178px"
                                                     class="card-img-top" alt="...">
                                                 <div class="card-body">
 
-                                                    <h4 class="mb-2">MBBS (Bachelor of Medicine and Bachelor of Surgery)
-                                                    </h4>
+                                                    <h5 class="mb-0 text-center">MBBS (Bachelor of Medicine and Bachelor of Surgery)
+                                                    </h5>
                                                 </div>
                                                 <div
                                                     class="card-footer d-flex justify-content-between align-items-center bg-white py-3">
@@ -465,15 +465,15 @@ include 'head.php';
                                             </div>
                                         </div>
 
-                                        <div class="col-md-4">
+                                        <div class="col-md-4 mb-2">
                                             <!-- Card -->
                                             <div class="card shadow-sm">
                                                 <img src="assets/img/programme_stock_img/medical/26.jpg" height="178px"
                                                     class="card-img-top" alt="...">
                                                 <div class="card-body">
 
-                                                    <h4 class="mb-2">B.Sc. Medical Anatomy (From Session 2023-24
-                                                        Onwards)</h4>
+                                                    <h5 class="mb-0 text-center">B.Sc. Medical Anatomy (From Session 2023-24
+                                                        Onwards)</h5>
                                                 </div>
                                                 <div
                                                     class="card-footer d-flex justify-content-between align-items-center bg-white py-3">
@@ -486,15 +486,15 @@ include 'head.php';
                                             </div>
                                         </div>
 
-                                        <div class="col-md-4">
+                                        <div class="col-md-4 mb-2">
                                             <!-- Card -->
                                             <div class="card shadow-sm">
                                                 <img src="assets/img/programme_stock_img/medical/27.jpg" height="178px"
                                                     class="card-img-top" alt="...">
                                                 <div class="card-body">
 
-                                                    <h4 class="mb-2">B.Sc. Medical Biochemistry (From Session 2023-24
-                                                        Onwards)</h4>
+                                                    <h5 class="mb-0 text-center">B.Sc. Medical Biochemistry (From Session 2023-24
+                                                        Onwards)</h5>
                                                 </div>
                                                 <div
                                                     class="card-footer d-flex justify-content-between align-items-center bg-white py-3">
@@ -507,15 +507,35 @@ include 'head.php';
                                             </div>
                                         </div>
 
-                                        <div class="col-md-4">
+                                        <div class="col-md-4 mb-2">
                                             <!-- Card -->
                                             <div class="card shadow-sm progcard">
                                                 <img src="assets/img/programme_stock_img/medical/28.jpg" height="178px"
                                                     class="card-img-top" alt="...">
                                                 <div class="card-body progcardbody">
 
-                                                    <h4 class="mb-2">B.SC. Medical Physiology (From Session 2023-24
-                                                        Onwards)</h4>
+                                                    <h5 class="mb-0 text-center">B.SC. Medical Physiology (From Session 2023-24
+                                                        Onwards)</h5>
+                                                </div>
+                                                <div
+                                                    class="card-footer d-flex justify-content-between align-items-center bg-white py-3">
+                                                    <div>
+                                                    </div>
+                                                    <a href="#" class="tmu-btn btn-4 m-0 py-1 px-2"
+                                                        style="font-size:12px">View
+                                                        More</a>
+                                                </div>
+                                            </div>
+                                        </div>
+                                        <div class="col-md-4 mb-2">
+                                            <!-- Card -->
+                                            <div class="card shadow-sm progcard">
+                                                <img src="assets/img/programme_stock_img/medical/28.jpg" height="178px"
+                                                    class="card-img-top" alt="...">
+                                                <div class="card-body progcardbody">
+
+                                                    <h5 class="mb-0 text-center">B.SC. Medical Physiology (From Session 2023-24
+                                                        Onwards)</h5>
                                                 </div>
                                                 <div
                                                     class="card-footer d-flex justify-content-between align-items-center bg-white py-3">
@@ -540,14 +560,15 @@ include 'head.php';
                                     aria-labelledby="list-profile-list">
                                     <div class="row">
 
-                                        <div class="col-md-4">
+                                    <div class="col-md-4 mb-2">
                                             <!-- Card -->
                                             <div class="card shadow-sm">
-                                                <img src="assets/img/programme_stock_img/medical/21.jpg" height="178px"
+                                                <img src="assets/img/programme_stock_img/medical/27.jpg" height="178px"
                                                     class="card-img-top" alt="...">
                                                 <div class="card-body">
 
-                                                    <h4 class="mb-2">M.Sc. Medical Pharmacology</h4>
+                                                    <h5 class="mb-0 text-center">B.Sc. Medical Biochemistry (From Session 2023-24
+                                                        Onwards)</h5>
                                                 </div>
                                                 <div
                                                     class="card-footer d-flex justify-content-between align-items-center bg-white py-3">
@@ -560,52 +581,35 @@ include 'head.php';
                                             </div>
                                         </div>
 
-                                        <div class="col-md-4">
-                                            <!-- Card -->
-                                            <div class="card shadow-sm">
-                                                <img src="assets/img/programme_stock_img/medical/22.jpg" height="178px"
-                                                    class="card-img-top" alt="...">
-                                                <div class="card-body">
-
-                                                    <h4 class="mb-2">M.Sc. Medical Anatomy</h4>
-                                                </div>
-                                                <div
-                                                    class="card-footer d-flex justify-content-between align-items-center bg-white py-3">
-                                                    <div>
-                                                    </div>
-                                                    <a href="#" class="tmu-btn btn-4 m-0 py-1 px-2"
-                                                        style="font-size:12px">View
-                                                        More</a>
-                                                </div>
-                                            </div>
-                                        </div>
-
-                                        <div class="col-md-4">
-                                            <!-- Card -->
-                                            <div class="card shadow-sm">
-                                                <img src="assets/img/programme_stock_img/medical/23.jpg" height="178px"
-                                                    class="card-img-top" alt="...">
-                                                <div class="card-body">
-                                                    <h4 class="mb-2">M.Sc. Medical Physiology</h4>
-                                                </div>
-                                                <div
-                                                    class="card-footer d-flex justify-content-between align-items-center bg-white py-3">
-                                                    <div>
-                                                    </div>
-                                                    <a href="#" class="tmu-btn btn-4 m-0 py-1 px-2"
-                                                        style="font-size:12px">View
-                                                        More</a>
-                                                </div>
-                                            </div>
-                                        </div>
-                                        <div class="col-md-4">
+                                        <div class="col-md-4 mb-2">
                                             <!-- Card -->
                                             <div class="card shadow-sm progcard">
-                                                <img src="assets/img/programme_stock_img/medical/15.jpg" height="178px"
+                                                <img src="assets/img/programme_stock_img/medical/28.jpg" height="178px"
                                                     class="card-img-top" alt="...">
                                                 <div class="card-body progcardbody">
 
-                                                    <h4 class="mb-2">MD (Forensic Medicine)</h4>
+                                                    <h5 class="mb-0 text-center">B.SC. Medical Physiology (From Session 2023-24
+                                                        Onwards)</h5>
+                                                </div>
+                                                <div
+                                                    class="card-footer d-flex justify-content-between align-items-center bg-white py-3">
+                                                    <div>
+                                                    </div>
+                                                    <a href="#" class="tmu-btn btn-4 m-0 py-1 px-2"
+                                                        style="font-size:12px">View
+                                                        More</a>
+                                                </div>
+                                            </div>
+                                        </div>
+                                        <div class="col-md-4 mb-2">
+                                            <!-- Card -->
+                                            <div class="card shadow-sm progcard">
+                                                <img src="assets/img/programme_stock_img/medical/28.jpg" height="178px"
+                                                    class="card-img-top" alt="...">
+                                                <div class="card-body progcardbody">
+
+                                                    <h5 class="mb-0 text-center">B.SC. Medical Physiology (From Session 2023-24
+                                                        Onwards)</h5>
                                                 </div>
                                                 <div
                                                     class="card-footer d-flex justify-content-between align-items-center bg-white py-3">
