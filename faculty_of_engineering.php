@@ -1147,6 +1147,96 @@ include 'head.php';
 
 
 
+    <!-- Section for recruiters begin  -->
+    <section>
+        <div class="container-fluid mt-5 ">
+            <h2 class="tmu-text-primary text-center">
+                <span>Our </span><span> Recruiters</span>
+            </h2>
+            <div class="marquee my-5 py-5 pt-4">
+                <section class="marquee-content">
+                    <div class="marquee-block">
+                        <a  href="#"><img src="https://www.tmu.ac.in/img/placement/recruiters_logos/our_recuriters/face_academy.png" alt="face academy visit TMU for recruitment"></a>
+                    </div>
+                    <div class="marquee-block">
+                        <a  href="#"><img src="https://www.tmu.ac.in/img/placement/recruiters_logos/our_recuriters/Tata%20Motors.png" alt="Tata motors visit TMU for recruitment"></a>
+                    </div>
+                    <div class="marquee-block">
+                        <a  href="#"><img src="https://www.tmu.ac.in/img/placement/recruiters_logos/our_recuriters/Cetpa.png" alt="cetpa visit TMU for recruitment"></a>
+                    </div>
+                    <div class="marquee-block">
+                        <a  href="#"><img src="https://www.tmu.ac.in/img/placement/recruiters_logos/our_recuriters/Tosha%20International.png" alt="tosha inernational visit TMU for recruitment"></a>
+                    </div>
+                    <div class="marquee-block">
+                        <a  href="#"><img src="https://www.tmu.ac.in/img/placement/recruiters_logos/our_recuriters/tci.png" alt="TCI visit TMU for recruitment"></a>
+                    </div>
+                    <div class="marquee-block">
+                        <a  href="#"><img src="https://www.tmu.ac.in/img/placement/recruiters_logos/our_recuriters/wipro.png" alt="Wipro visit TMU for recruitment"></a>
+                    </div>
+                    <div class="marquee-block">
+                        <a  href="#"><img src="https://www.tmu.ac.in/img/placement/recruiters_logos/our_recuriters/torrent_gas.png" alt="Torrent gas visit TMU for recruitment"></a>
+                    </div>
+                    <div class="marquee-block">
+                        <a  href="#"><img src="https://www.tmu.ac.in/img/placement/recruiters_logos/our_recuriters/munjal_auto.png" alt="munjal auto visit TMU for recruitment"></a>
+                    </div>
+                    <div class="marquee-block">
+                        <a  href="#"><img src="https://www.tmu.ac.in/img/placement/recruiters_logos/our_recuriters/smart_brain.png" alt="smart brain visit TMU for recruitment"></a>
+                    </div>
+                    <div class="marquee-block">
+                        <a  href="#"><img src="https://www.tmu.ac.in/img/placement/recruiters_logos/our_recuriters/infosys.png" alt="infosys visit TMU for recruitment"></a>
+                    </div>
+                    <div class="marquee-block">
+                        <a  href="#"><img src="https://www.tmu.ac.in/img/placement/recruiters_logos/our_recuriters/ford-logo.png" alt="ford visit TMU for recruitment"></a>
+                    </div>
+                    <div class="marquee-block">
+                        <a  href="#"><img src="https://www.tmu.ac.in/img/placement/recruiters_logos/our_recuriters/tech_mahindra.png" alt="tech mahindra visit TMU for recruitment"></a>
+                    </div>
+                </section>
+                <section class="marquee-content">
+                    <div class="marquee-block">
+                        <a  href="#"><img src="https://www.tmu.ac.in/img/placement/recruiters_logos/our_recuriters/face_academy.png" alt="face academy visit TMU for recruitment"></a>
+                    </div>
+                    <div class="marquee-block">
+                        <a  href="#"><img src="https://www.tmu.ac.in/img/placement/recruiters_logos/our_recuriters/Tata%20Motors.png" alt="Tata motors visit TMU for recruitment"></a>
+                    </div>
+                    <div class="marquee-block">
+                        <a  href="#"><img src="https://www.tmu.ac.in/img/placement/recruiters_logos/our_recuriters/Cetpa.png" alt="cetpa visit TMU for recruitment"></a>
+                    </div>
+                    <div class="marquee-block">
+                        <a  href="#"><img src="https://www.tmu.ac.in/img/placement/recruiters_logos/our_recuriters/Tosha%20International.png" alt="tosha inernational visit TMU for recruitment"></a>
+                    </div>
+                    <div class="marquee-block">
+                        <a  href="#"><img src="https://www.tmu.ac.in/img/placement/recruiters_logos/our_recuriters/tci.png" alt="TCI visit TMU for recruitment"></a>
+                    </div>
+                    <div class="marquee-block">
+                        <a  href="#"><img src="https://www.tmu.ac.in/img/placement/recruiters_logos/our_recuriters/wipro.png" alt="Wipro visit TMU for recruitment"></a>
+                    </div>
+                    <div class="marquee-block">
+                        <a  href="#"><img src="https://www.tmu.ac.in/img/placement/recruiters_logos/our_recuriters/torrent_gas.png" alt="Torrent gas visit TMU for recruitment"></a>
+                    </div>
+                    <div class="marquee-block">
+                        <a  href="#"><img src="https://www.tmu.ac.in/img/placement/recruiters_logos/our_recuriters/munjal_auto.png" alt="munjal auto visit TMU for recruitment"></a>
+                    </div>
+                    <div class="marquee-block">
+                        <a  href="#"><img src="https://www.tmu.ac.in/img/placement/recruiters_logos/our_recuriters/smart_brain.png" alt="smart brain visit TMU for recruitment"></a>
+                    </div>
+                    <div class="marquee-block">
+                        <a  href="#"><img src="https://www.tmu.ac.in/img/placement/recruiters_logos/our_recuriters/infosys.png" alt="infosys visit TMU for recruitment"></a>
+                    </div>
+                    <div class="marquee-block">
+                        <a  href="#"><img src="https://www.tmu.ac.in/img/placement/recruiters_logos/our_recuriters/ford-logo.png" alt="ford visit TMU for recruitment"></a>
+                    </div>
+                    <div class="marquee-block">
+                        <a  href="#"><img src="https://www.tmu.ac.in/img/placement/recruiters_logos/our_recuriters/tech_mahindra.png" alt="tech mahindra visit TMU for recruitment"></a>
+                    </div>
+                </section>
+            </div>
+        </div>
+    </section>
+
+    <!-- Section for recruiter end -->
+
+
 
     <section>
         <div class="container-xl tmu-testimonial mt-5 mb-3">
@@ -1161,8 +1251,8 @@ include 'head.php';
                         <div class="media-body">
                             <div class="testimonial">
                                 <p class="overview mb-3 fs-14"><b class="fs-16">Rashmi Raj</b> <br>B.Com (2020 - 2024), <br> Data Engineer at Aventra Group
-                                <br>
-                                <span>
+                                    <br>
+                                    <span>
                                         <a href="https://www.linkedin.com/in/udit-gupta-ug0510/" class=" px-2 py-1 linkedin-text">Linkedin <i class="bi bi-linkedin"></i></a>
                                     </span>
                                 </p>
