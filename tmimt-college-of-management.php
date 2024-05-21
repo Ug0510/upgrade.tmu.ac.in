@@ -14,8 +14,8 @@ include 'head.php';
                 <div class="col-md-6 pt-0 pt-md-4 ps-md-5 mb-4">
                     <h1 class=" mt-5 mb-5 d-none d-md-block banner-main-heading">Welcome to the <br> <span style="font-weight:700!important;">Best Management</span> College in UP,TMIMT</h1>
                     <h1 class=" mt-5 mb-3 d-block d-md-none" style="color:#001055; text-transform: capitalize; font-weight:700!important; font-size:24px">Welcome to the <span>Best Management</span> College in UP,TMIMT</h1>
-                    <a href="#" class="tmu-btn btn-1 me-4 py-1 px-3 py-xl-2 px-xl-4"> Download Brocher</a>
-                    <a href="#" class="tmu-btn btn-2 py-1 px-3 py-xl-2 px-xl-4">Apply Now</a>
+                    <a href="https://admissions.tmu.ac.in/" class="tmu-btn btn-1 me-4 py-1 px-3 py-xl-2 px-xl-5">Apply Now</a>
+                    <!-- <a href="#" class="tmu-btn btn-2 py-1 px-3 py-xl-2 px-xl-4">Apply Now</a> -->
                 </div>
                 <div class="col-12 col-md-6">
                     <div class="pe-lg-4 position-relative p-0">
@@ -136,7 +136,7 @@ include 'head.php';
                         <p style="text-align: justify;">TMIMT is the seed that has grown into a big Banyan tree in the form of Teerthanker Mahaveer University. This top management college, established in 2001, has been contributing to the development of management education, by fostering leadership, nurturing entrepreneurial talent and stimulating research since its inception.</p>
                         <p class="mb-0 pb-0"><b>Join the 21-years legacy of scholars shaping the business landscape, with the assistance of the exceptionally qualified faculty.</b></p>
 
-                        <button class="tmu-btn btn-1 py-2 mt-4">Know More!</button>
+                        <a href="/mgmt_overview.php" class="tmu-btn btn-1 py-2 mt-4 d-block w-fit-content mx-auto">Know More!</a>
 
                     </div>
 
@@ -1054,7 +1054,7 @@ include 'head.php';
         <section>
             <div class="container-xl tmu-testimonial mt-5 mb-3">
 
-                <h2 class="tmu-text-primary my-0 mb-3"> <span>Students </span> <span>Testimonial</span></h2>
+                <h2 class="tmu-text-primary my-0 mb-3"> <span>Testimonial</span></h2>
 
                 <div class="owl-carousel owl-carousel-full image-carousel carousel-widget charity-card" style="overflow: visible;" data-stage-padding="20" data-margin="50" data-center="true" data-loop="true" data-nav="true" data-autoplay="200000" data-speed="2000" data-pagi="true" data-items-xs="1" data-items-sm="2" data-items-md="2" data-items-lg="3" data-items-xl="3">
 
