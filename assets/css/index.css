@@ -2288,6 +2288,12 @@ body {
     border-radius: 10px;
 }
 
+@media screen and (max-width:480px) {
+    .hh1{
+        margin-top: 10px;
+    }
+}
+
 #box {
     display: none;
     background-color: #f0f0f0;
@@ -2509,6 +2515,11 @@ body {
 .under-banner-cards>span:first-child {
     font-size: 1.2rem;
 }
+
+.under-banner-cards-carousel .owl-stage-outer {
+    padding-bottom: 0 !important;
+}
+
 
 @media screen and (max-width:480px) {
     .under-banner-cards>span:first-child {

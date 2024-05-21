@@ -1,134 +1,139 @@
 <?php
- include 'head.php';
+include 'head.php';
 ?>
 
 
-<div class="slider-container" onmouseover="stopAuto()" onmouseout="startAuto()">
+<!-- <div class="slider-container" onmouseover="stopAuto()" onmouseout="startAuto()">
     <button class="arrow arrow-prev" onclick="prevSlide()">←</button>
     <div class="slider">
-        <div class="slide"><img src="assets/img/banner/111.webp" alt="Image 1"></div>
+        <div class="slide"></div>
     </div>
     <button class="arrow arrow-next" onclick="nextSlide()">→</button>
-</div>
+</div> -->
+
+
+<!-- Banner Code start -->
+<section>
+    <div class="container-fluid px-0">
+    <img src="assets/img/banner/111.webp" alt="Image 1">
+    </div>
+</section>
+<!-- Banner Code end -->
 
 
 
 <div class="container hh1">
-        <h2 Class="h2-line" style="text-align: center; font-weight: 800;">JOB OPENINGS</h2>
-        <div class="row">
-            <div class="col-md-6">
-                <div class="card-body">
-                    <h5 class="card-title-job">ACADEMIC JOB OPENINGS</h5>
-                    <!-- <p class="card-text">This is a primary button with a modern design.</p> -->
-                    <hr class="horizontal-line">
-
-                    <button class="careers-accordion">Does University provide transport?<span
-                            class="icon">+</span></button>
-                    <div class="panel">
-                        <p>Yes, Teerthankerance of 100 Kms. For added safety, the buses have camera surveillance inside
-                            it too.</p>
-                    </div>
-                    <!-- Add the horizontal line here -->
-                    <hr class="horizontal-line">
-
-                    <button class="careers-accordion">Working environment<span class="icon">+</span></button>
-                    <div class="panel">
-                        <p>The work environment r best and enhance your caliber.</p>
-                    </div>
-                    <!-- Add the horizontal line here -->
-                    <hr class="horizontal-line">
-                    <button class="careers-accordion">Campus<span class="icon">+</span></button>
-                    <div class="panel">
-                        <p>The University is lostand and Railway station. The campus occupies the geographical area of
-                            130 Acres.</p>
-                    </div>
-                    <!-- Add the horizontal line here -->
-                    <hr class="horizontal-line">
-                    <button class="careers-accordion">Career Opportunities<span class="icon">+</span></button>
-                    <div class="panel">
-                        <p>If you are the one who Exchange Programs, Research opportunities and more.</p>
-                    </div>
-                    <!-- Add the horizontal line here -->
-                    <hr class="horizontal-line">
-                    <button class="careers-accordion">Residential complex for faculties<span
-                            class="icon">+</span></button>
-                    <div class="panel">
-                        <p>Yes, TMU accommodates ilities, 24X7 Power backup, salon and more.</p>
-                    </div>
-                    <!-- Add the horizontal line here -->
-                    <hr class="horizontal-line">
-                </div>
-            </div>
-            <div class="col-md-6">
-                <div class="card-body">
-                    <h5 class="card-title-job">ACADEMIC JOB OPENINGS</h5>
-                    <!-- <p class="card-text">This is a primary button with a modern design.</p> -->
-                    <hr class="horizontal-line">
-
-                    <button class="careers-accordion">Does University provide transport?<span
-                            class="icon">+</span></button>
-                    <div class="panel">
-                        <p>Yes, Teerthankerance of 100 Kms. For added safety, the buses have camera surveillance inside
-                            it too.</p>
-                    </div>
-                    <!-- Add the horizontal line here -->
-                    <hr class="horizontal-line">
-
-                    <button class="careers-accordion">Working environment<span class="icon">+</span></button>
-                    <div class="panel">
-                        <p>The work environment r best and enhance your caliber.</p>
-                    </div>
-                    <!-- Add the horizontal line here -->
-                    <hr class="horizontal-line">
-                    <button class="careers-accordion">Residential complex for faculties<span
-                            class="icon">+</span></button>
-                    <div class="panel">
-                        <p>Yes, TMU accommodates ilities, 24X7 Power backup, salon and more.</p>
-                    </div>
-                    <!-- Add the horizontal line here -->
-                    <hr class="horizontal-line">
-                </div>
-            </div>
-        </div>
-    </div>
-
-
-    <div class="container form-container">
+    <h2 Class="tmu-text-primary text-center mb-5"><span>JOB </span><span> OPENINGS</span></h2>
     <div class="row">
-      <div class="col-md-7">
-        <div class="image-container">
-          <img src="assets/img/job.jpg" class="img-fluid" alt="Image">
+        <div class="col-md-6">
+            <div class="card-body">
+                <h5 class="card-title-job">ACADEMIC JOB OPENINGS</h5>
+                <!-- <p class="card-text">This is a primary button with a modern design.</p> -->
+                <hr class="horizontal-line">
+
+                <button class="careers-accordion">Does University provide transport?<span class="icon">+</span></button>
+                <div class="panel">
+                    <p>Yes, Teerthankerance of 100 Kms. For added safety, the buses have camera surveillance inside
+                        it too.</p>
+                </div>
+                <!-- Add the horizontal line here -->
+                <hr class="horizontal-line">
+
+                <button class="careers-accordion">Working environment<span class="icon">+</span></button>
+                <div class="panel">
+                    <p>The work environment r best and enhance your caliber.</p>
+                </div>
+                <!-- Add the horizontal line here -->
+                <hr class="horizontal-line">
+                <button class="careers-accordion">Campus<span class="icon">+</span></button>
+                <div class="panel">
+                    <p>The University is lostand and Railway station. The campus occupies the geographical area of
+                        130 Acres.</p>
+                </div>
+                <!-- Add the horizontal line here -->
+                <hr class="horizontal-line">
+                <button class="careers-accordion">Career Opportunities<span class="icon">+</span></button>
+                <div class="panel">
+                    <p>If you are the one who Exchange Programs, Research opportunities and more.</p>
+                </div>
+                <!-- Add the horizontal line here -->
+                <hr class="horizontal-line">
+                <button class="careers-accordion">Residential complex for faculties<span class="icon">+</span></button>
+                <div class="panel">
+                    <p>Yes, TMU accommodates ilities, 24X7 Power backup, salon and more.</p>
+                </div>
+                <!-- Add the horizontal line here -->
+                <hr class="horizontal-line">
+            </div>
         </div>
-      </div>
-      <div class="col-md-5">
-      <h2 Class="h2-line" style="font-weight: 800;">Didn't find what you're looking for?</h2>
-        <p>Please fill out the form below and upload your CV.</p>
-        <form action="submit_career_form.php" method="POST" enctype="multipart/form-data">
-          <div class="form-group">
-            <label for="full-name">Full Name</label>
-            <input type="text" class="form-control" id="full-name" name="full-name" required>
-          </div>
-          <div class="form-group">
-            <label for="email">Email</label>
-            <input type="email" class="form-control" id="email" name="email" required>
-          </div>
-          <div class="form-group">
-            <label for="phone">Phone Number</label>
-            <input type="tel" class="form-control" id="phone" name="phone" required>
-          </div>
-          <div class="form-group">
-            <label for="cv">Upload CV</label>
-            <input type="file" class="form-control-file" id="cv" name="cv" required>
-          </div>
-          <button type="submit" class="btn btn-primary">Submit</button>
-        </form>
-      </div>
+        <div class="col-md-6 mt-5 mt-md-0">
+            <div class="card-body">
+                <h5 class="card-title-job">ACADEMIC JOB OPENINGS</h5>
+                <!-- <p class="card-text">This is a primary button with a modern design.</p> -->
+                <hr class="horizontal-line">
+
+                <button class="careers-accordion">Does University provide transport?<span class="icon">+</span></button>
+                <div class="panel">
+                    <p>Yes, Teerthankerance of 100 Kms. For added safety, the buses have camera surveillance inside
+                        it too.</p>
+                </div>
+                <!-- Add the horizontal line here -->
+                <hr class="horizontal-line">
+
+                <button class="careers-accordion">Working environment<span class="icon">+</span></button>
+                <div class="panel">
+                    <p>The work environment r best and enhance your caliber.</p>
+                </div>
+                <!-- Add the horizontal line here -->
+                <hr class="horizontal-line">
+                <button class="careers-accordion">Residential complex for faculties<span class="icon">+</span></button>
+                <div class="panel">
+                    <p>Yes, TMU accommodates ilities, 24X7 Power backup, salon and more.</p>
+                </div>
+                <!-- Add the horizontal line here -->
+                <hr class="horizontal-line">
+            </div>
+        </div>
     </div>
-  </div>
+</div>
+
+
+<div class="container form-container">
+    <div class="row">
+        <div class="col-md-7">
+            <div class="image-container">
+                <img src="assets/img/job.jpg" class="img-fluid" alt="Image">
+            </div>
+        </div>
+        <div class="col-md-5">
+            <h2 Class="tmu-text-primary text-center"><span>Didn't find </span><span>what you're looking for?</span></h2>
+            <p class="fs-12">Please fill out the form below and upload your CV.</p>
+            <form action="submit_career_form.php" method="POST" enctype="multipart/form-data">
+                <div class="form-group">
+                    <label for="full-name">Full Name</label>
+                    <input type="text" class="form-control" id="full-name" name="full-name" required>
+                </div>
+                <div class="form-group">
+                    <label for="email">Email</label>
+                    <input type="email" class="form-control" id="email" name="email" required>
+                </div>
+                <div class="form-group">
+                    <label for="phone">Phone Number</label>
+                    <input type="tel" class="form-control" id="phone" name="phone" required>
+                </div>
+                <div class="form-group">
+                    <label for="cv">Upload CV: </label>
+                    <input type="file" class="form-control-file" id="cv" name="cv" required>
+                </div>
+                <button type="submit" class="tmu-btn btn-1 px-5  py-2">Submit</button>
+            </form>
+        </div>
+    </div>
+</div>
 
 <div class="box-container">
     <div class="box">
-        <h2 Class="h2-line" style="font-weight: 800;">HIGHLIGHTS</h2>
+        <h2 class="tmu-text-primary text-center">HIGHLIGHTS</h2>
         <div class="row">
             <div class="col-md-6 col-sm-12">
                 <ul class="list">
@@ -166,12 +171,11 @@
         <div class="row flex-sm-row-reverse justify-content-center justify-content-lg-between col-mb-80">
             <div class="col-lg-5 col-8">
                 <div class="dotted-bg">
-                    <img src="demos/speaker/images/hero.jpg" alt="Image 1"
-                        class="d-flex z-1 ms-auto w-100 position-relative" style="border-radius: 2rem;">
+                    <img src="demos/speaker/images/hero.jpg" alt="Image 1" class="d-flex z-1 ms-auto w-100 position-relative" style="border-radius: 2rem;">
                 </div>
             </div>
             <div class="col-lg-7">
-                <h2 Class="h2-line" style="font-weight: 800;">Work Where You Matter</h2>
+                <h2 class="tmu-text-primary text-center"><span>Work Where </span><span> You Matter</span></h2>
                 <h3 class="color fs-5 mb-3">Join TMU</h3>
                 <div class="row col-mb-30">
 
@@ -197,7 +201,7 @@
                     <div class="col-md-6 col-sm-12">
                         <div class="card counter-card">
                             <div class="card-body">
-                                <h4 class="card-title-job" style="text-align: justify;">Work-Life Balance</h4> 
+                                <h4 class="card-title-job" style="text-align: justify;">Work-Life Balance</h4>
                                 <p class="card-text text-color" style="text-align: justify;">We understand the importance of a balanced life. TMU supports this with flexible working hours, remote work options, and family-friendly policies to help you manage your personal and professional life effectively.</p>
                             </div>
                         </div>
@@ -206,7 +210,7 @@
                     <div class="col-md-6 col-sm-12">
                         <div class="card counter-card">
                             <div class="card-body">
-                                <h4 class="card-title-job" style="text-align: justify;">Community and Social Responsibility </h4> 
+                                <h4 class="card-title-job" style="text-align: justify;">Community and Social Responsibility </h4>
                                 <p class="card-text text-color" style="text-align: justify;">Engage in meaningful community service and sustainability initiatives. TMU is committed to social responsibility and offers various platforms for staff to contribute to societal improvement.</p>
                             </div>
                         </div>
@@ -214,7 +218,7 @@
                     <div class="col-md-6 col-sm-12">
                         <div class="card counter-card">
                             <div class="card-body">
-                                <h4 class="card-title-job" style="text-align: justify;">Dynamic Networking Opportunities</h4> 
+                                <h4 class="card-title-job" style="text-align: justify;">Dynamic Networking Opportunities</h4>
                                 <p class="card-text text-color" style="text-align: justify;">Expand your professional network significantly at TMU. Regular academic conferences, industry collaborations, and alumni events provide ample opportunities to connect with influential professionals both locally and globally.</p>
                             </div>
                         </div>
@@ -223,7 +227,7 @@
                     <div class="col-md-6 col-sm-12">
                         <div class="card counter-card">
                             <div class="card-body">
-                                <h4 class="card-title-job" style="text-align: justify;">Robust Upskilling Programmes</h4> 
+                                <h4 class="card-title-job" style="text-align: justify;">Robust Upskilling Programmes</h4>
                                 <p class="card-text text-color" style="text-align: justify;">Stay ahead of the curve with TMU’s tailored upskilling initiatives. We prioritise keeping our staff at the forefront of their fields with access to the latest tools, technologies, and industry practices through workshops and seminars.</p>
                             </div>
                         </div>
@@ -235,7 +239,10 @@
 </section>
 
 <div class="container mb-5 mt-5">
-    <h2 Class="h2-line" style="font-weight: 800;">FAQ</h2>
+    <h2 class="tmu-text-primary text-center">
+        <span>Frequently</span>
+        <span>Asked Questions</span>
+    </h2>
     <hr class="horizontal-line">
 
     <button class="careers-accordion">Does University provide transport?<span class="icon">+</span></button>
@@ -281,85 +288,85 @@
     <hr class="horizontal-line">
 </div>
 
-<script>
-let currentIndex = 0;
-const slides = document.querySelectorAll('.slide');
-const totalSlides = slides.length;
-let autoSlideInterval;
+<!-- <script>
+    let currentIndex = 0;
+    const slides = document.querySelectorAll('.slide');
+    const totalSlides = slides.length;
+    let autoSlideInterval;
 
-function showSlide(index) {
-    if (index < 0) {
-        index = totalSlides - 1;
-    } else if (index >= totalSlides) {
-        index = 0;
+    function showSlide(index) {
+        if (index < 0) {
+            index = totalSlides - 1;
+        } else if (index >= totalSlides) {
+            index = 0;
+        }
+        const offset = -index * 100;
+        document.querySelector('.slider').style.transform = `translateX(${offset}%)`;
+        currentIndex = index;
     }
-    const offset = -index * 100;
-    document.querySelector('.slider').style.transform = `translateX(${offset}%)`;
-    currentIndex = index;
-}
 
-function nextSlide() {
-    showSlide(currentIndex + 1);
-}
+    function nextSlide() {
+        showSlide(currentIndex + 1);
+    }
 
-function prevSlide() {
-    showSlide(currentIndex - 1);
-}
+    function prevSlide() {
+        showSlide(currentIndex - 1);
+    }
 
-function startAuto() {
-    autoSlideInterval = setInterval(nextSlide, 3000); // Change slide every 3 seconds
-}
+    function startAuto() {
+        autoSlideInterval = setInterval(nextSlide, 3000); // Change slide every 3 seconds
+    }
 
-function stopAuto() {
-    clearInterval(autoSlideInterval);
-}
+    function stopAuto() {
+        clearInterval(autoSlideInterval);
+    }
 
-startAuto();
+    startAuto();
 
 
-//   career accordian
-var acc = document.getElementsByClassName("careers-accordion");
-var i;
+    //   career accordian
+    var acc = document.getElementsByClassName("careers-accordion");
+    var i;
 
-for (i = 0; i < acc.length; i++) {
-    acc[i].addEventListener("click", function() {
-        var panel = this.nextElementSibling;
-        if (panel.style.display === "block") {
-            panel.style.display = "none";
-            this.querySelector(".icon").innerHTML = "+";
-            this.classList.remove("clicked"); // Remove clicked class when closing
-        } else {
-            // Close all other panels
-            var allPanels = document.querySelectorAll('.panel');
-            for (var j = 0; j < allPanels.length; j++) {
-                allPanels[j].style.display = 'none';
-                var accordion = allPanels[j].previousElementSibling;
-                accordion.querySelector(".icon").innerHTML = "+";
-                accordion.classList.remove("clicked"); // Remove clicked class from other accordions
+    for (i = 0; i < acc.length; i++) {
+        acc[i].addEventListener("click", function() {
+            var panel = this.nextElementSibling;
+            if (panel.style.display === "block") {
+                panel.style.display = "none";
+                this.querySelector(".icon").innerHTML = "+";
+                this.classList.remove("clicked"); // Remove clicked class when closing
+            } else {
+                // Close all other panels
+                var allPanels = document.querySelectorAll('.panel');
+                for (var j = 0; j < allPanels.length; j++) {
+                    allPanels[j].style.display = 'none';
+                    var accordion = allPanels[j].previousElementSibling;
+                    accordion.querySelector(".icon").innerHTML = "+";
+                    accordion.classList.remove("clicked"); // Remove clicked class from other accordions
+                }
+                panel.style.display = "block";
+                this.querySelector(".icon").innerHTML = "-";
+                this.classList.add("clicked"); // Add clicked class when opening
             }
-            panel.style.display = "block";
-            this.querySelector(".icon").innerHTML = "-";
-            this.classList.add("clicked"); // Add clicked class when opening
-        }
+        });
+    }
+
+
+    // job container toggle button
+    document.addEventListener('DOMContentLoaded', function() {
+        const toggleBtn = document.getElementById('toggleBtn');
+        const box = document.getElementById('box');
+
+        toggleBtn.addEventListener('click', function() {
+            if (box.style.display === '' || box.style.display === 'none') {
+                box.style.display = 'block';
+            } else {
+                box.style.display = 'none';
+            }
+        });
     });
-}
-
-
-// job container toggle button
-document.addEventListener('DOMContentLoaded', function() {
-    const toggleBtn = document.getElementById('toggleBtn');
-    const box = document.getElementById('box');
-
-    toggleBtn.addEventListener('click', function() {
-        if (box.style.display === '' || box.style.display === 'none') {
-            box.style.display = 'block';
-        } else {
-            box.style.display = 'none';
-        }
-    });
-});
-</script>
+</script> -->
 
 <?php
- include 'footer.php';
+include 'footer.php';
 ?>
