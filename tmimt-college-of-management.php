@@ -1063,8 +1063,11 @@ include 'head.php';
                             <img src="https://www.tmu.ac.in/monaco/assets/image/testimonials/rashmi_raj_bcom.webp" class="mr-3" alt="">
                             <div class="media-body">
                                 <div class="testimonial">
-                                    <p class="overview mb-3 fs-14"><b class="fs-14">Rashmi Raj</b> <br>B.Com (2020 - 2024), <br> Data Engineer at Aventra Group <br>
-                                    </p>
+                                    <p class="overview mb-3 fs-14"><b class="fs-16">Rashmi Raj</b> <br>B.Com (2020 - 2024), <br> Data Engineer at Aventra Group <br>
+                                    <span>
+                                        <a href="https://www.linkedin.com/in/udit-gupta-ug0510/" class=" px-2 py-1 linkedin-text">Linkedin <i class="bi bi-linkedin"></i></a>
+                                    </span>    
+                                </p>
                                     <p>For me TMU wasn't just a place of study, it was where I discovered the artistry in
                                         business. Professors here were mentors who helped me navigate the complexities of
                                         creativity. TMU, to me, isn't just an educational space; it's the place where my journey
@@ -1073,8 +1076,7 @@ include 'head.php';
                                 </div>
                             </div>
                             <div class="mx-auto my-0 d-flex align-items-center tmu-fs-14">
-                                <button class="tmu-btn btn-3 py-2 d-block pe-2 right-no-curve" onclick="showTestimonialModal()">Read More </button>
-                                <a href="https://www.linkedin.com/in/udit-gupta-ug0510/" class="tmu-btn btn-linkedin py-2 px-3"><i class="bi bi-linkedin"></i></a>
+                                <button class="tmu-btn btn-3 py-2 d-block pe-3 " onclick="showTestimonialModal()">Read More <i class="bi bi-chevron-down"></i></button>
                             </div>
 
 
@@ -1085,8 +1087,11 @@ include 'head.php';
                             <img src="https://www.tmu.ac.in/monaco/assets/image/testimonials/rashmi_raj_bcom.webp" class="mr-3" alt="">
                             <div class="media-body">
                                 <div class="testimonial">
-                                    <p class="overview mb-3 fs-14"><b class="fs-14">Rashmi Raj</b> <br>B.Com (2020 - 2024), <br> Data Engineer at Aventra Group <br>
-                                    </p>
+                                    <p class="overview mb-3 fs-14"><b class="fs-16">Rashmi Raj</b> <br>B.Com (2020 - 2024), <br> Data Engineer at Aventra Group <br>
+                                    <span>
+                                        <a href="https://www.linkedin.com/in/udit-gupta-ug0510/" class=" px-2 py-1 linkedin-text">Linkedin <i class="bi bi-linkedin"></i></a>
+                                    </span>    
+                                </p>
                                     <p>For me TMU wasn't just a place of study, it was where I discovered the artistry in
                                         business. Professors here were mentors who helped me navigate the complexities of
                                         creativity. TMU, to me, isn't just an educational space; it's the place where my journey
@@ -1095,8 +1100,7 @@ include 'head.php';
                                 </div>
                             </div>
                             <div class="mx-auto my-0 d-flex align-items-center tmu-fs-14">
-                                <button class="tmu-btn btn-3 py-2 d-block pe-2 right-no-curve" onclick="showTestimonialModal()">Read More </button>
-                                <a href="https://www.linkedin.com/in/udit-gupta-ug0510/" class="tmu-btn btn-linkedin py-2 px-3"><i class="bi bi-linkedin"></i></a>
+                                <button class="tmu-btn btn-3 py-2 d-block pe-3 " onclick="showTestimonialModal()">Read More <i class="bi bi-chevron-down"></i></button>
                             </div>
 
 
@@ -1106,8 +1110,11 @@ include 'head.php';
                             <img src="https://www.tmu.ac.in/monaco/assets/image/testimonials/rashmi_raj_bcom.webp" class="mr-3" alt="">
                             <div class="media-body">
                                 <div class="testimonial">
-                                    <p class="overview mb-3 fs-14"><b class="fs-14">Rashmi Raj</b> <br>B.Com (2020 - 2024), <br> Data Engineer at Aventra Group <br>
-                                    </p>
+                                    <p class="overview mb-3 fs-14"><b class="fs-16">Rashmi Raj</b> <br>B.Com (2020 - 2024), <br> Data Engineer at Aventra Group <br>
+                                    <span>
+                                        <a href="https://www.linkedin.com/in/udit-gupta-ug0510/" class=" px-2 py-1 linkedin-text">Linkedin <i class="bi bi-linkedin"></i></a>
+                                    </span>    
+                                </p>
                                     <p>For me TMU wasn't just a place of study, it was where I discovered the artistry in
                                         business. Professors here were mentors who helped me navigate the complexities of
                                         creativity. TMU, to me, isn't just an educational space; it's the place where my journey
@@ -1116,8 +1123,7 @@ include 'head.php';
                                 </div>
                             </div>
                             <div class="mx-auto my-0 d-flex align-items-center tmu-fs-14">
-                                <button class="tmu-btn btn-3 py-2 d-block pe-2 right-no-curve" onclick="showTestimonialModal()">Read More </button>
-                                <a href="https://www.linkedin.com/in/udit-gupta-ug0510/" class="tmu-btn btn-linkedin py-2 px-3"><i class="bi bi-linkedin"></i></a>
+                                <button class="tmu-btn btn-3 py-2 d-block pe-3 " onclick="showTestimonialModal()">Read More <i class="bi bi-chevron-down"></i></button>
                             </div>
 
 
@@ -1127,8 +1133,11 @@ include 'head.php';
                             <img src="https://www.tmu.ac.in/monaco/assets/image/testimonials/rashmi_raj_bcom.webp" class="mr-3" alt="">
                             <div class="media-body">
                                 <div class="testimonial">
-                                    <p class="overview mb-3 fs-14"><b class="fs-14">Rashmi Raj</b> <br>B.Com (2020 - 2024), <br> Data Engineer at Aventra Group <br>
-                                    </p>
+                                    <p class="overview mb-3 fs-14"><b class="fs-16">Rashmi Raj</b> <br>B.Com (2020 - 2024), <br> Data Engineer at Aventra Group <br>
+                                    <span>
+                                        <a href="https://www.linkedin.com/in/udit-gupta-ug0510/" class=" px-2 py-1 linkedin-text">Linkedin <i class="bi bi-linkedin"></i></a>
+                                    </span>    
+                                </p>
                                     <p>For me TMU wasn't just a place of study, it was where I discovered the artistry in
                                         business. Professors here were mentors who helped me navigate the complexities of
                                         creativity. TMU, to me, isn't just an educational space; it's the place where my journey
@@ -1137,8 +1146,7 @@ include 'head.php';
                                 </div>
                             </div>
                             <div class="mx-auto my-0 d-flex align-items-center tmu-fs-14">
-                                <button class="tmu-btn btn-3 py-2 d-block pe-2 right-no-curve" onclick="showTestimonialModal()">Read More </button>
-                                <a href="https://www.linkedin.com/in/udit-gupta-ug0510/" class="tmu-btn btn-linkedin py-2 px-3"><i class="bi bi-linkedin"></i></a>
+                                <button class="tmu-btn btn-3 py-2 d-block pe-3 " onclick="showTestimonialModal()">Read More <i class="bi bi-chevron-down"></i></button>
                             </div>
 
 
