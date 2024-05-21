@@ -11,120 +11,105 @@ include 'head.php';
     <div class="content-wrap py-0">
         <div class="container-fluid  my-0 px-2">
             <div class="row ps-4">
-                <div class="col-md-6 pt-0 pt-md-4 ps-md-5 mb-4">
+                <div class="col-md-6 pt-0 pt-md-4 ps-md-5 mb-4 ">
                     <h1 class=" mt-5 mb-5 d-none d-md-block  banner-main-heading">Welcome to the <br> <span style="font-weight:700!important;">Best Engineering</span> College in UP</h1>
                     <h1 class=" mt-5 mb-3 d-block d-md-none" style="color:#001055; text-transform: capitalize; font-weight:700!important; font-size:24px">Welcome to the <span>Best Engineering</span> College in UP,</h1>
-                    <a href="https://admissions.tmu.ac.in/" class="tmu-btn btn-1 me-4 py-1 px-3 py-xl-2 px-xl-5"> Apply Now</a>
+                    <a href="https://admissions.tmu.ac.in/" class="tmu-btn btn-1 me-md-4 py-1 px-3 py-xl-2 px-xl-5 "> Apply Now</a>
                     <!-- <a href="#" class="tmu-btn btn-2 py-1 px-3 py-xl-2 px-xl-4">Apply Now</a> -->
                 </div>
                 <div class="col-12 col-md-6">
                     <div class="pe-lg-4 position-relative p-0">
                         <div style="z-index: 2;">
                             <!-- <iframe width="560" height="315" src="https://www.youtube.com/embed/iXHRmCyHszY?si=BcZ5NOfT-V8ECc6z" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen style="z-index: 2; margin:0;"></iframe> -->
-                            <img src="./assets/img/foe/foe-banner.png" alt="" class="p-0 m-0">
+                            <img src="./assets/img/foe/foe-banner.webp" alt="" class="p-0 m-0">
                         </div>
                     </div>
                 </div>
             </div>
         </div>
 
-        <div class="container my-3 d-none d-md-block">
+        <div class="container my-3 d-none d-lg-block">
             <div class="row justify-content-center">
                 <div class="col-6 col-lg-3 px-1">
                     <div class="card text-center py-3 rounded-0 fw-semibold text-uppercase ls-1">
                         <div class="card-body gap-4 text-tmu-primary under-banner-cards">
-                            <span> Affiliated</span>
+                            <span>AA+</span>
                             <br>
-                            <span class="d-block pt-1">Engineering Council of India </span>
+                            <span class="d-block pt-1">Rated Top B-school by <br> Careers360</span>
                         </div>
                     </div>
                 </div>
                 <div class="col-6 col-lg-3 px-1">
                     <div class="card text-center py-3 rounded-0 fw-semibold text-uppercase ls-1">
                         <div class="card-body gap-4 text-tmu-primary under-banner-cards">
-                            <span>NBA </span>
+                            <span>India's 1st</span>
                             <br>
-                            <span class="d-block pt-1">Accredited BTech CSE</span>
+                            <span class="d-block pt-1">Centre of Excellence in Cybersecurity</span>
                         </div>
                     </div>
                 </div>
                 <div class="col-6 col-lg-3 px-1">
                     <div class="card text-center py-3 rounded-0 fw-semibold text-uppercase ls-1">
+                        <div class="card-body gap-4 text-tmu-primary under-banner-cards">
+                            <span>5 B-Schools</span>
+                            <br>
+                            <span class="d-block pt-1">Among the Top 5 B-Schools in North India</span>
+                        </div>
+                    </div>
+                </div>
+                <div class="col-6 col-lg-3 px-1">
+                    <div class="card text-center py-3 rounded-0 fw-semibold text-uppercase ls-1">
+                        <div class="card-body gap-4 text-tmu-primary under-banner-cards">
+                            <span>IACBE</span>
+                            <br>
+                            <span class="d-block pt-1">Member of IACBE</span>
+                            &nbsp;&nbsp;
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+
+        <div class="owl-carousel owl-carousel-full image-carousel carousel-widget charity-card my-3 under-banner-cards-carousel d-block d-lg-none"  data-stage-padding="20" data-margin="10" data-center="true" data-loop="true" data-nav="true" data-autoplay="2000" data-speed="2000" data-pagi="true" data-items-xs="1" data-items-sm="2" data-items-md="2" data-items-lg="4" data-items-xl="4">
+
+            <div class="oc-item text-start">
+                <div class="card text-center py-3 rounded-0 fw-semibold text-uppercase ls-1">
+                    <div class="card-body gap-4 text-tmu-primary under-banner-cards">
+                        <span> Affiliated</span>
+                        <br>
+                        <span class="d-block pt-1 text-wrap">Engineering Council of India </span>
+                    </div>
+                </div>
+            </div>
+            <div class="oc-item text-start">
+                <div class="card text-center py-3 rounded-0 fw-semibold text-uppercase ls-1">
+                    <div class="card-body gap-4 text-tmu-primary under-banner-cards">
+                        <span>NBA </span>
+                        <br>
+                        <span class="d-block pt-1 text-wrap">Accredited BTech CSE</span>
+                    </div>
+                </div>
+            </div>
+            <div class="oc-item text-start">
+                <div class="card text-center py-3 rounded-0 fw-semibold text-uppercase ls-1">
                         <div class="card-body gap-4 text-tmu-primary under-banner-cards">
                             <span>82% </span>
                             <br>
-                            <span class="d-block pt-1">Placement Rate</span>
+                            <span class="d-block pt-1 text-wrap">Placement Rate</span>
                         </div>
                     </div>
                 </div>
-                <div class="col-6 col-lg-3 px-1">
-                    <div class="card text-center py-3 rounded-0 fw-semibold text-uppercase ls-1">
+            <div class="oc-item text-start">
+            <div class="card text-center py-3 rounded-0 fw-semibold text-uppercase ls-1">
                         <div class="card-body gap-4 text-tmu-primary under-banner-cards">
                             <span>CRC</span>
                             <br>
-                            <span class="d-block pt-1">Dedicated Placement Cell</span>
+                            <span class="d-block pt-1 text-wrap">Dedicated Placement Cell</span>
                         </div>
                     </div>
-                </div>
             </div>
         </div>
 
-        <div class="container my-2 d-block d-md-none">
-            <div id="under-banner-carouselExample" class="carousel slide">
-                <div class="carousel-indicators">
-                    <button type="button" data-bs-target="#under-banner-carouselExample" data-bs-slide-to="0" class="active" aria-current="true" aria-label="Slide 1"></button>
-                    <button type="button" data-bs-target="#under-banner-carouselExample" data-bs-slide-to="1" aria-label="Slide 2"></button>
-                </div>
-
-                <div class="carousel-inner">
-                    <div class="carousel-item active">
-                        <div class="row">
-                            <div class="col-6">
-                                <div class="card text-center py-3 rounded-0 fw-semibold text-uppercase ls-1">
-                                    <div class="card-body gap-4 text-tmu-primary under-banner-cards">
-                                        <span> Affiliated</span>
-                                        <br>
-                                        <span class="d-block pt-1">Engineering Council of India </span>
-                                    </div>
-                                </div>
-                            </div>
-                            <div class="col-6">
-                                <div class="card text-center py-3 rounded-0 fw-semibold text-uppercase ls-1">
-                                    <div class="card-body gap-4 text-tmu-primary under-banner-cards">
-                                        <span>NBA </span>
-                                        <br>
-                                        <span class="d-block pt-1">Accredited BTech CSE</span>
-                                    </div>
-                                </div>
-                            </div>
-                        </div>
-                    </div>
-                    <div class="carousel-item">
-                        <div class="row">
-                            <div class="col-6">
-                                <div class="card text-center py-3 rounded-0 fw-semibold text-uppercase ls-1">
-                                    <div class="card-body gap-4 text-tmu-primary under-banner-cards">
-                                        <span>82% </span>
-                                        <br>
-                                        <span class="d-block pt-1">Placement Rate</span>
-                                    </div>
-                                </div>
-                            </div>
-                            <div class="col-6">
-                                <div class="card text-center py-3 rounded-0 fw-semibold text-uppercase ls-1">
-                                    <div class="card-body gap-4 text-tmu-primary under-banner-cards">
-                                        <span>CRC</span>
-                                        <br>
-                                        <span class="d-block pt-1">Dedicated Placement Cell</span>
-                                    </div>
-                                </div>
-                            </div>
-                        </div>
-                    </div>
-                </div>
-            </div>
-
-        </div>
 
         <div class="box-container">
             <div class="box">
@@ -142,7 +127,7 @@ include 'head.php';
         </div>
 
         <div class="container my-5 py-2">
-            <ul class="nav nav-tabs justify-content-center py-2 gap-2 gap-md-5" id="myTabs" role="tablist">
+            <ul class="nav nav-tabs justify-content-center py-2 gap-2 gap-md-3 gap-lg-5" id="myTabs" role="tablist">
                 <li class="nav-item" role="presentation">
                     <button class="nav-link active" id="tab1-tab" data-bs-toggle="tab" data-bs-target="#Tab1" type="button" role="tab" aria-controls="Tab1" aria-selected="true"><i class="fas fa-lightbulb"></i> Key Highlights</button>
                 </li>
@@ -1156,78 +1141,78 @@ include 'head.php';
             <div class="marquee my-5 py-5 pt-4">
                 <section class="marquee-content">
                     <div class="marquee-block">
-                        <a  href="#"><img src="https://www.tmu.ac.in/img/placement/recruiters_logos/our_recuriters/face_academy.png" alt="face academy visit TMU for recruitment"></a>
+                        <a href="#"><img src="https://www.tmu.ac.in/img/placement/recruiters_logos/our_recuriters/face_academy.png" alt="face academy visit TMU for recruitment"></a>
                     </div>
                     <div class="marquee-block">
-                        <a  href="#"><img src="https://www.tmu.ac.in/img/placement/recruiters_logos/our_recuriters/Tata%20Motors.png" alt="Tata motors visit TMU for recruitment"></a>
+                        <a href="#"><img src="https://www.tmu.ac.in/img/placement/recruiters_logos/our_recuriters/Tata%20Motors.png" alt="Tata motors visit TMU for recruitment"></a>
                     </div>
                     <div class="marquee-block">
-                        <a  href="#"><img src="https://www.tmu.ac.in/img/placement/recruiters_logos/our_recuriters/Cetpa.png" alt="cetpa visit TMU for recruitment"></a>
+                        <a href="#"><img src="https://www.tmu.ac.in/img/placement/recruiters_logos/our_recuriters/Cetpa.png" alt="cetpa visit TMU for recruitment"></a>
                     </div>
                     <div class="marquee-block">
-                        <a  href="#"><img src="https://www.tmu.ac.in/img/placement/recruiters_logos/our_recuriters/Tosha%20International.png" alt="tosha inernational visit TMU for recruitment"></a>
+                        <a href="#"><img src="https://www.tmu.ac.in/img/placement/recruiters_logos/our_recuriters/Tosha%20International.png" alt="tosha inernational visit TMU for recruitment"></a>
                     </div>
                     <div class="marquee-block">
-                        <a  href="#"><img src="https://www.tmu.ac.in/img/placement/recruiters_logos/our_recuriters/tci.png" alt="TCI visit TMU for recruitment"></a>
+                        <a href="#"><img src="https://www.tmu.ac.in/img/placement/recruiters_logos/our_recuriters/tci.png" alt="TCI visit TMU for recruitment"></a>
                     </div>
                     <div class="marquee-block">
-                        <a  href="#"><img src="https://www.tmu.ac.in/img/placement/recruiters_logos/our_recuriters/wipro.png" alt="Wipro visit TMU for recruitment"></a>
+                        <a href="#"><img src="https://www.tmu.ac.in/img/placement/recruiters_logos/our_recuriters/wipro.png" alt="Wipro visit TMU for recruitment"></a>
                     </div>
                     <div class="marquee-block">
-                        <a  href="#"><img src="https://www.tmu.ac.in/img/placement/recruiters_logos/our_recuriters/torrent_gas.png" alt="Torrent gas visit TMU for recruitment"></a>
+                        <a href="#"><img src="https://www.tmu.ac.in/img/placement/recruiters_logos/our_recuriters/torrent_gas.png" alt="Torrent gas visit TMU for recruitment"></a>
                     </div>
                     <div class="marquee-block">
-                        <a  href="#"><img src="https://www.tmu.ac.in/img/placement/recruiters_logos/our_recuriters/munjal_auto.png" alt="munjal auto visit TMU for recruitment"></a>
+                        <a href="#"><img src="https://www.tmu.ac.in/img/placement/recruiters_logos/our_recuriters/munjal_auto.png" alt="munjal auto visit TMU for recruitment"></a>
                     </div>
                     <div class="marquee-block">
-                        <a  href="#"><img src="https://www.tmu.ac.in/img/placement/recruiters_logos/our_recuriters/smart_brain.png" alt="smart brain visit TMU for recruitment"></a>
+                        <a href="#"><img src="https://www.tmu.ac.in/img/placement/recruiters_logos/our_recuriters/smart_brain.png" alt="smart brain visit TMU for recruitment"></a>
                     </div>
                     <div class="marquee-block">
-                        <a  href="#"><img src="https://www.tmu.ac.in/img/placement/recruiters_logos/our_recuriters/infosys.png" alt="infosys visit TMU for recruitment"></a>
+                        <a href="#"><img src="https://www.tmu.ac.in/img/placement/recruiters_logos/our_recuriters/infosys.png" alt="infosys visit TMU for recruitment"></a>
                     </div>
                     <div class="marquee-block">
-                        <a  href="#"><img src="https://www.tmu.ac.in/img/placement/recruiters_logos/our_recuriters/ford-logo.png" alt="ford visit TMU for recruitment"></a>
+                        <a href="#"><img src="https://www.tmu.ac.in/img/placement/recruiters_logos/our_recuriters/ford-logo.png" alt="ford visit TMU for recruitment"></a>
                     </div>
                     <div class="marquee-block">
-                        <a  href="#"><img src="https://www.tmu.ac.in/img/placement/recruiters_logos/our_recuriters/tech_mahindra.png" alt="tech mahindra visit TMU for recruitment"></a>
+                        <a href="#"><img src="https://www.tmu.ac.in/img/placement/recruiters_logos/our_recuriters/tech_mahindra.png" alt="tech mahindra visit TMU for recruitment"></a>
                     </div>
                 </section>
                 <section class="marquee-content">
                     <div class="marquee-block">
-                        <a  href="#"><img src="https://www.tmu.ac.in/img/placement/recruiters_logos/our_recuriters/face_academy.png" alt="face academy visit TMU for recruitment"></a>
+                        <a href="#"><img src="https://www.tmu.ac.in/img/placement/recruiters_logos/our_recuriters/face_academy.png" alt="face academy visit TMU for recruitment"></a>
                     </div>
                     <div class="marquee-block">
-                        <a  href="#"><img src="https://www.tmu.ac.in/img/placement/recruiters_logos/our_recuriters/Tata%20Motors.png" alt="Tata motors visit TMU for recruitment"></a>
+                        <a href="#"><img src="https://www.tmu.ac.in/img/placement/recruiters_logos/our_recuriters/Tata%20Motors.png" alt="Tata motors visit TMU for recruitment"></a>
                     </div>
                     <div class="marquee-block">
-                        <a  href="#"><img src="https://www.tmu.ac.in/img/placement/recruiters_logos/our_recuriters/Cetpa.png" alt="cetpa visit TMU for recruitment"></a>
+                        <a href="#"><img src="https://www.tmu.ac.in/img/placement/recruiters_logos/our_recuriters/Cetpa.png" alt="cetpa visit TMU for recruitment"></a>
                     </div>
                     <div class="marquee-block">
-                        <a  href="#"><img src="https://www.tmu.ac.in/img/placement/recruiters_logos/our_recuriters/Tosha%20International.png" alt="tosha inernational visit TMU for recruitment"></a>
+                        <a href="#"><img src="https://www.tmu.ac.in/img/placement/recruiters_logos/our_recuriters/Tosha%20International.png" alt="tosha inernational visit TMU for recruitment"></a>
                     </div>
                     <div class="marquee-block">
-                        <a  href="#"><img src="https://www.tmu.ac.in/img/placement/recruiters_logos/our_recuriters/tci.png" alt="TCI visit TMU for recruitment"></a>
+                        <a href="#"><img src="https://www.tmu.ac.in/img/placement/recruiters_logos/our_recuriters/tci.png" alt="TCI visit TMU for recruitment"></a>
                     </div>
                     <div class="marquee-block">
-                        <a  href="#"><img src="https://www.tmu.ac.in/img/placement/recruiters_logos/our_recuriters/wipro.png" alt="Wipro visit TMU for recruitment"></a>
+                        <a href="#"><img src="https://www.tmu.ac.in/img/placement/recruiters_logos/our_recuriters/wipro.png" alt="Wipro visit TMU for recruitment"></a>
                     </div>
                     <div class="marquee-block">
-                        <a  href="#"><img src="https://www.tmu.ac.in/img/placement/recruiters_logos/our_recuriters/torrent_gas.png" alt="Torrent gas visit TMU for recruitment"></a>
+                        <a href="#"><img src="https://www.tmu.ac.in/img/placement/recruiters_logos/our_recuriters/torrent_gas.png" alt="Torrent gas visit TMU for recruitment"></a>
                     </div>
                     <div class="marquee-block">
-                        <a  href="#"><img src="https://www.tmu.ac.in/img/placement/recruiters_logos/our_recuriters/munjal_auto.png" alt="munjal auto visit TMU for recruitment"></a>
+                        <a href="#"><img src="https://www.tmu.ac.in/img/placement/recruiters_logos/our_recuriters/munjal_auto.png" alt="munjal auto visit TMU for recruitment"></a>
                     </div>
                     <div class="marquee-block">
-                        <a  href="#"><img src="https://www.tmu.ac.in/img/placement/recruiters_logos/our_recuriters/smart_brain.png" alt="smart brain visit TMU for recruitment"></a>
+                        <a href="#"><img src="https://www.tmu.ac.in/img/placement/recruiters_logos/our_recuriters/smart_brain.png" alt="smart brain visit TMU for recruitment"></a>
                     </div>
                     <div class="marquee-block">
-                        <a  href="#"><img src="https://www.tmu.ac.in/img/placement/recruiters_logos/our_recuriters/infosys.png" alt="infosys visit TMU for recruitment"></a>
+                        <a href="#"><img src="https://www.tmu.ac.in/img/placement/recruiters_logos/our_recuriters/infosys.png" alt="infosys visit TMU for recruitment"></a>
                     </div>
                     <div class="marquee-block">
-                        <a  href="#"><img src="https://www.tmu.ac.in/img/placement/recruiters_logos/our_recuriters/ford-logo.png" alt="ford visit TMU for recruitment"></a>
+                        <a href="#"><img src="https://www.tmu.ac.in/img/placement/recruiters_logos/our_recuriters/ford-logo.png" alt="ford visit TMU for recruitment"></a>
                     </div>
                     <div class="marquee-block">
-                        <a  href="#"><img src="https://www.tmu.ac.in/img/placement/recruiters_logos/our_recuriters/tech_mahindra.png" alt="tech mahindra visit TMU for recruitment"></a>
+                        <a href="#"><img src="https://www.tmu.ac.in/img/placement/recruiters_logos/our_recuriters/tech_mahindra.png" alt="tech mahindra visit TMU for recruitment"></a>
                     </div>
                 </section>
             </div>
