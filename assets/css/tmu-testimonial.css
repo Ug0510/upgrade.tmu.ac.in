@@ -36,6 +36,9 @@
 	/* height: 28vh; */
 	box-shadow: 2px 2px 10px 4px rgba(0,0,0,0.04);
 }
+.tmu-testimonial .testimonial p{
+	line-height: 1.65;
+}
 .tmu-testimonial .testimonial {
 	padding: 0 15px 0 60px;
 	position: relative;
@@ -50,7 +53,7 @@
 	line-height: 54px;
 	position: absolute;
 	left: 15px;
-	top: 4.8rem;
+	top: 7rem;
 }
 .tmu-testimonial .overview{
 	text-align: center;
@@ -93,16 +96,12 @@
 
 
 /* Linkedin Button CSS  */
-.right-no-curve{
-	border-top-right-radius: 0;
-	border-bottom-right-radius: 0;
+
+.linkedin-text{
+	font-size: 18px;
+	color:#036194;
+	font-weight: 700;
 }
-.tmu-btn.btn-linkedin{
-	background-color: #036194;
-	color:white;
-	border-top-left-radius: 0;
-	border-bottom-left-radius: 0;
-}
-.tmu-btn.btn-linkedin:hover{
-	background-color: #0485cc;
+.linkedin-text:hover{
+	color:#0485cc;
 }
