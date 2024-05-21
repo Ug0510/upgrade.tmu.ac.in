@@ -2288,6 +2288,12 @@ body {
     border-radius: 10px;
 }
 
+@media screen and (max-width:480px) {
+    .hh1{
+        margin-top: 10px;
+    }
+}
+
 #box {
     display: none;
     background-color: #f0f0f0;
