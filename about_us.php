@@ -25,14 +25,14 @@ include 'head.php';
                 <h1 class="tmu-text-primary tmu-page-heading"><span>About </span><span >University</span></h1>
                 
                 <div class="col-lg-12">
-                  <h4 class="sublime" style="text-align:justify; margin-top:1rem;">On National Highway 9, 144 Km from New
+                  <h4 class="sublime text-justify mt-2" >On National Highway 9, 144 Km from New
                     Delhi, TMU stands committed to the ideals of Lord Mahaveer - Right Philosophy, Right Knowledge and Right Conduct in all spheres
                     of activity and aspires to be the ultimate destination for world-class education.</h4>
                 </div>
                 <div class="container">
                   <div class="row align-items-center">
                     <div class="col-md-4">
-                      <a class="grid-item" href="images/about-img.jpg" data-lightbox="gallery-item"><img src="images/about-img.jpg" alt="Gallery Thumb 1"></a>
+                      <a class="grid-item" href="./assets/img/university/about-img.webp" data-lightbox="gallery-item"><img src="images/about-img.jpg" alt="Gallery Thumb 1"></a>
                     </div>
                     <div class="col-md-8 mt-2">
                       <p class="text-justify fs-14">As a multi-disciplinary varsity, we offer
@@ -105,10 +105,10 @@ include 'head.php';
 
 
           <div class="">
-            <h2 class="tmu-text-primary text-center"><span>Message from the </span><span>Chancellor</span></h2>
-            <div class="quote-box">
+            <h2 class="tmu-text-primary text-center mt-4"><span>Message from the </span><span>Chancellor</span></h2>
+            <div class="quote-box mx-auto">
               <div class="profile-image">
-                <img src="images/suresh_jain_tmu.png" alt="Profile Image">
+                <img src="./assets/img/university/suresh_jain_tmu.webp" alt="Profile Image">
               </div>
               <div class="quote-text">
 
@@ -122,7 +122,7 @@ include 'head.php';
 
           <section>
             <div class="container mt-4">
-              <h2 style="text-align:center; text-transform:uppercase;">The Journey of TMU </h2>
+              <h2 class="tmu-text-primary mt-3 text-center"> <span>The Journey </span><span>of TMU </span></h2>
               <div class="row">
                 <div class="center-table" style="font-family:poppins;">
                   <table class="table">
@@ -264,7 +264,7 @@ include 'head.php';
           <!-- Key Facts -->
           <section>
             <div class="container mb-3 mt-5 w-100">
-              <h2 style="text-align:center; text-transform:uppercase;">Numbers That Define Us</h2>
+              <h2 class="tmu-text-primary mt-0 text-center"><span>Numbers That </span><span> Define Us</span></h2>
               <div class="row essential-section">
                 <div class="col-lg-3 col-sm-6 text-center">
                   <i class="fa-solid fa-user-graduate" style="font-size:8vh; color:#001055; margin-top:0.655rem;"></i>
@@ -298,7 +298,7 @@ include 'head.php';
           <!-- Campus Initiative  -->
           <div class="container mt-2">
             <div style="text-align:center;">
-              <h2 class="text-uppercase">TMU's Campus Initiatives</h2>
+              <h2 class="tmu-text-primary text-center mt-5"><span>TMU's Campus </span><span>Initiatives</span></h2>
             </div>
           </div>
 
@@ -313,7 +313,7 @@ include 'head.php';
                     <div class="grid-inner row g-0 p-3 border-0 rounded-5 shadow-sm h-shadow all-ts h-translate-y-sm">
                       <div class="col-md-4 col-sm-12 mb-md-0">
                         <a href="#" class="entry-image mb-0 h-100">
-                          <img src="images/campus_facilities/Water_Recycling_System.JPG" alt="Water Recycling System at TMU" class="rounded-2 h-100 object-cover">
+                          <img src="./assets/img/university/campus_facilities/Water_Recycling_System.webp" alt="Water Recycling System at TMU" class="rounded-2 h-100 object-cover">
                           <div class="bg-overlay">
                           </div>
                         </a>
@@ -336,7 +336,7 @@ include 'head.php';
                     <div class="grid-inner row g-0 p-3 border-0 rounded-5 shadow-sm h-shadow all-ts h-translate-y-sm">
                       <div class="col-md-4 col-sm-12 mb-md-0">
                         <a href="#" class="entry-image mb-0 h-100">
-                          <img src="images/campus_facilities/Solar-Energy.jpg" alt="Solar energy at TMU" class="rounded-2 h-100 object-cover">
+                          <img src="./assets/img/university/campus_facilities//solar_energy.webp" alt="Solar energy at TMU" class="rounded-2 h-100 object-cover">
                           <div class="bg-overlay">
                           </div>
                         </a>
@@ -358,7 +358,7 @@ include 'head.php';
                     <div class="grid-inner row g-0 p-3 border-0 rounded-5 shadow-sm h-shadow all-ts h-translate-y-sm">
                       <div class="col-md-4 col-sm-12 mb-md-0">
                         <a href="#" class="entry-image mb-0 h-100">
-                          <img src="images/campus_facilities/Eco-Green_Campus.jpg" alt="Eco green campus at TMU" class="rounded-2 h-100 object-cover">
+                          <img src="./assets/img/university/campus_facilities/eco_green_campus.webp" alt="Eco green campus at TMU" class="rounded-2 h-100 object-cover">
                           <div class="bg-overlay">
                           </div>
                         </a>
