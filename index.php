@@ -1943,6 +1943,93 @@ include 'head.php';
     </div>
 </section><!-- #content end -->
 
+<div class="container mb-5 mt-5">
+    <h2 Class="h2-line" style="font-weight: 800;">FAQ</h2>
+    <hr class="horizontal-line">
+
+    <button class="careers-accordion">Why Teerthanker Mahaveer University(TMU) is Among the Top Private Universities in India?<span class="icon">+</span></button>
+    <div class="panel">
+        <p>Teerthanker Mahaveer University (TMU) has emerged as a prominent 
+            educational institution, garnering attention for various reasons. 
+            Let's explore the factors that contribute to TMU's status as one 
+            of the best private universities in India.</p>
+    </div>
+    <!-- Add the horizontal line here -->
+    <hr class="horizontal-line">
+
+    <button class="careers-accordion">TMU’s Impressive Placement Records<span class="icon">+</span></button>
+    <div class="panel">
+        <h3 class="mb-2 tmu-color accord">82% Outstanding Placement Rate</h3>
+        <p>One of the key indicators of a university'ssuccess is its placement records. TMU boasts an outstanding placement rate of 82% in the academic year 2022-23.</p>
+        <h3 class="mb-2 tmu-color accord">Highest Package Offered - 60 LPA</h3>
+        <p>The university's commitment to providing quality education is evident in the remarkable achievement of a 60 LPA package offered to TMU students, showcasing the recognition and demand for graduates from the university.</p>
+        <h3 class="mb-2 tmu-color accord">National and International Collaborations</h3>
+        <p>With over 100 collaborations with national and international organizations, TMU ensures that its students have access to diverse and enriching opportunities.</p>
+    </div>
+    <!-- Add the horizontal line here -->
+    <hr class="horizontal-line">
+    <button class="careers-accordion">Awards and Recognitions of Teerthanker Mahaveer University<span class="icon">+</span></button>
+    <div class="panel">
+        <h3 class="mb-2 tmu-color accord">NIRF Innovation Category</h3>
+        <p>TMU secured a position in the 51-100 rank band in the NIRF innovation category, highlighting its commitment to fostering innovation in education.</p>
+        <h3 class="mb-2 tmu-color accord">Excellence in Skills Development</h3>
+        <p>Acknowledgement from Observe Now and LinkedIn Talent Solutions for Excellence in Skills Development further solidifies TMU's standing.</p>
+        <h3 class="mb-2 tmu-color accord">Outlook India Ranking</h3>
+        <p>TMU holds the 45th rank among the Top 50 State Private Universities by Outlook India, a testament to its overall excellence.</p>
+        <h3 class="mb-2 tmu-color accord">Notable Alumni Network</h3>
+        <p>With over 28,000 alumni, TMU has created a robust network of successful individuals contributing to various fields globally.</p>
+        <h3 class="mb-2 tmu-color accord">Diverse Academic Programmes</h3>
+        <p>TMU offers over 150 programmes across 14 on-campus colleges and independent departments, catering to a wide range of academic interests.</p>
+        <h3 class="mb-2 tmu-color accord">Cutting-Edge Infrastructure</h3>
+        <p>The university's lush green campus spanning over 130 acres provides a conducive environment for learning. State-of-the-art facilities, including sports complexes and libraries, contribute to a holistic educational experience.</p>
+    </div>
+    <!-- Add the horizontal line here -->
+    <hr class="horizontal-line">
+    <button class="careers-accordion">Innovation and Research Achievements at TMU<span class="icon">+</span></button>
+    <div class="panel">
+    <h3 class="mb-2 tmu-color accord">Patent Success and Recognition</h3>
+    <p>TMU ranks 6th nationally in patent filings among all universities, showcasing a commitment to academic excellence. The Business Incubation Centre's recognition by the UP state government further emphasizes TMU's success in fostering innovation.</p>
+    <h3 class="mb-2 tmu-color accord">Industry Collaborations</h3>
+    <p>TMU has established strong ties with leading industries, providing students with valuable insights and opportunities. Collaborations with IBM, AutoCAD, TCS-iON, and others enhance the practical exposure students receive.</p>
+    </div>
+    <!-- Add the horizontal line here -->
+    <hr class="horizontal-line">
+    <button class="careers-accordion">TMU’s Commitment to Quality Education<span class="icon">+</span></button>
+    <div class="panel">
+    <h3 class="mb-2 tmu-color accord">Adherence to National Education Policy (NEP) 2020</h3>
+    <p>TMU is strategically aligning with the future of education by implementing NEP 2020, adopting a national credit framework and redesigning the curriculum.</p>
+    <h3 class="mb-2 tmu-color accord">Outcome-Based Education (OBE)</h3>
+    <p>TMU's focus on OBE enhances the overall quality of learning, preparing students for the challenges of the future. TMU is actively contributing to the idea of a self-reliant India by creating a hub for startups, an Entrepreneurship Development Cell, and aligning its activities with the vision of an Aatmanirbhar Bharat through the Institution Innovation Council.</p>
+    <h3 class="mb-2 tmu-color accord">Strategic Initiatives for Skill Development</h3>
+    <p>The university prioritizes skill development through various initiatives, including a Centre for Teaching Learning & Development, global internship opportunities, and live projects.</p>
+    <h3 class="mb-2 tmu-color accord">Recognitions and Accreditations</h3>
+    <p>TMU's numerous accreditations, including NAAC-A, NBA, and ICAR, reflect its commitment to maintaining high-quality standards in education.</p>
+    <h3 class="mb-2 tmu-color accord">Global Outreach and Collaborations</h3>
+    <p>TMU's affiliation with the United Nations Academic Impact (UNAI) and global collaborations contribute to creating a culturally diverse community.</p>
+    <h3 class="mb-2 tmu-color accord">Commitment to Social Responsibility</h3>
+    <p>TMU's involvement in social initiatives, including NSS units and support for sustainable institutions, highlights its commitment to social responsibility.</p>
+    <h3 class="mb-2 tmu-color accord">Your Future Awaits</h3>
+    <p>Teerthanker Mahaveer University's consistent commitment to excellence, innovation, and holistic development has propelled it into the league of top universities in India. The impressive placement records, accolades, and a focus on quality education make TMU a preferred choice for aspiring students.</p>
+    </div>
+    <!-- Add the horizontal line here -->
+    <hr class="horizontal-line">
+    <button class="careers-accordion">Frequently Asked Questions (FAQs)<span class="icon">+</span></button>
+    <div class="panel">
+    <h4 class="mb-2 tmu-color">1. What sets TMU apart from other universities?</h4>
+    <p>TMU's commitment to excellence, innovation, and holistic development sets it apart. The university's impressive placement records and global collaborations contribute to its distinguished status.</p>
+    <h4 class="mb-2 tmu-color">2. How does TMU support entrepreneurship?</h4>
+    <p>TMU actively fosters entrepreneurship through its Business Incubation Centre, strategic initiatives aligned with Aatmanirbhar Bharat, and a strong industry-university interface.</p>
+    <h4 class="mb-2 tmu-color">3. What is the significance of TMU's accreditations?</h4>
+    <p>Accreditations like NAAC-A, NBA, and ICAR reflect TMU's adherence to high-quality standards, ensuring students receive a top-notch education.</p>
+    <h4 class="mb-2 tmu-color">4. How does TMU contribute to social responsibility?</h4>
+    <p>TMU engages in various social initiatives, including NSS units and support for sustainable institutions, showcasing its commitment to social responsibility.</p>
+    <h4 class="mb-2 tmu-color">5. How can I get admission to TMU?</h4>
+    <p>To get admission to Teerthanker Mahaveer University, visit the <a href="https://admissions.tmu.ac.in/">admission page</a> or contact 18002701490</p>
+    </div>
+    <!-- Add the horizontal line here -->
+    <hr class="horizontal-line">
+</div>
+
 
 
 <?php
