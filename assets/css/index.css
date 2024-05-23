@@ -853,6 +853,11 @@ CSS FOR RIGHT SECTION OF NAVBAR
 #menubar__content>div ul {
     align-content: center;
 }
+.main-nav-logo {
+    width: 220px !important;
+    margin-left: -20px;
+    margin-top: -8px;
+}
 
 
 
@@ -1224,7 +1229,9 @@ CSS For Mobile View
     }
 
     .main-nav-logo {
-        width: 60vw !important;
+        width: 140px !important;
+        margin-left: 13px;
+        margin-top: -8px;
     }
 
     .mobile-inner-nav div div a {
