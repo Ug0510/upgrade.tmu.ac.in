@@ -12,11 +12,11 @@ include 'head.php';
         <div class="container-fluid  my-0 px-2">
             <div class="row ps-4">
                 <div class="col-md-6 pt-0 pt-md-4 ps-md-5 mb-4">
-                    <h1 class=" mt-5 mb-5 d-none d-md-block banner-main-heading">Welcome to the <br> <span
-                            style="font-weight:700!important;">College Of</span> Computing Sciences & IT</h1>
+                    <h1 class=" mt-5 mb-5 d-none d-md-block banner-main-heading">Welcome to <span
+                            style="font-weight:700!important;">College Of</span> Computing Sciences & IT (CCSIT)</h1>
                     <h1 class=" mt-5 mb-3 d-block d-md-none"
                         style="color:#001055; text-transform: capitalize; font-weight:700!important; font-size:24px">
-                        Welcome to the <span>College Of</span> Computing Sciences & IT</h1>
+                        Welcome to <span>College Of</span> Computing Sciences & IT (CCSIT)</h1>
                     <a href="#" class="tmu-btn btn-1 me-4 py-1 px-3 py-xl-2 px-xl-4"> Download Brocher</a>
                     <a href="#" class="tmu-btn btn-2 py-1 px-3 py-xl-2 px-xl-4">Apply Now</a>
                 </div>
@@ -34,25 +34,25 @@ include 'head.php';
         <div class="container my-3 d-none d-md-block">
             <div class="row justify-content-center">
                 <div class="col-6 col-lg-3 px-1">
-                    <div class="card text-center py-3 rounded-0 fw-semibold text-uppercase ls-1">
+                    <div class="card text-center py-0 rounded-0 fw-semibold ls-1">
                         <div class="card-body gap-4 text-tmu-primary under-banner-cards">
                             <span>AA+</span>
                             <br>
-                            <span class="d-block pt-1">Rated Top B-school by <br> Careers360</span>
+                            <p>Rated Top B-school by <br> Careers360</p>
                         </div>
                     </div>
                 </div>
                 <div class="col-6 col-lg-3 px-1">
-                    <div class="card text-center py-3 rounded-0 fw-semibold text-uppercase ls-1">
+                    <div class="card text-center py-0 rounded-0 fw-semibold ls-1">
                         <div class="card-body gap-4 text-tmu-primary under-banner-cards">
                             <span>India's 1st</span>
                             <br>
-                            <span class="d-block pt-1">Centre of Excellence in Cybersecurity</span>
+                            <h5>Centre of Excellence in Cybersecurity</h5>
                         </div>
                     </div>
                 </div>
                 <div class="col-6 col-lg-3 px-1">
-                    <div class="card text-center py-3 rounded-0 fw-semibold text-uppercase ls-1">
+                    <div class="card text-center py-0 rounded-0 fw-semibold ls-1">
                         <div class="card-body gap-4 text-tmu-primary under-banner-cards">
                             <span>5 B-Schools</span>
                             <br>
@@ -61,7 +61,7 @@ include 'head.php';
                     </div>
                 </div>
                 <div class="col-6 col-lg-3 px-1">
-                    <div class="card text-center py-3 rounded-0 fw-semibold text-uppercase ls-1">
+                    <div class="card text-center py-0 rounded-0 fw-semibold ls-1">
                         <div class="card-body gap-4 text-tmu-primary under-banner-cards">
                             <span>IACBE</span>
                             <br>
@@ -135,19 +135,23 @@ include 'head.php';
 
         <div class="box-container">
             <div class="box">
-                <h1 class="college-main-heading">Welcome to College Of Computing Sciences & IT (CCSIT)</h1>
+                <h1 class="college-main-heading">CCSIT, among the top colleges for computer science</h1>
                 <div class="row">
                     <div class="col-12 px-2 px-md-5">
-                        <p style="text-align: justify;">The College of Computing Sciences & IT established in 2014
-                            (formerly known as the Department of Computer Applications, established in 2001),is a
-                            leading private computing sciences college in UP.</p>
-                        <p style="text-align: justify;">With a strong emphasis on emerging technologies such as
-                            Artificial Intelligence (AI), Machine Learning (ML), and Deep Learning (DL), the college
-                            equips students with the in-demand skills to thrive in the rapidly evolving IT industry.
-                            Beyond technical expertise, the CCS&IT also fosters an entrepreneurial mindset, nurturing
-                            the next generation of innovators and visionaries.</p>
+                        <p style="text-align: justify;">The College of Computing Sciences & IT was established in 2014 (formerly
+                        known as the Department of Computer Applications, established in 2001), is a leading private computing sciences college in UP.</p>
+                        <div class="read-more-content mt-0">
+                        <p style="text-align: justify;">With a strong emphasis on emerging technologies such as Artificial Intelligence (AI), Machine Learning (ML), 
+                            and Deep Learning (DL), the college equips students with the in-demand skills to thrive in the rapidly evolving IT industry. 
+                            Beyond technical expertise, the CCS&IT also fosters an entrepreneurial mindset, nurturing the next generation of innovators 
+                            and visionaries</p>
+                        <p style="text-align: justify;">In today's digitally driven world, the demand for skilled professionals in the field of computer sciences is 
+                            soaring higher than ever before. Amidst this surge, Teerthanker Mahaveer University's College of Computing Sciences & IT 
+                            (CCSIT) stands out as a beacon of excellence, offering a comprehensive blend of academic rigour and practical exposure. 
+                            Let's delve into why CCSIT at TMU is not just a college but a transformative journey for aspiring IT enthusiasts.</p>
 
-                        <button class="tmu-btn btn-1 py-2 mt-4">Know More!</button>
+                    </div>
+                    <a href="javascript:void(0);" class="tmu-btn btn-1 py-2 mt-4 read-more ms-2 mt-2" title="Read More">Read More</a>
 
                     </div>
 
@@ -405,10 +409,6 @@ include 'head.php';
         </div>
 
 
-
-
-
-
         <!-----Courses section Start-->
         <section id="content" class="prog-bm">
             <div class="content-wrap py-0" style="overflow: visible;">
@@ -446,13 +446,13 @@ include 'head.php';
 
                                         <div class="col-md-4 mb-2">
                                             <!-- Card -->
-                                            <div class="card shadow-sm">
+                                            <div class="card card-sz shadow-sm">
                                                 <img src="assets/img/programme_stock_img/medical/26.jpg" height="178px"
                                                     class="card-img-top" alt="...">
                                                 <div class="card-body">
 
-                                                    <h5 class="mb-0 text-center">MBBS (Bachelor of Medicine and Bachelor of Surgery)
-                                                    </h5>
+                                                    <h5 class="mb-0 text-center">B.Com. (Fintech & Blockchain Technologies with whizack
+                                                Technologies)</h5>
                                                 </div>
                                                 <div
                                                     class="card-footer d-flex justify-content-between align-items-center bg-white py-3">
@@ -467,12 +467,13 @@ include 'head.php';
 
                                         <div class="col-md-4 mb-2">
                                             <!-- Card -->
-                                            <div class="card shadow-sm">
+                                            <div class="card card-sz shadow-sm">
                                                 <img src="assets/img/programme_stock_img/medical/26.jpg" height="178px"
                                                     class="card-img-top" alt="...">
                                                 <div class="card-body">
 
-                                                    <h5 class="mb-0 text-center">B.Sc. Medical Anatomy (From Session 2023-24
+                                                    <h5 class="mb-0 text-center">B.Sc. Medical Anatomy (From Session
+                                                        2023-24
                                                         Onwards)</h5>
                                                 </div>
                                                 <div
@@ -488,12 +489,13 @@ include 'head.php';
 
                                         <div class="col-md-4 mb-2">
                                             <!-- Card -->
-                                            <div class="card shadow-sm">
+                                            <div class="card card-sz shadow-sm">
                                                 <img src="assets/img/programme_stock_img/medical/27.jpg" height="178px"
                                                     class="card-img-top" alt="...">
                                                 <div class="card-body">
 
-                                                    <h5 class="mb-0 text-center">B.Sc. Medical Biochemistry (From Session 2023-24
+                                                    <h5 class="mb-0 text-center">B.Sc. Medical Biochemistry (From
+                                                        Session 2023-24
                                                         Onwards)</h5>
                                                 </div>
                                                 <div
@@ -509,12 +511,13 @@ include 'head.php';
 
                                         <div class="col-md-4 mb-2">
                                             <!-- Card -->
-                                            <div class="card shadow-sm progcard">
+                                            <div class="card card-sz shadow-sm progcard">
                                                 <img src="assets/img/programme_stock_img/medical/28.jpg" height="178px"
                                                     class="card-img-top" alt="...">
                                                 <div class="card-body progcardbody">
 
-                                                    <h5 class="mb-0 text-center">B.SC. Medical Physiology (From Session 2023-24
+                                                    <h5 class="mb-0 text-center">B.SC. Medical Physiology (From Session
+                                                        2023-24
                                                         Onwards)</h5>
                                                 </div>
                                                 <div
@@ -529,12 +532,13 @@ include 'head.php';
                                         </div>
                                         <div class="col-md-4 mb-2">
                                             <!-- Card -->
-                                            <div class="card shadow-sm progcard">
+                                            <div class="card card-sz shadow-sm progcard">
                                                 <img src="assets/img/programme_stock_img/medical/28.jpg" height="178px"
                                                     class="card-img-top" alt="...">
                                                 <div class="card-body progcardbody">
 
-                                                    <h5 class="mb-0 text-center">B.SC. Medical Physiology (From Session 2023-24
+                                                    <h5 class="mb-0 text-center">B.SC. Medical Physiology (From Session
+                                                        2023-24
                                                         Onwards)</h5>
                                                 </div>
                                                 <div
@@ -560,14 +564,15 @@ include 'head.php';
                                     aria-labelledby="list-profile-list">
                                     <div class="row">
 
-                                    <div class="col-md-4 mb-2">
+                                        <div class="col-md-4 mb-2">
                                             <!-- Card -->
-                                            <div class="card shadow-sm">
+                                            <div class="card card-sz shadow-sm">
                                                 <img src="assets/img/programme_stock_img/medical/27.jpg" height="178px"
                                                     class="card-img-top" alt="...">
                                                 <div class="card-body">
 
-                                                    <h5 class="mb-0 text-center">B.Sc. Medical Biochemistry (From Session 2023-24
+                                                    <h5 class="mb-0 text-center">B.Sc. Medical Biochemistry (From
+                                                        Session 2023-24
                                                         Onwards)</h5>
                                                 </div>
                                                 <div
@@ -583,12 +588,13 @@ include 'head.php';
 
                                         <div class="col-md-4 mb-2">
                                             <!-- Card -->
-                                            <div class="card shadow-sm progcard">
+                                            <div class="card card-sz shadow-sm progcard">
                                                 <img src="assets/img/programme_stock_img/medical/28.jpg" height="178px"
                                                     class="card-img-top" alt="...">
                                                 <div class="card-body progcardbody">
 
-                                                    <h5 class="mb-0 text-center">B.SC. Medical Physiology (From Session 2023-24
+                                                    <h5 class="mb-0 text-center">B.SC. Medical Physiology (From Session
+                                                        2023-24
                                                         Onwards)</h5>
                                                 </div>
                                                 <div
@@ -603,12 +609,13 @@ include 'head.php';
                                         </div>
                                         <div class="col-md-4 mb-2">
                                             <!-- Card -->
-                                            <div class="card shadow-sm progcard">
+                                            <div class="card card-sz shadow-sm progcard">
                                                 <img src="assets/img/programme_stock_img/medical/28.jpg" height="178px"
                                                     class="card-img-top" alt="...">
                                                 <div class="card-body progcardbody">
 
-                                                    <h5 class="mb-0 text-center">B.SC. Medical Physiology (From Session 2023-24
+                                                    <h5 class="mb-0 text-center">B.SC. Medical Physiology (From Session
+                                                        2023-24
                                                         Onwards)</h5>
                                                 </div>
                                                 <div
@@ -798,14 +805,10 @@ include 'head.php';
         </section>
         <!-----Courses section completed-->
 
-
-
-        </style>
-
         <section>
             <div class="container-xl tmu-testimonial mt-5 mb-3">
 
-                <h2 class="tmu-text-primary my-0 mb-3"> <span>Students </span> <span>Testimonial</span></h2>
+                <h2 class="tmu-text-primary my-0 mb-3"> <span>Alumni </span> <span>Testimonial</span></h2>
 
                 <div class="owl-carousel owl-carousel-full image-carousel carousel-widget charity-card"
                     style="overflow: visible;" data-stage-padding="20" data-margin="50" data-center="true"
@@ -995,65 +998,144 @@ include 'head.php';
 
 
 
+
+
+        <div class="container mb-5 mt-5">
+            <h2 Class="h2-line" style="font-weight: 800;">FAQ</h2>
+            <hr class="horizontal-line">
+
+            <button class="careers-accordion">Why Teerthanker Mahaveer University is the best choice for you:<span class="icon">+</span></button>
+            <div class="panel">
+                <h3 class="mb-1 tmu-color">UGC-Approved with NAAC-A Accreditation</h3>
+                <p class="text-justify">At TMU's CCSIT, quality education is not just a promise but a proven reality. 
+                    With UGC approval and NAAC-A accreditation, the college upholds the highest 
+                    standards of academic excellence, ensuring that every student receives a world-class education.</p>
+                    <h3 class="mb-1 tmu-color">Strong Focus on Practical Knowledge</h3>
+                <p class="text-justify">Theory lays the foundation, but practical skills are the building blocks of success in the IT industry. CCSIT places a strong emphasis on hands-on learning, equipping students with the practical knowledge and skills demanded by today's dynamic IT landscape.</p>
+                    <h3 class="mb-1 tmu-color">100% Placement Assistance with an Excellent Track Record</h3>
+                <p class="text-justify">For students, the ultimate goal of education is to secure a rewarding career. At CCSIT, we take pride in our track record of providing 100% placement assistance to our students, connecting them with leading companies in the industry and kickstarting their professional journey on the right note.</p>
+            </div>
+            <!-- Add the horizontal line here -->
+            <hr class="horizontal-line">
+
+            <button class="careers-accordion">Strong Industry Connections with Top Companies at CCSIT<span class="icon">+</span></button>
+            <div class="panel">
+                <p>Networking is key in the IT world, and at CCSIT, we ensure that our students have access to top-notch industry connections. Collaborations with giants like IBM, Oracle, CISCO Networking Academy, and i Nurture open doors to endless opportunities for internships, projects, and placements.</p>
+            </div>
+            <!-- Add the horizontal line here -->
+            <hr class="horizontal-line">
+            <button class="careers-accordion">Professional Memberships and Global Career Prospects<span class="icon">+</span></button>
+            <div class="panel">
+                <p>Membership in esteemed organisations like IEEE, WIE, and the Computer Society of India Student Chapter not only adds value to a student's resume but also opens up a world of global career prospects. At CCSIT, we believe in empowering our students to thrive on both national and international platforms.</p>
+            </div>
+            <!-- Add the horizontal line here -->
+            <hr class="horizontal-line">
+            <button class="careers-accordion">On-Campus Hostel Facilities and Scholarship Assistance<span class="icon">+</span></button>
+            <div class="panel">
+                <p>We understand that a conducive living environment is essential for holistic growth. That's why CCSIT offers comfortable on-campus hostel facilities, ensuring that students feel at home even away from home. Additionally, our commitment to making quality education accessible is reflected in our 100% placement assistance.</p>
+            </div>
+            <!-- Add the horizontal line here -->
+            <hr class="horizontal-line">
+            <button class="careers-accordion">Modern Infrastructure and Interactive Learning<span class="icon">+</span></button>
+            <div class="panel">
+                <p>
+                State-of-the-art classrooms, high-tech IT labs, and interactive learning environments are the hallmarks of CCSIT. We believe in providing our students with the best possible resources to facilitate their learning journey and prepare them for the challenges of the digital era.
+                </p>
+            </div>
+            <!-- Add the horizontal line here -->
+            <hr class="horizontal-line">
+            <button class="careers-accordion">Vibrant Campus Life and Extracurricular Activities<span class="icon">+</span></button>
+            <div class="panel">
+                <p>Education is not just about academics; it's also about holistic development. CCSIT's vibrant campus life, IT clubs, sports championships, fitness centres, tech events, and workshops ensure that students have ample opportunities to explore their interests, showcase their talents, and make lifelong memories.
+
+                </p>
+            </div>
+            <!-- Add the horizontal line here -->
+            <hr class="horizontal-line">
+            <button class="careers-accordion">Core Programmes Offered at CCSIT:<span class="icon">+</span></button>
+            <div class="panel">
+                <ul>
+                    <li>BTech</li>
+                    <li>MTech</li>
+                    <li>BCA</li>
+                    <li>MCA</li>
+                    <li>BSc</li>
+                            </ul>
+            </div>
+            <!-- Add the horizontal line here -->
+            <hr class="horizontal-line">
+            <button class="careers-accordion">AAA Rating to CCSIT by Career 360<span class="icon">+</span></button>
+            <div class="panel">
+                <p>The coveted AAA rating by Career 360 speaks volumes about CCSIT's commitment to academic excellence and student satisfaction. It's not just a rating; it's a testament to our relentless pursuit of excellence in education. 
+                </p>
+            </div>
+            <!-- Add the horizontal line here -->
+            <hr class="horizontal-line">
+            <button class="careers-accordion">TMU's Contribution to Innovation and Entrepreneurship<span class="icon">+</span></button>
+            <div class="panel">
+                <p>TMU's dedication to fostering innovation and entrepreneurship is evident through various initiatives like the Business Incubation Centre, Institution Innovation Council, and strategic partnerships with government bodies and industry stakeholders. These efforts are paving the way for a self-reliant India powered by innovation and entrepreneurship. 
+                </p>
+            </div>
+            <!-- Add the horizontal line here -->
+            <hr class="horizontal-line">
+            <button class="careers-accordion">Alignment with National Education Policy (NEP) 2020<span class="icon">+</span></button>
+            <div class="panel">
+                <p>TMU is at the forefront of educational reforms, aligning its practices with the vision of the National Education Policy (NEP) 2020. By embracing outcome-based education (OBE), redesigning the curriculum, and establishing industry-centric Centres of Excellence, TMU is shaping the future of education and preparing students for success in the digital age.
+
+                </p>
+            </div>
+            <!-- Add the horizontal line here -->
+            <hr class="horizontal-line">
+            <button class="careers-accordion">Campus Life at CCSIT<span class="icon">+</span></button>
+            <div class="panel">
+                <p>At CCSIT, campus life is vibrant and dynamic, offering students a plethora of opportunities to engage, learn, and grow. From bustling IT clubs to thrilling sports championships, there's never a dull moment on campus. Whether it's participating in tech events, attending workshops, or simply enjoying the camaraderie of fellow students, CCSIT's campus life is an enriching experience in itself.
+
+                </p>
+            </div>
+            <!-- Add the horizontal line here -->
+            <hr class="horizontal-line">
+            <button class="careers-accordion">Facilities and Resources available at CCSIT, TMU<span class="icon">+</span></button>
+            <div class="panel">
+                <p>CCSIT boasts state-of-the-art facilities and resources designed to enhance the learning experience of students. Modern classrooms, well-equipped IT labs, and interactive learning spaces provide the perfect environment for academic exploration and innovation. Additionally, on-campus hostel facilities, fitness centers, cafeterias, and shopping stores ensure that students have everything they need for a comfortable and enriching stay at CCSIT. 
+                </p>
+            </div>
+            <!-- Add the horizontal line here -->
+            <hr class="horizontal-line">
+            <button class="careers-accordion">Career Opportunities in the Computer Science Field<span class="icon">+</span></button>
+            <div class="panel">
+                <p>The ultimate goal of education at CCSIT is to prepare students for successful careers in the IT industry. With 100% placement assistance, strong industry connections, and professional memberships, CCSIT opens doors to a world of career opportunities for its students. Whether it's securing internships, landing coveted job offers, or pursuing further studies, CCSIT equips students with the skills, knowledge, and confidence to excel in their chosen field.
+                </p>
+                <h3 class="mb-1 tmu-color">Conclusion</h3>
+                <p class="text-justify">Teerthanker Mahaveer University's College of Computing Sciences & IT (CCSIT) is more than just a college; it's a gateway to endless opportunities, a hub of innovation, and a launchpad for aspiring IT professionals. Join us at CCSIT and embark on a journey of transformation, empowerment, and excellence in the dynamic world of computer sciences.</p>
+                <h3 class="mb-2 tmu-color">Frequently Asked Questions (FAQs)</h3>
+                <h5 class="tmu-color mb-0">1. Is CCSIT affiliated with any regulatory bodies?</h5>
+                <p class="text-justify">Yes, CCSIT is UGC-approved and holds NAAC-A accreditation, ensuring quality education standards</p>
+                <h5 class="tmu-color mb-0">2. What sets CCSIT apart from other colleges?</h5>
+                <p class="text-justify">CCSIT offers a unique blend of academic excellence, practical exposure, industry connections, and vibrant campus life, setting it apart as a top choice for computer science education.</p>
+                <h5 class="tmu-color mb-0">3. Does CCSIT offer hostel facilities?</h5>
+                <p class="text-justify">Yes, CCSIT provides on-campus hostel facilities to ensure a comfortable living environment for students.</p>
+                <h5 class="tmu-color mb-0">4. How does CCSIT support students in their career aspirations?</h5>
+                <p class="text-justify">CCSIT offers 100% placement assistance, strong industry connections, and professional memberships, paving the way for successful careers in the IT industry.</p>
+                <h5 class="tmu-color mb-0">5. What specialisations are available at CCSIT?</h5>
+                <p class="text-justify">CCSIT offers a wide range of core programmes including BTech, MTech, BCA, MCA, and BSc, catering to diverse interests and career goals.</p>
+                <h5 class="tmu-color mb-0">6. Which institute is best for computer science in India?</h5>
+                <p class="text-justify">There are thousands of institutes for computer science in India. The choice of the best institute varies from person to person based on their expectations, locations, fees, placement, hostels and other criteria.</p>
+                <h5 class="tmu-color mb-0">7. Which college has 100% placement in India?</h5>
+                <p class="text-justify">Teerthanker Mahaveer University provides 100% placement assistance.</p>
+                <h5 class="tmu-color mb-0">8. Which private college is best for CSE placement?</h5>
+                <p class="text-justify">There are many good private colleges for CSE, out of them CCSIT, Teerthanker Mahaveer University is one of the top private colleges for CSE placement.</p>
+                <h5 class="tmu-color mb-0">9. Is India good for CS?</h5>
+                <p class="text-justify">India is good for CS as there are thousands of multinational IT companies and huge job opportunities.</p>
+                <h5 class="tmu-color mb-0">10. Who is India's No. 1 college?</h5>
+                <p class="text-justify">There are thousands of colleges in India. The choice of the best college varies from person to person based on their expectations, locations, fees, placement, hostels and other criteria.</p>
+                    
+            </div>
+            <!-- Add the horizontal line here -->
+            <hr class="horizontal-line">
+        </div>
+    </div>
+
 </section><!-- #content end -->
-
-<div class="container mb-5 mt-5">
-    <h2 Class="h2-line" style="font-weight: 800;">FAQ</h2>
-    <hr class="horizontal-line">
-
-    <button class="careers-accordion">Does University provide transport?<span class="icon">+</span></button>
-    <div class="panel">
-        <p>Yes, Teerthanker Mahaveer University offers pick and drop facility to students and staff coming from
-            within
-            the radial distance of 100 Kms. For added safety, the buses have camera surveillance inside it too.
-        </p>
-    </div>
-    <!-- Add the horizontal line here -->
-    <hr class="horizontal-line">
-
-    <button class="careers-accordion">Working environment<span class="icon">+</span></button>
-    <div class="panel">
-        <p>The work environment is truly conductive & intriguing to develop you professionally and personally.
-            We have a
-            workforce of 4000 employees. Our team of renowned administrators and academicians from reputed
-            institutes
-            help you realize your best and enhance your caliber.</p>
-    </div>
-    <!-- Add the horizontal line here -->
-    <hr class="horizontal-line">
-    <button class="careers-accordion">Campus<span class="icon">+</span></button>
-    <div class="panel">
-        <p>The University is located in the vicinity of the beautiful city of Moradabad and is at a reasonable
-            distance
-            from Moradabad Bus stand and Railway station. The campus occupies the geographical area of 130
-            Acres.</p>
-    </div>
-    <!-- Add the horizontal line here -->
-    <hr class="horizontal-line">
-    <button class="careers-accordion">Career Opportunities<span class="icon">+</span></button>
-    <div class="panel">
-        <p>If you are the one who is looking forward to broaden the career horizons, then Teerthanker Mahaveer
-            University is the perfect place for you. We not only develop our student’s skills and enhance them
-            through
-            extra training programs like Industry Placements, Higher studies, and classes for Government, Civil,
-            and
-            Banking sectors, but also give equal growth opportunities to our staff through Internal Job Posting
-            (IJP),
-            International Faculty Exchange Programs, Research opportunities and more.</p>
-    </div>
-    <!-- Add the horizontal line here -->
-    <hr class="horizontal-line">
-    <button class="careers-accordion">Residential complex for faculties<span class="icon">+</span></button>
-    <div class="panel">
-        <p>Yes, TMU accommodates the faculty family keeping in mind their comfort and other amenities. Our
-            residential
-            complex for faculties is fully equipped with Wi-Fi, Gymnasium, Indoor game area, Night Canteen and
-            Tuck
-            shops, 24X7 Health facilities, 24X7 Power backup, salon and more.</p>
-    </div>
-    <!-- Add the horizontal line here -->
-    <hr class="horizontal-line">
-</div>
 
 <br /><br />
 

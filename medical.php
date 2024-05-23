@@ -6,59 +6,46 @@
 <link rel="stylesheet" href="./assets/css/tmimt.css">
 <link rel="stylesheet" href="./assets/css/college.css">
 
-<style>
-    .owl-carousel .owl-stage-outer {
-overflow: visible !important;
-overflow-x: hidden !important;
-padding: 2rem 0;
-}
-    </style>
-
-<div id="slider" class="slider-element min-vh-0">
-    <div class="container">
-        <div class="row justify-content-between align-items-center align-items-xl-end">
-            <div class="col-lg-6 col-xxl-5 py-5 py-lg-6 my-lg-5 text-center text-lg-start">
-                <h1 class="display-4 fw-bolder ls-n-1">Welcome To TMMC&RC</h1>
-                <p class="lead fw-normal mb-5">Transforming Your Ideas into Stunning Websites with Intuitive Tools and
-                    Limitless Possibilities.</p>
-                <a href="#" class="button button-large px-lg-5 py-lg-3 rounded-pill m-0 mb-4">Download Brochure</a>
-                <a href="#"
-                    class="button button-large px-lg-5 py-lg-3 button-dark button-border button-black border-contrast-500 rounded-pill ms-1 mb-4">Apply
-                    Now</a>
-            </div>
-            <div class="col-lg-6 col-xxl-7">
-                <img src="images/Medical-web-banner -png.png" alt="..">
+<section id="content">
+    <div class="content-wrap py-0">
+        <div class="container-fluid  my-0 px-2">
+            <div class="row ps-4">
+                <div class="col-md-6 pt-0 pt-md-4 ps-md-5 mb-4">
+                    <h1 class=" mt-5 mb-5 d-none d-md-block banner-main-heading">Welcome to the <br> <span
+                            style="font-weight:700!important;">TMMC&RC</span>&RC</h1>
+                    <h1 class=" mt-5 mb-3 d-block d-md-none"
+                        style="color:#001055; text-transform: capitalize; font-weight:700!important; font-size:24px">
+                        Welcome to the <span>TMMC&RC</span>&RC</h1>
+                    <a href="#" class="tmu-btn btn-1 me-4 py-1 px-3 py-xl-2 px-xl-4"> Download Brocher</a>
+                    <a href="#" class="tmu-btn btn-2 py-1 px-3 py-xl-2 px-xl-4">Apply Now</a>
+                </div>
+                <div class="col-12 col-md-6">
+                    <div class="pe-lg-4 position-relative p-0">
+                        <div style="z-index: 2;">
+                            <!-- <iframe width="560" height="315" src="https://www.youtube.com/embed/iXHRmCyHszY?si=BcZ5NOfT-V8ECc6z" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen style="z-index: 2; margin:0;"></iframe> -->
+                            <img src="images/Medical-web-banner -png.png" alt="" class="p-0 m-0">
+                        </div>
+                    </div>
+                </div>
             </div>
         </div>
-    </div>
-</div>
 
 
-<!-- Content
-		============================================= -->
-<section id="content" style="margin-bottom: 200px;">
-    <div class="content-wrap py-0" style="overflow: visible">
 
-        <svg viewBox="0 0 1382 58" width="100%" height="60" preserveAspectRatio="none"
-            style="position: absolute; top: -58px; left:0; z-index: 1">
-            <path style="fill:#FFF;" d="M1.52.62s802.13,127,1380,0v56H.51Z">
-        </svg>
-
-        <div class="container my-3 d-none d-md-block">
+        <div class="container my-3 mt-5 d-none d-md-block">
             <div class="row justify-content-center">
                 <div class="col-6 col-lg-3 px-1">
                     <div class="card text-center py-3 rounded-0 fw-semibold text-uppercase ls-1">
-                        <div class="card-body gap-4 text-tmu-primary under-banner-cards">
-                            <span> Affiliated</span>
+                        <div class="card-body gap-4 text-tmu-primary under-banner-cards"> <span>Affiliated</span>
                             <br>
-                            <span class="d-block pt-1">Engineering Council of India </span>
+                            <span class="d-block pt-1">Engineering Council of India</span>
                         </div>
                     </div>
                 </div>
                 <div class="col-6 col-lg-3 px-1">
                     <div class="card text-center py-3 rounded-0 fw-semibold text-uppercase ls-1">
                         <div class="card-body gap-4 text-tmu-primary under-banner-cards">
-                            <span>NBA </span>
+                            <span>NBA</span>
                             <br>
                             <span class="d-block pt-1">Accredited BTech CSE</span>
                         </div>
@@ -67,7 +54,7 @@ padding: 2rem 0;
                 <div class="col-6 col-lg-3 px-1">
                     <div class="card text-center py-3 rounded-0 fw-semibold text-uppercase ls-1">
                         <div class="card-body gap-4 text-tmu-primary under-banner-cards">
-                            <span>82% </span>
+                            <span>82%</span>
                             <br>
                             <span class="d-block pt-1">Placement Rate</span>
                         </div>
@@ -85,32 +72,105 @@ padding: 2rem 0;
             </div>
         </div>
 
+        <div class="container my-2 mt-4 d-block d-md-none">
+            <div id="under-banner-carouselExample" class="carousel slide">
+                <div class="carousel-indicators">
+                    <button type="button" data-bs-target="#under-banner-carouselExample" data-bs-slide-to="0"
+                        class="active" aria-current="true" aria-label="Slide 1"></button>
+                    <button type="button" data-bs-target="#under-banner-carouselExample" data-bs-slide-to="1"
+                        aria-label="Slide 2"></button>
+                </div>
 
-
-        <div class="container">
-            <div class="row justify-content-center">
-                <div class="col-md-6">
-                    <div class="card mb-4">
-                        <div class="card-body">
-                            <h5 class="card-title">MBBS Admissions 2023-24</h5>
-                            <p class="card-text">Selection will be based on the merit of Class XII Best of 3 subjects
-                                score (comprising of Physics and Maths as compulsory subjects and
-                                any other third subject with highest score)</p>
+                <div class="carousel-inner">
+                    <div class="carousel-item active">
+                        <div class="row">
+                            <div class="col-6">
+                                <div class="card text-center py-3 rounded-0 fw-semibold text-uppercase ls-1">
+                                    <div class="card-body gap-4 text-tmu-primary under-banner-cards">
+                                        <span>Affiliated</span>
+                                        <br>
+                                        <span class="d-block pt-1">Engineering Council of India</span>
+                                    </div>
+                                </div>
+                            </div>
+                            <div class="col-6">
+                                <div class="card text-center py-3 rounded-0 fw-semibold text-uppercase ls-1">
+                                    <div class="card-body gap-4 text-tmu-primary under-banner-cards">
+                                        <span>NBA</span>
+                                        <br>
+                                        <span class="d-block pt-1">Accredited BTech CSE</span>
+                                    </div>
+                                </div>
+                            </div>
                         </div>
                     </div>
-                </div>
-                <div class="col-md-6">
-                    <div class="card mb-4">
-                        <div class="card-body">
-                            <h5 class="card-title">PG admission 2023-24</h5>
-                            <p class="card-text">Selection will be based on the merit of Class XII Best of 3 subjects
-                                score (comprising of Physics and Maths as compulsory subjects and
-                                any other third subject with highest score)</p>
+                    <div class="carousel-item">
+                        <div class="row">
+                            <div class="col-6">
+                                <div class="card text-center py-3 rounded-0 fw-semibold text-uppercase ls-1">
+                                    <div class="card-body gap-4 text-tmu-primary under-banner-cards">
+                                        <span>82%</span>
+                                        <br>
+                                        <span class="d-block pt-1">Placement Rate</span>
+                                    </div>
+                                </div>
+                            </div>
+                            <div class="col-6">
+                                <div class="card text-center py-3 rounded-0 fw-semibold text-uppercase ls-1">
+                                    <div class="card-body gap-4 text-tmu-primary under-banner-cards">
+                                        <span>CRC</span>
+                                        <br>
+                                        <span class="d-block pt-1">Dedicated Placement Cell</span>
+                                    </div>
+                                </div>
+                            </div>
                         </div>
                     </div>
                 </div>
             </div>
+
         </div>
+
+
+        <!-- admission details desktop section start -->
+        <div class="medical-container">
+            <div class="medical-box">
+                <h3>MBBS Admission 2024-25</h3>
+                <button class="medical-custom-btn" target="_blank">INFORMATION BROCHURE 2024-25</button>
+                <button class="medical-custom-btn" target="_blank">LIST OF DOCUMENTS 2024-25</button>
+            </div>
+            <div class="medical-box">
+                <h3>PG Admission 2024-25</h3>
+                <button class="medical-custom-btn" target="_blank">INFORMATION BROCHURE 2024-25</button>
+                <button class="medical-custom-btn" target="_blank">LIST OF DOCUMENTS 2024-25</button>
+            </div>
+        </div>
+        <!-- admission details desktop section end -->
+        <!-- admission details mobile section start -->
+
+        <div class="container ">
+            <div class="medical-hide mb-3">
+                <hr class="horizontal-line">
+
+                <button class="careers-accordion">MBBS Admission 2024-25<span class="icon">+</span></button>
+                <div class="panel">
+                    <button class="medical-custom-btn" target="_blank">INFORMATION BROCHURE 2024-25</button>
+                    <button class="medical-custom-btn" target="_blank">LIST OF DOCUMENTS 2024-25</button>
+                </div>
+                <!-- Add the horizontal line here -->
+                <hr class="horizontal-line">
+
+                <button class="careers-accordion">PG Admission 2024-25<span class="icon">+</span></button>
+                <div class="panel">
+                    <button class="medical-custom-btn" target="_blank">INFORMATION BROCHURE 2024-25</button>
+                    <button class="medical-custom-btn" target="_blank">LIST OF DOCUMENTS 2024-25</button>
+                    <!-- Add the horizontal line here -->
+                    <hr class="horizontal-line">
+                </div>
+            </div>
+        </div>
+        <!-- admission details mobile section end -->
+
 
         <div class="box-container">
             <div class="box">
@@ -118,8 +178,10 @@ padding: 2rem 0;
                 <div class="row">
                     <div class="col-12 px-2 px-md-5">
                         <p style="text-align: justify;">Teerthanker Mahaveer Medical College & Research Centre was
-                            established in year 2008 with the approval of the Ministry of Health and Family Welfare for
-                            an admission intake of 100 MBBS students, which has been increased to 150 from the Academic
+                            established in year 2008 with the approval of the Ministry of Health and Family Welfare
+                            for
+                            an admission intake of 100 MBBS students, which has been increased to 150 from the
+                            Academic
                             Session 2014-15.</b></p>
 
                         <button class="tmu-btn btn-1 py-2 mt-4">Know More!</button>
@@ -137,11 +199,13 @@ padding: 2rem 0;
                 <li class="nav-item" role="presentation">
                     <button class="nav-link active" id="tab1-tab" data-bs-toggle="tab" data-bs-target="#Tab1"
                         type="button" role="tab" aria-controls="Tab1" aria-selected="true"><i
-                            class="fas fa-lightbulb"></i> Approved by MCI</button>
+                            class="fas fa-lightbulb"></i> Approved by
+                        MCI</button>
                 </li>
                 <li class="nav-item" role="presentation">
                     <button class="nav-link" id="tab2-tab" data-bs-toggle="tab" data-bs-target="#Tab2" type="button"
-                        role="tab" aria-controls="Tab2" aria-selected="false"><i class="fas fa-briefcase"></i> Hospital
+                        role="tab" aria-controls="Tab2" aria-selected="false"><i class="fas fa-briefcase"></i>
+                        Hospital
                         Facilities</button>
                 </li>
                 <li class="nav-item" role="presentation">
@@ -160,7 +224,8 @@ padding: 2rem 0;
                     <h3 class="mb-1">Approved by MCI</h3>
                     <p>It conducts Post Graduate degree (MD/MS) in Pre-Clinical subjects (Anatomy, Physiology,
                         Biochemistry),
-                        Para-clinical subjects (Pathology, Microbiology, Pharmacology, Forensic Sciences) and Clinical
+                        Para-clinical subjects (Pathology, Microbiology, Pharmacology, Forensic Sciences) and
+                        Clinical
                         subjects
                         (Community Medicine, General Medicine, Psychiatry, Dermatology, Respiratory Medicine,
                         Paediatrics,
@@ -171,10 +236,14 @@ padding: 2rem 0;
                 <div class="tab-pane fade" id="Tab2" role="tabpanel" aria-labelledby="tab2-tab">
                     <h3 class="mb-1">Hospital Facilities</h3>
                     <p>Hospital facilities of the Medical College and Research Centre provide modern health care
-                        including critical care and emergency services to the population at large. In a short span of
-                        time, the hospital has developed into 1000 bed tertiary teaching care hospital with facilities
-                        to save lives. An emergency section and Intensive care units with various sub-specialties like
-                        ICCU, ICU, RICU, NICU, PICU, Obstetrics and Gynaecology, and Burn treatment have been added.</p>
+                        including critical care and emergency services to the population at large. In a short span
+                        of
+                        time, the hospital has developed into 1000 bed tertiary teaching care hospital with
+                        facilities
+                        to save lives. An emergency section and Intensive care units with various sub-specialties
+                        like
+                        ICCU, ICU, RICU, NICU, PICU, Obstetrics and Gynaecology, and Burn treatment have been added.
+                    </p>
                 </div>
                 <div class="tab-pane fade" id="Tab3" role="tabpanel" aria-labelledby="tab3-tab">
                     <h3 class="mb-1">General Surgery</h3>
@@ -182,14 +251,17 @@ padding: 2rem 0;
                         Department of Medicine facilitates Echocardiography, TMT and Cath lab. The hospital is also
                         equipped with facilities for Pediatric Surgery, Neuro Surgery, Urology, Cardiology, Cardiac
                         Surgery like Bypass Surgery, Valve Replacement, and Congenital Heart Disease, G I . Surgery,
-                        Reconstructive Surgery, Joint Replacement Surgery, Cancer detection, Sterility Clinic, IVF etc.
+                        Reconstructive Surgery, Joint Replacement Surgery, Cancer detection, Sterility Clinic, IVF
+                        etc.
                     </p>
                 </div>
                 <div class="tab-pane fade" id="Tab4" role="tabpanel" aria-labelledby="tab4-tab">
                     <h3 class="mb-1">Rediology</h3>
                     <p>Department of Radiology provides Fluoroscopy, facilities for Ultrasound and Color Doppler
-                        Studies, Digital X-Rays, CT scan, MRI and Mammography. The hospital is well equipped with modern
-                        Modular operation theaters for General Surgery, Orthopedics, Ophthalmology, ENT and Obstetrics
+                        Studies, Digital X-Rays, CT scan, MRI and Mammography. The hospital is well equipped with
+                        modern
+                        Modular operation theaters for General Surgery, Orthopedics, Ophthalmology, ENT and
+                        Obstetrics
                         and Gynaecology. Central Laboratory services are available for Pathological, Clinical
                         Biochemistry, Microbiology and Histopathology investigations.</p>
                 </div>
@@ -227,11 +299,6 @@ padding: 2rem 0;
                 </div>
 
                 <div class="oc-item text-start">
-                    <img src="assets/img/medical/gallery/3.jpg" alt="Image 1" class="rounded">
-
-                </div>
-
-                <div class="oc-item text-start">
                     <img src="assets/img/medical/gallery/2.jpg" alt="Image 1" class="rounded">
 
                 </div>
@@ -245,19 +312,15 @@ padding: 2rem 0;
                     <img src="assets/img/medical/gallery/5.jpg" alt="Image 1" class="rounded">
 
                 </div>
+
                 <div class="oc-item text-start">
-                    <img src="assets/img/medical/gallery/6.jpg" alt="Image 1" class="rounded">
+                    <img src="assets/img/medical/gallery/10.jpg" alt="Image 1" class="rounded">
 
                 </div>
                 <div class="oc-item text-start">
-                    <img src="assets/img/medical/gallery/7.jpg" alt="Image 1" class="rounded">
+                    <img src="assets/img/medical/gallery/11.jpg" alt="Image 1" class="rounded">
 
                 </div>
-                <div class="oc-item text-start">
-                    <img src="assets/img/medical/gallery/8.jpg" alt="Image 1" class="rounded">
-
-                </div>
-
             </div>
         </div>
 
@@ -277,20 +340,20 @@ padding: 2rem 0;
                             <div class="list-group" id="list-tab" role="tablist">
                                 <a class="pgroup list-group-item listream list-group-item-action rounded-3 shadow-sm active"
                                     id="list-home-list" data-bs-toggle="list" href="#list-home" role="tab"
-                                    aria-controls="list-home"><i
-                                        class="fa-solid fa-computer fa-sm fakash"></i>&nbsp;Undergraduate Programmes
+                                    aria-controls="list-home"><i class="fa-solid fa-computer fa-sm fakash"></i>&nbsp;UG
+                                    Programmes
                                     &nbsp;<span class="badge rounded-pill">04</span>
                                 </a>
                                 <a class="list-group-item listream list-group-item-action rounded-3 shadow-sm mt-2"
                                     id="list-profile-list" data-bs-toggle="list" href="#list-profile" role="tab"
                                     aria-controls="list-profile"><i
-                                        class="fa-solid fa-microchip fa-sm fakash"></i>&nbsp;Postgraduate Programmes
+                                        class="fa-solid fa-microchip fa-sm fakash"></i>&nbsp;PG
+                                    Programmes
                                     &nbsp;<span class="badge rounded-pill">25</span></a>
                             </div>
                         </div>
                         <div class="col-md-9">
                             <div class="tab-content" id="nav-tabContent">
-
                                 <!-- Home Tab starts here -->
                                 <div class="tab-pane fade show active" id="list-home" role="tabpanel"
                                     aria-labelledby="list-home-list">
@@ -304,7 +367,8 @@ padding: 2rem 0;
                                                     class="card-img-top" alt="...">
                                                 <div class="card-body">
 
-                                                    <h4 class="mb-2">MBBS (Bachelor of Medicine and Bachelor of Surgery)
+                                                    <h4 class="mb-2">MBBS (Bachelor of Medicine and Bachelor of
+                                                        Surgery)
                                                     </h4>
                                                 </div>
                                                 <div
@@ -346,7 +410,8 @@ padding: 2rem 0;
                                                     class="card-img-top" alt="...">
                                                 <div class="card-body">
 
-                                                    <h4 class="mb-2">B.Sc. Medical Biochemistry (From Session 2023-24
+                                                    <h4 class="mb-2">B.Sc. Medical Biochemistry (From Session
+                                                        2023-24
                                                         Onwards)</h4>
                                                 </div>
                                                 <div
@@ -964,7 +1029,8 @@ padding: 2rem 0;
                                         alt="...">
                                     <div class="card-body progcardbody">
 
-                                        <h5 class="mb-2">B.Tech (AICTE Approved)-Computer Science & Engineering (CSE)
+                                        <h5 class="mb-2">B.Tech (AICTE Approved)-Computer Science & Engineering
+                                            (CSE)
                                         </h5>
                                     </div>
                                     <div
@@ -1001,7 +1067,8 @@ padding: 2rem 0;
                                         alt="...">
                                     <div class="card-body progcardbody">
 
-                                        <h5 class="mb-2">B.Tech (AICTE Approved)-ME-Mechatronics (In collaboration with
+                                        <h5 class="mb-2">B.Tech (AICTE Approved)-ME-Mechatronics (In collaboration
+                                            with
                                             TCS iON)</h5>
                                     </div>
                                     <div
@@ -1038,7 +1105,8 @@ padding: 2rem 0;
                                         alt="...">
                                     <div class="card-body progcardbody">
 
-                                        <h5 class="mb-2">B.Tech (AICTE Approved)-Electronics & Communication Engineering
+                                        <h5 class="mb-2">B.Tech (AICTE Approved)-Electronics & Communication
+                                            Engineering
                                             (ECE)</h5>
                                     </div>
                                     <div
@@ -1259,693 +1327,166 @@ padding: 2rem 0;
             </div>
         </section>
         <!-----Courses section completed-->
-
-
-        <section id="content">
-    <div class="content-wrap">
-        <div class="container" style="margin-bottom: 10px;">
-
-
-            <div class="row justify-content-center ">
-                <div class="col-xl-10 col-lg-10 text-center">
-                    <h2 class="tmu-text-primary my-4 mb-5"><span>TMU </span> <span>HIGHLIGHTS</span></h2>
-                </div>
-            </div>
-
-
-
-
-            <div class="row col-mb-37">
-                <main class="postcontent col-lg-8 col-md-9">
-                    <div class="row g-4">
-
-
-                        <div class=" mb-0 entry col-lg-12 col-md-12">
-                            <div class="owl-carousel" id="owl-carousel2">
-                                <div class="item">
-
-                                    <div class="grid-inner shadow-sm card newsheight" style="height: 300px;">
-                                        <div class="entry-image mb-0">
-                                            <div class="fslider" data-arrows="false" data-lightbox="gallery">
-                                                <div class="flexslider">
-                                                    <div class="slider-wrap">
-                                                        <div class="slide"><a href="images/news/ccsit/News_05.jpg" data-lightbox="gallery-item" style="background: url('images/news/ccsit/News_05.jpg') no-repeat center bottom; background-size: cover; height: 200px;"></a>
-                                                        </div>
-                                                        <!--<div class="slide"><a href="demos/modern-blog/images/items/lightbox/4-2.jpg" data-lightbox="gallery-item" style="background: url('demos/modern-blog/images/items/4-2.jpg') no-repeat center bottom; background-size: cover; height: 200px;"></a>-->
-                                                        <!--</div>-->
-                                                        <!--<div class="slide"><a href="demos/modern-blog/images/items/lightbox/4-3.jpg" data-lightbox="gallery-item" style="background: url('demos/modern-blog/images/items/4-3.jpg') no-repeat center bottom; background-size: cover; height: 200px;"></a>-->
-                                                        <!--</div>-->
-                                                    </div>
-                                                </div>
-                                            </div>
-                                        </div>
-                                        <div class="p-2">
-                                            <div class="entry-title">
-                                                <a herf="" style="font-size: 18px; font-weight: 500; ">TMU's Educational
-                                                    Odyssey to Narora Atomic Power Station</a>
-                                            </div>
-                                            <div class="entry-meta">
-                                                <ul>
-                                                    <li><i class="uil uil-schedule"></i> 10th Feb 2021</li>
-                                                    <li><a href="blog-single.html#comments"><i class="uil uil-comments-alt"></i> 13</a></li>
-                                                </ul>
-                                            </div>
-                                        </div>
-                                    </div>
-                                </div>
-
-                                <div class="item">
-
-                                    <div class="grid-inner shadow-sm card newsheight" style="height: 300px;">
-                                        <div class="entry-image mb-0">
-                                            <div class="fslider" data-arrows="false" data-lightbox="gallery">
-                                                <div class="flexslider">
-                                                    <div class="slider-wrap">
-                                                        <div class="slide"><a href="images/news/ccsit/News_04.jpg" data-lightbox="gallery-item" style="background: url('images/news/ccsit/News_04.jpg') no-repeat center bottom; background-size: cover; height: 200px;"></a>
-                                                        </div>
-                                                        <!--<div class="slide"><a href="demos/modern-blog/images/items/lightbox/4-2.jpg" data-lightbox="gallery-item" style="background: url('demos/modern-blog/images/items/4-2.jpg') no-repeat center bottom; background-size: cover; height: 200px;"></a>-->
-                                                        <!--</div>-->
-                                                        <!--<div class="slide"><a href="demos/modern-blog/images/items/lightbox/4-3.jpg" data-lightbox="gallery-item" style="background: url('demos/modern-blog/images/items/4-3.jpg') no-repeat center bottom; background-size: cover; height: 200px;"></a>-->
-                                                        <!--</div>-->
-                                                    </div>
-                                                </div>
-                                            </div>
-                                        </div>
-                                        <div class="p-2">
-                                            <div class="entry-title">
-                                                <a herf="" style="font-size: 18px; font-weight: 500; ">TMU's Faculty of
-                                                    Education Marks 24th Vijay Diwas.</a>
-                                            </div>
-                                            <div class="entry-meta">
-                                                <ul>
-                                                    <li><i class="uil uil-schedule"></i> 10th Feb 2021</li>
-                                                    <li><a href="blog-single.html#comments"><i class="uil uil-comments-alt"></i> 13</a></li>
-                                                </ul>
-                                            </div>
-                                        </div>
-                                    </div>
-                                </div>
-
-
-                                <div class="item">
-
-                                    <div class="grid-inner shadow-sm card newsheight" style="height: 300px;">
-                                        <div class="entry-image mb-0">
-                                            <div class="fslider" data-arrows="false" data-lightbox="gallery">
-                                                <div class="flexslider">
-                                                    <div class="slider-wrap">
-                                                        <div class="slide"><a href="images/news/ccsit/News_01.jpg" data-lightbox="gallery-item" style="background: url('images/news/ccsit/News_01.jpg') no-repeat center bottom; background-size: cover; height: 200px;"></a>
-                                                        </div>
-                                                        <!--<div class="slide"><a href="demos/modern-blog/images/items/lightbox/4-2.jpg" data-lightbox="gallery-item" style="background: url('demos/modern-blog/images/items/4-2.jpg') no-repeat center bottom; background-size: cover; height: 200px;"></a>-->
-                                                        <!--</div>-->
-                                                        <!--<div class="slide"><a href="demos/modern-blog/images/items/lightbox/4-3.jpg" data-lightbox="gallery-item" style="background: url('demos/modern-blog/images/items/4-3.jpg') no-repeat center bottom; background-size: cover; height: 200px;"></a>-->
-                                                        <!--</div>-->
-                                                    </div>
-                                                </div>
-                                            </div>
-                                        </div>
-                                        <div class="p-2">
-                                            <div class="entry-title">
-                                                <a herf="" style="font-size: 18px; font-weight: 500; ">CTLD's Faculty
-                                                    Development Programme Empowers Educators</a>
-                                            </div>
-                                            <div class="entry-meta">
-                                                <ul>
-                                                    <li><i class="uil uil-schedule"></i> 10th Feb 2021</li>
-                                                    <li><a href="blog-single.html#comments"><i class="uil uil-comments-alt"></i> 13</a></li>
-                                                </ul>
-                                            </div>
-                                        </div>
-                                    </div>
-                                </div>
-                            </div>
-                        </div>
-                    </div>
-
-                    <!-- Blog Carousel Starts Here -->
-
-                    <div class="row g-4 mb-0 d-none d-sm-block">
-
-                        <div class="owl-carousel" id="owl-carousel3">
-                            <div class="item ">
-
-                                <article class="mb-0 entry event col-12 ">
-                                    <div class="grid-inner bg-white row g-0 p-3 border-0 rounded-5 shadow-sm h-shadow all-ts h-translate-y-sm blogheight">
-                                        <div class="col-md-4 mb-md-0">
-                                            <a href="#" class="entry-image mb-0 h-100">
-                                                <img src="images/blogs/Uni_03.webp" alt="Inventore voluptates velit totam ipsa tenetur" class="rounded-2 h-100 object-cover">
-                                                <div class="bg-overlay">
-                                                    <div class="bg-overlay-content justify-content-start align-items-start">
-                                                        <div class="badge bg-light text-dark rounded-pill">
-                                                            Latest Blog</div>
-                                                    </div>
-                                                </div>
-                                            </a>
-                                        </div>
-                                        <div class="col-md-8 p-4">
-                                            <div class="entry-meta no-separator mb-1 mt-0">
-                                                <ul>
-                                                    <li><a href="#" class="text-uppercase fw-medium">Mon, Feb 12
-                                                            @
-                                                            3:00PM</a></li>
-                                                </ul>
-                                            </div>
-
-                                            <div class="entry-title nott">
-                                                <a herf="" style="font-size: 18px; font-weight: 500; ">Scope and
-                                                    Opportunity through Non-Clinical Medical</a>
-                                            </div>
-                                            <div class="entry-content my-3">
-                                                <p style="font-size: 14px;">Explore the diverse opportunities in
-                                                    non-clinical medical programs like MD Biochemistry, Physiology,[...]
-                                                </p>
-                                            </div>
-
-                                            <div class="entry-meta no-separator">
-                                                <ul>
-                                                    <li><a href="#" class="fw-normal"><i class="uil uil-map-marker"></i>
-                                                            Chiang Mai,
-                                                            Thailand</a></li>
-                                                </ul>
-                                            </div>
-                                        </div>
-                                    </div>
-                                </article>
-                            </div>
-
-
-                            <div class="item">
-
-                                <article class="mb-0 entry event col-12 ">
-                                    <div class="grid-inner bg-white row g-0 p-3 border-0 rounded-5 shadow-sm h-shadow all-ts h-translate-y-sm blogheight">
-                                        <div class="col-md-4 mb-md-0">
-                                            <a href="#" class="entry-image mb-0 h-100">
-                                                <img src="images/blogs/Uni_01.webp" alt="Inventore voluptates velit totam ipsa tenetur" class="rounded-2 h-100 object-cover">
-                                                <div class="bg-overlay">
-                                                    <div class="bg-overlay-content justify-content-start align-items-start">
-                                                        <div class="badge bg-light text-dark rounded-pill">
-                                                            Latest Blog</div>
-                                                    </div>
-                                                </div>
-                                            </a>
-                                        </div>
-                                        <div class="col-md-8 p-4">
-                                            <div class="entry-meta no-separator mb-1 mt-0">
-                                                <ul>
-                                                    <li><a href="#" class="text-uppercase fw-medium">Mon, Feb 12
-                                                            @
-                                                            3:00PM</a></li>
-                                                </ul>
-                                            </div>
-
-                                            <div class="entry-title nott">
-                                                <a herf="" style="font-size: 18px; font-weight: 500; ">Top 10
-                                                    engineering colleges in India</a>
-                                            </div>
-                                            <div class="entry-content my-3">
-                                                <p style="font-size: 14px;">Explore the top 10 Engineering colleges in
-                                                    India and the top 10 things to consider while choosing a [...]</p>
-                                            </div>
-
-                                            <div class="entry-meta no-separator">
-                                                <ul>
-                                                    <li><a href="#" class="fw-normal"><i class="uil uil-map-marker"></i>
-                                                            Chiang Mai,
-                                                            Thailand</a></li>
-                                                </ul>
-                                            </div>
-                                        </div>
-                                    </div>
-                                </article>
-                            </div>
-
-
-
-                            <div class="item">
-
-                                <article class="mb-0 entry event col-12 ">
-                                    <div class="grid-inner bg-white row g-0 p-3 border-0 rounded-5 shadow-sm h-shadow all-ts h-translate-y-sm blogheight">
-                                        <div class="col-md-4 mb-md-0">
-                                            <a href="#" class="entry-image mb-0 h-100">
-                                                <img src="images/blogs/Uni_02.webp" alt="Inventore voluptates velit totam ipsa tenetur" class="rounded-2 h-100 object-cover">
-                                                <div class="bg-overlay">
-                                                    <div class="bg-overlay-content justify-content-start align-items-start">
-                                                        <div class="badge bg-light text-dark rounded-pill">
-                                                            Latest Blog</div>
-                                                    </div>
-                                                </div>
-                                            </a>
-                                        </div>
-                                        <div class="col-md-8 p-4">
-                                            <div class="entry-meta no-separator mb-1 mt-0">
-                                                <ul>
-                                                    <li><a href="#" class="text-uppercase fw-medium">Mon, Feb 12
-                                                            @
-                                                            3:00PM</a></li>
-                                                </ul>
-                                            </div>
-
-                                            <div class="entry-title nott">
-                                                <a herf="" style="font-size: 18px; font-weight: 500; ">Top 100
-                                                    Universities in India</a>
-                                            </div>
-                                            <div class="entry-content my-3">
-                                                <p style="font-size: 14px;">Get guidance on India's top 100
-                                                    universities, offering comprehensive insights into diverse
-                                                    education[...]</p>
-                                            </div>
-
-                                            <div class="entry-meta no-separator">
-                                                <ul>
-                                                    <li><a href="#" class="fw-normal"><i class="uil uil-map-marker"></i>
-                                                            Chiang Mai,
-                                                            Thailand</a></li>
-                                                </ul>
-                                            </div>
-                                        </div>
-                                    </div>
-                                </article>
-                            </div>
-
-
-                        </div>
-                    </div>
-                    <!-- 
-														Blog Carousel Starts Here
-														-->
-                </main>
-                <!-- 
-												Side Menu Code start here
-											 -->
-
-
-                <aside class="sidebar col-md-12 d-block d-sm-none" style="margin-bottom: 35px;">
-                    <div class="sidebar-widgets-wrap bg-white rounded-5 p-4 shadow-sm">
-
-                        <div class="widget">
-
-                            <h4>Latest Blogs</h4>
-                            <hr>
-                            <div class="posts-sm row col-mb-30" id="post-list-sidebar" style="margin-top: -0.25rem;">
-
-
-
-                                <div class="entry col-12">
-                                    <div class="grid-inner row g-0">
-                                        <div class="col-auto">
-                                            <div class="entry-image">
-                                                <a href="#"><img src="images/events/thumbs/3.jpg" alt="Image"></a>
-                                            </div>
-                                        </div>
-                                        <div class="col ps-3">
-                                            <div class="entry-title">
-                                                <h4><a href="#">Debitis nihil placeat, illum est nisi</a></h4>
-                                            </div>
-                                            <div class="entry-meta">
-                                                <ul>
-                                                    <li>10th July 2021</li>
-                                                </ul>
-                                            </div>
-                                        </div>
-                                    </div>
-                                </div>
-
-                                <div class="entry col-12">
-                                    <div class="grid-inner row g-0">
-                                        <div class="col-auto">
-                                            <div class="entry-image">
-                                                <a href="#"><img src="images/events/thumbs/1.jpg" alt="Image"></a>
-                                            </div>
-                                        </div>
-                                        <div class="col ps-3">
-                                            <div class="entry-title">
-                                                <h4><a href="#">Lorem ipsum dolor sit amet, consectetur</a></h4>
-                                            </div>
-                                            <div class="entry-meta">
-                                                <ul>
-                                                    <li>10th July 2021</li>
-                                                </ul>
-                                            </div>
-                                        </div>
-                                    </div>
-                                </div>
-                                <div class="entry col-12">
-                                    <div class="grid-inner row g-0">
-                                        <div class="col-auto">
-                                            <div class="entry-image">
-                                                <a href="#"><img src="images/events/thumbs/1.jpg" alt="Image"></a>
-                                            </div>
-                                        </div>
-                                        <div class="col ps-3">
-                                            <div class="entry-title">
-                                                <h4><a href="#">Lorem ipsum dolor sit amet, consectetur</a></h4>
-                                            </div>
-                                            <div class="entry-meta">
-                                                <ul>
-                                                    <li>10th July 2021</li>
-                                                </ul>
-                                            </div>
-                                        </div>
-                                    </div>
-                                </div>
-
-                                <div class="entry col-12">
-                                    <div class="grid-inner row g-0">
-                                        <div class="col-auto">
-                                            <div class="entry-image">
-                                                <a href="#"><img src="images/events/thumbs/2.jpg" alt="Image"></a>
-                                            </div>
-                                        </div>
-                                        <div class="col ps-3">
-                                            <div class="entry-title">
-                                                <h4><a href="#">Elit Assumenda vel amet dolorum quasi</a></h4>
-                                            </div>
-                                            <div class="entry-meta">
-                                                <ul>
-                                                    <li>10th July 2021</li>
-                                                </ul>
-                                            </div>
-                                        </div>
-                                    </div>
-                                </div>
-
-
-                                <div class="entry col-12">
-                                    <div class="grid-inner row g-0">
-                                        <div class="col-auto">
-                                            <div class="entry-image">
-                                                <a href="#"><img src="images/events/thumbs/3.jpg" alt="Image"></a>
-                                            </div>
-                                        </div>
-                                        <div class="col ps-3">
-                                            <div class="entry-title">
-                                                <h4><a href="#">Debitis nihil placeat, illum est nisi</a></h4>
-                                            </div>
-                                            <div class="entry-meta">
-                                                <ul>
-                                                    <li>10th July 2021</li>
-                                                </ul>
-                                            </div>
-                                        </div>
-                                    </div>
-                                </div>
-
-                                <div class="entry col-12">
-                                    <div class="grid-inner row g-0">
-                                        <div class="col-auto">
-                                            <div class="entry-image">
-                                                <a href="#"><img src="images/events/thumbs/1.jpg" alt="Image"></a>
-                                            </div>
-                                        </div>
-                                        <div class="col ps-3">
-                                            <div class="entry-title">
-                                                <h4><a href="#">Lorem ipsum dolor sit amet, consectetur</a></h4>
-                                            </div>
-                                            <div class="entry-meta">
-                                                <ul>
-                                                    <li>10th July 2021</li>
-                                                </ul>
-                                            </div>
-                                        </div>
-                                    </div>
-                                </div>
-
-
-
-
-
-                            </div>
-                        </div>
-                    </div>
-                </aside>
-
-
-                <aside class="sidebar col-lg-4 col-md-12">
-                    <div class="notice-board">
-                        <div class="notice-header">NOTICE BOARD</div>
-                        <div class="notice-body">
-
-                            <div class="notice">
-                                <div class="notice-pub">
-                                    <span>01, April</span>
-                                </div>
-                                <div class="notice-content">
-                                    <p>The Women Empowerment Cell, Faculty of Engineering, and CCSIT are going to
-                                        organise International Women's Day</p>
-                                </div>
-                                <div class="notice-meta">
-                                    <span style="margin-right: 15px;"><img src="assets/img/icons/placeholder.svg" width="20px" height="20px">
-                                        Conference Room</span>
-                                    <span><img src="assets/img/icons/calendar.svg" width="20px" height="20px"> 09,
-                                        March</span>
-                                </div>
-                            </div>
-                            <hr class="notice-separator">
-                            <div class="notice">
-                                <div class="notice-pub">
-                                    <span>01, April</span>
-                                </div>
-                                <div class="notice-content">
-                                    <p>The Department of Mechanical Engineering is hosting a one-day workshop on "Drone
-                                        Technology" in association with ESTC Ramnagar.</p>
-                                </div>
-                                <div class="notice-meta">
-                                    <span style="margin-right: 15px;"><img src="assets/img/icons/placeholder.svg" width="20px" height="20px">
-                                        Conference Room</span>
-                                    <span><img src="assets/img/icons/calendar.svg" width="20px" height="20px"> 15,
-                                        March</span>
-                                </div>
-                            </div>
-                            <hr class="notice-separator">
-                            <div class="notice">
-                                <div class="notice-pub">
-                                    <span>01, April</span>
-                                </div>
-                                <div class="notice-content">
-                                    <p>The Computer Science and Engineering Department is organising a Digital/Physical
-                                        Poster Competition on the topic "Mera Pehla Vote-Desh ke liye</p>
-                                </div>
-                                <div class="notice-meta">
-                                    <span style="margin-right: 15px;"><img src="assets/img/icons/placeholder.svg" width="20px" height="20px">
-                                        CCSIT</span>
-                                    <span><img src="assets/img/icons/calendar.svg" width="20px" height="20px"> 21,
-                                        March</span>
-                                </div>
-                            </div>
-                            <hr class="notice-separator">
-                            <div class="notice">
-                                <div class="notice-pub">
-                                    <span>01, April</span>
-                                </div>
-                                <div class="notice-content">
-                                    <p>The Cultural Club of CCSIT is organisng a student fest for Holi, "SPLASH-The Joy
-                                        of Colors".</p>
-                                </div>
-                                <div class="notice-meta">
-                                    <span style="margin-right: 15px;"><img src="assets/img/icons/placeholder.svg" width="20px" height="20px">
-                                        CCSIT</span>
-                                    <span><img src="assets/img/icons/calendar.svg" width="20px" height="20px"> 20,
-                                        March</span>
-                                </div>
-                            </div>
-                            <hr class="notice-separator">
-                            <div class="notice">
-                                <div class="notice-pub">
-                                    <span>01, April</span>
-                                </div>
-                                <div class="notice-content">
-                                    <p>Students may register for the 14th edition of Mega Quiz Khoj-2024 which is being
-                                        organised by the Techno Club (CCSIT).</p>
-                                </div>
-                                <div class="notice-meta">
-                                    <span style="margin-right: 15px;"><img src="assets/img/icons/placeholder.svg" width="20px" height="20px">
-                                        Auditorium</span>
-                                    <span><img src="assets/img/icons/calendar.svg" width="20px" height="20px"> 14,
-                                        March</span>
-                                </div>
-                            </div>
-                            <hr class="notice-separator">
-                            <div class="notice">
-                                <div class="notice-pub">
-                                    <span>01, April</span>
-                                </div>
-                                <div class="notice-content">
-                                    <p>The Department of Physics is going to organise National Science Day with various
-                                        activities and competitions</p>
-                                </div>
-                                <div class="notice-meta">
-                                    <span style="margin-right: 15px;"><img src="assets/img/icons/placeholder.svg" width="20px" height="20px">
-                                        LT-6, CCSIT </span>
-                                    <span><img src="assets/img/icons/calendar.svg" width="20px" height="20px"> 28,
-                                        February</span>
-                                </div>
-                            </div>
-                            <hr class="notice-separator">
-                            <div class="notice">
-                                <div class="notice-pub">
-                                    <span>01, April</span>
-                                </div>
-                                <div class="notice-content">
-                                    <p>The Electronics and Communication Engineering Department is organising a Guest
-                                        Lecture on "Process of Innovation & Technology Readiness Level".</p>
-                                </div>
-                                <div class="notice-meta">
-                                    <span style="margin-right: 15px;"><img src="assets/img/icons/placeholder.svg" width="20px" height="20px">
-                                        LT-6, FOE</span>
-                                    <span><img src="assets/img/icons/calendar.svg" width="20px" height="20px"> 24,
-                                        February</span>
-                                </div>
-                            </div>
-                            <hr class="notice-separator">
-                            <!--<div class="notice">-->
-                            <!--    <div class="notice-pub">-->
-                            <!--        <span>01, April</span>-->
-                            <!--    </div>-->
-                            <!--    <div class="notice-content">-->
-                            <!--        <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed eget eros eget nunc-->
-                            <!--            tincidunt vestibulum.</p>-->
-                            <!--    </div>-->
-                            <!--    <div class="notice-meta">-->
-                            <!--        <span style="margin-right: 15px;"><img src="assets/img/icons/placeholder.svg" width="20px" height="20px">-->
-                            <!--            Conference Room</span>-->
-                            <!--        <span><img src="assets/img/icons/calendar.svg" width="20px" height="20px"> 5,-->
-                            <!--            April</span>-->
-                            <!--    </div>-->
-                            <!--</div>-->
-                            <!--<hr class="notice-separator">-->
-                            <!--<div class="notice">-->
-                            <!--    <div class="notice-pub">-->
-                            <!--        <span>01, April</span>-->
-                            <!--    </div>-->
-                            <!--    <div class="notice-content">-->
-                            <!--        <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed eget eros eget nunc-->
-                            <!--            tincidunt vestibulum.</p>-->
-                            <!--    </div>-->
-                            <!--    <div class="notice-meta">-->
-                            <!--        <span>01, April</span>-->
-                            <!--        <span><img src="assets/img/icons/placeholder.svg" width="15px" height="15px"> Conference Room</span>-->
-                            <!--        <span><img src="assets/img/icons/calendar.svg" width="15px" height="15px"> 5, April</span>-->
-                            <!--    </div>-->
-                            <!--</div>-->
-                            <!-- Add more notices here -->
-                        </div>
-                    </div>
-                </aside>
-            </div>
-            <!-- 
-												Side Menu Code Ends Here
-											 -->
-
-
-        </div>
-    </div>
-</section><!-- #content end -->
-
-
-         <section>
+        <section>
             <div class="container-xl tmu-testimonial mt-5 mb-3">
 
-                <h2 class="tmu-text-primary my-0 mb-3"> <span>Students </span> <span>Testimonial</span></h2>
+                <h2 class="tmu-text-primary my-0 mb-3"> <span>alumni </span> <span>Testimonial</span></h2>
 
-                <div class="owl-carousel owl-carousel-full image-carousel carousel-widget charity-card" style="overflow: visible;" data-stage-padding="20" data-margin="50" data-center="true" data-loop="true" data-nav="true" data-autoplay="200000" data-speed="2000" data-pagi="true" data-items-xs="1" data-items-sm="2" data-items-md="2" data-items-lg="3" data-items-xl="3">
+                <div class="owl-carousel owl-carousel-full image-carousel carousel-widget charity-card"
+                    style="overflow: visible;" data-stage-padding="20" data-margin="50" data-center="true"
+                    data-loop="true" data-nav="true" data-autoplay="200000" data-speed="2000" data-pagi="true"
+                    data-items-xs="1" data-items-sm="2" data-items-md="2" data-items-lg="3" data-items-xl="3">
 
                     <div class="oc-item text-start">
                         <div class="media ">
-                            <img src="https://www.tmu.ac.in/monaco/assets/image/testimonials/rashmi_raj_bcom.webp" class="mr-3" alt="">
+                            <img src="https://www.tmu.ac.in/monaco/assets/image/testimonials/rashmi_raj_bcom.webp"
+                                class="mr-3" alt="">
                             <div class="media-body">
                                 <div class="testimonial">
                                     <p class="overview mb-3"><b>Rashmi Raj</b>, B.Com</p>
-                                    <p>For me TMU wasn't just a place of study, it was where I discovered the artistry in
-                                        business. Professors here were mentors who helped me navigate the complexities of
-                                        creativity. TMU, to me, isn't just an educational space; it's the place where my journey
+                                    <p>For me TMU wasn't just a place of study, it was where I discovered the
+                                        artistry
+                                        in
+                                        business. Professors here were mentors who helped me navigate the
+                                        complexities
+                                        of
+                                        creativity. TMU, to me, isn't just an educational space; it's the place
+                                        where my
+                                        journey
                                         in the world of commerce became a fascinating and personal expedition.
                                     </p>
                                 </div>
                             </div>
-                            <button class="tmu-btn btn-3 py-2 d-block mx-auto my-0 d-flex align-items-center tmu-fs-14" onclick="showTestimonialModal()">Read More <i class="bi bi-chevron-down ps-2"></i></button>
+                            <button class="tmu-btn btn-3 py-2 d-block mx-auto my-0 d-flex align-items-center tmu-fs-14"
+                                onclick="showTestimonialModal()">Read More <i
+                                    class="bi bi-chevron-down ps-2"></i></button>
 
                         </div>
                     </div>
 
                     <div class="oc-item text-start">
                         <div class="media">
-                            <img src="https://www.tmu.ac.in/monaco/assets/image/testimonials/pragati_law.webp" class="mr-3" alt="">
+                            <img src="https://www.tmu.ac.in/monaco/assets/image/testimonials/pragati_law.webp"
+                                class="mr-3" alt="">
                             <div class="media-body">
                                 <div class="testimonial">
                                     <p class="overview mb-3"><b>Ms. Pragati </b>, BA - LLB</p>
-                                    <p>TMU has been a crucible for nurturing leadership skills, offering a transformative
-                                        journey through leadership programmes, mentorship initiatives, and engagement in
-                                        extracurricular activities. The holistic approach at TMU has honed my ability to lead
-                                        effectively, and in clearing this exam. The University’s impact on my leadership journey
+                                    <p>TMU has been a crucible for nurturing leadership skills, offering a
+                                        transformative
+                                        journey through leadership programmes, mentorship initiatives, and
+                                        engagement in
+                                        extracurricular activities. The holistic approach at TMU has honed my
+                                        ability to
+                                        lead
+                                        effectively, and in clearing this exam. The University’s impact on my
+                                        leadership
+                                        journey
                                         is evident in the accomplishments of my evolving career.</p>
                                 </div>
-                                <button class="tmu-btn btn-3 py-2 d-block mx-auto my-0 d-flex align-items-center tmu-fs-14" onclick="showTestimonialModal()">Read More <i class="bi bi-chevron-down ps-2"></i></button>
+                                <button
+                                    class="tmu-btn btn-3 py-2 d-block mx-auto my-0 d-flex align-items-center tmu-fs-14"
+                                    onclick="showTestimonialModal()">Read More <i
+                                        class="bi bi-chevron-down ps-2"></i></button>
                             </div>
                         </div>
                     </div>
 
                     <div class="oc-item text-start">
                         <div class="media">
-                            <img src="https://www.tmu.ac.in/monaco/assets/image/testimonials/abdul_india_mart_mba.webp" class="mr-3" alt="">
+                            <img src="https://www.tmu.ac.in/monaco/assets/image/testimonials/abdul_india_mart_mba.webp"
+                                class="mr-3" alt="">
                             <div class="media-body">
                                 <div class="testimonial">
                                     <p class="overview mb-3"><b>Abdul Malik Khan</b>, MBA</p>
-                                    <p>TMU, for me, is not just an MBA destination, it's the crucible where my leadership skills
-                                        were forged. Beyond textbooks and case studies, TMU offered a dynamic learning
-                                        environment where theories met practical challenges. It's a journey where I honed the
-                                        skills that set me apart in the dynamic landscape of business and management.
+                                    <p>TMU, for me, is not just an MBA destination, it's the crucible where my
+                                        leadership skills
+                                        were forged. Beyond textbooks and case studies, TMU offered a dynamic
+                                        learning
+                                        environment where theories met practical challenges. It's a journey where I
+                                        honed the
+                                        skills that set me apart in the dynamic landscape of business and
+                                        management.
                                     </p>
                                 </div>
-                                <button class="tmu-btn btn-3 py-2 d-block mx-auto my-0 d-flex align-items-center tmu-fs-14" onclick="showTestimonialModal()">Read More <i class="bi bi-chevron-down ps-2"></i></button>
+                                <button
+                                    class="tmu-btn btn-3 py-2 d-block mx-auto my-0 d-flex align-items-center tmu-fs-14"
+                                    onclick="showTestimonialModal()">Read More <i
+                                        class="bi bi-chevron-down ps-2"></i></button>
                             </div>
                         </div>
                     </div>
 
                     <div class="oc-item text-start">
                         <div class="media">
-                            <img src="https://www.tmu.ac.in/monaco/assets/image/testimonials/shaily_jain_mca.webp" class="mr-3" alt="">
+                            <img src="https://www.tmu.ac.in/monaco/assets/image/testimonials/shaily_jain_mca.webp"
+                                class="mr-3" alt="">
                             <div class="media-body">
                                 <div class="testimonial">
                                     <p class="overview mb-3"><b>Shaily Jain</b>, MCA</p>
-                                    <p>TMU has been instrumental in facilitating life-changing career connections that have had
-                                        a profound impact on my professional journey. The relationships built with faculty,
-                                        alumni, and industry professionals have played a pivotal role in my career progression.
-                                        The supportive and enduring network cultivated at TMU continues to be a cornerstone of
+                                    <p>TMU has been instrumental in facilitating life-changing career connections
+                                        that
+                                        have had
+                                        a profound impact on my professional journey. The relationships built with
+                                        faculty,
+                                        alumni, and industry professionals have played a pivotal role in my career
+                                        progression.
+                                        The supportive and enduring network cultivated at TMU continues to be a
+                                        cornerstone of
                                         my ongoing success.</p>
                                 </div>
-                                <button class="tmu-btn btn-3 py-2 d-block mx-auto my-0 d-flex align-items-center tmu-fs-14" onclick="showTestimonialModal()">Read More <i class="bi bi-chevron-down ps-2"></i></button>
+                                <button
+                                    class="tmu-btn btn-3 py-2 d-block mx-auto my-0 d-flex align-items-center tmu-fs-14"
+                                    onclick="showTestimonialModal()">Read More <i
+                                        class="bi bi-chevron-down ps-2"></i></button>
                             </div>
                         </div>
                     </div>
 
                     <div class="oc-item text-start">
                         <div class="media">
-                            <img src="https://www.tmu.ac.in/monaco/assets/image/testimonials/nikita_shah_bcom.webp" class="mr-3" alt="">
+                            <img src="https://www.tmu.ac.in/monaco/assets/image/testimonials/nikita_shah_bcom.webp"
+                                class="mr-3" alt="">
                             <div class="media-body">
                                 <div class="testimonial">
                                     <p class="overview mb-3"><b>Nikita Shah</b>, B.Com(H)</p>
-                                    <p>TMU is more than a university to me—it's the heartbeat of my career journey. The
-                                        professors, like mentors and friends, guided me through real-world challenges. Today, as
-                                        I navigate my field with confidence, I owe my success to the practical wisdom TMU
+                                    <p>TMU is more than a university to me—it's the heartbeat of my career journey.
+                                        The
+                                        professors, like mentors and friends, guided me through real-world
+                                        challenges.
+                                        Today, as
+                                        I navigate my field with confidence, I owe my success to the practical
+                                        wisdom
+                                        TMU
                                         instilled in me.
                                     </p>
                                 </div>
-                                <button class="tmu-btn btn-3 py-2 d-block mx-auto my-0 d-flex align-items-center tmu-fs-14" onclick="showTestimonialModal()">Read More <i class="bi bi-chevron-down ps-2"></i></button>
+                                <button
+                                    class="tmu-btn btn-3 py-2 d-block mx-auto my-0 d-flex align-items-center tmu-fs-14"
+                                    onclick="showTestimonialModal()">Read More <i
+                                        class="bi bi-chevron-down ps-2"></i></button>
                             </div>
                         </div>
                     </div>
                     <div class="oc-item text-start">
                         <div class="media">
-                            <img src="https://www.tmu.ac.in/monaco/assets/image/testimonials/shruti_jain_btech_cse.webp" class="mr-3" alt="">
+                            <img src="https://www.tmu.ac.in/monaco/assets/image/testimonials/shruti_jain_btech_cse.webp"
+                                class="mr-3" alt="">
                             <div class="media-body">
                                 <div class="testimonial">
                                     <p class="overview mb-3"><b>Shruti Jain</b>, B.Tech CSE</p>
-                                    <p>TMU focuses on developing industry-ready skills. The practical approach to learning,
-                                        coupled with exposure to real-world scenarios, enabled me to seamlessly transition into
-                                        my career. TMU's impact on my professional journey is undeniable. I am thankful for the
+                                    <p>TMU focuses on developing industry-ready skills. The practical approach to
+                                        learning,
+                                        coupled with exposure to real-world scenarios, enabled me to seamlessly
+                                        transition into
+                                        my career. TMU's impact on my professional journey is undeniable. I am
+                                        thankful
+                                        for the
                                         holistic education and support I received here.</p>
                                 </div>
-                                <button class="tmu-btn btn-3 py-2 d-block mx-auto my-0 d-flex align-items-center tmu-fs-14" onclick="showTestimonialModal()">Read More <i class="bi bi-chevron-down ps-2"></i></button>
+                                <button
+                                    class="tmu-btn btn-3 py-2 d-block mx-auto my-0 d-flex align-items-center tmu-fs-14"
+                                    onclick="showTestimonialModal()">Read More <i
+                                        class="bi bi-chevron-down ps-2"></i></button>
                             </div>
                         </div>
                     </div>
@@ -1962,13 +1503,17 @@ padding: 2rem 0;
                 <div class="close-btn" onclick="closeTestimonialModal()">x</div>
                 <div class="tmu-testimonial bg-light">
                     <div class="media">
-                        <img src="https://www.tmu.ac.in/monaco/assets/image/testimonials/abdul_india_mart_mba.webp" class="mr-3" alt="">
+                        <img src="https://www.tmu.ac.in/monaco/assets/image/testimonials/abdul_india_mart_mba.webp"
+                            class="mr-3" alt="">
                         <div class="media-body">
                             <div class="testimonial">
                                 <p class="overview mb-3 testimonial-user-name"><b>Abdul Malik Khan</b>, MBA</p>
-                                <p class="testimonial-content">TMU, for me, is not just an MBA destination, it's the crucible where my leadership skills
+                                <p class="testimonial-content">TMU, for me, is not just an MBA destination, it's the
+                                    crucible where my leadership skills
                                     were forged. Beyond textbooks and case studies, TMU offered a dynamic learning
-                                    environment where theories met practical challenges. It's a journey where I honed the
+                                    environment where theories met practical challenges. It's a journey where I
+                                    honed
+                                    the
                                     skills that set me apart in the dynamic landscape of business and management.
                                 </p>
                             </div>
@@ -1987,9 +1532,11 @@ padding: 2rem 0;
 
             <button class="careers-accordion">Does University provide transport?<span class="icon">+</span></button>
             <div class="panel">
-                <p>Yes, Teerthanker Mahaveer University offers pick and drop facility to students and staff coming from
+                <p>Yes, Teerthanker Mahaveer University offers pick and drop facility to students and staff coming
+                    from
                     within
-                    the radial distance of 100 Kms. For added safety, the buses have camera surveillance inside it too.
+                    the radial distance of 100 Kms. For added safety, the buses have camera surveillance inside it
+                    too.
                 </p>
             </div>
             <!-- Add the horizontal line here -->
@@ -1997,7 +1544,8 @@ padding: 2rem 0;
 
             <button class="careers-accordion">Working environment<span class="icon">+</span></button>
             <div class="panel">
-                <p>The work environment is truly conductive & intriguing to develop you professionally and personally.
+                <p>The work environment is truly conductive & intriguing to develop you professionally and
+                    personally.
                     We have a
                     workforce of 4000 employees. Our team of renowned administrators and academicians from reputed
                     institutes
@@ -2007,7 +1555,8 @@ padding: 2rem 0;
             <hr class="horizontal-line">
             <button class="careers-accordion">Campus<span class="icon">+</span></button>
             <div class="panel">
-                <p>The University is located in the vicinity of the beautiful city of Moradabad and is at a reasonable
+                <p>The University is located in the vicinity of the beautiful city of Moradabad and is at a
+                    reasonable
                     distance
                     from Moradabad Bus stand and Railway station. The campus occupies the geographical area of 130
                     Acres.</p>
@@ -2016,12 +1565,16 @@ padding: 2rem 0;
             <hr class="horizontal-line">
             <button class="careers-accordion">Career Opportunities<span class="icon">+</span></button>
             <div class="panel">
-                <p>If you are the one who is looking forward to broaden the career horizons, then Teerthanker Mahaveer
-                    University is the perfect place for you. We not only develop our student’s skills and enhance them
+                <p>If you are the one who is looking forward to broaden the career horizons, then Teerthanker
+                    Mahaveer
+                    University is the perfect place for you. We not only develop our student’s skills and enhance
+                    them
                     through
-                    extra training programs like Industry Placements, Higher studies, and classes for Government, Civil,
+                    extra training programs like Industry Placements, Higher studies, and classes for Government,
+                    Civil,
                     and
-                    Banking sectors, but also give equal growth opportunities to our staff through Internal Job Posting
+                    Banking sectors, but also give equal growth opportunities to our staff through Internal Job
+                    Posting
                     (IJP),
                     International Faculty Exchange Programs, Research opportunities and more.</p>
             </div>
@@ -2031,16 +1584,20 @@ padding: 2rem 0;
             <div class="panel">
                 <p>Yes, TMU accommodates the faculty family keeping in mind their comfort and other amenities. Our
                     residential
-                    complex for faculties is fully equipped with Wi-Fi, Gymnasium, Indoor game area, Night Canteen and
+                    complex for faculties is fully equipped with Wi-Fi, Gymnasium, Indoor game area, Night Canteen
+                    and
                     Tuck
                     shops, 24X7 Health facilities, 24X7 Power backup, salon and more.</p>
             </div>
             <!-- Add the horizontal line here -->
             <hr class="horizontal-line">
         </div>
+    </div>
 
-        
+</section>
+
+
 <script src="./assets/js/tmimt.js"></script>
-        <?php
+<?php
  include 'footer.php';
 ?>
