@@ -9,7 +9,7 @@ include 'head.php';
         <div class="container-fluid p-0">
             <div class="video-banner" style="height: 90vh;">
                 <img src="./assets/image/banner-poster.jpg" alt="" id="banner-tmu-img">
-                <video muted loop id="main-banner-vid" class="d-none" poster="./assets/image/banner-poster.jpg" src="#">
+                <video muted loop autoplay id="main-banner-vid" class="d-none" poster="./assets/image/banner-poster.jpg" src="#">
                 </video>
             </div>
             <div class="banner-text">
