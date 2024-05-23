@@ -409,10 +409,6 @@ include 'head.php';
         </div>
 
 
-
-
-
-
         <!-----Courses section Start-->
         <section id="content" class="prog-bm">
             <div class="content-wrap py-0" style="overflow: visible;">
@@ -450,14 +446,13 @@ include 'head.php';
 
                                         <div class="col-md-4 mb-2">
                                             <!-- Card -->
-                                            <div class="card shadow-sm">
+                                            <div class="card card-sz shadow-sm">
                                                 <img src="assets/img/programme_stock_img/medical/26.jpg" height="178px"
                                                     class="card-img-top" alt="...">
                                                 <div class="card-body">
 
-                                                    <h5 class="mb-0 text-center">MBBS (Bachelor of Medicine and Bachelor
-                                                        of Surgery)
-                                                    </h5>
+                                                    <h5 class="mb-0 text-center">B.Com. (Fintech & Blockchain Technologies with whizack
+                                                Technologies)</h5>
                                                 </div>
                                                 <div
                                                     class="card-footer d-flex justify-content-between align-items-center bg-white py-3">
@@ -472,7 +467,7 @@ include 'head.php';
 
                                         <div class="col-md-4 mb-2">
                                             <!-- Card -->
-                                            <div class="card shadow-sm">
+                                            <div class="card card-sz shadow-sm">
                                                 <img src="assets/img/programme_stock_img/medical/26.jpg" height="178px"
                                                     class="card-img-top" alt="...">
                                                 <div class="card-body">
@@ -494,7 +489,7 @@ include 'head.php';
 
                                         <div class="col-md-4 mb-2">
                                             <!-- Card -->
-                                            <div class="card shadow-sm">
+                                            <div class="card card-sz shadow-sm">
                                                 <img src="assets/img/programme_stock_img/medical/27.jpg" height="178px"
                                                     class="card-img-top" alt="...">
                                                 <div class="card-body">
@@ -516,7 +511,7 @@ include 'head.php';
 
                                         <div class="col-md-4 mb-2">
                                             <!-- Card -->
-                                            <div class="card shadow-sm progcard">
+                                            <div class="card card-sz shadow-sm progcard">
                                                 <img src="assets/img/programme_stock_img/medical/28.jpg" height="178px"
                                                     class="card-img-top" alt="...">
                                                 <div class="card-body progcardbody">
@@ -537,7 +532,7 @@ include 'head.php';
                                         </div>
                                         <div class="col-md-4 mb-2">
                                             <!-- Card -->
-                                            <div class="card shadow-sm progcard">
+                                            <div class="card card-sz shadow-sm progcard">
                                                 <img src="assets/img/programme_stock_img/medical/28.jpg" height="178px"
                                                     class="card-img-top" alt="...">
                                                 <div class="card-body progcardbody">
@@ -571,7 +566,7 @@ include 'head.php';
 
                                         <div class="col-md-4 mb-2">
                                             <!-- Card -->
-                                            <div class="card shadow-sm">
+                                            <div class="card card-sz shadow-sm">
                                                 <img src="assets/img/programme_stock_img/medical/27.jpg" height="178px"
                                                     class="card-img-top" alt="...">
                                                 <div class="card-body">
@@ -593,7 +588,7 @@ include 'head.php';
 
                                         <div class="col-md-4 mb-2">
                                             <!-- Card -->
-                                            <div class="card shadow-sm progcard">
+                                            <div class="card card-sz shadow-sm progcard">
                                                 <img src="assets/img/programme_stock_img/medical/28.jpg" height="178px"
                                                     class="card-img-top" alt="...">
                                                 <div class="card-body progcardbody">
@@ -614,7 +609,7 @@ include 'head.php';
                                         </div>
                                         <div class="col-md-4 mb-2">
                                             <!-- Card -->
-                                            <div class="card shadow-sm progcard">
+                                            <div class="card card-sz shadow-sm progcard">
                                                 <img src="assets/img/programme_stock_img/medical/28.jpg" height="178px"
                                                     class="card-img-top" alt="...">
                                                 <div class="card-body progcardbody">

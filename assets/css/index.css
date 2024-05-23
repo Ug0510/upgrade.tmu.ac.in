@@ -1622,10 +1622,17 @@ main1>div>a:hover {
 
 /* <!-------- TMU City In itself End------> */
 
+.card-sz{
+    height: 315px;
+}
 
-
-
-
+.card-body{
+    padding: 10px;
+}
+.card-body h5{
+    margin-bottom: 0px;
+    text-align: center;
+}
 
 /* <!-------- TMU City In itself start------> */
 

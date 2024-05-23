@@ -210,7 +210,7 @@ include 'head.php';
 
                                 <div class="col-md-4">
                                     <!-- Card -->
-                                    <div class="card shadow-sm ">
+                                    <div class="card card-sz shadow-sm ">
                                         <img src="https://d1vwxdpzbgdqj.cloudfront.net/s3-public-images/page-banners/home/great-learning-career-academy.png" class="card-img-top" alt="...">
                                         <div class="card-body">
                                             <!--<span class="badge bg-info1 text-light mb-2 fw-normal px-2 py-1">New</span>-->
@@ -228,7 +228,7 @@ include 'head.php';
 
                                 <div class="col-md-4">
                                     <!-- Card -->
-                                    <div class="card shadow-sm">
+                                    <div class="card card-sz shadow-sm">
                                         <img src="https://d1vwxdpzbgdqj.cloudfront.net/s3-public-images/program/NCAI-program.png" class="card-img-top" alt="...">
                                         <div class="card-body">
                                             <!--<span class="badge bg-info11 text-light mb-2 fw-normal px-2 py-1">New</span>-->
@@ -247,7 +247,7 @@ include 'head.php';
 
                                 <div class="col-md-4">
                                     <!-- Card -->
-                                    <div class="card shadow-sm">
+                                    <div class="card card-sz shadow-sm">
                                         <img src="https://d1vwxdpzbgdqj.cloudfront.net/s3-public-images/security-plus-bootcamp.png" class="card-img-top" alt="...">
                                         <div class="card-body">
                                             <!--<span class="badge bg-info1 text-light mb-2 fw-normal px-2 py-1">New</span>-->
@@ -269,11 +269,11 @@ include 'head.php';
 
                                 <div class="col-md-4">
                                     <!-- Card -->
-                                    <div class="card shadow-sm">
+                                    <div class="card card-sz shadow-sm">
                                         <img src="https://d1vwxdpzbgdqj.cloudfront.net/s3-public-images/page-banners/home/great-learning-career-academy.png" class="card-img-top" alt="...">
                                         <div class="card-body">
                                             <!--<span class="badge bg-info1 text-light mb-2 fw-normal px-2 py-1">New</span>-->
-                                            <h5 class="mb-2">(BCA Hons.) with Research (AI) </h5>
+                                            <h5>(BCA Hons.) with Research (AI) </h5>
                                         </div>
                                         <div class="card-footer d-flex justify-content-between align-items-center bg-white py-3">
                                             <div>
@@ -287,11 +287,11 @@ include 'head.php';
 
                                 <div class="col-md-4">
                                     <!-- Card -->
-                                    <div class="card shadow-sm">
+                                    <div class="card card-sz shadow-sm">
                                         <img src="https://d1vwxdpzbgdqj.cloudfront.net/s3-public-images/program/NCAI-program.png" class="card-img-top" alt="...">
                                         <div class="card-body">
                                             <!--<span class="badge bg-info1 text-light mb-2 fw-normal px-2 py-1">New</span>-->
-                                            <h5 class="mb-2">B.Sc. Computer Sciences
+                                            <h5>B.Sc. Computer Sciences
                                             </h5>
                                         </div>
                                         <div class="card-footer d-flex justify-content-between align-items-center bg-white py-3">
@@ -306,11 +306,11 @@ include 'head.php';
 
                                 <div class="col-md-4">
                                     <!-- Card -->
-                                    <div class="card shadow-sm">
+                                    <div class="card card-sz shadow-sm">
                                         <img src="https://d1vwxdpzbgdqj.cloudfront.net/s3-public-images/security-plus-bootcamp.png" class="card-img-top" alt="...">
                                         <div class="card-body">
                                             <!--<span class="badge bg-info1 text-light mb-2 fw-normal px-2 py-1">New</span>-->
-                                            <h5 class="mb-2">MCA Software Development</h5>
+                                            <h5>MCA Software Development</h5>
                                         </div>
                                         <div class="card-footer d-flex justify-content-between align-items-center bg-white py-3">
                                             <div>
@@ -338,11 +338,11 @@ include 'head.php';
 
                                 <div class="col-md-4">
                                     <!-- Card -->
-                                    <div class="card shadow-sm">
+                                    <div class="card card-sz shadow-sm">
                                         <img src="https://images.unsplash.com/photo-1537462715879-360eeb61a0ad?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Mnx8bWVjaGFuaWNhbHxlbnwwfHwwfHx8MA%3D%3D&auto=format&fit=crop&w=500&q=60" height="178px" class="card-img-top" alt="...">
                                         <div class="card-body">
                                             <!--<span class="badge bg-info1 text-light mb-2 fw-normal px-2 py-1">New</span>-->
-                                            <h5 class="mb-2">Btech Mechanical Engineering (ME)</h5>
+                                            <h5>Btech Mechanical Engineering (ME)</h5>
                                         </div>
                                         <div class="card-footer d-flex justify-content-between align-items-center bg-white py-3">
                                             <div>
@@ -356,11 +356,11 @@ include 'head.php';
 
                                 <div class="col-md-4">
                                     <!-- Card -->
-                                    <div class="card shadow-sm progcard">
-                                        <img src="https://d1vwxdpzbgdqj.cloudfront.net/s3-public-images/program/mit-data-science-machine-learning-program.jpg" height="178px" class="card-img-top" alt="...">
+                                    <div class="card card-sz shadow-sm progcard">
+                                        <img src="https://images.unsplash.com/photo-1537462715879-360eeb61a0ad?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Mnx8bWVjaGFuaWNhbHxlbnwwfHwwfHx8MA%3D%3D&auto=format&fit=crop&w=500&q=60" height="178px" class="card-img-top" alt="...">
                                         <div class="card-body progcardbody">
                                             <!--<span class="badge bg-info1 text-light mb-2 fw-normal px-2 py-1">New</span>-->
-                                            <h5 class="mb-2">Mtech (Machine learning & Data Sciences)
+                                            <h5>Mtech (Machine learning & Data Sciences)
                                             </h5>
                                         </div>
                                         <div class="card-footer d-flex justify-content-between align-items-center bg-white py-3">
@@ -375,11 +375,11 @@ include 'head.php';
 
                                 <div class="col-md-4">
                                     <!-- Card -->
-                                    <div class="card shadow-sm">
+                                    <div class="card card-sz shadow-sm">
                                         <img src="https://d1vwxdpzbgdqj.cloudfront.net/s3-public-images/security-plus-bootcamp.png" height="178px" class="card-img-top" alt="...">
                                         <div class="card-body">
                                             <!--<span class="badge bg-info1 text-light mb-2 fw-normal px-2 py-1">New</span>-->
-                                            <h5 class="mb-2">Btech Computer Science Engineering (CSE)</h5>
+                                            <h5>Btech Computer Science Engineering (CSE)</h5>
 
                                         </div>
                                         <div class="card-footer d-flex justify-content-between align-items-center bg-white py-3">
@@ -409,11 +409,11 @@ include 'head.php';
 
                                 <div class="col-md-4">
                                     <!-- Card -->
-                                    <div class="card shadow-sm">
+                                    <div class="card card-sz shadow-sm">
                                         <img src="https://d1vwxdpzbgdqj.cloudfront.net/s3-public-images/page-banners/home/great-learning-career-academy.png" height="178px" class="card-img-top" alt="Management  image ">
                                         <div class="card-body progcardbody">
                                             <!--<span class="badge bg-info1 text-light mb-2 fw-normal px-2 py-1">New</span>-->
-                                            <h5 class="mb-2">BBA International Business & Entrepreneurship
+                                            <h5>BBA International Business & Entrepreneurship
                                                 (Collab with UR Services)</h5>
                                         </div>
                                         <div class="card-footer d-flex justify-content-between align-items-center bg-white py-3">
@@ -428,11 +428,11 @@ include 'head.php';
 
                                 <div class="col-md-4">
                                     <!-- Card -->
-                                    <div class="card shadow-sm progcard">
-                                        <img src="https://images.pexels.com/photos/286565/pexels-photo-286565.jpeg?auto=compress&cs=tinysrgb&w=1600" height="178px" class="card-img-top" alt="...">
+                                    <div class="card card-sz shadow-sm progcard">
+                                        <img src="https://d1vwxdpzbgdqj.cloudfront.net/s3-public-images/page-banners/home/great-learning-career-academy.png" height="178px" class="card-img-top" alt="...">
                                         <div class="card-body progcardbody">
                                             <!--<span class="badge bg-info1 text-light mb-2 fw-normal px-2 py-1">New</span>-->
-                                            <h5 class="mb-2">B.Com. (Fintech & Blockchain Technologies with whizack
+                                            <h5>B.Com. (Fintech & Blockchain Technologies with whizack
                                                 Technologies)</h5>
                                         </div>
                                         <div class="card-footer d-flex justify-content-between align-items-center bg-white py-3">
@@ -447,11 +447,10 @@ include 'head.php';
 
                                 <div class="col-md-4">
                                     <!-- Card -->
-                                    <div class="card shadow-sm">
+                                    <div class="card card-sz shadow-sm">
                                         <img src="https://img.freepik.com/free-photo/smiling-business-lady-working-with-colleagues_1262-2153.jpg?size=626&ext=jpg&ga=GA1.1.803129613.1709189418&semt=sph" height="178px">
                                         <div class="card-body progcardbody">
-                                            <span height="178px" class="badge bg-info1 text-light mb-2 fw-normal px-2 py-1">New</span>
-                                            <h5 class="mb-2">MBA Corporate with Global Exposure with Free Tablet
+                                            <h5>MBA Corporate with Global Exposure with Free Tablet
                                             </h5>
                                         </div>
                                         <div class="card-footer d-flex justify-content-between align-items-center bg-white py-3">
@@ -482,11 +481,11 @@ include 'head.php';
 
                                 <div class="col-md-4">
                                     <!-- Card -->
-                                    <div class="card shadow-sm">
+                                    <div class="card card-sz shadow-sm">
                                         <img src="https://images.pexels.com/photos/5668772/pexels-photo-5668772.jpeg?auto=compress&cs=tinysrgb&w=1600" height="178px" class="card-img-top" alt="Law image ">
                                         <div class="card-body progcardbody">
                                             <!--<span class="badge bg-info1 text-light mb-2 fw-normal px-2 py-1">New</span>-->
-                                            <h5 class="mb-2">B.A. - LL.B (Hons.)</h5>
+                                            <h5>B.A. - LL.B (Hons.)</h5>
                                         </div>
                                         <div class="card-footer d-flex justify-content-between align-items-center bg-white py-3">
                                             <div>
@@ -500,11 +499,11 @@ include 'head.php';
 
                                 <div class="col-md-4">
                                     <!-- Card -->
-                                    <div class="card shadow-sm progcard">
+                                    <div class="card card-sz shadow-sm progcard">
                                         <img src="https://thumbs.dreamstime.com/b/compliance-rules-law-regulation-policy-business-technology-concept-compliance-rules-law-regulation-policy-business-technology-112471593.jpg?w=768" height="178px" class="card-img-top" alt="...">
                                         <div class="card-body progcardbody">
                                             <!--<span class="badge bg-info1 text-light mb-2 fw-normal px-2 py-1">New</span>-->
-                                            <h5 class="mb-2">B.B.A - LL.B (Hons.)</h5>
+                                            <h5>B.B.A - LL.B (Hons.)</h5>
                                         </div>
                                         <div class="card-footer d-flex justify-content-between align-items-center bg-white py-3">
                                             <div>
@@ -518,11 +517,11 @@ include 'head.php';
 
                                 <div class="col-md-4">
                                     <!-- Card -->
-                                    <div class="card shadow-sm">
+                                    <div class="card card-sz shadow-sm">
                                         <img src="https://img.freepik.com/free-photo/judges-gavel-book-wooden-table-law-justice-concept-background_1150-9097.jpg?size=626&ext=jpg&ga=GA1.2.718553843.1681214208&semt=ais" height="178px">
                                         <div class="card-body progcardbody">
                                             <!--<span class="badge bg-info1 text-light mb-2 fw-normal px-2 py-1">New</span>-->
-                                            <h5 class="mb-2">B.Com-LL.B (Hons.)</h5>
+                                            <h5>B.Com-LL.B (Hons.)</h5>
                                         </div>
                                         <div class="card-footer d-flex justify-content-between align-items-center bg-white py-3">
                                             <div>
@@ -570,17 +569,14 @@ include 'head.php';
                     <div id="panelsStayOpen-collapseOne" class="accordion-collapse collapse show" aria-labelledby="panelsStayOpen-headingOne">
                         <div class="accordion-body ">
 
-
-
-
-
+        <!-- -------------   Accordian 1 sarts here --------------->
                             <ul class="progul">
                                 <li class="progli">
                                     <div class="card shadow-sm progcard">
                                         <img src="https://d1vwxdpzbgdqj.cloudfront.net/s3-public-images/page-banners/home/great-learning-career-academy.png" class="card-img-top" alt="...">
                                         <div class="card-body progcardbody">
                                             <!--<span class="badge bg-info1 text-light mb-2 fw-normal px-2 py-1">New</span>-->
-                                            <h5 class="mb-2">B.Tech Computer Science & Engineering</h5>
+                                            <h5>B.Tech Computer Science & Engineering</h5>
                                         </div>
                                         <div class="card-footer d-flex justify-content-between align-items-center bg-white py-3">
                                             <div>
@@ -591,14 +587,12 @@ include 'head.php';
                                     </div>
                                 </li>
 
-
                                 <li class="progli">
-
                                     <div class="card shadow-sm progcard">
                                         <img src="https://d1vwxdpzbgdqj.cloudfront.net/s3-public-images/program/NCAI-program.png" class="card-img-top" alt="...">
                                         <div class="card-body progcardbody">
                                             <!--<span class="badge bg-info1 text-light mb-2 fw-normal px-2 py-1">New</span>-->
-                                            <h4 class="mb-2">M.Tech. Artificial Intelligence & Machine Learning
+                                            <h4>M.Tech. Artificial Intelligence & Machine Learning
                                             </h4>
                                         </div>
                                         <div class="card-footer d-flex justify-content-between align-items-center bg-white py-3">
@@ -608,10 +602,7 @@ include 'head.php';
                                                 More</a>
                                         </div>
                                     </div>
-
                                 </li>
-
-
 
                                 <li class="progli">
 
@@ -619,7 +610,7 @@ include 'head.php';
                                         <img src="https://d1vwxdpzbgdqj.cloudfront.net/s3-public-images/security-plus-bootcamp.png" class="card-img-top" alt="...">
                                         <div class="card-body progcardbody">
                                             <!--<span class="badge bg-info1 text-light mb-2 fw-normal px-2 py-1">New</span>-->
-                                            <h4 class="mb-2">BCA Information Security & Cyber Sceurity</h4>
+                                            <h4>BCA Information Security & Cyber Sceurity</h4>
                                         </div>
                                         <div class="card-footer d-flex justify-content-between align-items-center bg-white py-3">
                                             <div>
@@ -628,17 +619,13 @@ include 'head.php';
                                                 More</a>
                                         </div>
                                     </div>
-
                                 </li>
-
                             </ul>
-
                         </div>
                     </div>
                 </div>
-
-                <!-- -------------   Accordian 2 sarts here -------------
-									       -------------------------      -------------------------  -->
+                <!-- -------------   Accordian 1 ends here --------------->
+                <!-- -------------   Accordian 2 sarts here --------------->
                 <div class="accordion-item">
                     <h2 class="accordion-header" id="panelsStayOpen-headingTwo">
                         <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#panelsStayOpen-collapseTwo" aria-expanded="false">
@@ -654,7 +641,7 @@ include 'head.php';
                                         <img src="https://images.unsplash.com/photo-1537462715879-360eeb61a0ad?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Mnx8bWVjaGFuaWNhbHxlbnwwfHwwfHx8MA%3D%3D&auto=format&fit=crop&w=500&q=60" height="178px" class="card-img-top" alt="Engineering image ">
                                         <div class="card-body progcardbody">
                                             <!--<span class="badge bg-info1 text-light mb-2 fw-normal px-2 py-1">New</span>-->
-                                            <h4 class="mb-2">B.Tech. Mechanical Engineering (ME)</h4>
+                                            <h4>B.Tech. Mechanical Engineering (ME)</h4>
                                         </div>
                                         <div class="card-footer d-flex justify-content-between align-items-center bg-white py-3">
                                             <div>
@@ -667,12 +654,11 @@ include 'head.php';
 
 
                                 <li class="progli">
-
                                     <div class="card shadow-sm progcard">
                                         <img src="https://d1vwxdpzbgdqj.cloudfront.net/s3-public-images/program/applications-of-ai-domestic.jpeg" height="178px" class="card-img-top" alt="...">
                                         <div class="card-body progcardbody">
                                             <!--<span class="badge bg-info1 text-light mb-2 fw-normal px-2 py-1">New</span>-->
-                                            <h4 class="mb-2">Mtech (Machine learning & Data Sciences)
+                                            <h4>Mtech (Machine learning & Data Sciences)
                                             </h4>
                                         </div>
                                         <div class="card-footer d-flex justify-content-between align-items-center bg-white py-3">
@@ -682,10 +668,7 @@ include 'head.php';
                                                 More</a>
                                         </div>
                                     </div>
-
                                 </li>
-
-
 
                                 <li class="progli">
 
@@ -693,7 +676,7 @@ include 'head.php';
                                         <img src="https://e1.pxfuel.com/desktop-wallpaper/775/611/desktop-wallpaper-ece-study-materials-and-projects-ebooks-campus-preparations-ece-engineering-thumbnail.jpg" height="178px">
                                         <div class="card-body progcardbody">
                                             <!--<span class="badge bg-info1 text-light mb-2 fw-normal px-2 py-1">New</span>-->
-                                            <h4 class="mb-2">Btech Computer Science Engineering</h4>
+                                            <h4>Btech Computer Science Engineering</h4>
                                         </div>
                                         <div class="card-footer d-flex justify-content-between align-items-center bg-white py-3">
                                             <div>
@@ -709,15 +692,8 @@ include 'head.php';
                         </div>
                     </div>
                 </div>
-
-
-                <!-- -------------   Accordian 2 Ends here -------------
-									       -------------------------      -------------------------  -->
-
-
-
-                <!-- -------------   Accordian 3 sarts here -------------
-							-------------------------      -------------------------  -->
+                <!-- -------------   Accordian 2 Ends here --------------->
+                <!-- -------------   Accordian 3 sarts here --------------->
                 <div class="accordion-item">
                     <h2 class="accordion-header" id="panelsStayOpen-headingThree">
                         <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#panelsStayOpen-collapseThree" aria-expanded="false">
@@ -732,7 +708,7 @@ include 'head.php';
                                         <img src="https://d1vwxdpzbgdqj.cloudfront.net/s3-public-images/page-banners/home/great-learning-career-academy.png" height="178px" class="card-img-top" alt="Management  image ">
                                         <div class="card-body progcardbody">
                                             <!--<span class="badge bg-info1 text-light mb-2 fw-normal px-2 py-1">New</span>-->
-                                            <h4 class="mb-2">BBA International Business & Entrepreneurship
+                                            <h4>BBA International Business & Entrepreneurship
                                                 (Collab with UR Services)</h4>
                                         </div>
                                         <div class="card-footer d-flex justify-content-between align-items-center bg-white py-3">
@@ -751,7 +727,7 @@ include 'head.php';
                                         <img src="https://images.pexels.com/photos/286565/pexels-photo-286565.jpeg?auto=compress&cs=tinysrgb&w=1600" height="178px" class="card-img-top" alt="...">
                                         <div class="card-body progcardbody">
                                             <!--<span class="badge bg-info1 text-light mb-2 fw-normal px-2 py-1">New</span>-->
-                                            <h4 class="mb-2">B.Com. (Fintech &Blockchain Technologies with whizhack
+                                            <h4>B.Com. (Fintech &Blockchain Technologies with whizhack
                                                 Technologies)</h4>
                                         </div>
                                         <div class="card-footer d-flex justify-content-between align-items-center bg-white py-3">
@@ -772,7 +748,7 @@ include 'head.php';
                                         <img src="https://d1vwxdpzbgdqj.cloudfront.net/s3-public-images/Corporates/esdst-dba.png" height="178px">
                                         <div class="card-body progcardbody">
                                             <!--<span class="badge bg-info1 text-light mb-2 fw-normal px-2 py-1">New</span>-->
-                                            <h4 class="mb-2">MBA Corporate with Global Exposure with Free Tablet
+                                            <h4>MBA Corporate with Global Exposure with Free Tablet
                                             </h4>
                                         </div>
                                         <div class="card-footer d-flex justify-content-between align-items-center bg-white py-3">
@@ -791,11 +767,9 @@ include 'head.php';
                     </div>
                 </div>
 
-                <!-- -------------   Accordian 3 Ends here -------------
-							-------------------------      -------------------------  -->
+                <!---------------   Accordian 3 Ends here --------------->
 
-                <!-- -------------   Accordian 4 Starts here -------------
-							-------------------------      -------------------------  -->
+                <!---------------   Accordian 4 Starts here --------------->
                 <div class="accordion-item">
                     <h2 class="accordion-header" id="panelsStayOpen-headingFour">
                         <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#panelsStayOpen-collapseFour" aria-expanded="false">
@@ -811,7 +785,7 @@ include 'head.php';
                                         <img src="https://images.pexels.com/photos/5668772/pexels-photo-5668772.jpeg?auto=compress&cs=tinysrgb&w=1600" height="178px" class="card-img-top" alt="Law image ">
                                         <div class="card-body progcardbody">
                                             <!--<span class="badge bg-info1 text-light mb-2 fw-normal px-2 py-1">New</span>-->
-                                            <h4 class="mb-2">B.A. - LL.B (Hons.)</h4>
+                                            <h4>B.A. - LL.B (Hons.)</h4>
                                         </div>
                                         <div class="card-footer d-flex justify-content-between align-items-center bg-white py-3">
                                             <div>
@@ -829,7 +803,7 @@ include 'head.php';
                                         <img src="https://thumbs.dreamstime.com/b/compliance-rules-law-regulation-policy-business-technology-concept-compliance-rules-law-regulation-policy-business-technology-112471593.jpg?w=768" height="178px" class="card-img-top" alt="...">
                                         <div class="card-body progcardbody">
                                             <!--<span class="badge bg-info1 text-light mb-2 fw-normal px-2 py-1">New</span>-->
-                                            <h4 class="mb-2">B.B.A - LL.B (Hons.)</h4>
+                                            <h4>B.B.A - LL.B (Hons.)</h4>
                                         </div>
                                         <div class="card-footer d-flex justify-content-between align-items-center bg-white py-3">
                                             <div>
@@ -849,7 +823,7 @@ include 'head.php';
                                         <img src="https://img.freepik.com/free-photo/judges-gavel-book-wooden-table-law-justice-concept-background_1150-9097.jpg?size=626&ext=jpg&ga=GA1.2.718553843.1681214208&semt=ais" height="178px">
                                         <div class="card-body progcardbody">
                                             <!--<span class="badge bg-info1 text-light mb-2 fw-normal px-2 py-1">New</span>-->
-                                            <h4 class="mb-2">B.Com - LL.B (Hons.)</h4>
+                                            <h4>B.Com - LL.B (Hons.)</h4>
                                         </div>
                                         <div class="card-footer d-flex justify-content-between align-items-center bg-white py-3">
                                             <div>
@@ -868,11 +842,9 @@ include 'head.php';
                 </div>
             </div>
         </div>
-        <!-- -------------   Accordian 4 Ends here -------------
-							-------------------------      -------------------------  -->
+        <!---------------   Accordian 4 Ends here -------------->
 
         <!-- Code for the Mobile View Ends Here -->
-
     </div>
 </section>
 <!-----Courses section Start-->
@@ -888,10 +860,6 @@ include 'head.php';
                     <h2 class="tmu-text-primary my-4 mb-5"><span>TMU </span> <span>HIGHLIGHTS</span></h2>
                 </div>
             </div>
-
-
-
-
             <div class="row col-mb-37">
                 <main class="postcontent col-lg-8 col-md-9">
                     <div class="row g-4">
@@ -1171,12 +1139,12 @@ include 'head.php';
                                     <div class="grid-inner row g-0">
                                         <div class="col-auto">
                                             <div class="entry-image">
-                                                <a href="#"><img src="images/events/thumbs/3.jpg" alt="Image"></a>
+                                                <a href="#"><img src="assets/img/blog-thumb/bfa.jpg" alt="Image"></a>
                                             </div>
                                         </div>
                                         <div class="col ps-3">
                                             <div class="entry-title">
-                                                <h4><a href="#">Debitis nihil placeat, illum est nisi</a></h4>
+                                                <h4><a href="#">BFA Course Details, Full Form, Admission, Fees, Syllabus, Top Colleges, Career</a></h4>
                                             </div>
                                             <div class="entry-meta">
                                                 <ul>
@@ -1191,12 +1159,12 @@ include 'head.php';
                                     <div class="grid-inner row g-0">
                                         <div class="col-auto">
                                             <div class="entry-image">
-                                                <a href="#"><img src="images/events/thumbs/1.jpg" alt="Image"></a>
+                                                <a href="#"><img src="assets/img/blog-thumb/bpt.jpg" alt="Image"></a>
                                             </div>
                                         </div>
                                         <div class="col ps-3">
                                             <div class="entry-title">
-                                                <h4><a href="#">Lorem ipsum dolor sit amet, consectetur</a></h4>
+                                                <h4><a href="#">BPT Course Details, Full Form, Admission, Fees, Syllabus, Top Colleges, Career</a></h4>
                                             </div>
                                             <div class="entry-meta">
                                                 <ul>
@@ -1210,53 +1178,12 @@ include 'head.php';
                                     <div class="grid-inner row g-0">
                                         <div class="col-auto">
                                             <div class="entry-image">
-                                                <a href="#"><img src="images/events/thumbs/1.jpg" alt="Image"></a>
+                                                <a href="#"><img src="assets/img/blog-thumb/blog_thumbnail.jpg" alt="Image"></a>
                                             </div>
                                         </div>
                                         <div class="col ps-3">
                                             <div class="entry-title">
-                                                <h4><a href="#">Lorem ipsum dolor sit amet, consectetur</a></h4>
-                                            </div>
-                                            <div class="entry-meta">
-                                                <ul>
-                                                    <li>10th July 2021</li>
-                                                </ul>
-                                            </div>
-                                        </div>
-                                    </div>
-                                </div>
-
-                                <div class="entry col-12">
-                                    <div class="grid-inner row g-0">
-                                        <div class="col-auto">
-                                            <div class="entry-image">
-                                                <a href="#"><img src="images/events/thumbs/2.jpg" alt="Image"></a>
-                                            </div>
-                                        </div>
-                                        <div class="col ps-3">
-                                            <div class="entry-title">
-                                                <h4><a href="#">Elit Assumenda vel amet dolorum quasi</a></h4>
-                                            </div>
-                                            <div class="entry-meta">
-                                                <ul>
-                                                    <li>10th July 2021</li>
-                                                </ul>
-                                            </div>
-                                        </div>
-                                    </div>
-                                </div>
-
-
-                                <div class="entry col-12">
-                                    <div class="grid-inner row g-0">
-                                        <div class="col-auto">
-                                            <div class="entry-image">
-                                                <a href="#"><img src="images/events/thumbs/3.jpg" alt="Image"></a>
-                                            </div>
-                                        </div>
-                                        <div class="col ps-3">
-                                            <div class="entry-title">
-                                                <h4><a href="#">Debitis nihil placeat, illum est nisi</a></h4>
+                                                <h4><a href="#">Top 10 Engineering colleges in india</a></h4>
                                             </div>
                                             <div class="entry-meta">
                                                 <ul>
@@ -1271,12 +1198,12 @@ include 'head.php';
                                     <div class="grid-inner row g-0">
                                         <div class="col-auto">
                                             <div class="entry-image">
-                                                <a href="#"><img src="images/events/thumbs/1.jpg" alt="Image"></a>
+                                                <a href="#"><img src="assets/img/blog-thumb/blog_thumbnail4.jpg" alt="Image"></a>
                                             </div>
                                         </div>
                                         <div class="col ps-3">
                                             <div class="entry-title">
-                                                <h4><a href="#">Lorem ipsum dolor sit amet, consectetur</a></h4>
+                                                <h4><a href="#">Top 100 Universities in india</a></h4>
                                             </div>
                                             <div class="entry-meta">
                                                 <ul>
@@ -1288,9 +1215,25 @@ include 'head.php';
                                 </div>
 
 
-
-
-
+                                <div class="entry col-12">
+                                    <div class="grid-inner row g-0">
+                                        <div class="col-auto">
+                                            <div class="entry-image">
+                                                <a href="#"><img src="assets/img/blog-thumb/llm.jpg" alt="Image"></a>
+                                            </div>
+                                        </div>
+                                        <div class="col ps-3">
+                                            <div class="entry-title">
+                                                <h4><a href="#">LLM Course Details, Full Form, Admission, Syllabus, Top Colleges, Career</a></h4>
+                                            </div>
+                                            <div class="entry-meta">
+                                                <ul>
+                                                    <li>10th July 2021</li>
+                                                </ul>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div>
                             </div>
                         </div>
                     </div>
