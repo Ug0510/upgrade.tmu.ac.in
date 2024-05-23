@@ -18,23 +18,23 @@ include 'head.php';
         include 'sidebar/about_tmu_sidebar.php';
         ?>
 
-        <div class="col-12 col-md-10 mt-3 mt-sm-0 pt-5 py-3 about-us-container">
+        <div class="col-12 col-md-10  mt-sm-0 pt-5 py-3 about-us-container">
           <section>
             <div class="container">
               <div class="row">
-                <h1 class="tmu-text-primary tmu-page-heading"><span>About </span><span >University</span></h1>
+                <h1 class="tmu-text-primary tmu-page-heading mb-0 mb-md-3"><span>About </span><span >University</span></h1>
                 
                 <div class="col-lg-12">
-                  <h4 class="sublime text-justify mt-2" >On National Highway 9, 144 Km from New
+                  <h4 class="sublime text-justify mt-2 px-0 px-lg-5" >On National Highway 9, 144 Km from New
                     Delhi, TMU stands committed to the ideals of Lord Mahaveer - Right Philosophy, Right Knowledge and Right Conduct in all spheres
                     of activity and aspires to be the ultimate destination for world-class education.</h4>
                 </div>
                 <div class="container">
                   <div class="row align-items-center">
-                    <div class="col-md-4">
-                      <a class="grid-item" href="./assets/img/university/about-img.webp" data-lightbox="gallery-item"><img src="images/about-img.jpg" alt="Gallery Thumb 1"></a>
+                    <div class="col-lg-4">
+                      <a class="grid-item" href="./assets/img/university/about-img.webp" data-lightbox="gallery-item"><img src="images/about-img.jpg" class="d-block mx-auto" alt="Gallery Thumb 1"></a>
                     </div>
-                    <div class="col-md-8 mt-2">
+                    <div class="col-lg-8 mt-2">
                       <p class="text-justify fs-14">As a multi-disciplinary varsity, we offer
                         career-oriented programmes
                         at all levels, i.e., UG, PG, and Doctoral degrees across diverse streams <a href="https://www.tmu.ac.in/medical-college-and-research-centre" target="_blank">Medical</a>, <a href="https://www.tmu.ac.in/dental-college-and-research-centre" target="_blank">Dental</a>, <a href="https://www.tmu.ac.in/college-of-pharmacy" target="_blank">Pharmacy</a>, <a href="https://www.tmu.ac.in/college-of-nursing" target="_blank">Nursing</a>, <a href="https://www.tmu.ac.in/college-of-paramedical-sciences" target="_blank">Paramedical Sciences</a>, <a href="https://www.tmu.ac.in/department-of-physiotherapy" target="_blank">Physiotherapy</a>, <a href="https://www.tmu.ac.in/tmimt-college-of-management" target="_blank">Hospital Administration</a>,
@@ -49,7 +49,7 @@ include 'head.php';
                       <p class="text-justify fs-14">Education at TMU is not just about books and
                         classrooms, but also about personality development and honing special skills. We provide an environment conducive to
                         teaching and learning supported by innovative practices. </p>
-                      <p class="text-justify fs-14"> Being a best private university, we have state-of-the-art laboratories and research facilities, well-planned residential space, and an excellent ecosystem for extra-curricular activities.The campus is wi-fi enabled thus uses advanced technology to
+                      <p class="text-justify fs-14 mb-4"> Being a best private university, we have state-of-the-art laboratories and research facilities, well-planned residential space, and an excellent ecosystem for extra-curricular activities.The campus is wi-fi enabled thus uses advanced technology to
                         impart education. Due to the availability of these essential building blocks, TMU is in a unique position to support the development of students in such a way that they gain lifelong learning skills and become competent professionals.</p>
                     </div>
                     <!--<div class="col-md-12">-->
@@ -66,7 +66,7 @@ include 'head.php';
               <div class="row">
                 <div class="col-lg-12">
                   <div class="custom-box">
-                    <h2 style="text-align:center; text-transform:uppercase; color:#fff;">Our Colleges</h2>
+                    <h2 class="text-center text-uppercase text-white mt-4">Our Colleges</h2>
                     <div class="row">
                       <div class="col-lg-6 col-xl-4">
                         <ul class="custom-list" style="font-size: 14px; line-height: 30px; text-wrap:nowrap;">
@@ -110,11 +110,11 @@ include 'head.php';
               <div class="profile-image">
                 <img src="./assets/img/university/suresh_jain_tmu.webp" alt="Profile Image">
               </div>
-              <div class="quote-text">
+              <div class="quote-text mt-4 mt-md-0">
 
                 <h4> <i class="bi bi-quote" style="font-size:50px; color: #737373;"></i>It is my firm belief that harmonious development of the society can be achieved by enlightenment of the individual heart, mind and soul. This has become a prerequisite in today’s fast changing world where material gains have out-placed basic human values.</h4>
 
-                <p>- Shri Suresh Jain</p>
+                <p class="mt-3">- Shri Suresh Jain</p>
                 <p>Chancellor</p>
               </div>
             </div>
@@ -264,7 +264,7 @@ include 'head.php';
           <!-- Key Facts -->
           <section>
             <div class="container mb-3 mt-5 w-100">
-              <h2 class="tmu-text-primary mt-0 text-center"><span>Numbers That </span><span> Define Us</span></h2>
+              <h2 class="tmu-text-primary mt-0 my-md-5 text-center"><span>Numbers That </span><span> Define Us</span></h2>
               <div class="row essential-section">
                 <div class="col-lg-3 col-sm-6 text-center">
                   <i class="fa-solid fa-user-graduate" style="font-size:8vh; color:#001055; margin-top:0.655rem;"></i>
@@ -390,7 +390,7 @@ include 'head.php';
             <div class="container-fluid d-none d-md-block">
 
               <div style="text-align:center; margin-top:2rem;">
-                <h2 class="text-uppercase">Campus Facilities</h2>
+                <h2 class="tmu-text-primary"><span>Campus </span><span>Facilities</span></h2>
                 <p style="text-align:center; padding:0 30px;">Many students at TMU reside in university dormitories, apartments, and townhouses, as well as at the TMU Inn and Conference Center. Additionally, there are Greek houses available for six fraternities and sororities. New students are assured housing at TMU. </p>
               </div>
             </div>
@@ -398,56 +398,56 @@ include 'head.php';
               <div class="row justify-content-center">
                 <div class="col-md-3 text-center">
                   <a href="">
-                    <img class="img-fluid mb-2" src="images/campus_facilities/Hospital_02.JPG" alt="Image">
+                    <img class="img-fluid mb-2" src="./assets/img/university/campus_facilities/Hospital_02.webp" alt="Image">
                   </a>
                   <h4 class="mb-0">Hospital Services</h4>
                   <p>Access to Comprehensive Medical Care</p>
                 </div>
                 <div class="col-md-3 text-center">
                   <a href="#">
-                    <img class="img-fluid mb-2" src="images/campus_facilities/Hostel.jpg" alt="Image">
+                    <img class="img-fluid mb-2" src="./assets/img/university/campus_facilities/Hostel.webp" alt="Image">
                   </a>
                   <h4 class="mb-0">Hostel Accommodation</h4>
                   <p>Comfortable Residency for Students</p>
                 </div>
                 <div class="col-md-3 text-center">
                   <a href="#">
-                    <img class="img-fluid mb-2" src="images/campus_facilities/Faculty_Residences.jpg" alt="Image">
+                    <img class="img-fluid mb-2" src="./assets/img/university/campus_facilities/Faculty_Residences.webp" alt="Image">
                   </a>
                   <h4 class="mb-0">Faculty Residences</h4>
                   <p>Faculty Accommodation Within Campus</p>
                 </div>
                 <div class="col-md-3 text-center">
                   <a href="#">
-                    <img class="img-fluid mb-2" src="images/campus_facilities/Indoor.jpg" alt="Image">
+                    <img class="img-fluid mb-2" src="./assets/img/university/campus_facilities/Indoor.webp" alt="Image">
                   </a>
                   <h4 class="mb-0">Indoor Stadiums</h4>
                   <p>Modern Sports Facilities</p>
                 </div>
                 <div class="col-md-3 text-center">
                   <a href="">
-                    <img class="img-fluid mb-2" src="images/campus_facilities/Gym.JPG" alt="Image">
+                    <img class="img-fluid mb-2" src="./assets/img/university/campus_facilities/Gym.webp" alt="Image">
                   </a>
                   <h4 class="mb-0">Gym Facilities (for Both Girls and Boys)</h4>
                   <p>Fitness Centres and Facilities</p>
                 </div>
                 <div class="col-md-3 text-center">
                   <a href="#">
-                    <img class="img-fluid mb-2" src="images/campus_facilities/Outdoor.jpg" alt="Image">
+                    <img class="img-fluid mb-2" src="./assets/img/university/campus_facilities/Outdoor.webp" alt="Image">
                   </a>
                   <h4 class="mb-0"> Outdoor Stadiums</h4>
                   <p>Modern Sports Facilities</p>
                 </div>
                 <div class="col-md-3 text-center">
                   <a href="#">
-                    <img class="img-fluid mb-2" src="images/campus_facilities/CCTV.jpg" alt="Image">
+                    <img class="img-fluid mb-2" src="./assets/img/university/campus_facilities/CCTV.webp" alt="Image">
                   </a>
                   <h4 class="mb-0">24/7 Surveillance System</h4>
                   <p>Ensuring Safety with more than 3600 Night Vision Cameras</p>
                 </div>
                 <div class="col-md-3 text-center">
                   <a href="#">
-                    <img class="img-fluid mb-2" src="images/campus_facilities/E_lobby.jpg" alt="Image">
+                    <img class="img-fluid mb-2" src="./assets/img/university/campus_facilities/E_lobby.webp" alt="Image">
                   </a>
                   <h4 class="mb-0">E-Lobby (Food Court)</h4>
                   <p>Varied Dining Choices at E-Lobby</p>
@@ -459,8 +459,8 @@ include 'head.php';
           <div class="section bg-transparent my-0 pt-2 pb-4 py-lg-5 d-block d-md-none">
             <div class="container">
               <div style="text-align:center; margin-top:2rem;">
-                <h2 class="text-uppercase">Campus Facilities</h2>
-                <p style="text-align:center; padding:0 30px;">Many students at TMU reside in university dormitories, apartments, and townhouses, as well as at the TMU Inn and Conference Center. Additionally, there are Greek houses available for six fraternities and sororities. New students are assured housing at TMU. </p>
+                <h2 class="tmu-text-primary"><span> Campus </span><span> Facilities</span></h2>
+                <p class="text-justify px-2 px-md-4">Many students at TMU reside in university dormitories, apartments, and townhouses, as well as at the TMU Inn and Conference Center. Additionally, there are Greek houses available for six fraternities and sororities. New students are assured housing at TMU. </p>
               </div>
               <div class="container">
                 <div id="carouselExample" class="carousel carousel-dark slide" data-bs-ride="carousel">
