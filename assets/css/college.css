@@ -204,3 +204,74 @@
     overflow-x: hidden !important;
     padding: 2rem 0;
     }
+
+    /* medical adnission cards start */
+    .medical-container {
+        display: flex;
+        gap: 20px;
+        justify-content: center;
+        align-items: center;
+        height: 20vh;
+        margin: 0;
+    }
+
+    .medical-box {
+        background-color: #e1e3eb;
+        border-radius: 5px;
+        box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+        padding: 20px;
+        text-align: center;
+        width: 35%;
+        border: 1px #001055 solid
+    }
+    
+    .medical-box h3 {
+        color: #001055;
+        margin-bottom: 5px;
+    }
+    
+    .medical-custom-btn {
+        background: linear-gradient(135deg, #ff7900, #ff9900);
+        color: #ffffff;
+        border: 2px solid #ff7900;
+        margin: 10px;
+        padding: 8px 16px;
+        border-radius: 5px;
+        transition: background 0.3s, transform 0.3s, box-shadow 0.3s;
+        font-weight: bold;
+        text-transform: uppercase;
+        text-decoration: none;
+        font-size: 0.6rem;
+        cursor: pointer;
+    }
+    
+    .medical-custom-btn:hover {
+        background: linear-gradient(135deg, #e06e00, #ff7900);
+        transform: scale(1.05);
+        box-shadow: 0 4px 12px rgba(0, 0, 0, 0.2);
+    }
+    
+    .medical-custom-btn:focus {
+        outline: none;
+        box-shadow: 0 0 0 4px rgba(255, 121, 0, 0.5);
+    }
+    
+    @media screen and (max-width: 1300px) {
+        .medical-box {
+            width: 45%;
+            margin-bottom: 30px;
+        }
+    }
+    
+    @media screen and (max-width: 800px) {
+        .medical-container {
+            display: none;
+        }
+    }
+    
+    @media screen and (min-width: 800px) {
+        .medical-hide {
+            display: none;
+        }
+    }
+    /* medical adnission cards start */
