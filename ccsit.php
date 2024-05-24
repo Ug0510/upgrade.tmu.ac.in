@@ -12,19 +12,18 @@ include 'head.php';
         <div class="container-fluid  my-0 px-2">
             <div class="row ps-4">
                 <div class="col-md-6 pt-0 pt-md-4 ps-md-5 mb-4">
-                    <h1 class=" mt-5 mb-5 d-none d-md-block banner-main-heading">Welcome to <span
-                            style="font-weight:700!important;">College Of</span> Computing Sciences & IT (CCSIT)</h1>
+                    <h1 class=" mt-5 mb-5 d-none d-md-block banner-main-heading">Welcome to College Of<span
+                            style="font-weight:700!important;"> Computing Sciences & IT </span>(CCSIT)</h1>
                     <h1 class=" mt-5 mb-3 d-block d-md-none"
                         style="color:#001055; text-transform: capitalize; font-weight:700!important; font-size:24px">
                         Welcome to <span>College Of</span> Computing Sciences & IT (CCSIT)</h1>
-                    <a href="#" class="tmu-btn btn-1 me-4 py-1 px-3 py-xl-2 px-xl-4"> Download Brocher</a>
-                    <a href="#" class="tmu-btn btn-2 py-1 px-3 py-xl-2 px-xl-4">Apply Now</a>
+                        <a href="https://admissions.tmu.ac.in/" class="tmu-btn btn-1 me-md-4 py-1 px-3 py-xl-2 px-xl-5 "> Apply Now</a>
                 </div>
                 <div class="col-12 col-md-6">
                     <div class="pe-lg-4 position-relative p-0">
                         <div style="z-index: 2;">
                             <!-- <iframe width="560" height="315" src="https://www.youtube.com/embed/iXHRmCyHszY?si=BcZ5NOfT-V8ECc6z" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen style="z-index: 2; margin:0;"></iframe> -->
-                            <img src="https://upgrade.tmu.ac.in/assets/image/tmimt-banner.png" alt="" class="p-0 m-0">
+                            <img src="assets/img/banner/ccsit/ccsit-banner.PNG" alt="" class="p-0 m-0">
                         </div>
                     </div>
                 </div>
@@ -38,7 +37,7 @@ include 'head.php';
                         <div class="card-body gap-4 text-tmu-primary under-banner-cards">
                             <span>AA+</span>
                             <br>
-                            <p>Rated Top B-school by <br> Careers360</p>
+                            <h5>Rated Top B-school by <br> Careers360</h5>
                         </div>
                     </div>
                 </div>
@@ -56,7 +55,7 @@ include 'head.php';
                         <div class="card-body gap-4 text-tmu-primary under-banner-cards">
                             <span>5 B-Schools</span>
                             <br>
-                            <span class="d-block pt-1">Among the Top 5 B-Schools in North India</span>
+                            <h5>Among the Top 5 B-Schools in North India<h5>
                         </div>
                     </div>
                 </div>
@@ -65,8 +64,7 @@ include 'head.php';
                         <div class="card-body gap-4 text-tmu-primary under-banner-cards">
                             <span>IACBE</span>
                             <br>
-                            <span class="d-block pt-1">Member of IACBE</span>
-                            &nbsp;&nbsp;
+                            <h5>Member of IACBE<br>&nbsp;</h5>
                         </div>
                     </div>
                 </div>
@@ -297,7 +295,7 @@ include 'head.php';
 
                     <div class="oc-item text-start">
                         <div class="card collab-card">
-                            <img class="collab-card-img" src="https://www.tmu.ac.in/img/collaborative/ur.jpg"
+                            <img class="collab-card-img" src="assets/img/collaboration/3.png"
                                 alt="TMU collaboration with united resourcing">
 
                             <div class="card-body">
@@ -320,7 +318,7 @@ include 'head.php';
 
                     <div class="oc-item text-start">
                         <div class="card collab-card">
-                            <img class="collab-card-img" src="https://www.tmu.ac.in/img/collaborative/whizhacklogo.jpg"
+                            <img class="collab-card-img" src="assets/img/collaboration/2.png"
                                 alt="TMU collaboration with whizhack">
                             <div class="card-body">
                                 <h3 class="collab-card-title">B.Tech (CSE) Applications development using cloud &
@@ -340,7 +338,7 @@ include 'head.php';
                         </div>
                     </div>
 
-                    <div class="oc-item text-start">
+                    <!-- <div class="oc-item text-start">
                         <div class="card collab-card">
                             <img class="collab-card-img" src="https://www.tmu.ac.in/img/collaborative/BSE-India.jpg"
                                 alt="TMU collaboration with BSE india">
@@ -359,31 +357,25 @@ include 'head.php';
                                         class="bi bi-chevron-down ps-2"></i></button>
                             </div>
                         </div>
-                    </div>
+                    </div> -->
 
                     <div class="oc-item text-start">
                         <div class="card collab-card">
-                            <img class="collab-card-img" src="https://www.tmu.ac.in/img/collaborative/safeducate.jpg"
+                            <img class="collab-card-img" src="assets/img/collaboration/1.png"
                                 alt="TMU collaboration with safeducate">
                             <div class="card-body">
-                                <h3 class="collab-card-title">BCA Mobile Applications & Web Technologies Cloud
-                                    Technology & Information Security Data Science</h3>
-                                <p class="collab-card-text">Under this collaborative program, the students are trained
-                                    and taught by trainers
-                                    from i-Nurture. The program is helping students to get trained from the industry
-                                    experts and to gain insight
-                                    into the work culture in the industry acquiring the skills needed for enhancing
-                                    chances of employment.</p>
+                                <h3 class="collab-card-title">M.Sc. In collaboration with Aivancity, France</h3>
+                                <p class="collab-card-text">Under this collaborative program, students are taught by 
+                                    trainers at TMU during the first year and by trainers from Aivancity, France, 
+                                    during the second year.</p>
                                 <button
                                     class="tmu-btn btn-3 py-2 px-3 d-block mx-auto my-0 d-flex align-items-center tmu-fs-14"
-                                    onclick="showCollabModal()">Read More <i
-                                        class="bi bi-chevron-down ps-2"></i></button>
+                                    onclick="showCollabModal()">Read More <i class="bi bi-chevron-down ps-2"></i></button>
                             </div>
                         </div>
                     </div>
                 </div>
             </div>
-
         </div>
 
 
@@ -424,14 +416,13 @@ include 'head.php';
                             <div class="list-group" id="list-tab" role="tablist">
                                 <a class="pgroup list-group-item listream list-group-item-action rounded-3 shadow-sm active"
                                     id="list-home-list" data-bs-toggle="list" href="#list-home" role="tab"
-                                    aria-controls="list-home"><i class="fa-solid fa-computer fa-sm fakash"></i>&nbsp;UG
-                                    Programmes
+                                    aria-controls="list-home"><i class="fa-solid fa-computer fa-sm fakash"></i>&nbsp;Undergraduate
                                     &nbsp;<span class="badge rounded-pill">04</span>
                                 </a>
                                 <a class="list-group-item listream list-group-item-action rounded-3 shadow-sm mt-2"
                                     id="list-profile-list" data-bs-toggle="list" href="#list-profile" role="tab"
                                     aria-controls="list-profile"><i
-                                        class="fa-solid fa-microchip fa-sm fakash"></i>&nbsp;PG Programmes
+                                        class="fa-solid fa-microchip fa-sm fakash"></i>&nbsp;postgraduate
                                     &nbsp;<span class="badge rounded-pill">25</span></a>
                             </div>
                         </div>
@@ -654,8 +645,7 @@ include 'head.php';
                     </div>
 
                     <button class="careers-accordion"><span> <i
-                                class="fa-solid fa-computer fa-sm fakash"></i>&nbsp;&nbsp;Undergraduate
-                            Programmes</span> <span class="icon">+</span></button>
+                                class="fa-solid fa-computer fa-sm fakash"></i>&nbsp;&nbsp;Undergraduate </span> <span class="icon">+</span></button>
                     <div class="panel">
                         <ul class="progul">
                             <li class="progli">
@@ -806,202 +796,235 @@ include 'head.php';
         <!-----Courses section completed-->
 
         <section>
-            <div class="container-xl tmu-testimonial mt-5 mb-3">
-
-                <h2 class="tmu-text-primary my-0 mb-3"> <span>Alumni </span> <span>Testimonial</span></h2>
-
-                <div class="owl-carousel owl-carousel-full image-carousel carousel-widget charity-card"
-                    style="overflow: visible;" data-stage-padding="20" data-margin="50" data-center="true"
-                    data-loop="true" data-nav="true" data-autoplay="200000" data-speed="2000" data-pagi="true"
-                    data-items-xs="1" data-items-sm="2" data-items-md="2" data-items-lg="3" data-items-xl="3">
-
-                    <div class="oc-item text-start">
-                        <div class="media ">
-                            <img src="https://www.tmu.ac.in/monaco/assets/image/testimonials/rashmi_raj_bcom.webp"
-                                class="mr-3" alt="">
-                            <div class="media-body">
-                                <div class="testimonial">
-                                    <p class="overview mb-3"><b>Rashmi Raj</b>, B.Com</p>
-                                    <p>For me TMU wasn't just a place of study, it was where I discovered the artistry
-                                        in
-                                        business. Professors here were mentors who helped me navigate the complexities
-                                        of
-                                        creativity. TMU, to me, isn't just an educational space; it's the place where my
-                                        journey
-                                        in the world of commerce became a fascinating and personal expedition.
-                                    </p>
-                                </div>
-                            </div>
-                            <button class="tmu-btn btn-3 py-2 d-block mx-auto my-0 d-flex align-items-center tmu-fs-14"
-                                onclick="showTestimonialModal()">Read More <i
-                                    class="bi bi-chevron-down ps-2"></i></button>
-
-                        </div>
+        <div class="container-fluid mt-5 ">
+            <h2 class="tmu-text-primary text-center">
+                <span>Our </span><span> Recruiters</span>
+            </h2>
+            <div class="marquee my-5 py-5 pt-4">
+                <section class="marquee-content">
+                    <div class="marquee-block">
+                        <a href="#"><img src="https://www.tmu.ac.in/img/placement/recruiters_logos/our_recuriters/face_academy.png" alt="face academy visit TMU for recruitment"></a>
                     </div>
-
-                    <div class="oc-item text-start">
-                        <div class="media">
-                            <img src="https://www.tmu.ac.in/monaco/assets/image/testimonials/pragati_law.webp"
-                                class="mr-3" alt="">
-                            <div class="media-body">
-                                <div class="testimonial">
-                                    <p class="overview mb-3"><b>Ms. Pragati </b>, BA - LLB</p>
-                                    <p>TMU has been a crucible for nurturing leadership skills, offering a
-                                        transformative
-                                        journey through leadership programmes, mentorship initiatives, and engagement in
-                                        extracurricular activities. The holistic approach at TMU has honed my ability to
-                                        lead
-                                        effectively, and in clearing this exam. The University’s impact on my leadership
-                                        journey
-                                        is evident in the accomplishments of my evolving career.</p>
-                                </div>
-                                <button
-                                    class="tmu-btn btn-3 py-2 d-block mx-auto my-0 d-flex align-items-center tmu-fs-14"
-                                    onclick="showTestimonialModal()">Read More <i
-                                        class="bi bi-chevron-down ps-2"></i></button>
-                            </div>
-                        </div>
+                    <div class="marquee-block">
+                        <a href="#"><img src="https://www.tmu.ac.in/img/placement/recruiters_logos/our_recuriters/Tata%20Motors.png" alt="Tata motors visit TMU for recruitment"></a>
                     </div>
-
-                    <div class="oc-item text-start">
-                        <div class="media">
-                            <img src="https://www.tmu.ac.in/monaco/assets/image/testimonials/abdul_india_mart_mba.webp"
-                                class="mr-3" alt="">
-                            <div class="media-body">
-                                <div class="testimonial">
-                                    <p class="overview mb-3"><b>Abdul Malik Khan</b>, MBA</p>
-                                    <p>TMU, for me, is not just an MBA destination, it's the crucible where my
-                                        leadership
-                                        skills
-                                        were forged. Beyond textbooks and case studies, TMU offered a dynamic learning
-                                        environment where theories met practical challenges. It's a journey where I
-                                        honed
-                                        the
-                                        skills that set me apart in the dynamic landscape of business and management.
-                                    </p>
-                                </div>
-                                <button
-                                    class="tmu-btn btn-3 py-2 d-block mx-auto my-0 d-flex align-items-center tmu-fs-14"
-                                    onclick="showTestimonialModal()">Read More <i
-                                        class="bi bi-chevron-down ps-2"></i></button>
-                            </div>
-                        </div>
+                    <div class="marquee-block">
+                        <a href="#"><img src="https://www.tmu.ac.in/img/placement/recruiters_logos/our_recuriters/Cetpa.png" alt="cetpa visit TMU for recruitment"></a>
                     </div>
-
-                    <div class="oc-item text-start">
-                        <div class="media">
-                            <img src="https://www.tmu.ac.in/monaco/assets/image/testimonials/shaily_jain_mca.webp"
-                                class="mr-3" alt="">
-                            <div class="media-body">
-                                <div class="testimonial">
-                                    <p class="overview mb-3"><b>Shaily Jain</b>, MCA</p>
-                                    <p>TMU has been instrumental in facilitating life-changing career connections that
-                                        have
-                                        had
-                                        a profound impact on my professional journey. The relationships built with
-                                        faculty,
-                                        alumni, and industry professionals have played a pivotal role in my career
-                                        progression.
-                                        The supportive and enduring network cultivated at TMU continues to be a
-                                        cornerstone
-                                        of
-                                        my ongoing success.</p>
-                                </div>
-                                <button
-                                    class="tmu-btn btn-3 py-2 d-block mx-auto my-0 d-flex align-items-center tmu-fs-14"
-                                    onclick="showTestimonialModal()">Read More <i
-                                        class="bi bi-chevron-down ps-2"></i></button>
-                            </div>
-                        </div>
+                    <div class="marquee-block">
+                        <a href="#"><img src="https://www.tmu.ac.in/img/placement/recruiters_logos/our_recuriters/Tosha%20International.png" alt="tosha inernational visit TMU for recruitment"></a>
                     </div>
-
-                    <div class="oc-item text-start">
-                        <div class="media">
-                            <img src="https://www.tmu.ac.in/monaco/assets/image/testimonials/nikita_shah_bcom.webp"
-                                class="mr-3" alt="">
-                            <div class="media-body">
-                                <div class="testimonial">
-                                    <p class="overview mb-3"><b>Nikita Shah</b>, B.Com(H)</p>
-                                    <p>TMU is more than a university to me—it's the heartbeat of my career journey. The
-                                        professors, like mentors and friends, guided me through real-world challenges.
-                                        Today, as
-                                        I navigate my field with confidence, I owe my success to the practical wisdom
-                                        TMU
-                                        instilled in me.
-                                    </p>
-                                </div>
-                                <button
-                                    class="tmu-btn btn-3 py-2 d-block mx-auto my-0 d-flex align-items-center tmu-fs-14"
-                                    onclick="showTestimonialModal()">Read More <i
-                                        class="bi bi-chevron-down ps-2"></i></button>
-                            </div>
-                        </div>
+                    <div class="marquee-block">
+                        <a href="#"><img src="https://www.tmu.ac.in/img/placement/recruiters_logos/our_recuriters/tci.png" alt="TCI visit TMU for recruitment"></a>
                     </div>
-                    <div class="oc-item text-start">
-                        <div class="media">
-                            <img src="https://www.tmu.ac.in/monaco/assets/image/testimonials/shruti_jain_btech_cse.webp"
-                                class="mr-3" alt="">
-                            <div class="media-body">
-                                <div class="testimonial">
-                                    <p class="overview mb-3"><b>Shruti Jain</b>, B.Tech CSE</p>
-                                    <p>TMU focuses on developing industry-ready skills. The practical approach to
-                                        learning,
-                                        coupled with exposure to real-world scenarios, enabled me to seamlessly
-                                        transition
-                                        into
-                                        my career. TMU's impact on my professional journey is undeniable. I am thankful
-                                        for
-                                        the
-                                        holistic education and support I received here.</p>
-                                </div>
-                                <button
-                                    class="tmu-btn btn-3 py-2 d-block mx-auto my-0 d-flex align-items-center tmu-fs-14"
-                                    onclick="showTestimonialModal()">Read More <i
-                                        class="bi bi-chevron-down ps-2"></i></button>
-                            </div>
-                        </div>
+                    <div class="marquee-block">
+                        <a href="#"><img src="https://www.tmu.ac.in/img/placement/recruiters_logos/our_recuriters/wipro.png" alt="Wipro visit TMU for recruitment"></a>
                     </div>
-
-                </div>
-
+                    <div class="marquee-block">
+                        <a href="#"><img src="https://www.tmu.ac.in/img/placement/recruiters_logos/our_recuriters/torrent_gas.png" alt="Torrent gas visit TMU for recruitment"></a>
+                    </div>
+                    <div class="marquee-block">
+                        <a href="#"><img src="https://www.tmu.ac.in/img/placement/recruiters_logos/our_recuriters/munjal_auto.png" alt="munjal auto visit TMU for recruitment"></a>
+                    </div>
+                    <div class="marquee-block">
+                        <a href="#"><img src="https://www.tmu.ac.in/img/placement/recruiters_logos/our_recuriters/smart_brain.png" alt="smart brain visit TMU for recruitment"></a>
+                    </div>
+                    <div class="marquee-block">
+                        <a href="#"><img src="https://www.tmu.ac.in/img/placement/recruiters_logos/our_recuriters/infosys.png" alt="infosys visit TMU for recruitment"></a>
+                    </div>
+                    <div class="marquee-block">
+                        <a href="#"><img src="https://www.tmu.ac.in/img/placement/recruiters_logos/our_recuriters/ford-logo.png" alt="ford visit TMU for recruitment"></a>
+                    </div>
+                    <div class="marquee-block">
+                        <a href="#"><img src="https://www.tmu.ac.in/img/placement/recruiters_logos/our_recuriters/tech_mahindra.png" alt="tech mahindra visit TMU for recruitment"></a>
+                    </div>
+                </section>
+                <section class="marquee-content">
+                    <div class="marquee-block">
+                        <a href="#"><img src="https://www.tmu.ac.in/img/placement/recruiters_logos/our_recuriters/face_academy.png" alt="face academy visit TMU for recruitment"></a>
+                    </div>
+                    <div class="marquee-block">
+                        <a href="#"><img src="https://www.tmu.ac.in/img/placement/recruiters_logos/our_recuriters/Tata%20Motors.png" alt="Tata motors visit TMU for recruitment"></a>
+                    </div>
+                    <div class="marquee-block">
+                        <a href="#"><img src="https://www.tmu.ac.in/img/placement/recruiters_logos/our_recuriters/Cetpa.png" alt="cetpa visit TMU for recruitment"></a>
+                    </div>
+                    <div class="marquee-block">
+                        <a href="#"><img src="https://www.tmu.ac.in/img/placement/recruiters_logos/our_recuriters/Tosha%20International.png" alt="tosha inernational visit TMU for recruitment"></a>
+                    </div>
+                    <div class="marquee-block">
+                        <a href="#"><img src="https://www.tmu.ac.in/img/placement/recruiters_logos/our_recuriters/tci.png" alt="TCI visit TMU for recruitment"></a>
+                    </div>
+                    <div class="marquee-block">
+                        <a href="#"><img src="https://www.tmu.ac.in/img/placement/recruiters_logos/our_recuriters/wipro.png" alt="Wipro visit TMU for recruitment"></a>
+                    </div>
+                    <div class="marquee-block">
+                        <a href="#"><img src="https://www.tmu.ac.in/img/placement/recruiters_logos/our_recuriters/torrent_gas.png" alt="Torrent gas visit TMU for recruitment"></a>
+                    </div>
+                    <div class="marquee-block">
+                        <a href="#"><img src="https://www.tmu.ac.in/img/placement/recruiters_logos/our_recuriters/munjal_auto.png" alt="munjal auto visit TMU for recruitment"></a>
+                    </div>
+                    <div class="marquee-block">
+                        <a href="#"><img src="https://www.tmu.ac.in/img/placement/recruiters_logos/our_recuriters/smart_brain.png" alt="smart brain visit TMU for recruitment"></a>
+                    </div>
+                    <div class="marquee-block">
+                        <a href="#"><img src="https://www.tmu.ac.in/img/placement/recruiters_logos/our_recuriters/infosys.png" alt="infosys visit TMU for recruitment"></a>
+                    </div>
+                    <div class="marquee-block">
+                        <a href="#"><img src="https://www.tmu.ac.in/img/placement/recruiters_logos/our_recuriters/ford-logo.png" alt="ford visit TMU for recruitment"></a>
+                    </div>
+                    <div class="marquee-block">
+                        <a href="#"><img src="https://www.tmu.ac.in/img/placement/recruiters_logos/our_recuriters/tech_mahindra.png" alt="tech mahindra visit TMU for recruitment"></a>
+                    </div>
+                </section>
             </div>
-        </section>
+        </div>
+    </section>
 
-        <!-- Testimonial Modal -->
-        <div id="testimonialModal" class="tmu-modal">
-            <div class="overlay" onclick="closeTestimonialModal()"></div>
-            <div class="tmu-modal-box">
-                <div class="close-btn" onclick="closeTestimonialModal()">x</div>
-                <div class="tmu-testimonial bg-light">
-                    <div class="media">
-                        <img src="https://www.tmu.ac.in/monaco/assets/image/testimonials/abdul_india_mart_mba.webp"
-                            class="mr-3" alt="">
+    <!-- Section for recruiter end -->
+
+
+
+    <section>
+        <div class="container-xl tmu-testimonial mt-5 mb-3">
+
+            <h2 class="tmu-text-primary my-0 mb-3"> <span>Testimonial</span></h2>
+
+            <div class="owl-carousel owl-carousel-full image-carousel carousel-widget charity-card" style="overflow: visible;" data-stage-padding="20" data-margin="50" data-center="true" data-loop="true" data-nav="true" data-autoplay="200000" data-speed="2000" data-pagi="true" data-items-xs="1" data-items-sm="2" data-items-md="2" data-items-lg="3" data-items-xl="3">
+
+                <div class="oc-item text-start">
+                    <div class="media ">
+                        <img src="https://www.tmu.ac.in/monaco/assets/image/testimonials/rashmi_raj_bcom.webp" class="mr-3" alt="">
                         <div class="media-body">
                             <div class="testimonial">
-                                <p class="overview mb-3 testimonial-user-name"><b>Abdul Malik Khan</b>, MBA</p>
-                                <p class="testimonial-content">TMU, for me, is not just an MBA destination, it's the
-                                    crucible where my leadership skills
-                                    were forged. Beyond textbooks and case studies, TMU offered a dynamic learning
-                                    environment where theories met practical challenges. It's a journey where I honed
-                                    the
-                                    skills that set me apart in the dynamic landscape of business and management.
+                                <p class="overview mb-3 fs-14"><b class="fs-16">Rashmi Raj</b> <br>B.Com (2020 - 2024), <br> Data Engineer at Aventra Group
+                                    <br>
+                                    <span>
+                                        <a href="https://www.linkedin.com/in/udit-gupta-ug0510/" class=" px-2 py-1 linkedin-text">Linkedin <i class="bi bi-linkedin"></i></a>
+                                    </span>
+                                </p>
+                                <p>For me TMU wasn't just a place of study, it was where I discovered the artistry in
+                                    business. Professors here were mentors who helped me navigate the complexities of
+                                    creativity. TMU, to me, isn't just an educational space; it's the place where my journey
+                                    in the world of commerce became a fascinating and personal expedition.
                                 </p>
                             </div>
+                        </div>
+                        <div class="mx-auto my-0 d-flex align-items-center tmu-fs-14">
+                            <button class="tmu-btn btn-3 py-2 d-block pe-3 " onclick="showTestimonialModal()">Read More <i class="bi bi-chevron-down"></i></button>
+                        </div>
+
+
+                    </div>
+                </div>
+                <div class="oc-item text-start">
+                    <div class="media ">
+                        <img src="https://www.tmu.ac.in/monaco/assets/image/testimonials/rashmi_raj_bcom.webp" class="mr-3" alt="">
+                        <div class="media-body">
+                            <div class="testimonial">
+                                <p class="overview mb-3 fs-14"><b class="fs-16">Rashmi Raj</b> <br>B.Com (2020 - 2024), <br> Data Engineer at Aventra Group <br>
+                                    <span>
+                                        <a href="https://www.linkedin.com/in/udit-gupta-ug0510/" class=" px-2 py-1 linkedin-text">Linkedin <i class="bi bi-linkedin"></i></a>
+                                    </span>
+                                </p>
+                                <p>For me TMU wasn't just a place of study, it was where I discovered the artistry in
+                                    business. Professors here were mentors who helped me navigate the complexities of
+                                    creativity. TMU, to me, isn't just an educational space; it's the place where my journey
+                                    in the world of commerce became a fascinating and personal expedition.
+                                </p>
+                            </div>
+                        </div>
+                        <div class="mx-auto my-0 d-flex align-items-center tmu-fs-14">
+                            <button class="tmu-btn btn-3 py-2 d-block pe-3 " onclick="showTestimonialModal()">Read More <i class="bi bi-chevron-down"></i></button>
+                        </div>
+
+
+                    </div>
+                </div>
+                <div class="oc-item text-start">
+                    <div class="media ">
+                        <img src="https://www.tmu.ac.in/monaco/assets/image/testimonials/rashmi_raj_bcom.webp" class="mr-3" alt="">
+                        <div class="media-body">
+                            <div class="testimonial">
+                                <p class="overview mb-3 fs-14"><b class="fs-16">Rashmi Raj</b> <br>B.Com (2020 - 2024), <br> Data Engineer at Aventra Group <br>
+                                    <span>
+                                        <a href="https://www.linkedin.com/in/udit-gupta-ug0510/" class=" px-2 py-1 linkedin-text">Linkedin <i class="bi bi-linkedin"></i></a>
+                                    </span>
+                                </p>
+                                <p>For me TMU wasn't just a place of study, it was where I discovered the artistry in
+                                    business. Professors here were mentors who helped me navigate the complexities of
+                                    creativity. TMU, to me, isn't just an educational space; it's the place where my journey
+                                    in the world of commerce became a fascinating and personal expedition.
+                                </p>
+                            </div>
+                        </div>
+                        <div class="mx-auto my-0 d-flex align-items-center tmu-fs-14">
+                            <button class="tmu-btn btn-3 py-2 d-block pe-3 " onclick="showTestimonialModal()">Read More <i class="bi bi-chevron-down"></i></button>
+                        </div>
+
+
+                    </div>
+                </div>
+                <div class="oc-item text-start">
+                    <div class="media ">
+                        <img src="https://www.tmu.ac.in/monaco/assets/image/testimonials/rashmi_raj_bcom.webp" class="mr-3" alt="">
+                        <div class="media-body">
+                            <div class="testimonial">
+                                <p class="overview mb-3 fs-14"><b class="fs-16">Rashmi Raj</b> <br>B.Com (2020 - 2024), <br> Data Engineer at Aventra Group <br>
+                                    <span>
+                                        <a href="https://www.linkedin.com/in/udit-gupta-ug0510/" class=" px-2 py-1 linkedin-text">Linkedin <i class="bi bi-linkedin"></i></a>
+                                    </span>
+                                </p>
+                                <p>For me TMU wasn't just a place of study, it was where I discovered the artistry in
+                                    business. Professors here were mentors who helped me navigate the complexities of
+                                    creativity. TMU, to me, isn't just an educational space; it's the place where my journey
+                                    in the world of commerce became a fascinating and personal expedition.
+                                </p>
+                            </div>
+                        </div>
+                        <div class="mx-auto my-0 d-flex align-items-center tmu-fs-14">
+                            <button class="tmu-btn btn-3 py-2 d-block pe-3 " onclick="showTestimonialModal()">Read More <i class="bi bi-chevron-down"></i></button>
+                        </div>
+
+
+                    </div>
+                </div>
+            </div>
+
+        </div>
+        <br>
+        <br>
+    </section>
+
+    <!-- Testimonial Modal -->
+    <div id="testimonialModal" class="tmu-modal">
+        <div class="overlay" onclick="closeTestimonialModal()"></div>
+        <div class="tmu-modal-box">
+            <div class="close-btn" onclick="closeTestimonialModal()">x</div>
+            <div class="tmu-testimonial bg-light">
+
+                <div class="media ">
+                    <img src="https://www.tmu.ac.in/monaco/assets/image/testimonials/abdul_india_mart_mba.webp" class="mr-3" alt="">
+                    <div class="media-body">
+                        <div class="testimonial">
+                            <p class="overview mb-3 testimonial-user-name"><b>Abdul Malik Khan</b>, MBA
+                            </p>
+                            <p class="testimonial-content">TMU, for me, is not just an MBA destination, it's the crucible where my leadership skills
+                                were forged. Beyond textbooks and case studies, TMU offered a dynamic learning
+                                environment where theories met practical challenges. It's a journey where I honed the
+                                skills that set me apart in the dynamic landscape of business and management.
+                            </p>
                         </div>
                     </div>
                 </div>
             </div>
         </div>
+    </div>
 
-
-
-
-
-
+</section><!-- #content end -->
 
 
         <div class="container mb-5 mt-5">
-            <h2 Class="h2-line" style="font-weight: 800;">FAQ</h2>
             <hr class="horizontal-line">
 
             <button class="careers-accordion">Why Teerthanker Mahaveer University is the best choice for you:<span class="icon">+</span></button>

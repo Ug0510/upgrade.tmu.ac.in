@@ -1,9 +1,6 @@
 <?php
  include 'head.php';
 ?>
-<style>
-
-</style>
 
 <!-- Document Wrapper
 	============================================= -->
