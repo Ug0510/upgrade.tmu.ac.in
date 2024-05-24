@@ -12,7 +12,7 @@ include 'head.php';
         <div class="container-fluid  my-0 px-2">
             <div class="row ps-4">
                 <div class="col-md-6 pt-0 pt-md-4 ps-md-5 mb-4 ">
-                    <h1 class=" mt-5 mb-5 d-none d-md-block  banner-main-heading">Welcome to the <br> <span style="font-weight:700!important;">Best Engineering</span> College in UP</h1>
+                    <h1 class=" mt-5 mb-5 d-none d-md-block  banner-main-heading">Welcome to <br> <span style="font-weight:700!important;">the Faculty of </span> Engineering</h1>
                     <h1 class=" mt-5 mb-3 d-block d-md-none" style="color:#001055; text-transform: capitalize; font-weight:700!important; font-size:24px">Welcome to the <span>Best Engineering</span> College in UP,</h1>
                     <a href="https://admissions.tmu.ac.in/" class="tmu-btn btn-1 me-md-4 py-1 px-3 py-xl-2 px-xl-5 "> Apply Now</a>
                     <!-- <a href="#" class="tmu-btn btn-2 py-1 px-3 py-xl-2 px-xl-4">Apply Now</a> -->
@@ -70,7 +70,7 @@ include 'head.php';
             </div>
         </div>
 
-        <div class="owl-carousel owl-carousel-full image-carousel carousel-widget charity-card my-3 under-banner-cards-carousel d-block d-lg-none"  data-stage-padding="20" data-margin="10" data-center="true" data-loop="true" data-nav="true" data-autoplay="2000" data-speed="2000" data-pagi="true" data-items-xs="1" data-items-sm="2" data-items-md="2" data-items-lg="4" data-items-xl="4">
+        <div class="owl-carousel owl-carousel-full image-carousel carousel-widget charity-card my-3 under-banner-cards-carousel d-block d-lg-none" data-stage-padding="20" data-margin="10" data-center="true" data-loop="true" data-nav="true" data-autoplay="2000" data-speed="2000" data-pagi="true" data-items-xs="1" data-items-sm="2" data-items-md="2" data-items-lg="4" data-items-xl="4">
 
             <div class="oc-item text-start">
                 <div class="card text-center py-3 rounded-0 fw-semibold text-uppercase ls-1">
@@ -92,21 +92,21 @@ include 'head.php';
             </div>
             <div class="oc-item text-start">
                 <div class="card text-center py-3 rounded-0 fw-semibold text-uppercase ls-1">
-                        <div class="card-body gap-4 text-tmu-primary under-banner-cards">
-                            <span>82% </span>
-                            <br>
-                            <span class="d-block pt-1 text-wrap">Placement Rate</span>
-                        </div>
+                    <div class="card-body gap-4 text-tmu-primary under-banner-cards">
+                        <span>82% </span>
+                        <br>
+                        <span class="d-block pt-1 text-wrap">Placement Rate</span>
                     </div>
                 </div>
+            </div>
             <div class="oc-item text-start">
-            <div class="card text-center py-3 rounded-0 fw-semibold text-uppercase ls-1">
-                        <div class="card-body gap-4 text-tmu-primary under-banner-cards">
-                            <span>CRC</span>
-                            <br>
-                            <span class="d-block pt-1 text-wrap">Dedicated Placement Cell</span>
-                        </div>
+                <div class="card text-center py-3 rounded-0 fw-semibold text-uppercase ls-1">
+                    <div class="card-body gap-4 text-tmu-primary under-banner-cards">
+                        <span>CRC</span>
+                        <br>
+                        <span class="d-block pt-1 text-wrap">Dedicated Placement Cell</span>
                     </div>
+                </div>
             </div>
         </div>
 
@@ -1358,6 +1358,148 @@ include 'head.php';
             </div>
         </div>
     </div>
+
+
+    <section>
+            <div class="container hh1 mb-5">
+                <h2 Class="tmu-text-primary text-center"><span> Frequently Asked </span><span> Questions</span></h2>
+                <div class="row">
+                    <div class="col-md-12">
+                        <div class="card-body">
+                            <hr class="horizontal-line">
+                            <button class="careers-accordion"> Faculty of Engineering, among the top colleges in India for Engineering<span class="icon">+</span></button>
+                            <div class="panel active">
+                                <p class="mb-2 lh-base">Welcome to the Faculty of Engineering (FOE) - where brilliance meets innovation. As an AICTE-approved institute, we nurture bright minds in Engineering, Technology, and Sciences. Our B.Tech CS&E programme is accredited (tier-1 category) by the National Board of Accreditation (NBA). 100% Placement assistance, and Global</p>
+                            </div>
+                            <hr class="horizontal-line">
+
+                            <button class="careers-accordion"> Why TMU is the Best Choice for You <span class="icon">+</span></button>
+                            <div class="panel">
+                                <h3 class="tmu-text-primary mb-1 fs-16"><span>🏆 UGC-Approved with </span><span> NAAC-A Accreditation</span></h3>
+                                <p class="mb-2">TMU’s Faculty of Engineering is recognised for its high academic standards, ensuring you receive a quality education that meets global benchmarks.</p>
+                                <h3 class="tmu-text-primary mb-1 fs-16"><span> 👩‍🏫 Experiential Learning by </span><span> Highly Qualified Faculties </span></h3>
+                                <p class="mb-2">Our expert faculty members are dedicated to providing hands-on practical knowledge through innovative teaching methods, extensive research opportunities, and industry collaborations.</p>
+                                <h3 class="tmu-text-primary mb-1 fs-16"><span>🌐 Strong Industry </span><span> Connections</span></h3>
+                                <p class="mb-2">We have established partnerships with top companies like Tata Consultancy Services (TCS), Larsen & Toubro (L&T), Bosch, and many more. These connections ensure excellent placement opportunities and real-world exposure for our students.</p>
+                                <h3 class="tmu-text-primary mb-1 fs-16"><span>💼 100% Placement </span><span> Assistance </span></h3>
+                                <p class="mb-2">With an outstanding track record, we provide comprehensive placement support through our dedicated Corporate Resource Centre (CRC), helping you secure your dream job in top-tier companies.</p>
+                                <h3 class="tmu-text-primary mb-1 fs-16"><span>📚 Academic </span><span> Collaborations </span></h3>
+                                <p class="mb-2">Collaborate with prestigious institutions like IIT Kharagpur and benefit from academic partnerships with Extramarks, which enhance your learning experience with world-class resources and cutting-edge technologies.</p>
+                                <h3 class="tmu-text-primary mb-1 fs-16"><span>🏠 On-Campus </span><span> Hostel Facilities</span></h3>
+                                <p class="mb-2">Enjoy comfortable and secure accommodation within the campus, making your stay convenient and fostering a conducive learning environment.</p>
+                                <h3 class="tmu-text-primary mb-1 fs-16"><span>💰 Scholarship </span><span> Assistance</span></h3>
+                                <p class="mb-2">We offer 100% scholarship assistance to help you achieve your academic goals without financial worries, ensuring that your focus remains on your education and personal development.</p>
+                            </div>
+                            <hr class="horizontal-line">
+                            <button class="careers-accordion"> Top Programmes Offered with Diverse Specialisations <span class="icon">+</span></button>
+                            <div class="panel">
+                                <ul class="m-ol-list ps-4 mb-1">
+                                    <li>Polytechnic</li>
+                                    <li>B.Tech</li>
+                                    <li>M.Tech</li>
+                                    <li>Ph.D.</li>
+                                </ul>
+                            </div>
+                            <hr class="horizontal-line">
+                            <button class="careers-accordion">The Essence of Our Campus <span class="icon">+</span></button>
+                            <div class="panel">
+                                <h3 class="tmu-text-primary mb-1 fs-16"><span> Modern Classrooms and </span><span> Engineering Labs </span></h3>
+                                <p class="mb-2">Our state-of-the-art facilities provide interactive and practical learning experiences, equipped with advanced technology and resources to support your academic journey.</p>
+                                <h3 class="tmu-text-primary mb-1 fs-16"><span>Engineering Clubs and </span><span> Sports Championships</span></h3>
+                                <p class="mb-2">Engage in various engineering clubs and sports activities to enhance your overall development, leadership skills, and teamwork abilities</p>
+                                <h3 class="tmu-text-primary mb-1 fs-16"><span> Fitness Centre, Cafeterias, and </span><span> Shopping Stores</span></h3>
+                                <p class="mb-2">Comprehensive amenities are available to cater to your lifestyle and well-being, ensuring a balanced and fulfilling campus life.</p>
+                                <h3 class="tmu-text-primary mb-1 fs-16"><span> Engineering Events, Tech Fests, and </span><span>Workshops</span></h3>
+                                <p class="mb-2">Participate in events that foster innovation and creativity, such as tech fests, workshops, and seminars led by industry experts and academic leaders.</p>
+                            </div>
+                            <hr class="horizontal-line">
+                            <button class="careers-accordion">Explore Top-Notch Placement Opportunities<span class="icon">+</span></button>
+                            <div class="panel">
+                                <h3 class="tmu-text-primary mb-1 fs-16"><span>Global Career </span><span> Prospects</span></h3>
+                                <p class="mb-2">Our strong industry connections and international collaborations open doors to global internships and placement opportunities, providing you with a competitive edge in the job market.</p>
+                                <h3 class="tmu-text-primary mb-1 fs-16"><span>Industry Collaborations and </span><span>Real-World Exposure</span></h3>
+                                <p class="mb-2">Gain invaluable insights through our industry affiliations with leading organisations, which offer opportunities for internships, live projects, and collaborative research</p>
+                                <h3 class="tmu-text-primary mb-1 fs-16"><span>Dedicated Corporate </span><span> Resource Centre (CRC)</span></h3>
+                                <p class="mb-2">Our CRC works tirelessly to generate placements and training opportunities throughout the year, ensuring you are well-prepared for your career and have access to top employers.</p>
+                                <h3 class="tmu-text-primary mb-1 fs-16"><span> Remarkable Placement</span><span>Record</span></h3>
+                                <p class="mb-2">With an 89% placement track record, we take pride in our exceptional placement services, striving to assist all our students in securing the best available jobs in their respective fields.</p>
+
+                            </div>
+                            <hr class="horizontal-line">
+                            <button class="careers-accordion">What Sets TMU Apart?<span class="icon">+</span></button>
+                            <div class="panel">
+                                <ul class="m-ol-list ps-4 mb-1">
+                                    <li>1st Rank in IEEE Students Branch Activity (2022-23)</li>
+                                    <li>Ranked 71 among top Government & Private Engineering Colleges in India by DATAQUEST (2022)</li>
+                                    <li>Ranked 14 in Engineering Colleges of Excellence, India by CSR-GHRDC (2021)</li>
+                                    <li>Ranked 10 in Engineering Colleges in Uttar Pradesh by CSR-GHRDC (2021)</li>
+                                    <li>Ranked 84 in Top Engineering Colleges in India by DataQuest (2021)</li>
+                                    <li>Ranked 58 in Top Engineering Colleges in India by Digital Learning (2021)</li>
+                                </ul>
+
+                                <h3 class="tmu-text-primary mb-1 fs-16"><span>State-of-the-Art </span><span> Labs</span></h3>
+                                <p class="mb-2">Our engineering labs are equipped with advanced facilities, enabling students to engage in practical learning and hands-on experimentation. These labs are crucial for developing practical skills and fostering innovation.</p>
+                                <h3 class="tmu-text-primary mb-1 fs-16"><span>Industry-Academia </span><span>Collaborations</h3>
+                                <p class="mb-2">We have strong partnerships with esteemed organisations like NVIDIA, BSNL, TCS-iON, and Voltrans, fostering research, development, and technology incubation. These collaborations provide valuable opportunities for students to work on cutting-edge projects and gain real-world experience.</p>
+                                <h3 class="tmu-text-primary mb-1 fs-16"><span>Leading University </span><span> Partnerships</h3>
+                                <p class="mb-2">Collaborations with renowned institutions such as IIT Kanpur, IIT Bombay, and Spoken Tutorial IITB enhance our students' exposure to world-class resources and cutting-edge technologies, ensuring they stay at the forefront of innovation.</p>
+                                <h3 class="tmu-text-primary mb-1 fs-16"><span>Live Project </span><span> Opportunities</span></h3>
+                                <p class="mb-2">We encourage students to undertake live projects under the mentorship of experienced professionals. This invaluable experience enhances students' practical skills and prepares them for real-world challenges, making them industry-ready.</p>
+                                <h3 class="tmu-text-primary mb-1 fs-16"><span>Life at TMU</span></h3>
+                                <p class="tmu-text-primary mb-1">&nbsp;Academic </span><span> Excellence</span></p>
+                                <p>TMU&rsquo;s Faculty of Engineering is dedicated to providing a rigorous academic curriculum combined with practical training, ensuring students are well-equipped to face the challenges of the engineering world.</p>
+                                <h3 class="tmu-text-primary mb-1 fs-16"><span>Vibrant Campus </span><span> Life</span></h3>
+                                <p>Our campus is a hub of activities, from academic clubs and sports championships to cultural events and tech fests. Students have ample opportunities to explore their interests and develop holistically.</p>
+                                <h3 class="tmu-text-primary mb-1 fs-16"><span>Comfortable </span><span> Accommodation</span></h3>
+                                <p>On-campus hostel facilities offer a safe and comfortable living environment, complete with modern amenities. Our hostels are designed to provide a home-away-from-home experience, fostering a sense of community among students.</p>
+                                <h3 class="tmu-text-primary mb-1 fs-16"><span>Health and </span><span> Wellness</span></h3>
+                                <p class="mb-2">The fitness centre, cafeterias, and shopping stores ensure that students have access to all necessary amenities, promoting a balanced lifestyle that supports both academic and personal well-being.</p>
+                            </div>
+                            <hr class="horizontal-line">
+                            <button class="careers-accordion">Top 10 Careers in Engineering<span class="icon">+</span></button>
+                            <div class="panel">
+                                <h3 class="tmu-text-primary mb-1 fs-16"><span>1. Software </span><span> Engineer:</span></h3>
+                                <p class="mb-2">Design, develop, and maintain software systems. Demand is high in tech companies, startups, and across various industries.</p>
+                                <h3 class="tmu-text-primary mb-1 fs-16"><span>2. Civil </span><span> Engineer: </span></h3>
+                                <p class="mb-2">Plan, design, and oversee construction projects such as roads, buildings, and infrastructure. Essential for urban development and public works.</p>
+                                <h3 class="tmu-text-primary mb-1 fs-16"><span>3. Mechanical </span><span> Engineer: </span></h3>
+                                <p class="mb-2">Work on the design, production, and operation of machinery. Opportunities in automotive, manufacturing, and aerospace industries.</p>
+                                <h3 class="tmu-text-primary mb-1 fs-16"><span>4. Electrical </span><span> Engineer: </span></h3>
+                                <p class="mb-2">Develop and maintain electrical systems and components. Careers in power generation, electronics, and telecommunication sectors.</p>
+                                <h3 class="tmu-text-primary mb-1 fs-16"><span>5. Chemical </span><span> Engineer:</span></h3>
+                                <p class="mb-2">Apply principles of chemistry and biology to solve problems involving chemicals, fuel, drugs, and food. Roles in pharmaceuticals, energy, and materials.</p>
+                                <h3 class="tmu-text-primary mb-1 fs-16"><span>6. Aerospace </span><span> Engineer:</span></h3>
+                                <p class="mb-2">Design and develop aircraft and spacecraft. Careers in defence, aviation, and space exploration.</p>
+                                <h3 class="tmu-text-primary mb-1 fs-16"><span>7. Biomedical </span><span> Engineer: </span></h3>
+                                <p class="mb-2">Combine engineering principles with medical sciences to design and create equipment, devices, and software used in healthcare.</p>
+                                <h3 class="tmu-text-primary mb-1 fs-16"><span>8. Environmental </span><span> Engineer: </span></h3>
+                                <p class="mb-2">Use principles of engineering, soil science, biology, and chemistry to develop solutions to environmental problems.</p>
+                                <h3 class="tmu-text-primary mb-1 fs-16"><span>9. Data </span><span> Engineer: </span></h3>
+                                <p class="mb-2">Design and optimise systems for collecting, storing, and analysing data. Crucial in tech companies, finance, and research.</p>
+                                <h3 class="tmu-text-primary mb-1 fs-16"><span>10. Robotics </span><span> Engineer:</span></h3>
+                                <p class="mb-2"> Design, build, and maintain robots. Opportunities in manufacturing, healthcare, and research.</p>
+                            </div>
+                            <hr class="horizontal-line">
+                            <button class="careers-accordion">FAQs:<span class="icon">+</span></button>
+                            <div class="panel">
+                                <h3 class="tmu-text-primary mb-1 fs-16"><span>1. What programs are offered at TMU's Faculty of Engineering?</span></h3>
+                                <p class="mb-2">We offer a range of programs including Polytechnic, B.Tech, M.Tech, and Ph.D. with diverse specialisations tailored to meet industry demands.</p>
+                                <h3 class="tmu-text-primary mb-1 fs-16"><span> 2. How is the placement assistance at TMU?</span></h3>
+                                <p class="mb-2">We provide 100% placement assistance with an excellent track record. Our Corporate Resource Centre (CRC) works year-round to secure placement and training opportunities for our students, ensuring they are well-prepared for their careers.</p>
+                                <h3 class="tmu-text-primary mb-1 fs-16"><span> 3. What kind of industry connections does TMU have?</span></h3>
+                                <p class="mb-2">We have strong connections with top companies like TCS, L&T, Bosch, and many more. These partnerships facilitate excellent placement opportunities and provide students with invaluable industry exposure.</p>
+                                <h3 class="tmu-text-primary mb-1 fs-16"><span> 4. Are there any scholarships available?</span></h3>
+                                <p class="mb-2">Yes, we offer 100% scholarship assistance to help students achieve their academic goals without financial worries. Our scholarships are designed to support meritorious and deserving students.</p>
+                                <h3 class="tmu-text-primary mb-1 fs-16"><span> 5. What facilities are available on campus?</span></h3>
+                                <p class="mb-2">Our campus includes modern classrooms, state-of-the-art labs, engineering clubs, sports championships, a fitness centre, cafeterias, shopping stores, and comfortable hostel facilities. These amenities ensure a balanced and enriching campus life.</p>
+
+                            </div>
+                            <hr class="horizontal-line">
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </section>
 
 </section><!-- #content end -->
 
