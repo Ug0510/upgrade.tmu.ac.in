@@ -1887,7 +1887,6 @@ include 'head.php';
 </section><!-- #content end -->
 
 <div class="container mb-5 mt-5">
-    <h2 Class="h2-line" style="font-weight: 800;">FAQ</h2>
     <hr class="horizontal-line">
 
     <button class="careers-accordion">Why Teerthanker Mahaveer University(TMU) is Among the Top Private Universities in India?<span class="icon">+</span></button>
