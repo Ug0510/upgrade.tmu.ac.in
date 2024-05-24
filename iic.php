@@ -164,7 +164,7 @@ include 'head.php';
 												<div class="entry-title title-sm mb-3">
 													<h3 class="text-transform-none ls-0 fw-medium font-body"><a href="#">Guest Lecture on Cancer Prevention, Detection, and Management at TMU</a></h3>
 												</div>
-												<a href="https://www.tmu.ac.in/news/guest-lecture-on-cancer-prevention-detection-and-management-at-tmu" target="_blank " class="read-more stretched-link h-color h-op-08">Read More <i class="bi-arrow-up-right transform-ts"></i></a>
+												<a href="" target="_blank " class=" stretched-link h-color h-op-08">Read More <i class="bi-arrow-up-right transform-ts"></i></a>
 											</div>
 
 											<div class="item entry mx-2">
@@ -179,7 +179,7 @@ include 'head.php';
 												<div class="entry-title title-sm mb-3">
 													<h3 class="text-transform-none ls-0 fw-medium font-body"><a href="#">Teerthanker Mahaveer University Launches Distance Education Programmes</a></h3>
 												</div>
-												<a href="https://www.tmu.ac.in/news/teerthanker-mahaveer-university-launches-distance-education-programmes" class="read-more stretched-link h-color h-op-08">Read More <i class="bi-arrow-up-right transform-ts"></i></a>
+												<a href="" class=" stretched-link h-color h-op-08">Read More <i class="bi-arrow-up-right transform-ts"></i></a>
 											</div>
 											<div class="item entry mx-2">
 												<div class="entry-image">
@@ -193,7 +193,7 @@ include 'head.php';
 												<div class="entry-title title-sm mb-3">
 													<h3 class="text-transform-none ls-0 fw-medium font-body"><a href="#">Workshop on Integrating Nursing Theories into Clinical Practice</a></h3>
 												</div>
-												<a href="https://www.tmu.ac.in/news/workshop-on-integrating-nursing-theories-into-clinical-practice" target="_blank " class="read-more stretched-link h-color h-op-08">Read More <i class="bi-arrow-up-right transform-ts"></i></a>
+												<a href="" target="_blank " class=" stretched-link h-color h-op-08">Read More <i class="bi-arrow-up-right transform-ts"></i></a>
 											</div>
 											<div class="item entry mx-2">
 												<div class="entry-image">
@@ -207,7 +207,7 @@ include 'head.php';
 												<div class="entry-title title-sm mb-3">
 													<h3 class="text-transform-none ls-0 fw-medium font-body"><a href="#">National Conference Held at TMIMT College of Management</a></h3>
 												</div>
-												<a href="https://www.tmu.ac.in/news/national-conference-held-at-tmimt-college-of-management" class="read-more stretched-link h-color h-op-08">Read More <i class="bi-arrow-up-right transform-ts"></i></a>
+												<a href="" class=" stretched-link h-color h-op-08">Read More <i class="bi-arrow-up-right transform-ts"></i></a>
 											</div>
 											<div class="item entry mx-2">
 												<div class="entry-image">
@@ -221,12 +221,12 @@ include 'head.php';
 												<div class="entry-title title-sm mb-3">
 													<h3 class="text-transform-none ls-0 fw-medium font-body"><a href="#">Guest Lecture on Cutting-Edge Instrumentation in Forensic Science</a></h3>
 												</div>
-												<a href="#" class="read-more stretched-link h-color h-op-08">Read More <i class="bi-arrow-up-right transform-ts"></i></a>
+												<a href="#" class=" stretched-link h-color h-op-08">Read More <i class="bi-arrow-up-right transform-ts"></i></a>
 											</div>
 										</div>
 
 										<!-- <a href="https://www.tmu.ac.in/news/guest-lecture-on-cutting-edge-instrumentation-in-forensic-science" class="button d-block d-md-none button-dark bg-dark bg-opacity-10 text-dark h-bg-color m-0 px-4 py-2 d-block mx-auto mx-md-1 mt-4">View all Posts</a> -->
-										<a href="https://www.tmu.ac.in/news/guest-lecture-on-cutting-edge-instrumentation-in-forensic-science" class="tmu-btn btn-1 d-block d-md-none mt-4"> View all Post</a>
+										<a href="" class="tmu-btn btn-1 d-block d-md-none mt-4"> View all Post</a>
 									</div>
 								</div>
 							</div>
