@@ -569,7 +569,7 @@ include 'head.php';
                     <div id="panelsStayOpen-collapseOne" class="accordion-collapse collapse show" aria-labelledby="panelsStayOpen-headingOne">
                         <div class="accordion-body ">
 
-        <!-- -------------   Accordian 1 sarts here --------------->
+                            <!-- -------------   Accordian 1 sarts here --------------->
                             <ul class="progul">
                                 <li class="progli">
                                     <div class="card shadow-sm progcard">
@@ -1420,7 +1420,7 @@ include 'head.php';
 
         <div class="owl-carousel tmu-video-testimonial" id="owl-carousel4">
             <div class="item">
-                <div class="card shadow-sm ">
+                <div class="card shadow-sm">
                     <!-- <div class="card-img-top ratio-16x9" >
 														<iframe width="1424" height="652" src="https://www.youtube.com/embed/tEkfa3bIY5o" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 													</div> -->
@@ -1429,11 +1429,12 @@ include 'head.php';
                         <!--<span class="badge bg-info1 text-light mb-2 fw-normal px-2 py-1">New</span>-->
                         <p class="text-center mb-0">Btech Computer Science (Data Science)</p>
                         <p class="text-center mb-0 fw-bold tmu-color-blue">(2020 - 2024)</p>
-                        <center><img src="./assets/image/down-arrow.png" style="width: 10%;" alt="" class="img-fluid career-tran__arrow"></center>
+
                         <!-- <img src="./assets/image/down-arrow.png" alt=""> -->
-                        <p class="career-tran__prev-role mb-4">Senior Technical Account Manager</p>
-                        <p class="career-tran__prev-comp">Amazon Web Services (AWS)</p>
-                        
+                        <span class="my-2 d-block text-center mx-auto">
+                            <a href="https://www.linkedin.com/in/udit-gupta-ug0510/" class=" px-2 py-1 linkedin-text">Linkedin <i class="bi bi-linkedin"></i></a>
+                        </span>
+
 
                     </div>
 
@@ -1460,12 +1461,12 @@ include 'head.php';
                                         <div class="col-lg-2">
                                             <div class="d-flex flex-column align-items-lg-center entry-date">
                                                 <!-- <h3 class="mb-0 h1">10</strong></h3>
-																				<h4 class="mb-0">Apr</h4> -->
+												<h4 class="mb-0">Apr</h4> -->
                                             </div>
                                         </div>
                                         <div class="col">
                                             <!-- <h4 class="mb-2">Heading</h4>
-																			<p class="mb-0 op-07">Lorem ipsum dolor sit amet consectetur, adipisicing elit. Nemo, assumenda molestias.</p> -->
+											<p class="mb-0 op-07">Lorem ipsum dolor sit amet consectetur, adipisicing elit. Nemo, assumenda molestias.</p> -->
                                         </div>
                                         <div class="col-lg-3">
                                             <a href="#" class="btn btn-lg btn-danger w-100">Enquire Now</a>
@@ -1490,17 +1491,18 @@ include 'head.php';
                         <!--<span class="badge bg-info1 text-light mb-2 fw-normal px-2 py-1">New</span>-->
                         <p class="text-center mb-0">Btech Computer Science (Data Science)</p>
                         <p class="text-center mb-0 fw-bold tmu-color-blue">(2020 - 2024)</p>
-                        <center><img src="./assets/image/down-arrow.png" style="width: 10%;" alt="" class="img-fluid career-tran__arrow"></center>
-                        <p class="career-tran__prev-role mb-4">Senior Technical Account Manager</p>
-                        <p class="career-tran__prev-comp">Amazon Web Services (AWS)</p>
-                        
+
+                        <span class="my-2 d-block text-center mx-auto">
+                            <a href="https://www.linkedin.com/in/udit-gupta-ug0510/" class=" px-2 py-1 linkedin-text">Linkedin <i class="bi bi-linkedin"></i></a>
+                        </span>
+
                         <!-- <small class="ls-2 fw-bold text-uppercase op-05 mb-2 d-block">Features</small> -->
                         <!-- <div class="row g-0 mb-2 car-features">
-															<div class="col-6 mb-2"><i class="icon-car-meter"></i>20000KMs</div>
-															<div class="col-6 mb-2"><i class="icon-car-door"></i>5 Seater</div>
-															<div class="col-6"><i class="icon-car-cogs2"></i>Black</div>
-															<div class="col-6"><i class="icon-car-pump"></i>20kmpl</div>
-														</div> -->
+							<div class="col-6 mb-2"><i class="icon-car-meter"></i>20000KMs</div>
+							<div class="col-6 mb-2"><i class="icon-car-door"></i>5 Seater</div>
+							<div class="col-6"><i class="icon-car-cogs2"></i>Black</div>
+							<div class="col-6"><i class="icon-car-pump"></i>20kmpl</div>
+						</div> -->
                     </div>
 
                 </div>
@@ -1556,10 +1558,11 @@ include 'head.php';
                         <!--<span class="badge bg-info1 text-light mb-2 fw-normal px-2 py-1">New</span>-->
                         <p class="text-center mb-0">Btech Computer Science (Data Science)</p>
                         <p class="text-center mb-0 fw-bold tmu-color-blue">(2020 - 2024)</p>
-                        <center><img src="./assets/image/down-arrow.png" style="width: 10%;" alt="" class="img-fluid career-tran__arrow"></center>
-                        <p class="career-tran__prev-role mb-4">Senior Technical Account Manager</p>
-                        <p class="career-tran__prev-comp">Amazon Web Services (AWS)</p>
-                        
+
+                        <span class="my-2 d-block text-center mx-auto">
+                            <a href="https://www.linkedin.com/in/udit-gupta-ug0510/" class=" px-2 py-1 linkedin-text">Linkedin <i class="bi bi-linkedin"></i></a>
+                        </span>
+
                         <!-- <small class="ls-2 fw-bold text-uppercase op-05 mb-2 d-block">Features</small> -->
                         <!-- <div class="row g-0 mb-2 car-features">
 															<div class="col-6 mb-2"><i class="icon-car-meter"></i>20000KMs</div>
@@ -1622,10 +1625,11 @@ include 'head.php';
                         <!--<span class="badge bg-info1 text-light mb-2 fw-normal px-2 py-1">New</span>-->
                         <p class="text-center mb-0">Btech Computer Science (Data Science)</p>
                         <p class="text-center mb-0 fw-bold tmu-color-blue">(2020 - 2024)</p>
-                        <center><img src="./assets/image/down-arrow.png" style="width: 10%;" alt="" class="img-fluid career-tran__arrow"></center>
-                        <p class="career-tran__prev-role mb-4">Senior Technical Account Manager</p>
-                        <p class="career-tran__prev-comp">Amazon Web Services (AWS)</p>
-                        
+
+                        <span class="my-2 d-block text-center mx-auto">
+                            <a href="https://www.linkedin.com/in/udit-gupta-ug0510/" class=" px-2 py-1 linkedin-text">Linkedin <i class="bi bi-linkedin"></i></a>
+                        </span>
+
                         <!-- <small class="ls-2 fw-bold text-uppercase op-05 mb-2 d-block">Features</small> -->
                         <!-- <div class="row g-0 mb-2 car-features">
 															<div class="col-6 mb-2"><i class="icon-car-meter"></i>20000KMs</div>
@@ -1688,10 +1692,11 @@ include 'head.php';
                         <!--<span class="badge bg-info1 text-light mb-2 fw-normal px-2 py-1">New</span>-->
                         <p class="text-center mb-0">Btech Computer Science (Data Science)</p>
                         <p class="text-center mb-0 fw-bold tmu-color-blue">(2020 - 2024)</p>
-                        <center><img src="./assets/image/down-arrow.png" style="width: 10%;" alt="" class="img-fluid career-tran__arrow"></center>
-                        <p class="career-tran__prev-role mb-4">Senior Technical Account Manager</p>
-                        <p class="career-tran__prev-comp">Amazon Web Services (AWS)</p>
-                        
+
+                        <span class="my-2 d-block text-center mx-auto">
+                            <a href="https://www.linkedin.com/in/udit-gupta-ug0510/" class=" px-2 py-1 linkedin-text">Linkedin <i class="bi bi-linkedin"></i></a>
+                        </span>
+
                         <!-- <small class="ls-2 fw-bold text-uppercase op-05 mb-2 d-block">Features</small> -->
                         <!-- <div class="row g-0 mb-2 car-features">
 															<div class="col-6 mb-2"><i class="icon-car-meter"></i>20000KMs</div>
@@ -1759,9 +1764,10 @@ include 'head.php';
                         <!--<span class="badge bg-info1 text-light mb-2 fw-normal px-2 py-1">New</span>-->
                         <p class="text-center mb-0">Btech Computer Science (Data Science)</p>
                         <p class="text-center mb-0 fw-bold tmu-color-blue">(2020 - 2024)</p>
-                        <center><img src="./assets/image/down-arrow.png" style="width: 10%;" alt="" class="img-fluid career-tran__arrow"></center>
-                        <p class="career-tran__prev-role mb-4">Senior Technical Account Manager</p>
-                        <p class="career-tran__prev-comp">Amazon Web Services (AWS)</p>
+
+                        <span class="my-2 d-block text-center mx-auto">
+                            <a href="https://www.linkedin.com/in/udit-gupta-ug0510/" class=" px-2 py-1 linkedin-text">Linkedin <i class="bi bi-linkedin"></i></a>
+                        </span>
                         <p class="mb-4 op-07" style="line-height: 1.65">
                         </p>
                         <!-- <small class="ls-2 fw-bold text-uppercase op-05 mb-2 d-block">Features</small> -->
@@ -1829,10 +1835,11 @@ include 'head.php';
                         <!--<span class="badge bg-info1 text-light mb-2 fw-normal px-2 py-1">New</span>-->
                         <p class="text-center mb-0">Btech Computer Science (Data Science)</p>
                         <p class="text-center mb-0 fw-bold tmu-color-blue">(2020 - 2024)</p>
-                        <center><img src="./assets/image/down-arrow.png" style="width: 10%;" alt="" class="img-fluid career-tran__arrow"></center>
-                        <p class="career-tran__prev-role mb-4">Senior Technical Account Manager</p>
-                        <p class="career-tran__prev-comp">Amazon Web Services (AWS)</p>
-                        
+
+                        <span class="my-2 d-block text-center mx-auto">
+                            <a href="https://www.linkedin.com/in/udit-gupta-ug0510/" class=" px-2 py-1 linkedin-text">Linkedin <i class="bi bi-linkedin"></i></a>
+                        </span>
+
                         <!-- <small class="ls-2 fw-bold text-uppercase op-05 mb-2 d-block">Features</small> -->
                         <!-- <div class="row g-0 mb-2 car-features">
 													<div class="col-6 mb-2"><i class="icon-car-meter"></i>20000KMs</div>
@@ -1891,9 +1898,9 @@ include 'head.php';
 
     <button class="careers-accordion">Why Teerthanker Mahaveer University(TMU) is Among the Top Private Universities in India?<span class="icon">+</span></button>
     <div class="panel">
-        <p>Teerthanker Mahaveer University (TMU) has emerged as a prominent 
-            educational institution, garnering attention for various reasons. 
-            Let's explore the factors that contribute to TMU's status as one 
+        <p>Teerthanker Mahaveer University (TMU) has emerged as a prominent
+            educational institution, garnering attention for various reasons.
+            Let's explore the factors that contribute to TMU's status as one
             of the best private universities in India.</p>
     </div>
     <!-- Add the horizontal line here -->
@@ -1929,44 +1936,44 @@ include 'head.php';
     <hr class="horizontal-line">
     <button class="careers-accordion">Innovation and Research Achievements at TMU<span class="icon">+</span></button>
     <div class="panel">
-    <h3 class="mb-2 tmu-color accord">Patent Success and Recognition</h3>
-    <p>TMU ranks 6th nationally in patent filings among all universities, showcasing a commitment to academic excellence. The Business Incubation Centre's recognition by the UP state government further emphasizes TMU's success in fostering innovation.</p>
-    <h3 class="mb-2 tmu-color accord">Industry Collaborations</h3>
-    <p>TMU has established strong ties with leading industries, providing students with valuable insights and opportunities. Collaborations with IBM, AutoCAD, TCS-iON, and others enhance the practical exposure students receive.</p>
+        <h3 class="mb-2 tmu-color accord">Patent Success and Recognition</h3>
+        <p>TMU ranks 6th nationally in patent filings among all universities, showcasing a commitment to academic excellence. The Business Incubation Centre's recognition by the UP state government further emphasizes TMU's success in fostering innovation.</p>
+        <h3 class="mb-2 tmu-color accord">Industry Collaborations</h3>
+        <p>TMU has established strong ties with leading industries, providing students with valuable insights and opportunities. Collaborations with IBM, AutoCAD, TCS-iON, and others enhance the practical exposure students receive.</p>
     </div>
     <!-- Add the horizontal line here -->
     <hr class="horizontal-line">
     <button class="careers-accordion">TMU’s Commitment to Quality Education<span class="icon">+</span></button>
     <div class="panel">
-    <h3 class="mb-2 tmu-color accord">Adherence to National Education Policy (NEP) 2020</h3>
-    <p>TMU is strategically aligning with the future of education by implementing NEP 2020, adopting a national credit framework and redesigning the curriculum.</p>
-    <h3 class="mb-2 tmu-color accord">Outcome-Based Education (OBE)</h3>
-    <p>TMU's focus on OBE enhances the overall quality of learning, preparing students for the challenges of the future. TMU is actively contributing to the idea of a self-reliant India by creating a hub for startups, an Entrepreneurship Development Cell, and aligning its activities with the vision of an Aatmanirbhar Bharat through the Institution Innovation Council.</p>
-    <h3 class="mb-2 tmu-color accord">Strategic Initiatives for Skill Development</h3>
-    <p>The university prioritizes skill development through various initiatives, including a Centre for Teaching Learning & Development, global internship opportunities, and live projects.</p>
-    <h3 class="mb-2 tmu-color accord">Recognitions and Accreditations</h3>
-    <p>TMU's numerous accreditations, including NAAC-A, NBA, and ICAR, reflect its commitment to maintaining high-quality standards in education.</p>
-    <h3 class="mb-2 tmu-color accord">Global Outreach and Collaborations</h3>
-    <p>TMU's affiliation with the United Nations Academic Impact (UNAI) and global collaborations contribute to creating a culturally diverse community.</p>
-    <h3 class="mb-2 tmu-color accord">Commitment to Social Responsibility</h3>
-    <p>TMU's involvement in social initiatives, including NSS units and support for sustainable institutions, highlights its commitment to social responsibility.</p>
-    <h3 class="mb-2 tmu-color accord">Your Future Awaits</h3>
-    <p>Teerthanker Mahaveer University's consistent commitment to excellence, innovation, and holistic development has propelled it into the league of top universities in India. The impressive placement records, accolades, and a focus on quality education make TMU a preferred choice for aspiring students.</p>
+        <h3 class="mb-2 tmu-color accord">Adherence to National Education Policy (NEP) 2020</h3>
+        <p>TMU is strategically aligning with the future of education by implementing NEP 2020, adopting a national credit framework and redesigning the curriculum.</p>
+        <h3 class="mb-2 tmu-color accord">Outcome-Based Education (OBE)</h3>
+        <p>TMU's focus on OBE enhances the overall quality of learning, preparing students for the challenges of the future. TMU is actively contributing to the idea of a self-reliant India by creating a hub for startups, an Entrepreneurship Development Cell, and aligning its activities with the vision of an Aatmanirbhar Bharat through the Institution Innovation Council.</p>
+        <h3 class="mb-2 tmu-color accord">Strategic Initiatives for Skill Development</h3>
+        <p>The university prioritizes skill development through various initiatives, including a Centre for Teaching Learning & Development, global internship opportunities, and live projects.</p>
+        <h3 class="mb-2 tmu-color accord">Recognitions and Accreditations</h3>
+        <p>TMU's numerous accreditations, including NAAC-A, NBA, and ICAR, reflect its commitment to maintaining high-quality standards in education.</p>
+        <h3 class="mb-2 tmu-color accord">Global Outreach and Collaborations</h3>
+        <p>TMU's affiliation with the United Nations Academic Impact (UNAI) and global collaborations contribute to creating a culturally diverse community.</p>
+        <h3 class="mb-2 tmu-color accord">Commitment to Social Responsibility</h3>
+        <p>TMU's involvement in social initiatives, including NSS units and support for sustainable institutions, highlights its commitment to social responsibility.</p>
+        <h3 class="mb-2 tmu-color accord">Your Future Awaits</h3>
+        <p>Teerthanker Mahaveer University's consistent commitment to excellence, innovation, and holistic development has propelled it into the league of top universities in India. The impressive placement records, accolades, and a focus on quality education make TMU a preferred choice for aspiring students.</p>
     </div>
     <!-- Add the horizontal line here -->
     <hr class="horizontal-line">
     <button class="careers-accordion">Frequently Asked Questions (FAQs)<span class="icon">+</span></button>
     <div class="panel">
-    <h4 class="mb-2 tmu-color">1. What sets TMU apart from other universities?</h4>
-    <p>TMU's commitment to excellence, innovation, and holistic development sets it apart. The university's impressive placement records and global collaborations contribute to its distinguished status.</p>
-    <h4 class="mb-2 tmu-color">2. How does TMU support entrepreneurship?</h4>
-    <p>TMU actively fosters entrepreneurship through its Business Incubation Centre, strategic initiatives aligned with Aatmanirbhar Bharat, and a strong industry-university interface.</p>
-    <h4 class="mb-2 tmu-color">3. What is the significance of TMU's accreditations?</h4>
-    <p>Accreditations like NAAC-A, NBA, and ICAR reflect TMU's adherence to high-quality standards, ensuring students receive a top-notch education.</p>
-    <h4 class="mb-2 tmu-color">4. How does TMU contribute to social responsibility?</h4>
-    <p>TMU engages in various social initiatives, including NSS units and support for sustainable institutions, showcasing its commitment to social responsibility.</p>
-    <h4 class="mb-2 tmu-color">5. How can I get admission to TMU?</h4>
-    <p>To get admission to Teerthanker Mahaveer University, visit the <a href="https://admissions.tmu.ac.in/">admission page</a> or contact 18002701490</p>
+        <h4 class="mb-2 tmu-color">1. What sets TMU apart from other universities?</h4>
+        <p>TMU's commitment to excellence, innovation, and holistic development sets it apart. The university's impressive placement records and global collaborations contribute to its distinguished status.</p>
+        <h4 class="mb-2 tmu-color">2. How does TMU support entrepreneurship?</h4>
+        <p>TMU actively fosters entrepreneurship through its Business Incubation Centre, strategic initiatives aligned with Aatmanirbhar Bharat, and a strong industry-university interface.</p>
+        <h4 class="mb-2 tmu-color">3. What is the significance of TMU's accreditations?</h4>
+        <p>Accreditations like NAAC-A, NBA, and ICAR reflect TMU's adherence to high-quality standards, ensuring students receive a top-notch education.</p>
+        <h4 class="mb-2 tmu-color">4. How does TMU contribute to social responsibility?</h4>
+        <p>TMU engages in various social initiatives, including NSS units and support for sustainable institutions, showcasing its commitment to social responsibility.</p>
+        <h4 class="mb-2 tmu-color">5. How can I get admission to TMU?</h4>
+        <p>To get admission to Teerthanker Mahaveer University, visit the <a href="https://admissions.tmu.ac.in/">admission page</a> or contact 18002701490</p>
     </div>
     <!-- Add the horizontal line here -->
     <hr class="horizontal-line">

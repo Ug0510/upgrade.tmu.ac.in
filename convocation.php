@@ -392,7 +392,6 @@ include 'head.php';
 
 <!-- Youtube videos section Desktop View-->
 <section class="d-none d-md-block">
-
 	<div class="container-fluid">
 		<div class="row">
 			<h2 class="tmu-text-primary text-uppercase text-center fw-bold text-center d-block mx-auto pt-4 pb-1 mb-0 text-uppercase ">
@@ -410,38 +409,38 @@ include 'head.php';
 				<div class="row">
 					<div class="col-12 d-flex justify-content-center align-items-center">
 						<div class="yt-frame shadow my-4" id="hr-yt-frame" onclick="playHrVideo(this)">
-							<img src="./assets/image/convocation/thumbnails/1.jpeg" alt="" class="w-100 event-btn" id="hrframevideo1">
+							<img src="./assets/image/convocation/thumbnails/2.jpeg" alt="" class="w-100 event-btn" id="hrframevideo1">
 						</div>
 					</div>
 					<div class="col-12">
 						<div class="d-flex position-relative p-1" id="m-event-box">
-							<div class="m-1 m-sm-3 event-box  active" onclick="toggleActivate(this)">
+							<div class="m-1 m-sm-3 event-box  active" onclick="toggleActivate(this,0)">
 								<img src="./assets/image/convocation/thumbnails/2.jpeg" alt="" class="w-100 shadow event-btn">
 							</div>
-							<div class="m-1 m-sm-3 event-box " onclick="toggleActivate(this)">
+							<div class="m-1 m-sm-3 event-box " onclick="toggleActivate(this,1)">
 								<img src="./assets/image/convocation/thumbnails/3.jpeg" alt="" class="w-100 shadow event-btn">
 							</div>
-							<div class="m-1 m-sm-3 event-box " onclick="toggleActivate(this)">
+							<div class="m-1 m-sm-3 event-box " onclick="toggleActivate(this,2)">
 								<img src="./assets/image/convocation/thumbnails/4.jpeg" alt="" class="w-100 shadow event-btn">
 							</div>
-							<div class="m-1 m-sm-3 event-box " onclick="toggleActivate(this)">
+							<div class="m-1 m-sm-3 event-box " onclick="toggleActivate(this,3)">
 								<img src="./assets/image/convocation/thumbnails/5.jpeg" alt="" class="w-100 shadow event-btn">
 							</div>
-							<div class="m-1 m-sm-3 event-box " onclick="toggleActivate(this)">
+							<div class="m-1 m-sm-3 event-box " onclick="toggleActivate(this,4)">
 								<img src="./assets/image/convocation/thumbnails/6.jpeg" alt="" class="w-100 shadow event-btn">
 							</div>
-							<div class="m-1 m-sm-3 event-box " onclick="toggleActivate(this)">
+							<div class="m-1 m-sm-3 event-box " onclick="toggleActivate(this,5)">
 								<img src="./assets/image/convocation/thumbnails/1.jpeg" alt="" class="w-100 shadow event-btn">
 							</div>
-							<div class="m-1 m-sm-3 event-box " onclick="toggleActivate(this)">
-								<img src="./assets/image/convocation/thumbnails/2.jpeg" alt="" class="w-100 shadow event-btn">
+							<div class="m-1 m-sm-3 event-box " onclick="toggleActivate(this,6)">
+								<img src="./assets/image/convocation/thumbnails/7.jpg" alt="" class="w-100 shadow event-btn">
 							</div>
-							<div class="m-1 m-sm-3 event-box " onclick="toggleActivate(this)">
+							<!-- <div class="m-1 m-sm-3 event-box " onclick="toggleActivate(this)">
 								<img src="./assets/image/placement/P.K. RAJPUT.webp" alt="" class="w-100 shadow event-btn">
 							</div>
 							<div class="m-1 m-sm-3 event-box " onclick="toggleActivate(this)">
 								<img src="./assets/image/placement/P.K. RAJPUT.webp" alt="" class="w-100 shadow event-btn">
-							</div>
+							</div> -->
 
 						</div>
 					</div>
@@ -461,7 +460,6 @@ include 'head.php';
 				<span>
 				Historic 
 				</span>
-
 				<span>
 					Convocations
 				</span>
@@ -472,39 +470,39 @@ include 'head.php';
 				<div class="row">
 					<div class="col-12">
 						<div class="d-flex position-relative p-1" id="m-event-box">
-							<div class="m-1 m-sm-3 event-box active" onclick="toggleActivate(this)">
+							<div class="m-1 m-sm-3 event-box active" onclick="toggleActivate(this,0)">
+								<img src="./assets/image/convocation/thumbnails/2.jpeg" alt="" class="w-100 event-btn">
+							</div>
+							<div class="m-1 m-sm-3 event-box" onclick="toggleActivate(this,1)">
+								<img src="./assets/image/convocation/thumbnails/1.jpeg" alt="" class="w-100 event-btn">
+							</div>
+							<div class="m-1 m-sm-3 event-box" onclick="toggleActivate(this,2)">
+								<img src="./assets/image/convocation/thumbnails/3.jpeg" alt="" class="w-100 event-btn">
+							</div>
+							<div class="m-1 m-sm-3 event-box" onclick="toggleActivate(this,3)">
+								<img src="./assets/image/convocation/thumbnails/4.jpeg" alt="" class="w-100 event-btn">
+							</div>
+							<div class="m-1 m-sm-3 event-box" onclick="toggleActivate(this,4)">
+								<img src="./assets/image/convocation/thumbnails/5.jpeg" alt="" class="w-100 event-btn">
+							</div>
+							<div class="m-1 m-sm-3 event-box" onclick="toggleActivate(this,5)">
+								<img src="./assets/image/convocation/thumbnails/6.jpeg" alt="" class="w-100 event-btn">
+							</div>
+							<div class="m-1 m-sm-3 event-box" onclick="toggleActivate(this,6)">
+								<img src="./assets/image/convocation/thumbnails/7.jpg" alt="" class="w-100 event-btn">
+							</div>
+							<!-- <div class="m-1 m-sm-3 event-box" onclick="toggleActivate(this)">
 								<img src="./assets/image/placement/P.K. RAJPUT.webp" alt="" class="w-100 event-btn">
 							</div>
 							<div class="m-1 m-sm-3 event-box" onclick="toggleActivate(this)">
 								<img src="./assets/image/placement/P.K. RAJPUT.webp" alt="" class="w-100 event-btn">
-							</div>
-							<div class="m-1 m-sm-3 event-box" onclick="toggleActivate(this)">
-								<img src="./assets/image/placement/P.K. RAJPUT.webp" alt="" class="w-100 event-btn">
-							</div>
-							<div class="m-1 m-sm-3 event-box" onclick="toggleActivate(this)">
-								<img src="./assets/image/placement/P.K. RAJPUT.webp" alt="" class="w-100 event-btn">
-							</div>
-							<div class="m-1 m-sm-3 event-box" onclick="toggleActivate(this)">
-								<img src="./assets/image/placement/P.K. RAJPUT.webp" alt="" class="w-100 event-btn">
-							</div>
-							<div class="m-1 m-sm-3 event-box" onclick="toggleActivate(this)">
-								<img src="./assets/image/placement/P.K. RAJPUT.webp" alt="" class="w-100 event-btn">
-							</div>
-							<div class="m-1 m-sm-3 event-box" onclick="toggleActivate(this)">
-								<img src="./assets/image/placement/P.K. RAJPUT.webp" alt="" class="w-100 event-btn">
-							</div>
-							<div class="m-1 m-sm-3 event-box" onclick="toggleActivate(this)">
-								<img src="./assets/image/placement/P.K. RAJPUT.webp" alt="" class="w-100 event-btn">
-							</div>
-							<div class="m-1 m-sm-3 event-box" onclick="toggleActivate(this)">
-								<img src="./assets/image/placement/P.K. RAJPUT.webp" alt="" class="w-100 event-btn">
-							</div>
+							</div> -->
 
 						</div>
 					</div>
 					<div class="col-12 d-flex justify-content-center align-items-center">
-						<div class="yt-frame " id="hr-yt-frame" onclick="playHrVideo(this)">
-							<img src="./assets/image/placement/Anshul Sharma.webp" alt="" class="w-100 event-btn" id="hrframevideo1">
+						<div class="yt-frame " id="hr-yt-frame2" onclick="playHrVideo(this)">
+							<img src="./assets/image/convocation/thumbnails/2.jpeg" alt="" class="w-100 event-btn" id="hrframevideo1">
 						</div>
 					</div>
 				</div>
@@ -527,10 +525,19 @@ include 'head.php';
 
 		// Add 'active' class to the clicked element
 		e.classList.add('active');
-		document.getElementById('hr-yt-frame').innerHTML = '<img alt="" class="w-100 event-btn"/>'
-		document.getElementById('hr-yt-frame').querySelector('img').setAttribute('src', imgSrc);
-		document.getElementById('hr-yt-frame').querySelector('img').setAttribute('id', `hrframevideo${id}`);
-		document.getElementById('hr-yt-frame').classList.remove('disabled');
+
+		boxId = 'hr-yt-frame'
+
+		if(innerWidth < 480)
+		{
+			boxId = "hr-yt-frame2"
+		}
+		document.getElementById(boxId).innerHTML = '<img alt="" class="w-100 event-btn"/>'
+		document.getElementById(boxId).querySelector('img').setAttribute('src', imgSrc);
+		document.getElementById(boxId).querySelector('img').setAttribute('img-id', `${id}`);
+		document.getElementById(boxId).classList.remove('disabled');
+
+		console.log(document.getElementById(boxId));
 	}
 </script>
 
@@ -538,7 +545,8 @@ include 'head.php';
 	//Function to play Hr conclave video after clicking on banner 
 	function playHrVideo(e) {
 
-		let id = e.querySelector('img').getAttribute('id').slice(-1);
+		let id = e.querySelector('img').getAttribute('img-id');
+		console.log(id);
 		let frameDiv;
 
 		switch (id) {
@@ -599,7 +607,7 @@ include 'head.php';
 						<div class="entry-title title-sm mb-3">
 							<h3 class="text-transform-none ls-0 fw-medium font-body"><a href="#">First Convocation of the University</a></h3>
 						</div>
-						<a href="https://www.tmu.ac.in/tmu/first-convocation" target="_blank " class="read-more stretched-link h-color h-op-08">Read More <i class="bi-arrow-up-right transform-ts"></i></a>
+						<a href="https://www.tmu.ac.in/tmu/first-convocation"  class="read-more stretched-link h-color h-op-08">Read More <i class="bi-arrow-up-right transform-ts"></i></a>
 					</div>
 
 					<div class="item entry mx-2">
@@ -628,7 +636,7 @@ include 'head.php';
 						<div class="entry-title title-sm mb-3">
 							<h3 class="text-transform-none ls-0 fw-medium font-body"><a href="#">First Convocation of the University</a></h3>
 						</div>
-						<a href="https://www.tmu.ac.in/tmu/first-convocation" target="_blank " class="read-more stretched-link h-color h-op-08">Read More <i class="bi-arrow-up-right transform-ts"></i></a>
+						<a href="https://www.tmu.ac.in/tmu/first-convocation"  class="read-more stretched-link h-color h-op-08">Read More <i class="bi-arrow-up-right transform-ts"></i></a>
 					</div>
 					<div class="item entry mx-2">
 						<div class="entry-image">
