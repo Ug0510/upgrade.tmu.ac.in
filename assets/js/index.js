@@ -743,23 +743,23 @@ document.addEventListener('DOMContentLoaded', function () {
 
 
 // -------------JS for index page banner ------------
-window.addEventListener('load', function() {
-        const vid = document.getElementById('main-banner-vid');
+// window.addEventListener('DOMContentLoaded', function() {
+//         const vid = document.getElementById('main-banner-vid');
 
-        if (vid) {
-            // Once metadata is loaded, switch to higher quality video
-            vid.setAttribute("src", "poster/tmu_video.mp4");
+//         if (vid) {
+//             // Once metadata is loaded, switch to higher quality video
+//             vid.setAttribute("src", "poster/tmu_video.mp4");
 
-            // Start playback
-            vid.play();
-            document.getElementById('banner-tmu-img').style.display = 'none';
-            vid.classList.remove('d-none');
-
-
-        };
+//             // Start playback
+//             vid.play();
+//             document.getElementById('banner-tmu-img').style.display = 'none';
+//             vid.classList.remove('d-none');
 
 
-    });
+//         };
+
+
+//     });
 
 
 // -----------College Banner slider----------
@@ -1085,7 +1085,7 @@ window.addEventListener('load', function() {
 
 
 
-	document.addEventListener('DOMContentLoaded', function() {
+	document.addEventListener('load', function() {
 		// Simulate a delay (e.g., 2000 milliseconds or 2 seconds)
 		setTimeout(function() {
 
