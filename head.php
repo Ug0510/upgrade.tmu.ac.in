@@ -6,13 +6,17 @@
     <meta http-equiv="content-type" content="text/html; charset=utf-8">
     <meta http-equiv="x-ua-compatible" content="IE=edge">
     <meta name="author" content="SemiColonWeb">
-    <meta name="description" content="Get Canvas to build powerful websites easily with the Highly Customizable &amp; Best Selling Bootstrap Template, today.">
+    <meta name="description"
+        content="Get Canvas to build powerful websites easily with the Highly Customizable &amp; Best Selling Bootstrap Template, today.">
 
     <!-- Font Imports -->
     <link rel="preconnect" href="https://fonts.googleapis.com">
     <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
-    <link href="https://fonts.googleapis.com/css2?family=Poppins:ital,wght@0,400;0,500;0,600;0,700;0,800;0,900;1,400;1,500;1,600;1,700;1,800&display=swap" rel="stylesheet">
-    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.2/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-T3c6CoIi6uLrA9TneNEoa7RxnatzjcDSCmG1MXxSR1GAsXEV/Dwwykc2MPK8M2HN" crossorigin="anonymous">
+    <link
+        href="https://fonts.googleapis.com/css2?family=Poppins:ital,wght@0,400;0,500;0,600;0,700;0,800;0,900;1,400;1,500;1,600;1,700;1,800&display=swap"
+        rel="stylesheet">
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.2/dist/css/bootstrap.min.css" rel="stylesheet"
+        integrity="sha384-T3c6CoIi6uLrA9TneNEoa7RxnatzjcDSCmG1MXxSR1GAsXEV/Dwwykc2MPK8M2HN" crossorigin="anonymous">
 
     <!-- Core Style -->
     <link rel="stylesheet" href="style.css">
@@ -42,17 +46,18 @@
     <!-- Niche Demos -->
     <link rel="stylesheet" href="demos/store/store.css">
 
-    <link href="https://db.onlinewebfonts.com/c/6e2da64b88f7e60cda1df63cb63cc8f2?family=Canela+Deck+Bold" rel="stylesheet">
+    <link href="https://db.onlinewebfonts.com/c/6e2da64b88f7e60cda1df63cb63cc8f2?family=Canela+Deck+Bold"
+        rel="stylesheet">
     <link rel="stylesheet" href="./assets/css/index.css">
 
     <!-- Bootstrap Bundle with Popper -->
-   <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0-alpha1/dist/js/bootstrap.min.js"></script>
+    <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0-alpha1/dist/js/bootstrap.min.js"></script>
 
 
     <script src="https://kit.fontawesome.com/a076d05399.js"></script>
     <script src="https://cdn.jsdelivr.net/npm/popper.js@1.16.0/dist/umd/popper.min.js"></script>
     <script src="https://cdn.jsdelivr.net/npm/@popperjs/core@2.11.6/dist/umd/popper.min.js"></script>
-    
+
 
 
 </head>
@@ -70,37 +75,55 @@
         <section style="background-color: #001055;">
             <div class="container-fluid d-flex justify-content-start px-5 py-3 ps-4">
                 <img src="./logo.png" alt="" class="navbar-logo">
-
             </div>
         </section>
 
-        <div class="side-buttons-123 d-none d-sm-block">
-            <div class="button-456" id="button1">
-
-                <span class="text-789">Enquir Now</span>
-                <i class="fas fa-cog"></i>
-            </div>
-            <div class="button-456" id="button2">
-                <span class="text-789">Info</span>
-                <i class="fas fa-info-circle"></i>
-            </div>
+        <div class="side-button-container">
+            <a href="https://admissions.tmu.ac.in/">
+                <div class="expandable-button d-none d-sm-block" id="button1">
+                    <img class="new-arrow" id="new-menu-icon" src="assets/img/icons/enquire-side.svg" width="25px"
+                        alt="Menu Icon">
+                    <span class="text">Enquir Now</span>
+                </div>
+            </a>
+            <a href="https://www.tmu.ac.in/virtual-tour" target="blank">
+                <div class="expandable-button d-none d-sm-block" id="button2">
+                    <img class="new-arrow" id="new-menu-icon" src="assets/img/icons/call-side.svg" width="25px"
+                        alt="Icon 1">
+                    <span class="text">Call</span>
+                </div>
+            </a>
+            <a href="tel:18002701490" target="blank">
+                <div class="expandable-button d-none d-sm-block" id="button3">
+                    <img src="assets/img/icons/Whatsapp-side.svg" width="25px" alt="Icon 1">
+                    <span class="text">Whatsapp</span>
+                </div>
+            </a>
         </div>
 
         <div class="new-menu-container d-block d-sm-none">
-            <div class="new-menu-btn" id="new-menu-btn" onclick="toggleNewMenu()" ontouchstart="handleTouchStart(event)" ontouchmove="handleTouchMove(event)" ontouchend="handleTouchEnd()">
+            <div class="new-menu-btn" id="new-menu-btn" onclick="toggleNewMenu()" ontouchstart="handleTouchStart(event)"
+                ontouchmove="handleTouchMove(event)" ontouchend="handleTouchEnd()">
 
-                <img class="new-arrow" id="new-menu-icon" src="assets/img/icons/arrowu.png" width="25px" alt="Menu Icon"> <!-- Replace arrow with your image -->
+                <img class="new-arrow" id="new-menu-icon" src="assets/img/icons/arrowu.png" width="25px"
+                    alt="Menu Icon"> <!-- Replace arrow with your image -->
             </div>
             <div class="new-menu-row">
-                <div class="new-menu-item"><span><a href="https://www.tmu.ac.in/" style="color: #fff; text-decoration: none;">Enquir Now</a></span></div>
+                <div class="new-menu-item"><span><a href="https://www.tmu.ac.in/"
+                            style="color: #fff; text-decoration: none;">Enquir Now</a></span></div>
                 <div class="new-vl"></div>
                 <div class="new-menu-item"><span>TMU Online</span></div>
             </div>
             <div class="new-menu" id="new-menu">
                 <div class="new-menu-row">
-                    <div class="new-menu-item"><a href="https://api.whatsapp.com/send/?phone=919258112544&text&type=phone_number&app_absent=0" target="blank"><img src="assets/img/icons/Whatsapp.png" height="25px" width="auto" alt="Icon 1"></a></div>
-                    <div class="new-menu-item"><a href="https://www.tmu.ac.in/virtual-tour" target="blank"><img src="assets/img/icons/360.png" height="25px" width="auto" alt="Icon 2"></a></div>
-                    <div class="new-menu-item"><a href="tel:18002701490" target="blank"><img src="assets/img/icons/call.png" height="25px" width="auto" alt="Icon 1"></a></div>
+                    <div class="new-menu-item"><a
+                            href="https://api.whatsapp.com/send/?phone=919258112544&text&type=phone_number&app_absent=0"
+                            target="blank"><img src="assets/img/icons/Whatsapp.png" height="25px" width="auto"
+                                alt="Icon 1"></a></div>
+                    <div class="new-menu-item"><a href="https://www.tmu.ac.in/virtual-tour" target="blank"><img
+                                src="assets/img/icons/360.png" height="25px" width="auto" alt="Icon 2"></a></div>
+                    <div class="new-menu-item"><a href="tel:18002701490" target="blank"><img
+                                src="assets/img/icons/call.png" height="25px" width="auto" alt="Icon 1"></a></div>
                 </div>
             </div>
         </div>

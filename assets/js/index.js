@@ -727,18 +727,32 @@ function touchEnd(event) {
 
 
 // JavaScript code to expand side buttons for 5 seconds
-document.addEventListener('DOMContentLoaded', function () {
-    var buttons = document.querySelectorAll('.button-456');
-    buttons.forEach(function (button) {
-        button.style.width = '130px';
+document.addEventListener("DOMContentLoaded", function() {
+    const buttons = document.querySelectorAll('.expandable-button');
+    
+    // Expand buttons on page load
+    buttons.forEach(button => {
+        button.classList.add('expanded');
     });
-    setTimeout(function () {
-        buttons.forEach(function (button) {
-            button.style.width = '40px';
-        });
-    }, 5000); // Expand for 5 seconds
-});
 
+    // Collapse buttons after 5 seconds
+    setTimeout(() => {
+        buttons.forEach(button => {
+            button.classList.remove('expanded');
+            button.classList.add('minimized');
+        });
+    }, 5000);
+
+    // Expand buttons on hover
+    buttons.forEach(button => {
+        button.addEventListener('mouseover', () => {
+            button.classList.remove('minimized');
+        });
+        button.addEventListener('mouseout', () => {
+            button.classList.add('minimized');
+        });
+    });
+});
 // <!--side buttons js ends-->
 
 
