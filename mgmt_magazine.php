@@ -6,9 +6,7 @@ include 'head.php';
     <div class="content-wrap py-0">
         <div class="container-fluid my-0  px-0 px-md-3">
             <div class="row">
-                <?php
-                    include 'sidebar/management_sidebar.php';
-                ?>
+                <?php include 'sidebar/management_sidebar.php'; ?>
                 <div class="col-12 col-md-10 mt-3 mt-sm-0 pt-5 ">
                     <h1 class="tmu-text-primary tmu-page-heading"><span> Event </span><span>Magazine</span></h1>
                     <!-- Posts
@@ -18,7 +16,7 @@ include 'head.php';
 
                             <div class="clear"></div>
 
-                            <div class="entry event col-lg-4 col-md-6 col-sm-6 mb-3 ">
+                             <div class="entry event col-lg-4 col-md-6 col-sm-6 mb-3 ">
                                 <div
                                     class="grid-inner row g-0 p-4 bg-transparent shadow-sm h-shadow all-ts h-translatey-sm card border">
                                     <div class="entry-image">
