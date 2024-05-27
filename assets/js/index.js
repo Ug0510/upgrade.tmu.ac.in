@@ -1085,7 +1085,7 @@ document.addEventListener('DOMContentLoaded', function () {
 
 
 
-	document.addEventListener('load', function() {
+	window.addEventListener('DOMContentLoaded', function() {
 		// Simulate a delay (e.g., 2000 milliseconds or 2 seconds)
 		setTimeout(function() {
 
