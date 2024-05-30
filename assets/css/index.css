@@ -2629,9 +2629,10 @@ body {
 }
 
 .expandable-button {
-    background-color: #ff7900;
+    background-color: #ffffff;
+    border: 1px solid #ff7900;
     color: white;
-    padding: 10px;
+    padding: 8px;
     border-top-left-radius: 5px;
     border-bottom-left-radius: 5px;
     width: 200px;
@@ -2652,6 +2653,8 @@ body {
 .expandable-button .text {
     white-space: nowrap;
     margin-left: 20px;
+    padding: 10px;
+    color: #ff7900;
 }
 
 .expandable-button.minimized {

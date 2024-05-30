@@ -81,14 +81,14 @@
         <div class="side-button-container">
             <a href="https://admissions.tmu.ac.in/">
                 <div class="expandable-button d-none d-sm-block" id="button1">
-                    <img class="new-arrow" id="new-menu-icon" src="assets/img/icons/enquire-side.svg" width="25px"
+                    <img class="new-arrow" id="new-menu-icon" src="assets/img/icons/enquire-side-orange.svg" width="25px"
                         alt="Menu Icon">
-                    <span class="text">Enquir Now</span>
+                    <span class="text">Enquire Now</span>
                 </div>
             </a>
             <a href="https://www.tmu.ac.in/virtual-tour" target="blank">
                 <div class="expandable-button d-none d-sm-block" id="button2">
-                    <img class="new-arrow" id="new-menu-icon" src="assets/img/icons/call-side.svg" width="25px"
+                    <img class="new-arrow" id="new-menu-icon" src="assets/img/icons/call-side-orange.svg" width="25px"
                         alt="Icon 1">
                     <span class="text">Call</span>
                 </div>
