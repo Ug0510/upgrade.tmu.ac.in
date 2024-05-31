@@ -1066,6 +1066,17 @@ CSS For Mobile View
     }
 
 
+    @media screen and (max-width:480px) {
+        .items-nav{
+            display: flex;
+            flex-direction: column;
+        }
+        .items-nav li::before {
+            display: none;
+        }
+    }
+
+
 
     .underline__effect_permanent:after {
         display: block;
