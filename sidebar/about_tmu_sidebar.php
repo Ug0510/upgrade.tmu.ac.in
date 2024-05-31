@@ -33,7 +33,7 @@
 		<li>
 			<hr>
 		</li>
-		<li><a href="#" class="text-dark fw-semibold side-head" data-filter="*">University Administration</a></li>
+		<li class="no-divider"><a href="#" class="text-dark fw-semibold side-head" data-filter="*">University Administration</a></li>
 		<li><a href="/chancellor_desk.php" data-filter=".sf-cahncellor">Chancellor</a></li>
 		<li><a href="/founder_vice_chancellor_desk.php" data-filter=".sf-founder">Founder Vice Chacellor</a></li>
 		<li><a href="vice_chancellor_desk.php" data-filter=".sf-vicechancellor">Vice Chancellor</a></li>
