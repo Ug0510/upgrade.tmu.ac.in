@@ -7,7 +7,7 @@
         <div class="container-fluid my-0  px-0 px-md-3">
             <div class="row">
                 <?php include 'sidebar/examination_system_sidebar.php'; ?>
-                <div class="col-12 col-md-10 mt-3 mt-sm-0 pt-5 ">
+                <div class="col-12 col-sm-9 col-lg-10 mt-3 mt-sm-0 pt-2 pt-sm-5 ">
                     <h1 class="tmu-text-primary tmu-page-heading"><span> Examination </span><span> Ordinance</span></h1>
                     <div class="container">
                         <div class="row">

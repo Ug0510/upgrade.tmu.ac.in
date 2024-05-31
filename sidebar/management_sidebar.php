@@ -1,4 +1,4 @@
-<div class="col-md-2 col-lg-2 sticky-sidebar-wrap pe-5 py-0 py-lg-3" style="background-color: #55555510;">
+<div class="col-sm-3 col-lg-2 sticky-sidebar-wrap pe-5 py-0 py-lg-3" style="background-color: #55555510;">
 
 	<span class="undernav-locator mb-2 ms-3">
 		<span style="color:#fe8d00" ; style="font-size:24px"><a href="/"><i class="fa-solid fa-house"></i></a></span>

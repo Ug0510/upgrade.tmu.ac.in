@@ -9,7 +9,7 @@
                 <?php
                     include 'sidebar/research_sidebar.php';
                 ?>
-                <div class="col-12 col-md-10 mt-3 mt-sm-0 pt-5 ">
+                <div class="col-12 col-sm-9 col-lg-10 mt-3 mt-sm-0 pt-2 pt-sm-5 ">
                     <h1 class="tmu-text-primary tmu-page-heading"><span>TMU </span><span> Conferences</span></h1>
                     <!-- Write content for right side here  -->
                     <div class="container">

@@ -12,7 +12,7 @@ include 'head.php';
                 <?php
                 include 'sidebar/about_tmu_sidebar.php';
                 ?>
-                <div class="col-12 col-md-10 mt-3 mt-sm-0 pt-5 ">
+                <div class="col-12 col-sm-9 col-lg-10 mt-3 mt-sm-0 pt-2 pt-sm-5 ">
                     <div class="container">
                         <div class="row">
                             <h2 class=" text-center" style="color:#001055; text-transform: capitalize; font-weight:700!important;"> Vice <span>Chancellor Desk</span></h2>

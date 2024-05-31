@@ -12,7 +12,7 @@ include 'head.php';
         ?>
 
 
-        <div class="col-12 col-md-10 mt-3 mt-sm-0 pt-5">
+        <div class="col-12 col-sm-9 col-lg-10 mt-3 mt-sm-0 pt-2 pt-sm-5">
           <!-- Write content for right side here  -->
 
           <h1 class="tmu-text-primary tmu-page-heading"><span>Policies &</span><span> Sops</span></h1>

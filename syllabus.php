@@ -8,7 +8,7 @@
             <div class="row">
                 <?php include 'sidebar/examination_system_sidebar.php'; ?>
 
-                <div class="col-12 col-md-10 mt-3 mt-sm-0 pt-5 ">
+                <div class="col-12 col-sm-9 col-lg-10 mt-3 mt-sm-0 pt-2 pt-sm-5 ">
                     <div class="row col-mb-10">
                         <h1 class="tmu-text-primary tmu-page-heading"><span> Study & </span><span> Evaluation Scheme</span>
                         </h1>

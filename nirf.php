@@ -10,7 +10,7 @@ include 'head.php';
                 <?php
                 include 'sidebar/nirf_sidebar.php';
                 ?>
-                <div class="col-12 col-md-10 mt-3 mt-sm-0 pt-5 ">
+                <div class="col-12 col-sm-9 col-lg-10 mt-3 mt-sm-0 pt-2 pt-sm-5 ">
                     <div class=" d-none d-sm-block">
                         <h2 class="hm text-center pt-2 tmu-text-primary" id="overall"><span>NIRF 2024 </span> <span> Overall Data</span></h3>
                         <div class="container">

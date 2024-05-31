@@ -7,7 +7,7 @@
                 <?php
                 include 'sidebar/management_sidebar.php';
                 ?>
-                <div class="col-12 col-md-10 mt-3 mt-sm-0 pt-5">
+                <div class="col-12 col-sm-9 col-lg-10 mt-3 mt-sm-0 pt-2 pt-sm-5">
                     <h1 class="tmu-text-primary tmu-page-heading"><span>Academic </span><span>Calendar</span></h1>
                         <div class="row">
                             <object data="https://www.tmu.ac.in/pdf/pdf/TMIMT_AC_23_24.pdf" type="application/pdf" width="100%" height="1120px">

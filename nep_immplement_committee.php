@@ -9,7 +9,7 @@ include 'head.php';
                 <?php
                 include 'sidebar/nep_sidebar.php';
                 ?>
-                <div class="col-12 col-md-10 mt-3 mt-sm-0 pt-5 ">
+                <div class="col-12 col-sm-9 col-lg-10 mt-3 mt-sm-0 pt-2 pt-sm-5 ">
                     <h1 class="tmu-text-primary tmu-page-heading"><span>2-NEP Immplementation </span><span> Committee</span></h1>
 
                     <object data="https://www.tmu.ac.in/pdf/research/Circulars_R.O._2023-24_002.pdf" type="application/pdf" width="100%" height="1100px">

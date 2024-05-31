@@ -11,7 +11,7 @@ include 'head.php';
                 include 'sidebar/medical_sidebar.php';
                 ?>
 
-                <div class="col-12 col-md-10 mt-3 mt-sm-0 pt-5 ">
+                <div class="col-12 col-sm-9 col-lg-10 mt-3 mt-sm-0 pt-2 pt-sm-5 ">
                     <div class="row mx-0">
                         <h1 class="tmu-text-primary tmu-page-heading"><span>College </span><span>Gallery</span></h1>
                         <div class="container">
