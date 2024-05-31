@@ -34,14 +34,14 @@ include 'head.php';
                         <div class="container">
                             <object data="https://www.tmu.ac.in/pdf/nirf/2024/TMU_NIRF_2024_Medical.pdf" type="application/pdf" width="100%" height="1100px">
                                 <p>Your web browser doesn't have a PDF plugin. Instead you can</p>
-                                <center><a type="button" class="btn btn-success btn-lg btn-rounded text-lg waves-effect waves-light" href="https://www.tmu.ac.in/pdf/nirf/2024/TMU_NIRF_2024_Medical.pdf" download type="application/pdf"><i class="fa fa-download fa-2x pr-2" aria-hidden="true"></i>Click here to download PDF file.</a></center>
+                                <center><a type="button" class="tmu-btn btn-1 btn-lg btn-rounded text-lg waves-effect waves-light" href="https://www.tmu.ac.in/pdf/nirf/2024/TMU_NIRF_2024_Medical.pdf" download type="application/pdf"><i class="fa fa-download fa-2x pr-2" aria-hidden="true"></i>Click here to download PDF file.</a></center>
                             </object>
                         </div>
                         <h2 class="hm text-center pt-2 tmu-text-primary" id="dental" ><span>NIRF 2024</span> <span> Dental Data</span></h2>
                         <div class="container">
                             <object data="https://www.tmu.ac.in/pdf/nirf/2024/TMU_NIRF_2024_Dental.pdf" type="application/pdf" width="100%" height="1100px">
                                 <p>Your web browser doesn't have a PDF plugin. Instead you can</p>
-                                <center><a type="button" class="btn btn-success btn-lg btn-rounded text-lg waves-effect waves-light" href="https://www.tmu.ac.in/pdf/nirf/2024/TMU_NIRF_2024_Dental.pdf" download type="application/pdf"><i class="fa fa-download fa-2x pr-2" aria-hidden="true"></i>Click here to download PDF file.</a></center>
+                                <center><a type="button" class="tmu-btn btn-1 btn-lg btn-rounded text-lg waves-effect waves-light" href="https://www.tmu.ac.in/pdf/nirf/2024/TMU_NIRF_2024_Dental.pdf" download type="application/pdf"><i class="fa fa-download fa-2x pr-2" aria-hidden="true"></i>Click here to download PDF file.</a></center>
                             </object>
                         </div> -->
                     </div>

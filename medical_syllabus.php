@@ -75,7 +75,7 @@ include 'head.php';
                                         <div class="col-md-12">
 										<object data="assets/pdf/BSC-Anatom_2022-23.pdf" type="application/pdf" width="100%" height="1150px">
 		                					<p>Your web browser doesn't have a PDF plugin.  Instead you can</p>
-		                					<center><a type="button" class="btn btn-success btn-lg btn-rounded text-lg waves-effect waves-light" href="assets/pdf/BSC-Anatom_2022-23.pdf" download type="assets/pdf/BSC-Anatom_2022-23.pdf"><i class="fa fa-download fa-2x pr-2" aria-hidden="true"></i>Click here to download PDF file.</a></center>
+		                					<center><a type="button" class="tmu-btn btn-1 btn-lg btn-rounded text-lg waves-effect waves-light" href="assets/pdf/BSC-Anatom_2022-23.pdf" download type="assets/pdf/BSC-Anatom_2022-23.pdf"><i class="fa fa-download fa-2x pr-2" aria-hidden="true"></i>Click here to download PDF file.</a></center>
 	                					</object>
                                         </div>
 									</form>

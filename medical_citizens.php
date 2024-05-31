@@ -14,7 +14,7 @@ include 'head.php';
                         <h1 class="tmu-text-primary tmu-page-heading"><span>Citizen's </span><span> Character</span></h1>
                     <object data="https://www.tmu.ac.in/pdf/medical/citizen_charter.pdf" type="application/pdf" width="100%" height="1100px">
 		                <p>Your web browser doesn't have a PDF plugin.  Instead you can</p>
-		                <center><a type="button" class="btn btn-success btn-lg btn-rounded text-lg waves-effect waves-light" href="https://www.tmu.ac.in/pdf/medical/citizen_charter.pdf" download type="application/pdf"><i class="fa fa-download fa-2x pr-2" aria-hidden="true"></i>Click here to download PDF file.</a></center>
+		                <center><a type="button" class="tmu-btn btn-1 btn-lg btn-rounded text-lg waves-effect waves-light" href="https://www.tmu.ac.in/pdf/medical/citizen_charter.pdf" download type="application/pdf"><i class="fa fa-download fa-2x pr-2" aria-hidden="true"></i>Click here to download PDF file.</a></center>
 	                </object>
                 </div>
             </div>

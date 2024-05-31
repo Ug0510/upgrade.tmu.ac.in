@@ -2745,7 +2745,7 @@
                                             <!-- <div class="row align-items-center mb-2 d-flex">
 										<div class="col-8">
 											<h2 class="d-flex align-items-center mb-0">
-												<a href="#" class="btn btn-success">Colleges</a>
+												<a href="#" class="tmu-btn btn-1">Colleges</a>
 											</h2>
 										</div>
 
@@ -2767,7 +2767,7 @@
                                             <!-- <div class="row align-items-center mb-2 d-flex">
 										<div class="col-8">
 											<h2 class="d-flex align-items-center mb-0">
-												<a href="#" class="btn btn-success">Scholership</a>
+												<a href="#" class="tmu-btn btn-1">Scholership</a>
 											</h2>
 										</div>
 
@@ -2848,7 +2848,7 @@
                                                 <!-- <div class="row align-items-center mb-2 d-flex">
 										<div class="col-8">
 											<h2 class="d-flex align-items-center mb-0">
-												<a href="#" class="btn btn-success">Colleges</a>
+												<a href="#" class="tmu-btn btn-1">Colleges</a>
 											</h2>
 										</div>
 
@@ -2871,7 +2871,7 @@
                                                 <!-- <div class="row align-items-center mb-2 d-flex">
 										<div class="col-8">
 											<h2 class="d-flex align-items-center mb-0">
-												<a href="#" class="btn btn-success">Scholership</a>
+												<a href="#" class="tmu-btn btn-1">Scholership</a>
 											</h2>
 										</div>
 

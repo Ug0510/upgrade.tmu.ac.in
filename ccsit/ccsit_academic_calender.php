@@ -20,7 +20,7 @@
             <object data="pdf/ccsit/University-Academic-Calendar-2023-24.pdf" type="application/pdf" width="100%"
                 height="1120px">
                 <p>Your web browser doesn't have a PDF plugin. Instead you can</p>
-                <center><a type="button" class="btn btn-success btn-lg btn-rounded text-lg waves-effect waves-light"
+                <center><a type="button" class="tmu-btn btn-1 btn-lg btn-rounded text-lg waves-effect waves-light"
                         href="pdf/ccsit/University-Academic-Calendar-2023-24.pdf"
                         download="pdf/ccsit/University-Academic-Calendar-2023-24.pdf" data-uw-pdf-br="2"
                         data-uw-pdf-doc=""><i class="fa fa-download fa-2x pr-2" aria-hidden="true"></i>Click here to

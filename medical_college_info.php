@@ -379,7 +379,7 @@ include 'head.php';
                                     <div class="panel">
                                         <object data="https://www.tmu.ac.in/pdf/medical/department_wise_faculty_list.pdf" type="application/pdf" width="100%" height="1180px">
 							                <p>Your web browser doesn't have a PDF plugin.  Instead you can</p>
-							                <center><a type="button" class="btn btn-success btn-lg btn-rounded text-lg waves-effect waves-light" href="https://www.tmu.ac.in/pdf/pdf/department_wise_faculty_list.pdf" download type="application/pdf"><i class="fa fa-download fa-2x pr-2" aria-hidden="true"></i>Click here to download PDF file.</a></center>
+							                <center><a type="button" class="tmu-btn btn-1 btn-lg btn-rounded text-lg waves-effect waves-light" href="https://www.tmu.ac.in/pdf/pdf/department_wise_faculty_list.pdf" download type="application/pdf"><i class="fa fa-download fa-2x pr-2" aria-hidden="true"></i>Click here to download PDF file.</a></center>
 						                </object>
                                     </div>
                                         <hr class="horizontal-line">
@@ -387,7 +387,7 @@ include 'head.php';
                                         <div class="panel">
                                             <object data="https://www.tmu.ac.in/pdf/medical/publication_and_other_details.pdf" type="application/pdf" width="100%" height="1180px">
 							                    <p>Your web browser doesn't have a PDF plugin.  Instead you can</p>
-							                    <center><a type="button" class="btn btn-success btn-lg btn-rounded text-lg waves-effect waves-light" href="https://www.tmu.ac.in/pdf/pdf/publication_and_other_details.pdf" download type="application/pdf"><i class="fa fa-download fa-2x pr-2" aria-hidden="true"></i>Click here to download PDF file.</a></center>
+							                    <center><a type="button" class="tmu-btn btn-1 btn-lg btn-rounded text-lg waves-effect waves-light" href="https://www.tmu.ac.in/pdf/pdf/publication_and_other_details.pdf" download type="application/pdf"><i class="fa fa-download fa-2x pr-2" aria-hidden="true"></i>Click here to download PDF file.</a></center>
 						                    </object>
                                         </div>
                                     <hr class="horizontal-line">
