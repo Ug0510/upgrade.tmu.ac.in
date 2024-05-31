@@ -1,5 +1,5 @@
 <div class="col-12 d-sm-none" style="background-color: #55555510;">
-<span class="undernav-locator mb-2 ms-3 ">
+	<span class="undernav-locator mb-2 ms-3">
 		<span style="color:#fe8d00" ; style="font-size:24px"><a href="/"><i class="fa-solid fa-house"></i></a></span>
 		<i class="fa-solid fa-chevron-right" style="color:#fe8d00"></i>
 		<span style="color:#001055; font-weight:700;">TMU IIC</span>

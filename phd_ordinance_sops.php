@@ -77,7 +77,11 @@ p {
 					<div class="row">
 						<div class="col-md-3 col-lg-2 sticky-sidebar-wrap pe-5 py-0 py-lg-3 side-line">
 						     <span class="navigation-button"> &larr; <a href="https://upgrade.tmu.ac.in/research.php">Home</a></span>
-         <ul class="list-unstyled items-nav sticky-sidebar shop-filter mt-3 d-none d-sm-block" data-container="#shop">
+         <p class="text-center fs-24 tmu-color mt-3 fw-bold tmu-text-primary d-sm-none">
+		<span>Quick </span><span>Links</span>
+	</p>
+
+	<ul class="list-unstyled items-nav sticky-sidebar shop-filter mt-3 d-none d-sm-block" data-container="#shop">
                              <li><a href="#" class="text-dark fw-semibold side-head" data-filter="*">Research at a Glance</a></li>
                             <li><a href="/research.php">About Research Development Centre</a></li>
                             <li><a href="/research_policy.php">Research Policy</a></li>
