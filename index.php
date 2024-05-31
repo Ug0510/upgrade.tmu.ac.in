@@ -7,7 +7,7 @@ include 'head.php';
 <section id="slider" class="slider-element revslider-wrap min-vh-0 include-header">
     <div class="slider-inner">
         <div class="container-fluid p-0">
-            <div class="video-banner" style="height: 90vh;">
+            <div class="video-banner">
                 <!-- <img src="./assets/image/banner-poster.jpg" alt="" id="banner-tmu-img"> -->
                 <!-- <video muted loop autoplay id="main-banner-vid" class="d-none" poster="./assets/image/banner-poster.jpg" src="#"> -->
                 <!-- </video> -->

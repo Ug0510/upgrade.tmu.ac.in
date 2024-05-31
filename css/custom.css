@@ -623,6 +623,14 @@
 			height: auto;
 		}
 
+		@media screen and (max-width:1024px) {
+			.video-banner video{
+				width: auto;
+				height: 100%;
+				object-fit: cover;
+			}
+		}
+
 		.overlay {
 			position: absolute;
 			top: 0;

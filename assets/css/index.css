@@ -3391,3 +3391,13 @@ Principal desk css end
 }
 /* new page tittle end */
 
+/* Video banner css */
+.video-banner{
+    height: auto;
+}
+
+@media screen and (max-width:1024px) {
+    .video-banner{
+        height: 90vh;
+    }
+}
