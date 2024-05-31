@@ -62,7 +62,7 @@ include 'head.php';
 <?php
  include 'sidebar/crc_sidebar.php';
 ?>
-                <div class="col-12 col-md-10 mt-3 mt-sm-0 pt-5 ">
+                <div class="col-12 col-sm-9 col-lg-10 mt-3 mt-sm-0 pt-2 pt-sm-5 ">
                     <!-- <h3 class="mb-2 pb-0"><b>University Administration</b> </h3> -->
         <div class="container">
             <div class="row row-cols-1 row-cols-md-3 g-4 mt-5">

@@ -10,7 +10,7 @@ include 'head.php';
                 <?php
                 include 'sidebar/engineering_iqac_sidebar.php';
                 ?>
-                <div class="col-12 col-md-10 mt-3 mt-sm-0 pt-5 ">
+                <div class="col-12 col-sm-9 col-lg-10 mt-3 mt-sm-0 pt-2 pt-sm-5 ">
                     <div class="">
                         <div class="container">
                         <h1 class="tmu-text-primary tmu-page-heading" id="overall"><span>Internal Quality </span> <span> Assurance Cell (IQAC) </span></h1>

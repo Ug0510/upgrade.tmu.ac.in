@@ -10,7 +10,7 @@ include 'head.php';
                 include 'sidebar/nep_sidebar.php';
                 ?>
 
-                <div class="col-12 col-md-10 mt-3 mt-sm-0 pt-5 ">
+                <div class="col-12 col-sm-9 col-lg-10 mt-3 mt-sm-0 pt-2 pt-sm-5 ">
                     <h1 class="tmu-text-primary tmu-page-heading"><span>The National Education Policy </span><span> (NEP) 2020 PREAMBLE</span></h2>
 
                     <div class="container">
