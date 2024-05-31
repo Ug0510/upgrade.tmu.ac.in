@@ -20,7 +20,7 @@ include 'sidebar/open_elective_sidebar.php';
                             height="1120px">
                             <p>Your web browser doesn't have a PDF plugin. Instead you can</p>
                             <center><a type="button"
-                                    class="btn btn-success btn-lg btn-rounded text-lg waves-effect waves-light"
+                                    class="tmu-btn btn-1 m-0 py-1 px-2 mb-3"
                                     href="https://www.tmu.ac.in/pdf/cbcs/cbcs_law.pdf"
                                     download="https://www.tmu.ac.in/pdf/cbcs/cbcs_law.pdf" data-uw-pdf-br="2"
                                     data-uw-pdf-doc=""><i class="fa fa-download fa-2x pr-2" aria-hidden="true"></i>Click

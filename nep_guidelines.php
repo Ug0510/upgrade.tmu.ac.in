@@ -18,7 +18,7 @@ include 'head.php';
                             quality higher education must aim to develop good, thoughtful, well-rounded, and creative individuals”. Further, it also recommends that “the undergraduate degree will be of either 3 or 4-year duration, with multiple exit options within this period, with appropriate certifications, e.g., a UG certificate after completing 1 year in a discipline or field including vocational and professional areas, or a UG diploma after 2 years of study, or a bachelor’s degree after a 3-year programme. The 4- year multidisciplinary bachelor’s programme, however, shall be the preferred option since it allows the opportunity to experience the full range of holistic and multidisciplinary education in addition to a focus on the chosen major and minors as per the choices of the student”.</p>
                         <br>
                         <h3>For More Information Download Pdf File</h3>
-                        <center><a type="button" class="button button-mini mb-3 text-left" style="background-color:#FF7900;" href="https://www.tmu.ac.in/pdf/nep_cell_2020/guidelines/Guidelines1.pdf" download type="application/pdf"><i class="bi-download" aria-hidden="true"></i>Click here to download PDF file.</a></center>
+                        <center><a type="button" class="tmu-btn btn-1 m-0 py-1 px-2 mb-3" href="https://www.tmu.ac.in/pdf/nep_cell_2020/guidelines/Guidelines1.pdf" download type="application/pdf"><i class="bi-download" aria-hidden="true"></i> Click here to download PDF file.</a></center>
                     </div>
                 </div>
             </div>

@@ -14,7 +14,7 @@ include 'head.php';
         <div class="col-12 col-sm-9 col-lg-10 mt-3 mt-sm-0 pt-2 pt-sm-5 ">
 
           <div class="row mx-0">
-            <h1 class="tmu-text-primary tmu-page-heading" ><span>University </span><span class="d-block d-sm-inline"> Organogram</span></h1>
+            <h1 class="mb-2 tmu-text-primary tmu-page-heading" ><span>University </span><span class="d-block d-sm-inline"> Organogram</span></h1>
 
             <div class="col-md-12 mb-4">
               <img class="card-img-top" src="images/stock_images/TMU_organogram.jpg" alt="Card image cap">

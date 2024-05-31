@@ -11,7 +11,7 @@ include 'head.php';
 				?>
 				<div class="col-12 col-sm-9 col-lg-10 mt-3 mt-sm-0 pt-2 pt-sm-5">
 					<div class="row mx-0 mb-3">
-						<h1 class="tmu-text-primary tmu-page-heading" ><span>Frequently Asked </span><span> Questions</span></h1>
+						<h1 class="mb-2 tmu-text-primary tmu-page-heading" ><span>Frequently Asked </span><span> Questions</span></h1>
 
 						<hr class="horizontal-line">
 						<button class="careers-accordion">What is the selection process for admission to Ph.D.? <span class="icon">+</span></button>

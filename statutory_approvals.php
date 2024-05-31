@@ -15,15 +15,15 @@ include 'head.php';
 					<!-- Write content for right side here  -->
 
 					<div class="row mx-0">
-						<h1 class="tmu-text-primary tmu-page-heading"><span>Statutory </span><span> Approvals</span></h1>
+						<h1 class="mb-2 tmu-text-primary tmu-page-heading"><span>Statutory </span><span> Approvals</span></h1>
 						<p>The Teerthanker Mahaveer University, established by an 'Act' of the Government of Uttar Pradesh, and approved by the <strong class="fs-14"><a href="http://www.ugc.ac.in/privateuniversitylist.aspx?id=33&Unitype=3">University Grants Commission (UGC)</a></strong>, since inception in 2008, is the preferred destination for students of modern sciences and myriad subjects in languages and arts.</p>
 
 
-						<h3 class="mb-0 mt-3 pb-0 fw-bold">State Government Recognition</h3>
+						<h3 class="mb-2 mt-3 pb-0 fw-bold">State Government Recognition</h3>
 
 						<p>Teerthanker Mahaveer University is a Jain Minority State Private University established by Act No. 30 to 2008 of the Government of Uttar Pradesh.</p>
 
-						<div class="row">
+						<div class="row  mx-0">
 							<div class="col-md-4">
 								<div class="card text-center">
 									<div class="card-body">
@@ -64,7 +64,7 @@ include 'head.php';
 								</div>
 							</div>
 						</div>
-						<div class="row">
+						<div class="row  mx-0">
 							<h3 class="mb-1 mt-2 pb-0 fw-bold">UG Government Recognition</h3>
 							<div class="col-md-9">
 								<p class="text-justify mb-4">Teerthanker Mahaveer University has been approved by University Grants Commission (UGC) under Section 2(f) and has powers to award degrees u/s 22(1) of UGC Act, 1956.</p>
@@ -74,7 +74,7 @@ include 'head.php';
 								<img class="img-fluid mb-3" src="https://www.tmu.ac.in/img/approval/ugc.png" alt="TMU approved by UGC" height="200">
 							</div>
 						</div>
-						<div class="row">
+						<div class="row  mx-0">
 							<div class="col-md-4">
 								<div class="card text-center">
 									<div class="card-body">
@@ -122,10 +122,9 @@ include 'head.php';
 
 
 
-					<div class="row ps-1">
-
-						<h3 class="mb-0 mt-3 pb-0">Approval by Regulatory Bodies</h3>
-						<p class="my-2">The University has the necessary approvals of all the regulatory bodies governing different programmes detailed as under:</p>
+					<div class="row  mx-0">
+						<h3 class="mb-3 mt-3 pb-0 fw-bold">Approval by Regulatory Bodies</h3>
+						<p class="text-justify mb-4">The University has the necessary approvals of all the regulatory bodies governing different programmes detailed as under:</p>
 
 						<div class="table-responsive mb-4">
 

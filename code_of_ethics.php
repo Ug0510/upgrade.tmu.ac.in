@@ -40,7 +40,7 @@
                                         type="application/pdf" width="100%" height="1100px">
                                         <p>Your web browser doesn't have a PDF plugin. Instead you can</p>
                                         <center><a type="button"
-                                                class="btn btn-success btn-lg btn-rounded text-lg waves-effect waves-light"
+                                                class="tmu-btn btn-1 m-0 py-1 px-2 mb-3"
                                                 href="https://www.tmu.ac.in/pdf/code_of_ethics/publication_ethics_course.pdf"
                                                 download type="application/pdf"><i class="fa fa-download fa-2x pr-2"
                                                     aria-hidden="true"></i>Click here to download PDF file.</a>
@@ -53,7 +53,7 @@
                                         type="application/pdf" width="100%" height="1100px">
                                         <p>Your web browser doesn't have a PDF plugin. Instead you can</p>
                                         <center><a type="button"
-                                                class="btn btn-success btn-lg btn-rounded text-lg waves-effect waves-light"
+                                                class="tmu-btn btn-1 m-0 py-1 px-2 mb-3"
                                                 href="https://www.tmu.ac.in/pdf/code_of_ethics/research_ethics_committee.pdf"
                                                 download type="application/pdf"><i class="fa fa-download fa-2x pr-2"
                                                     aria-hidden="true"></i>Click here to download PDF file.</a>
@@ -66,7 +66,7 @@
                                         type="application/pdf" width="100%" height="1100px">
                                         <p>Your web browser doesn't have a PDF plugin. Instead you can</p>
                                         <center><a type="button"
-                                                class="btn btn-success btn-lg btn-rounded text-lg waves-effect waves-light"
+                                                class="tmu-btn btn-1 m-0 py-1 px-2 mb-3"
                                                 href="https://www.tmu.ac.in/pdf/code_of_ethics/publication_guidence_committee.pdf"
                                                 download type="application/pdf"><i class="fa fa-download fa-2x pr-2"
                                                     aria-hidden="true"></i>Click here to download PDF file.</a>

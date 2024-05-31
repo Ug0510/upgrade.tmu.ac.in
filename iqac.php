@@ -19,18 +19,17 @@ include 'head.php';
                 <div class="col-12 col-sm-9 col-lg-10 mt-3 mt-sm-0 pt-2 pt-sm-5">
                     <!-- Write content for right side here  -->
 
-                    <div class="row mx-0">
-                        <h1 class="tmu-text-primary tmu-page-heading"><span>About IQAC</span> <span>(Internal Quality Assurance Cell)</span></h1>
+                    <div class="row mx-0 mb-5">
+                        <h1 class="tmu-text-primary tmu-page-heading mb-1"><span>About IQAC</span> <span>(Internal Quality Assurance Cell)</span></h1>
                         <div id="" class="mb-20 last:mb-0">
-                            <div class="richtext fancylists prose-body mb-2">
+                            <div class="richtext fancylists prose-body mb-1">
                                 <p>The Internal Quality Assurance Cell (IQAC) is the cell that is formulated for monitoring the quality parameters in TMU. The Composition of IQAC members as per the recommendations given by National Assessment Accreditation Committee.</p>
                             </div>
                         </div>
-
-                        <div class="heading-block fancy-title border-bottom-0 title-bottom-border">
+                        <div class="heading-block fancy-title border-bottom-0 title-bottom-border mb-2 mt-2">
                             <h4>1. Stratergies<span></span></h4>
                         </div>
-                        <ol class="m-ol-list ps-5">
+                        <ol class="m-ol-list ps-5 mb-2">
                             <li>To ensure progressive and efficient performance of academic, administrative, and financial tasks in a timely manner.</li>
                             <li>Evolve mechanisms for assessing and ensuring the relevance and quality of academic and research programs.</li>
                             <li>Ensuring equitable access to and affordability of academic programs for various sections of society.</li>
@@ -40,10 +39,10 @@ include 'head.php';
                             <li>Research sharing and networking with other institutions in India and abroad.</li>
                         </ol>
 
-                        <div class="heading-block fancy-title border-bottom-0 title-bottom-border">
+                        <div class="heading-block fancy-title border-bottom-0 title-bottom-border mb-2 mt-2">
                             <h4>2. Functions:<span></span></h4>
                         </div>
-                        <ol class="m-ol-list ps-5">
+                        <ol class="m-ol-list ps-5 mb-2">
                             <li>Development and application of quality benchmarks for various academic and administrative activities of various departments and colleges and thus of the University.</li>
                             <li>Facilitating creation of a student-centric environment which is conducive to quality education.</li>
                             <li>Creating awareness amongst the faculty members to adopt the required knowledge and technology for participatory teaching and learning processes.</li>
@@ -56,10 +55,10 @@ include 'head.php';
                             <li>Preparation of the Annual Quality Assurance Report (AQAR) as per guidelines and parameters of NAAC, to be submitted to NAAC.</li>
                         </ol>
 
-                        <div class="heading-block fancy-title border-bottom-0 title-bottom-border">
-                            <h4>3. IQAC will facilitate / contribute::<span></span></h4>
+                        <div class="heading-block fancy-title border-bottom-0 title-bottom-border mb-2 mt-2">
+                            <h4>3. IQAC will facilitate / contribute:<span></span></h4>
                         </div>
-                        <ol class="m-ol-list ps-5">
+                        <ol class="m-ol-list ps-5 mb-2">
                             <li>Ensure heightened level of clarity and focus in institutional functioning towards quality enhancement.</li>
                             <li>Ensure internalization of the quality culture.</li>
                             <li>Ensure enhancement and coordination among various activities of the institution and institutionalize all good practices.</li>
@@ -68,10 +67,10 @@ include 'head.php';
                             <li>Build an organized methodology of documentation and internal communication.</li>
                         </ol>
 
-                        <div class="heading-block fancy-title border-bottom-0 title-bottom-border">
+                        <div class="heading-block fancy-title border-bottom-0 title-bottom-border mb-2 mt-2">
                             <h4>4. Outcomes of Activities of IQAC at TMU:<span></span></h4>
                         </div>
-                        <ol class="m-ol-list ps-5">
+                        <ol class="m-ol-list ps-5 mb-2">
                             <li>NAAC Accreditation</li>
                             <li>Ranking by NIRF (National Institutional Ranking Framework)</li>
                             <li>Annual reports of the University</li>

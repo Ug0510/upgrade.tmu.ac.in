@@ -16,7 +16,7 @@ include 'head.php';
 				?>
 				<div class="col-12 col-sm-9 col-lg-10 mt-3 mt-sm-0 pt-2 pt-sm-5 ">
 
-					<div class="row mx-0 mb-5">
+					<div class="row mx-0">
 						<h2 class=" text-center" style="color:#001055; text-transform: capitalize; font-weight:700!important; font-size:2.4vmax">About CRC <span class="d-block d-sm-inline">(Corporate Resource Centre)</span></h2>
 						<p>
 
@@ -28,7 +28,7 @@ include 'head.php';
 							<br>
 							<strong class="d-block mt-3">TMU with its very famous tag line ensures to bring out the best in 'U' through TMU.</strong>
 						</p>
-						<!-- <img src="./assets/img/placement-proces.png" class="w-75 d-block mx-auto mb-5" alt=""> -->
+						<img src="./assets/img/placement-proces.png" class="w-75 d-block mx-auto mb-5" alt="">
 					</div>
 
 				</div>

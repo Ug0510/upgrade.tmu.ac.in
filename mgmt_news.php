@@ -9,7 +9,7 @@
                     include 'sidebar/management_sidebar.php';
                 ?>
                 <div class="col-12 col-sm-9 col-lg-10 mt-3 mt-sm-0 pt-2 pt-sm-5">
-                    <h1 class="tmu-text-primary tmu-page-heading"><span>Placements </span><span> News</span></h1>
+                    <h1 class="tmu-text-primary tmu-page-heading">Placements <span class="d-block d-sm-inline"> News</span></h1>
                     <div class="container">
                         <div class="row col-mb-10 mb-2">
                             <div class="col-lg-4 col-md-6 col-sm-6 mb-3">
@@ -17,7 +17,7 @@
                                 <div class="posts-md">
                                     <div class="entry">
                                         <div class="entry-image">
-                                            <img src="assets/img/mgmt/placementnews/6_Feb_2023/34.webp"
+                                            <img src="images/tmimt/6_Feb_2023/04_feb_23.jpg"
                                                 alt="Tmimt Placements News">
                                         </div>
                                     </div>
@@ -29,7 +29,7 @@
                                 <div class="posts-md">
                                     <div class="entry">
                                         <div class="entry-image">
-                                            <img src="assets/img/mgmt/placementnews/6_Feb_2023/35.webp"
+                                            <img src="images/tmimt/6_Feb_2023/04_feb_23_2.jpg"
                                                 alt="Tmimt Placements News">
                                         </div>
                                     </div>
@@ -41,7 +41,7 @@
                                 <div class="posts-md">
                                     <div class="entry">
                                         <div class="entry-image">
-                                            <img src="assets/img/mgmt/placementnews/6_Feb_2023/36.webp" alt="Image">
+                                            <img src="images/tmimt/6_Feb_2023/04_feb_23_3.jpg" alt="Image">
                                         </div>
                                     </div>
                                 </div>
@@ -52,7 +52,7 @@
                                 <div class="posts-md">
                                     <div class="entry">
                                         <div class="entry-image">
-                                            <img src="assets/img/mgmt/placementnews/6_Feb_2023/37.webp" alt="Image">
+                                            <img src="images/tmimt/6_Feb_2023/04_feb_23_4.jpg" alt="Image">
                                         </div>
                                     </div>
                                 </div>
@@ -63,7 +63,7 @@
                                 <div class="posts-md">
                                     <div class="entry">
                                         <div class="entry-image">
-                                            <img src="assets/img/mgmt/placementnews/5_Jan_2023/1.webp" alt="Image">
+                                            <img src="images/tmimt/5_Jan_2023/4.1.jpg" alt="Image">
                                         </div>
                                     </div>
                                 </div>
@@ -74,7 +74,7 @@
                                 <div class="posts-md">
                                     <div class="entry">
                                         <div class="entry-image">
-                                            <img src="assets/img/mgmt/placementnews/5_Jan_2023/2.webp" alt="Image">
+                                            <img src="images/tmimt/5_Jan_2023/4.2.jpg" alt="Image">
                                         </div>
                                     </div>
                                 </div>
@@ -85,7 +85,7 @@
                                 <div class="posts-md">
                                     <div class="entry">
                                         <div class="entry-image">
-                                            <img src="assets/img/mgmt/placementnews/5_Jan_2023/3.webp" alt="Image">
+                                            <img src="images/tmimt/5_Jan_2023/5.2.jpg" alt="Image">
                                         </div>
                                     </div>
                                 </div>
@@ -96,7 +96,7 @@
                                 <div class="posts-md">
                                     <div class="entry">
                                         <div class="entry-image">
-                                            <img src="assets/img/mgmt/placementnews/5_Jan_2023/4.webp" alt="Image">
+                                            <img src="images/tmimt/5_Jan_2023/6.1.jpg" alt="Image">
                                         </div>
                                     </div>
                                 </div>
@@ -107,7 +107,7 @@
                                 <div class="posts-md">
                                     <div class="entry">
                                         <div class="entry-image">
-                                            <img src="assets/img/mgmt/placementnews/5_Jan_2023/5.webp" alt="Image">
+                                            <img src="images/tmimt/5_Jan_2023/6.2.jpg" alt="Image">
                                         </div>
                                     </div>
                                 </div>
@@ -118,7 +118,7 @@
                                 <div class="posts-md">
                                     <div class="entry">
                                         <div class="entry-image">
-                                            <img src="assets/img/mgmt/placementnews/5_Jan_2023/6.webp" alt="Image">
+                                            <img src="images/tmimt/5_Jan_2023/10.jpg" alt="Image">
                                         </div>
                                     </div>
                                 </div>
@@ -129,7 +129,7 @@
                                 <div class="posts-md">
                                     <div class="entry">
                                         <div class="entry-image">
-                                            <img src="assets/img/mgmt/placementnews/5_Jan_2023/7.webp" alt="Image">
+                                            <img src="images/tmimt/5_Jan_2023/10.1.jpg" alt="Image">
                                         </div>
                                     </div>
                                 </div>
@@ -140,7 +140,7 @@
                                 <div class="posts-md">
                                     <div class="entry">
                                         <div class="entry-image">
-                                            <img src="assets/img/mgmt/placementnews/5_Jan_2023/8.webp" alt="Image">
+                                            <img src="images/tmimt/5_Jan_2023/10.2.jpg" alt="Image">
                                         </div>
                                     </div>
                                 </div>
@@ -151,7 +151,7 @@
                                 <div class="posts-md">
                                     <div class="entry">
                                         <div class="entry-image">
-                                            <img src="assets/img/mgmt/placementnews/5_Jan_2023/9.webp" alt="Image">
+                                            <img src="images/tmimt/5_Jan_2023/10.3.jpg" alt="Image">
                                         </div>
                                     </div>
                                 </div>
@@ -162,7 +162,7 @@
                                 <div class="posts-md">
                                     <div class="entry">
                                         <div class="entry-image">
-                                            <img src="assets/img/mgmt/placementnews/5_Jan_2023/10.webp" alt="Image">
+                                            <img src="images/tmimt/5_Jan_2023/10.4.jpg" alt="Image">
                                         </div>
                                     </div>
                                 </div>
@@ -173,7 +173,7 @@
                                 <div class="posts-md">
                                     <div class="entry">
                                         <div class="entry-image">
-                                            <img src="assets/img/mgmt/placementnews/5_Jan_2023/11.webp" alt="Image">
+                                            <img src="images/tmimt/5_Jan_2023/11.1.jpg" alt="Image">
                                         </div>
                                     </div>
                                 </div>

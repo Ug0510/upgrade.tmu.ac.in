@@ -86,14 +86,14 @@
                     <span class="text">Enquire Now</span>
                 </div>
             </a>
-            <a href="https://www.tmu.ac.in/virtual-tour" target="blank">
+            <!-- <a href="tel:18002701490" target="blank">
                 <div class="expandable-button d-none d-sm-block" id="button2">
                     <img class="new-arrow" id="new-menu-icon" src="assets/img/icons/call-side-orange.svg" width="25px"
                         alt="Icon 1">
                     <span class="text">Call</span>
                 </div>
-            </a>
-            <a href="tel:18002701490" target="blank">
+            </a> -->
+            <a href="https://api.whatsapp.com/send/?phone=919258112544&text&type=phone_number&app_absent=0" target="blank">
                 <div class="expandable-button d-none d-sm-block" id="button3">
                     <img src="assets/img/icons/Whatsapp-side.svg" width="25px" alt="Icon 1">
                     <span class="text">Whatsapp</span>

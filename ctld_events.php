@@ -23,7 +23,7 @@ include 'head.php';
 											<div class="grid-inner bg-white row g-0 p-3 border-0 rounded-5 shadow-sm h-shadow all-ts h-translate-y-sm">
 												<div class="col-md-4 mb-md-0">
 													<a href="#" class="entry-image mb-0 h-100">
-														<img src="https://source.unsplash.com/fIHozNWfcvs/800x450" alt="Inventore voluptates velit totam ipsa tenetur" class="rounded-2 h-100 object-cover">
+														<img src="https://via.placeholder.com/800x450" alt="Inventore voluptates velit totam ipsa tenetur" class="rounded-2 h-100 object-cover">
 														<div class="bg-overlay">
 															<div class="bg-overlay-content justify-content-start align-items-start">
 																<div class="badge bg-light text-dark rounded-pill">Academics</div>
@@ -58,7 +58,7 @@ include 'head.php';
 											<div class="grid-inner bg-white row g-0 p-3 border-0 rounded-5 shadow-sm h-shadow all-ts h-translate-y-sm">
 												<div class="col-md-4 mb-md-0">
 													<a href="#" class="entry-image mb-0 h-100">
-														<img src="https://source.unsplash.com/fIHozNWfcvs/800x450" alt="Inventore voluptates velit totam ipsa tenetur" class="rounded-2 h-100 object-cover">
+														<img src="https://via.placeholder.com/800x450" alt="Inventore voluptates velit totam ipsa tenetur" class="rounded-2 h-100 object-cover">
 														<div class="bg-overlay">
 															<div class="bg-overlay-content justify-content-start align-items-start">
 																<div class="badge bg-light text-dark rounded-pill">Achievements</div>
@@ -93,7 +93,7 @@ include 'head.php';
 											<div class="grid-inner bg-white row g-0 p-3 border-0 rounded-5 shadow-sm h-shadow all-ts h-translate-y-sm">
 												<div class="col-md-4 mb-md-0">
 													<a href="#" class="entry-image mb-0 h-100">
-														<img src="https://source.unsplash.com/nF8xhLMmg0c/800x450" alt="Inventore voluptates velit totam ipsa tenetur" class="rounded-2 h-100 object-cover">
+														<img src="https://via.placeholder.com/800x450" alt="Inventore voluptates velit totam ipsa tenetur" class="rounded-2 h-100 object-cover">
 														<div class="bg-overlay">
 															<div class="bg-overlay-content justify-content-start align-items-start">
 																<div class="badge bg-light text-dark rounded-pill">Alumni</div>
@@ -128,7 +128,7 @@ include 'head.php';
 											<div class="grid-inner bg-white row g-0 p-3 border-0 rounded-5 shadow-sm h-shadow all-ts h-translate-y-sm">
 												<div class="col-md-4 mb-md-0">
 													<a href="#" class="entry-image mb-0 h-100">
-														<img src="https://source.unsplash.com/cd7i9vYIyeY/800x450" alt="Inventore voluptates velit totam ipsa tenetur" class="rounded-2 h-100 object-cover">
+														<img src="https://via.placeholder.com/800x450" alt="Inventore voluptates velit totam ipsa tenetur" class="rounded-2 h-100 object-cover">
 														<div class="bg-overlay">
 															<div class="bg-overlay-content justify-content-start align-items-start">
 																<div class="badge bg-light text-dark rounded-pill">CME / Workshop</div>
@@ -163,7 +163,7 @@ include 'head.php';
 											<div class="grid-inner bg-white row g-0 p-3 border-0 rounded-5 shadow-sm h-shadow all-ts h-translate-y-sm">
 												<div class="col-md-4 mb-md-0">
 													<a href="#" class="entry-image mb-0 h-100">
-														<img src="https://source.unsplash.com/nwLTVwb7DbU/800x450" alt="Inventore voluptates velit totam ipsa tenetur" class="rounded-2 h-100 object-cover">
+														<img src="https://via.placeholder.com/800x450" alt="Inventore voluptates velit totam ipsa tenetur" class="rounded-2 h-100 object-cover">
 														<div class="bg-overlay">
 															<div class="bg-overlay-content justify-content-start align-items-start">
 																<div class="badge bg-light text-dark rounded-pill">Community Services</div>
@@ -198,7 +198,7 @@ include 'head.php';
 											<div class="grid-inner bg-white row g-0 p-3 border-0 rounded-5 shadow-sm h-shadow all-ts h-translate-y-sm">
 												<div class="col-md-4 mb-md-0">
 													<a href="#" class="entry-image mb-0 h-100">
-														<img src="https://source.unsplash.com/rE9vgD_TXgM/800x450" alt="Inventore voluptates velit totam ipsa tenetur" class="rounded-2 h-100 object-cover">
+														<img src="https://via.placeholder.com/800x450" alt="Inventore voluptates velit totam ipsa tenetur" class="rounded-2 h-100 object-cover">
 														<div class="bg-overlay">
 															<div class="bg-overlay-content justify-content-start align-items-start">
 																<div class="badge bg-light text-dark rounded-pill">Commemorative Days</div>
@@ -233,7 +233,7 @@ include 'head.php';
 											<div class="grid-inner bg-white row g-0 p-3 border-0 rounded-5 shadow-sm h-shadow all-ts h-translate-y-sm">
 												<div class="col-md-4 mb-md-0">
 													<a href="#" class="entry-image mb-0 h-100">
-														<img src="https://source.unsplash.com/cw-cj_nFa14/800x450" alt="Inventore voluptates velit totam ipsa tenetur" class="rounded-2 h-100 object-cover">
+														<img src="https://via.placeholder.com/800x450" alt="Inventore voluptates velit totam ipsa tenetur" class="rounded-2 h-100 object-cover">
 														<div class="bg-overlay">
 															<div class="bg-overlay-content justify-content-start align-items-start">
 																<div class="badge bg-light text-dark rounded-pill">Placements</div>

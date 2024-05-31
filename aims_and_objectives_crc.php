@@ -18,11 +18,11 @@ include 'head.php';
                 <div class="col-12 col-sm-9 col-lg-10 mt-3 mt-sm-0 pt-2 pt-sm-5 ">
 
                     <div class="row mx-0">
-                        <h2 class="tmu-page-heading tmu-text-primary"><span>Aims & Objectives </span><span>Of CRC</span></h2>
+                        <h2 class="custom-sec-heading">Aims & Objectives <span>Of CRC</span></h2>
                         <p>
 
                             The aims and objectives of a Corporate Resource Centre of Teerthanker Mahaveer University is to assist its students in their career development and facilitate their transition from academia to the professional world.</p>
-                        <h3 class="mt-3 mb-2"><strong>The Aims & Objectives of CRC includes:</strong></h3>
+                        <h3><strong>The Aims & Objectives of CRC includes:</strong></h3>
                         <ol class="ps-4 ps-md-5 m-ol-list">
                             <li><b>Collaboration with Employers:</b> The Corporate Resource Centre (CRC) aims to establish strong partnerships with employers, organizations, and industry bodies to understand their recruitment needs and trends. This collaboration helps ensure that the university's curriculum aligns with industry requirements and enhances students' chances of securing suitable employment.</li>
                             <li style="margin-top:10px;"><b>Employment Opportunities:</b> The primary goal of a Corporate Resource Centre (CRC) is to connect students with relevant job opportunities in their respective fields. This involves establishing strong relationships with potential employers, both within the local region and beyond, to facilitate the recruitment of students.</li>

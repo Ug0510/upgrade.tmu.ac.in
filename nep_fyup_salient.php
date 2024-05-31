@@ -14,7 +14,7 @@ include 'head.php';
                     <h1 class="tmu-text-primary tmu-page-heading"><span>Salient Features </span><span> of FYUP</span></h2>
 
                     <div class="container">
-                        <ol class="ps-5 m-ol-list">
+                        <ol class="ps-3 m-ol-list">
                             <li style="text-align:justify;">Introducing holistic and multidisciplinary undergraduate education that would help develop all capacities of human beings - intellectual, aesthetic, social, physical, emotional, ethical, and moral - in an integrated manner; soft skills, such as interpersonal skills, team skills, attitude, emotional intelligence, communication skills; and deep specialization in a chosen field (s) of learning.</li>
                             <li style="text-align:justify;">Adoption of flexible curricular structures in order to enable creative combinations of disciplinary areas for study in multidisciplinary contexts that would also allow flexibility in course options that would be on offer to students, in addition to deep specialization in a discipline.</li>
                             <li style="text-align:justify;">Undergraduate degree programmes of either 3 or 4-year duration, with multiple entry and exit points and re-entry options, with appropriate certifications.</li>
