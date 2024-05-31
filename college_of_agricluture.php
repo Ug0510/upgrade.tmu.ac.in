@@ -12,8 +12,8 @@ include 'head.php';
         <div class="container-fluid  my-0 px-2">
             <div class="row ps-4">
                 <div class="col-md-6 pt-0 pt-md-4 ps-md-5 mb-4">
-                    <h1 class=" mt-5 mb-5 d-none d-md-block  banner-main-heading">Welcome to the <br> <span style="font-weight:700!important;">Best Agriculture Sciences</span> College in UP</h1>
-                    <h1 class=" mt-5 mb-3 d-block d-md-none" style="color:#001055; text-transform: capitalize; font-weight:700!important; font-size:24px">Welcome to the <span>Best Agriculture Sciences</span> College in UP,</h1>
+                    <h1 class=" mt-5 mb-5 d-none d-md-block  banner-main-heading">Welcome to <br> <span style="font-weight:700!important;">College of Agriculture</span> Sciences</h1>
+                    <h1 class=" mt-5 mb-3 d-block d-md-none" style="color:#001055; text-transform: capitalize; font-weight:700!important; font-size:24px">Welcome to <span> College of Agriculture</span> Sciences</h1>
                     <a href="#" class="tmu-btn btn-1 me-4 py-1 px-3 py-xl-2 px-xl-4"> Download Brocher</a>
                     <a href="#" class="tmu-btn btn-2 py-1 px-3 py-xl-2 px-xl-4">Apply Now</a>
                 </div>
@@ -819,6 +819,148 @@ The College of Agriculture Sciences has well-established modern laboratories as 
             </div>
         </div>
 
+        <!--  -->
+        <div class="container hh1">
+        <h2 Class="tmu-text-primary text-center"><span> Frequently Asked </span><span> Questions</span></h2>
+        <div class="row">
+            <div class="col-md-12">
+                <div class="card-body">
+                    <hr class="horizontal-line">
+                    <button class="careers-accordion">College of Agriculture Sciences, Among the top Agriculture Colleges<span class="icon">+</span></button>
+                    <div class="panel active">
+                        <p class="mb-2">The College of Agriculture Sciences established in 2014 and accredited by the Indian Council of Agricultural Research (ICAR), stands as a beacon of sustainable practices, student empowerment, and pioneering research in the realm of agriculture. Our unwavering commitment to excellence has positioned us as the top private agricultural college in Uttar Pradesh.</p>
+                        <p class="mb-2">Welcome to the College of Agriculture Sciences at Teerthanker Mahaveer University (TMU), where we are dedicated to providing top-notch education in agriculture. Our institution is recognised as one of the leading agricultural colleges, offering comprehensive programs designed to equip students with the knowledge and skills needed to excel in the agricultural sector.</p>
+                    </div>
+                    <hr class="horizontal-line">
+
+                    <button class="careers-accordion"> Why TMU is the Best Choice for You <span class="icon">+</span></button>
+                    <div class="panel">
+                        <p class="mb-2">Choosing the right college is crucial for your academic and professional journey. Here’s why TMU stands out:</p>
+                        <h3 class="tmu-text-primary mb-1 fs-16"><span>1. UGC-Approved with </span><span> NAAC A Accreditation </span></h3>
+                        <p class="mb-2">Our university is UGC-approved and holds NAAC A accreditation, ensuring the highest standards of education and institutional quality.</p>
+                        <h3 class="tmu-text-primary mb-1 fs-16"><span>2. Experiential Learning by </span><span>  Highly Qualified Faculties</span></h3> 
+                        <p class="mb-2">At TMU, we believe in learning by doing. Our highly qualified faculty members provide experiential learning opportunities, allowing students to gain practical insights and hands-on experience.</p>
+                        <h3 class="tmu-text-primary mb-1 fs-16"><span>3. Practical Training in Greenhouses and</span><span> Large Agriculture Fields</span></h3>
+                        <p class="mb-2">Our greenhouses and extensive agriculture fields are perfect for practical training and experiments, giving students real-world experience in modern farming techniques.</p>
+                        <h3 class="tmu-text-primary mb-1 fs-16"><span>4. Well-Equipped Laboratories and</span><span> Agro-Technology Farm</span></h3>
+                        <p class="mb-2">We offer state-of-the-art laboratories and an agro-technology farm where students can engage in practical crop production and innovative research.</p>
+                        <h3 class="tmu-text-primary mb-1 fs-16"><span>5. pecialised Workshops </span><span> and Seminars </span></h3>
+                        <p class="mb-2">We regularly conduct hydroponics workshops and IPR seminars to keep our students updated with the latest advancements in agriculture technology and intellectual property rights.</p>
+                        <h3 class="tmu-text-primary mb-1 fs-16"><span>6. MoU with </span><span> Agri-Business Companies</span></h3>
+                        <p class="mb-2">Our strong collaborations with numerous agri-business companies ensure that students have access to the latest industry trends and potential employment opportunities.</p>
+                        <h3 class="tmu-text-primary mb-1 fs-16"><span>7. Plantation Campaigns </span><span> with NSS Team</span></h3>
+                        <p class="mb-2">We organise plantation campaigns in collaboration with the NSS team, fostering environmental awareness and sustainability among students.</p>
+                        <h3 class="tmu-text-primary mb-1 fs-16"><span>8. International Internship </span><span> Opportunities</span></h3>
+                        <p class="mb-2">Students at TMU have the chance to participate in international internships, providing them with global exposure and enhancing their professional prospects.</p>
+                        <h3 class="tmu-text-primary mb-1 fs-16"><span>9. 100% Placement</span><span> Assistance</span></h3>
+                        <p class="mb-2">Our dedicated placement cell offers 100% placement assistance, helping students secure excellent job opportunities in the agriculture sector.</p>
+                        <h3 class="tmu-text-primary mb-1 fs-16"><span>10. Strong Industry </span><span> Connections</span></h3>
+                        <p class="mb-2">We have robust connections with various industries, offering students real-world insights and enhancing their employability.</p>
+                    </div>
+                    <hr class="horizontal-line">
+                    <button class="careers-accordion">Explore Top-Notch Placement Opportunities<span class="icon">+</span></button>
+                    <div class="panel">
+                        <h3 class="tmu-text-primary mb-1 fs-16"><span>1. Modern </span><span> Classrooms </span></h3>
+                        <p class="mb-2">Our classrooms are equipped with modern amenities to facilitate interactive learning sessions.</p>
+                        <h3 class="tmu-text-primary mb-1 fs-16"><span>2. Greenhouses for </span><span> Practical Experiments </span></h3>
+                        <p class="mb-2">Our greenhouses serve as a hub for practical agriculture experiments, allowing students to apply their theoretical knowledge.</p>
+                        <h3 class="tmu-text-primary mb-1 fs-16"><span>3. Well-maintained </span><span> Landscapes </span></h3>
+                        <p class="mb-2">The well-maintained landscapes of our campus create a serene and inspiring environment for learning.</p>
+                        <h3 class="tmu-text-primary mb-1 fs-16"><span>4. Comfortable Hostel </span><span> Facilities </span></h3>
+                        <p class="mb-2">We provide comfortable hostel facilities to ensure that students have a home away from home.</p>
+                        <h3 class="tmu-text-primary mb-1 fs-16"><span>5. Extracurricular </span><span> Clubs </span></h3>
+                        <p class="mb-2">We encourage students to participate in extracurricular clubs, fostering holistic development and teamwork.</p>
+                        <h3 class="tmu-text-primary mb-1 fs-16"><span>6. Botanical </span><span> Gardens </span></h3>
+                        <p class="mb-2">Our botanical gardens are a testament to our commitment to biodiversity and environmental conservation.</p>
+                        <h3 class="tmu-text-primary mb-1 fs-16"><span>7. Concerts and </span><span> Events </span></h3>
+                        <p class="mb-2">Our campus hosts a variety of concerts and events, adding vibrancy to student life.</p>
+                        <h3 class="tmu-text-primary mb-1 fs-16"><span>8. Shopping Stores </span><span> and Cafeterias </span></h3>
+                        <p class="mb-2">With shopping stores and cafeterias on campus, students have access to essential services and leisure activities.</p>
+                    </div>
+                    <hr class="horizontal-line">
+                    <button class="careers-accordion">Explore Top-Notch Placement Opportunities <span class="icon">+</span></button>
+                    <div class="panel">
+                    <p class="mb-2">TMU&rsquo;s College of Agriculture Sciences is proud of its outstanding placement record and industry recognition:</p>
+                    <h3 class="tmu-text-primary mb-1 fs-16"><span>1. ICAR </span><span>Accreditation </span></h3>
+                    <p class="mb-2">We are the 3rd ICAR-accredited college in North India, a symbol of our commitment to quality education.</p>
+                    <h3 class="tmu-text-primary mb-1 fs-16"><span>2. Expert </span><span>Faculty </span></h3>
+                    <p class="mb-2">Our expert faculty members provide hands-on practical knowledge, preparing students for real-world challenges.</p>
+                    <h3 class="tmu-text-primary mb-1 fs-16"><span>3. Centre for Teaching, </span><span>Learning, and Development </span></h3>
+                    <p class="mb-2">Our Centre for Teaching, Learning, and Development is dedicated to enhancing educational practices and student learning experiences.</p>
+                    <h3 class="tmu-text-primary mb-1 fs-16"><span>4. 100% Placement </span><span> Assistance </span></h3>
+                    <p class="mb-2">Our placement cell offers comprehensive support to ensure that students find the best job opportunities in their field.</p>
+                    <h3 class="tmu-text-primary mb-1 fs-16"><span>5. Global </span><span>Opportunities </span></h3>
+                    <p class="mb-2">We provide students with global opportunities through international internships and collaborations with top companies.</p>
+                    <h3 class="tmu-text-primary mb-1 fs-16"><span>6. Industry </span><span> Affiliations </span></h3>
+                    <p class="mb-2">Our strong industry affiliations provide invaluable insights and open doors to various career paths.</p>
+                    </div>
+                    <hr class="horizontal-line">
+                    <button class="careers-accordion">Core Programs Offered <span class="icon">+</span></button>
+                    <div class="panel">
+                    <p><span style="font-weight: 400;">We offer a range of programs designed to meet the diverse interests and career aspirations of our students:</p>
+                        <h3 class="tmu-text-primary mb-1 fs-16"><span> 1. BSc (H) Agriculture </span><span> ICAR Accredited</span></h3>
+                        <p class="mb-2">Our BSc (H) Agriculture program is ICAR accredited, providing a rigorous curriculum and practical training.</p>
+                        <h3 class="tmu-text-primary mb-1 fs-16"><span> 2. MSc Agriculture </span><span> (Agronomy)</span></h3>
+                        <p class="mb-2">Our MSc Agriculture (Agronomy) program focuses on advanced agricultural practices and research.</p>
+                        <h3 class="tmu-text-primary mb-1 fs-16"><span> 3. Hands-On Learning and </span><span> Practical Knowledge</span></h3>
+                        <p class="mb-2">We emphasise hands-on learning and practical knowledge to ensure our students are industry-ready:</p>
+                        <h3 class="tmu-text-primary mb-1 fs-16"><span> 4. Greenhouses and </span><span> Farm Lands</span></h3>
+                        <p class="mb-2">Students gain practical experience in our greenhouses and extensive farm lands.</p>
+                        <h3 class="tmu-text-primary mb-1 fs-16"><span> 5. Research and </span><span> Entrepreneurial Development</span></h3>
+                        <p class="mb-2">We encourage research and entrepreneurial development, fostering innovation in agriculture.</p>
+                        <p class="mb-2">Precision Farming and Sustainable Agriculture</p>
+                        <p class="mb-2">Our training programs cover precision farming and sustainable agriculture techniques.</p>
+                        <h3 class="tmu-text-primary mb-1 fs-16"><span> 6. Advanced Research </span><span> Laboratories</span></h3>
+                        <p class="mb-2">Our advanced research laboratories are equipped with the latest technology for cutting-edge research.</p>
+                        <h3 class="tmu-text-primary mb-1 fs-16"><span> 7. Specialised Workshops </span><span> and Seminars</span></h3>
+                        <p class="mb-2">We conduct specialised workshops and seminars on hydroponics, IPR, and other relevant topics.</p>
+                    </div>
+                    <hr class="horizontal-line">
+                    <button class="careers-accordion">Career Opportunities in Agriculture <span class="icon">+</span></button>
+                    <div class="panel">
+                        <p class="mb-2">A degree in agriculture from TMU opens doors to a wide range of career opportunities:</p>
+                        <h3 class="tmu-text-primary mb-1 fs-16"><span>1. Diverse Career </span><span> Paths</span></h3>
+                        <p class="mb-2">Graduates can pursue careers in various sectors such as agri-business, research, and public services.</p>
+                        <h3 class="tmu-text-primary mb-1 fs-16"><span>2. Roles in Agri-Business</span><span>  Companies</span></h3>
+                        <p class="mb-2">There are ample opportunities in agri-business companies, offering roles in management, sales, and consultancy.</p>
+                        <h3 class="tmu-text-primary mb-1 fs-16"><span>3. Opportunities in </span><span> Public Sector</span></h3>
+                        <p class="mb-2">Graduates can work in public sector roles such as agriculture research scientists, food inspectors, and more.</p>
+                        <h3 class="tmu-text-primary mb-1 fs-16"><span>4. Higher Studies and </span><span> Specialization</span></h3>
+                        <p class="mb-2">Students can opt for higher studies and specialise in their preferred areas of interest.</p>
+                    </div>
+                    <hr class="horizontal-line">
+                    <button class="careers-accordion">Life at College of Agriculture Sciences <span class="icon">+</span></button>
+                    <div class="panel">
+                        <p>Life at TMU&rsquo;s College of Agriculture Sciences is vibrant and enriching:</p>
+                        <h3 class="tmu-text-primary mb-1 fs-16"><span>1. Vibrant Campus </span><span> Life</span></h3>
+                        <p>Our campus life is vibrant, with numerous events and activities that keep students engaged.</p>
+                        <h3 class="tmu-text-primary mb-1 fs-16"><span>2. Supportive Learning </span><span> Environment</span></h3>
+                        <p>We provide a supportive learning environment, ensuring that students receive the best education and guidance.</p>
+                        <h3 class="tmu-text-primary mb-1 fs-16"><span>3. Community </span><span> Engagement</span></h3>
+                        <p>We believe in giving back to the community through various initiatives and campaigns.</p>
+                        <h3 class="tmu-text-primary mb-1 fs-16"><span>4. Student Facilities </span><span> and Services</span></h3>
+                        <p>Our campus offers a range of facilities and services to support student&rsquo;s academic and personal growth.</p>
+                    </div>
+                    <hr class="horizontal-line">
+                    <button class="careers-accordion">Conclusion <span class="icon">+</span></button>
+                    <div class="panel">
+                        <p>In conclusion, TMU’s College of Agriculture Sciences offers a unique blend of theoretical knowledge, practical training, and industry exposure, making it the ideal choice for aspiring agricultural professionals. Our comprehensive programs, experienced faculty, and excellent placement opportunities ensure that our students are well-prepared for successful careers in agriculture.</p>
+                    </div>
+                    <hr class="horizontal-line">
+                    <button class="careers-accordion">FAQs:<span class="icon">+</span></button>
+                    <div class="panel">
+                    <p><strong>Q1. What is the duration of the BSc Agriculture course?</strong></p>
+                        <p><strong>Ans:</strong> The BSc Agriculture course is typically four years long.</p>
+                        <p><strong>Q2. What subjects are included in BSc Agriculture?</strong></p>
+                        <p><strong>Ans: </strong>The BSc Agriculture program includes subjects like agronomy, horticulture, soil science, plant pathology, entomology, and more.</p>
+                        <p><strong>Q3. What are the eligibility criteria for BSc Agriculture admission?</strong></p>
+                        <p><strong>Ans: </strong>The eligibility criteria for BSc Agriculture admission generally include completion of 10+2</p>
+                    </div>
+                    <hr class="horizontal-line">
+                </div>
+            </div>
+        </div>
+    </div> 
 </section><!-- #content end -->
 
 <br /><br />
