@@ -95,7 +95,7 @@
             </a> -->
             <a href="https://api.whatsapp.com/send/?phone=919258112544&text&type=phone_number&app_absent=0" target="blank">
                 <div class="expandable-button d-none d-sm-block" id="button3">
-                    <img src="assets/img/icons/Whatsapp-side.svg" width="25px" alt="Icon 1">
+                    <img src="assets/img/icons/whatsapp-side.svg" width="25px" alt="Icon 1">
                     <span class="text">Whatsapp</span>
                 </div>
             </a>
