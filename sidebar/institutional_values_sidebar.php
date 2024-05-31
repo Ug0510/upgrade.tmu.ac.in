@@ -17,7 +17,7 @@
         <span>Quick </span><span>Links</span>
     </p>
 
-    <ul class="list-unstyled items-nav sticky-sidebar shop-filter mt-0" data-container="#shop">
+    <ul class="list-unstyled items-nav sticky-sidebar shop-filter mt-3" data-container="#shop">
         <li class="no-divider"><a href="#" class="text-dark fw-semibold side-head" data-filter=".sf-new">INSTITUTIONAL VALUES</a></li>
         <li><a href="/iqac_genderequityinitate.php" data-filter=".sf-gender-initiative">Gender Equity Inititaives</a></li>
         <li><a href="/iqac_enniviron_conciousness.php" data-filter=".sf-environmental-consciousness">Environmental Consciousness</a></li>

@@ -9,7 +9,7 @@ include 'head.php';
                 <?php
                     include 'sidebar/engineering_sidebar.php';
                 ?>
-                <div class="col-12 col-md-10 col-lg-10 mt-3 mt-sm-0 pt-5 ">
+                <div class="col-12 col-sm-9 col-lg-10 mt-3 mt-sm-0 pt-2 pt-sm-5  ">
                     <div class="container">
                         <h1 class="tmu-text-primary tmu-page-heading"><span>  Syllabus </span><span> </span></h1>
                         <div class="card">

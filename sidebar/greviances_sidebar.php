@@ -16,7 +16,7 @@
 		<span>Quick </span><span>Links</span>
 	</p>
 
-	<ul class="list-unstyled items-nav sticky-sidebar shop-filter mt-0" data-container="#shop">
+	<ul class="list-unstyled items-nav sticky-sidebar shop-filter mt-3" data-container="#shop">
 		<li class="no-divider"><a href="/greviances.php" class="text-dark fw-semibold side-head" data-filter=".sf-new">Greviances Cell</a></li>
 		<li><a href="/greviances.php" data-href="#aims" data-filter=".sf-quality-aims">About Cell</a></li>
 		<li><a href="/greviance_submit_suggestion.php" data-href="#aims" data-filter=".sf-quality-aims">Submit Suggestion/ Greviance<br></a></li>

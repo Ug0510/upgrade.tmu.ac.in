@@ -17,7 +17,7 @@
 		<span>Quick </span><span>Links</span>
 	</p>
 
-	<ul class="list-unstyled items-nav sticky-sidebar shop-filter mt-0" data-container="#shop">
+	<ul class="list-unstyled items-nav sticky-sidebar shop-filter mt-3" data-container="#shop">
 		<li class="no-divider"><a href="#" class="text-dark fw-semibold side-head" data-filter=".sf-new">About Us</a></li>
 		<li><a href="/iic-about-cell.php" data-filter=".sf-jeans">About Cell</a></li>
 		<li><a href="/iic-policy.php" data-filter=".sf-t-shirts">Innovation & Startup Policies</a></li>

@@ -13,7 +13,7 @@
 		<span style="color:#001055; font-weight:700;">Quick Links</span>
 	</span>
 
-	<ul class="list-unstyled items-nav sticky-sidebar shop-filter mt-0" data-container="#shop">
+	<ul class="list-unstyled items-nav sticky-sidebar shop-filter mt-3" data-container="#shop">
 		<li><a href="#" class="text-dark fw-semibold side-head" data-filter="*">Quick Links</a></li>
 		<li><a href="greviances.php" data-filter=".sf-research-deevelopment">Greviance Portal</a></li>
 		<li><a href="/disciplinary_rules.php" data-filter=".sf-disciplinary-rules">Disciplinary Rules</a></li>

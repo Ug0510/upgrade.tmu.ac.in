@@ -17,7 +17,7 @@
 		<span>Quick </span><span>Links</span>
 	</p>
 
-	<ul class="list-unstyled items-nav sticky-sidebar shop-filter mt-0" data-container="#shop">
+	<ul class="list-unstyled items-nav sticky-sidebar shop-filter mt-3" data-container="#shop">
 		<li class="no-divider"><a href="#" class="text-dark fw-semibold side-head" data-filter=".sf-new">RDC AT A GLANCE</a></li>
 		<li><a href="/research_development_center.php" data-filter=".sf-about-rdc">About RDC</a></li>
 		<li><a href="/rdc_faculty_profile.php" data-filter=".sf-faculty-profile">Faculty Profile</a></li>

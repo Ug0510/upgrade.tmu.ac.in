@@ -17,7 +17,7 @@
 		<span>Quick </span><span>Links</span>
 	</p>
 
-	<ul class="list-unstyled items-nav sticky-sidebar shop-filter mt-0" data-container="#shop">
+	<ul class="list-unstyled items-nav sticky-sidebar shop-filter mt-3" data-container="#shop">
 		<li class="no-divider"><a href="#" class="text-dark fw-semibold side-head" data-filter=".sf-new">IQAC CELL</a></li>
 		<li><a href="/iqac.php" data-filter=".sf-about-iqac">About IQAC</a></li>
 		<li><a href="/iqac_quality_policy.php" data-filter=".sf-quality-policy">Quality Policy</a></li>

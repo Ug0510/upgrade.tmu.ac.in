@@ -17,7 +17,7 @@
 		<span>Quick </span><span>Links</span>
 	</p>
 	
-	<ul class="list-unstyled items-nav sticky-sidebar shop-filter mt-0" data-container="#shop">
+	<ul class="list-unstyled items-nav sticky-sidebar shop-filter mt-3" data-container="#shop">
 		<li class="no-divider"><a href="#" class="text-dark fw-semibold side-head" data-filter=".sf-new">ERP Cell</a></li>
 		<li><a href="/iqac_erp.php" data-filter=".sf-about-iqac">About ERP</a></li>
 		<li><a href="/iqac_erp_screenshot.php" data-filter=".sf-quality-policy">ERP Screenshot</a></li>

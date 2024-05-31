@@ -17,7 +17,7 @@
 		<span>Quick </span><span>Links</span>
 	</p>
 
-	<ul class="list-unstyled items-nav sticky-sidebar shop-filter mt-0" data-container="#shop">
+	<ul class="list-unstyled items-nav sticky-sidebar shop-filter mt-3" data-container="#shop">
 		<li><a href="/nep_guidelines.php" data-filter=".sf-nep-guidelines">Guidelines</a></li>
 		<li><a href="/nep_immplement_committee.php" data-filter=".sf-nep-immplement-committee">NEP Immplementation Committee</a></li>
 		<li><a href="/nep_coordinator.php" data-filter=".sf-nep-coordinator">Coordinators & Staff Members</a></li>

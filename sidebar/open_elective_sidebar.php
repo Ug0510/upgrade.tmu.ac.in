@@ -17,7 +17,7 @@
 		<span>Quick </span><span>Links</span>
 	</p>
 
-	<ul class="list-unstyled items-nav sticky-sidebar shop-filter mt-0" data-container="#shop">
+	<ul class="list-unstyled items-nav sticky-sidebar shop-filter mt-3" data-container="#shop">
 		<li class="no-divider"><a href="#" class="text-dark fw-semibold side-head" data-filter=".sf-new">Open Elective Courses</a></li>
 		<li><a href="https://upgrade.tmu.ac.in/cbcs.php" data-filter=".sf-home">Overview</a></li>
 		<li><a href="https://upgrade.tmu.ac.in/cbcs_circulars.php" data-filter=".sf-cbcs-circular">CBCS Circular</a></li>

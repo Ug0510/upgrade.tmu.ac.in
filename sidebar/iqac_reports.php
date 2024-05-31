@@ -17,7 +17,7 @@
 		<span>Quick </span><span>Links</span>
 	</p>
 
-	<ul class="list-unstyled items-nav sticky-sidebar shop-filter mt-0" data-container="#shop">
+	<ul class="list-unstyled items-nav sticky-sidebar shop-filter mt-3" data-container="#shop">
 		<li class="no-divider"><a href="#" class="text-dark fw-semibold side-head" data-filter=".sf-new">Feedback Reports</a></li>
 		<li><a href="/feedback_atr_report.php" data-filter=".sf-about-iqac">Feedback Analysis & ATR</a></li>
 		<li><a href="/feedback_analysis_report.php" data-filter=".sf-quality-policy">Feedback Analysis Report</a></li>
