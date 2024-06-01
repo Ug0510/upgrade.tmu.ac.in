@@ -245,5 +245,5 @@ include 'head.php';
 </section>
 
 <?php 
-include 'footer.php';
+include 'tmimt_footer.php';
  ?>

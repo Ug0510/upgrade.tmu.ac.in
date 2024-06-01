@@ -313,5 +313,5 @@ include 'head.php';
 
 
 <?php
-include 'footer.php';
+include 'tmimt_footer.php';
 ?>

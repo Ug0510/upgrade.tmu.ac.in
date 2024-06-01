@@ -1,0 +1,352 @@
+{
+    "1": {
+        "Overview": { "link": "/medical-college-and-research-centre" },
+        "College inforamtion": { "link": "/medical-college-and-research-centre/college-information" },
+        "Infrastructure": { "link": "/medical-college-and-research-centre/infrastructure" },
+        "citizen's Charter": { "link": "/medical-college-and-research-centre/citizen-charter" },
+        "College Highlights": { "link": "/medical-college-and-research-centre/college-highlight" },
+        "Principal's Desk": { "link": "/medical-college-and-research-centre/principal" },
+        "Medical Superintendent Desk's": { "link": "/medical-college-and-research-centre/ms" }
+    },
+    "2": {
+        
+        "Affiliations": { "link": "/medical-college-and-research-centre/affiliation" },
+        "Gov Approvals": { "link": "/medical-college-and-research-centre/govt-approval" }
+    },
+    "3": {
+        "Programmes Offered": {"link": ""},
+        "Sanctioned Intake": {"link": "/medical-college-and-research-centre/sanctioned-intake"},
+        "Departments": {"link": "/medical-college-and-research-centre/department"},
+        "syllabus": {"link": ""},
+        "Foundation Course": { "link": "/medical-college-and-research-centre/foundation-course" },
+        "Learning Objective": { "link": "/medical-college-and-research-centre/learning-objective" },
+        "Academic Calender": { "link": "/medical-college-and-research-centre/academic-calendar" },
+        "AEBAS Dashboard": { "link": "/medical-college-and-research-centre/aebas-attendance" },
+        "Stipend": { "link": "/medical-college-and-research-centre/stipend" }
+
+    },
+    "4": {
+        "Student Details": { "link": "/medical-college-and-research-centre/student-details" },
+        "Study Material": { "link": "https://library.tmu.ac.in/" },
+        "Teaching Schedule": { "link": "/medical-college-and-research-centre/teaching-schedule" },
+        "Time-Table": { "link": "/medical-college-and-research-centre/time-table" },
+        "Old Exam Paper": { "link": "" },
+        "Best Practices": { "link": "/medical-college-and-research-centre/best-practices" },
+        "Anti-Ragging Committee": { "link": "/medical-college-and-research-centre/anti-ragging-committee" },
+        "Gender Harassment Committee": { "link": "/medical-college-and-research-centre/gender-harassment-committee" }
+
+
+    },
+
+    "7": {
+        "University Glimpse": {
+            "About University": { "link": "/tmu/about-us" },
+            "Vision And Mission": { "link": "/tmu/vision-mission" },
+            "Accolades": { "link": "/tmu/awards-recognition" },
+            "Governance": { "link": "/tmu/university-governance" },
+            "Organogram": { "link": "/tmu/university-organogram" },
+            "Administration": { "link": "/tmu/university-administration" },
+            "Statutory Approvals": { "link": "/tmu/statutory-approvals" },
+            "GetATour": { "link": "#" }
+        },
+        "Executive Desk": {
+            "Chancellor": { "link": "/tmu/chancellor" },
+            "Founder Chancellor": { "link": "/tmu/founder-vicechancellor" },
+            "Vice Chancellor": { "link": "/tmu/vicechancellor" }
+        },
+        "Campus Policies": {
+            "IIC": { "link": "/innovation-startup" },
+            "NSS": { "link": "/nss-about" },
+            "IQAC": { "link": "/tmu/iqac-cell/iqac" }
+        },
+        "Highlights": {
+            "Past Events": { "link": "#" },
+            "Media Coverage": { "link": "#" },
+            "Convocation": { "link": "#" }
+        }
+    },
+    "8": {
+        "Medical": { "link": "" },
+        "Engineering": { "link": "/faculty-of-engineering" },
+        "CCSIT": { "link": "/college-of-computing-sciences-and-it" },
+        "TMIMT": { "link": "/tmimt-college-of-management" },
+        "Dental": { "link": "" },
+        "Nursing": { "link": "" },
+        "Pharmacy": { "link": "" },
+        "Paramedical": { "link": "" },
+        "Physiotherapy": { "link": "" },
+        "LAW": { "link": "" },
+        "Fine Arts": { "link": "" },
+        "Education": { "link": "" },
+        "Physical Education": { "link": "" },
+        "Agriculture": { "link": "" },
+        "Jain Studies": { "link": "" }
+    },
+    "9": {
+        "undergraduate": {
+            "Computer Sciences & IT": {
+                "BCA": { "link": "#" },
+                "BCA for Visually Challenged": { "link": "#" },
+                "BCA-Big Data and Visualization": { "link": "#" },
+                "BCA-Cyber Security": { "link": "#" },
+                "BCA-Digital Marketing": { "link": "#" },
+                "BCA-Information Security": { "link": "#" },
+                "BCA-Internet Technologies": { "link": "#" },
+                "BCA (CT-IS In Collab With iNurture)": { "link": "#" },
+                "BCA (Mobile Applications In Collab With i-Nurture)": {
+                    "link": "#"
+                },
+                "B.Sc-Cognitive Science": { "link": "#" },
+                "B.Sc (Animation)": { "link": "#" },
+                "B.Sc-Hons(CS)": { "link": "#" },
+                "B.Tech": { "link": "#" },
+                "B.Tech (Data Science)": { "link": "#" },
+                "B.Tech-CSE-Big Data and Analytics (In Collab with i-Nurture)": {
+                    "link": "#"
+                },
+                "B.Tech-CT-IS": { "link": "#" },
+                "B.Tech-AI(In Collab with iNurture)": { "link": "#" },
+                "CSE (In Collab with IBM) Application Development using Cloud and Analytics Platform": {
+                    "link": "#"
+                },
+                "CSE (In Collab with TCSion Data Science)": { "link": "#" }
+            },
+            "Agriculture Science": {
+                "B.Sc.(H) Agriculture": { "link": "#" }
+            },
+            "Dental": {
+                "BDS (Bachelor of Dental Surgery)": { "link": "#" }
+            },
+            "Education": {
+                "B.A.": { "link": "#" },
+                "B.Ed. (Bachelor of Education)": { "link": "#" },
+                "B.El.Ed. (4 Yrs. BTC)": { "link": "#" },
+                "B.Sc. (ZBC with PCM)": { "link": "#" },
+                "D.El.Ed. (BTC)": { "link": "#" }
+            },
+            "Engineering": {
+                "B.Sc Hons(Chemistry)": { "link": "#" },
+                "B.Sc Hons(Mathematics)": { "link": "#" },
+                "B.Sc Hons(Physics)": { "link": "#" },
+                "B.Sc Hons Environment and Sustainability": { "link": "#" },
+                "B.Tech (IoT)": { "link": "#" },
+                "B.Tech (Mechatronics)": { "link": "#" },
+                "B.Tech (2nd Year Lateral Entry) Civil": { "link": "#" },
+                "B.Tech (2nd Year Lateral Entry) Electrical": { "link": "#" },
+                "B.Tech (2nd Year Lateral Entry) Electronics and Communication": {
+                    "link": "#"
+                },
+                "B.Tech (2nd Year Lateral Entry) Mechanical": { "link": "#" },
+                "B.Tech Civil": { "link": "#" },
+                "B.Tech Electrical": { "link": "#" },
+                "B.Tech Electronics and Communication": { "link": "#" },
+                "B.Tech Mechanical": { "link": "#" }
+            },
+            "Fine Arts": {
+                "BFA (Bachelor of Fine Arts)": { "link": "#" }
+            },
+            "Management": {
+                "B.Com (Hons.)": { "link": "#" },
+                "B.Com (Hons.) Financial Markets": { "link": "#" },
+                "B.Com (Pass)": { "link": "#" },
+                "B.B.A.": { "link": "#" },
+                "B.B.A. Specialization in International Business and Entrepreneur Development in Collaboration with Services": {
+                    "link": "#"
+                }
+            },
+            "Medical": {
+                "MBBS (Bachelor of Medicine and Bachelor of Surgery)": {
+                    "link": "#"
+                }
+            },
+            "Nursing": {
+                "B.Sc Nursing": { "link": "#" },
+                "Nursing ANM (Auxiliary Nursing and Midwifery)": {
+                    "link": "#"
+                },
+                "Post Basic B.Sc Nursing": { "link": "#" }
+            },
+            "Paramedical": {
+                "B.Optom. (Bachelor of Optometry)": { "link": "#" },
+                "B.Sc (Forensic Sciences) Postmortem Facility": { "link": "#" },
+                "BMLT (B.SC. IN Medical Lab Technology)": { "link": "#" },
+                "BRIT (B.SC. IN Medical Radiography Imaging Techniques)": {
+                    "link": "#"
+                }
+            },
+            "Pharmacy": {
+                "B.Pharma": { "link": "#" },
+                "B.Pharma (2nd Year Lateral Entry) B.Pharma (Practice)": {
+                    "link": "#"
+                },
+                "PharmaD": { "link": "#" }
+            },
+            "Physical Education": {
+                "B.P.Ed. (Bachelor of Physical Education)": { "link": "#" },
+                "B.P.E.S. (Bachelor of Physical Education and Sports)": {
+                    "link": "#"
+                }
+            },
+            "Science": {
+                "B.Sc Hons Environment and Sustainability": { "link": "#" },
+                "B.Sc (Biotechnology)": { "link": "#" },
+                "B.Sc (Microbiology)": { "link": "#" }
+            },
+            "Vocational": {
+                "B.Voc (Automobile): DDU Kaushal Kendra (In Collaboration with Automotive Skills Development Council (ASDC)": {
+                    "link": "#"
+                },
+                "B.Voc (Banking Finance Services and Insurance): DDU Kaushal Kendra (In Collaboration with BFSI Sector Skill Council of India (BFSISSC)": {
+                    "link": "#"
+                },
+                "B.Voc (Hospitality and Tourism): DDU Kaushal Kendra (In Collaboration with Tourism and Hospitality Skills Council (THSC)": {
+                    "link": "#"
+                }
+            },
+            "Law": {
+                "BA-LLB": { "link": "#" },
+                "LLB (Bachelor of Law)": { "link": "#" }
+            }
+        }
+    },
+    "10": {
+        "postgraduate": {
+            "Computer Sciences & IT": {
+                "MCA": { "link": "#" },
+                "MCA(Lateral Entry)": { "link": "#" },
+                "M.Sc (Computer Science)": { "link": "#" },
+                "M.Sc (IT)": { "link": "#" },
+                "M.Tech (CSE)": { "link": "#" }
+            },
+            "Agriculture Science": {
+                "M.Sc. (Agronomy)": { "link": "#" },
+                "M.Sc. (Genetics and Plant Breeding)": { "link": "#" },
+                "M.Sc. (Plant Pathology)": { "link": "#" }
+            },
+            "Dental": {
+                "MDS (Prosthodontics and Crown & Bridge)": { "link": "#" },
+                "MDS (Periodontology)": { "link": "#" },
+                "MDS (Orthodontics and Dentofacial Orthopaedics)": {
+                    "link": "#"
+                },
+                "MDS (Oral Medicine and Radiology)": { "link": "#" },
+                "MDS (Paedodontics & Preventive Dentistry)": { "link": "#" },
+                "MDS (Public Health Dentistry)": { "link": "#" },
+                "MDS (Oral Pathology & Microbiology)": { "link": "#" },
+                "MDS (Conservative Dentistry and Endodontics)": { "link": "#" },
+                "MDS (Oral & Maxillofacial Surgery)": { "link": "#" }
+            },
+            "Education": {
+                "M.Ed. (Master of Education)": { "link": "#" }
+            },
+            "Engineering": {
+                "M.Tech (CSE)": { "link": "#" },
+                "M.Tech (Production Engineering)": { "link": "#" },
+                "M.Tech. (Electrical Engineering)": { "link": "#" },
+                "M.Tech. (Electronics & Communication Engineering)": {
+                    "link": "#"
+                },
+                "M.Tech. (Structural Engineering)": { "link": "#" }
+            },
+            "Fine Arts": {
+                "MFA (Master of Fine Arts)": { "link": "#" }
+            },
+            "Management": {
+                "M.Com": { "link": "#" },
+                "M.B.A. (Full Time)": { "link": "#" },
+                "M.B.A. (2nd Year Lateral Entry)": { "link": "#" },
+                "M.B.A. (Entrepreneurship Development)": { "link": "#" },
+                "M.B.A. (Executive)": { "link": "#" },
+                "M.B.A. (Financial Management)": { "link": "#" },
+                "M.B.A. (Hospital Management)": { "link": "#" },
+                "M.B.A. (Human Resource Management)": { "link": "#" },
+                "M.B.A. (International Business)": { "link": "#" },
+                "M.B.A. (Supply Chain Management)": { "link": "#" },
+                "M.B.A. (Marketing)": { "link": "#" }
+            },
+            "Medical": {
+                "MD (General Medicine)": { "link": "#" },
+                "MD (Paediatrics)": { "link": "#" },
+                "MD (Physiology)": { "link": "#" },
+                "MD (Pharmacology)": { "link": "#" },
+                "MD (Microbiology)": { "link": "#" },
+                "MD (Community Medicine)": { "link": "#" },
+                "MD (Anaesthesiology)": { "link": "#" },
+                "MD (Pathology)": { "link": "#" },
+                "MS (General Surgery)": { "link": "#" },
+                "MS (Orthopaedics)": { "link": "#" },
+                "MS (Ophthalmology)": { "link": "#" },
+                "MS (E.N.T)": { "link": "#" },
+                "MS (Obstetrics & Gynaecology)": { "link": "#" },
+                "M.Sc. Medical (Anatomy)": { "link": "#" },
+                "M.Sc. Medical (Physiology)": { "link": "#" },
+                "M.Sc. Medical (Biochemistry)": { "link": "#" },
+                "M.Sc. Medical (Microbiology)": { "link": "#" },
+                "M.Sc. Medical (Pharmacology)": { "link": "#" }
+            },
+            "Nursing": {
+                "M.Sc. Nursing (Child Health)": { "link": "#" },
+                "M.Sc. Nursing (Community Health)": { "link": "#" },
+                "M.Sc. Nursing (Medical Surgical)": { "link": "#" },
+                "M.Sc. Nursing (OBG)": { "link": "#" },
+                "M.Sc. Nursing (Psychiatry)": { "link": "#" }
+            },
+            "Paramedical": {
+                "M.Sc. (Medical Lab Technology)": { "link": "#" },
+                "M.Optom. (Master of Optometry)": { "link": "#" }
+            },
+            "Pharmacy": {
+                "M.Pharma (Pharmaceutical Chemistry)": { "link": "#" },
+                "M.Pharma (Pharmacology)": { "link": "#" },
+                "M.Pharma (Pharmaceutics)": { "link": "#" },
+                "M.Pharma (Pharmacognosy)": { "link": "#" }
+            },
+            "Physical Education": {
+                "M.P.Ed. (Master of Physical Education)": { "link": "#" }
+            },
+            "Science": {
+                "M.Sc. (Biochemistry)": { "link": "#" },
+                "M.Sc. (Biotechnology)": { "link": "#" },
+                "M.Sc. (Environmental Science)": { "link": "#" },
+                "M.Sc. (Industrial Chemistry)": { "link": "#" },
+                "M.Sc. (Microbiology)": { "link": "#" }
+            },
+            "Law": {
+                "LL.M (Master of Law)": { "link": "#" }
+            }
+        }
+    },
+    "11": {
+        "Overview": { "link": "/tmu/exam-overview" },
+        "Ordinance": { "link": "/tmu/exam-ordinance" },
+        "Result": { "link": "http://portal.tmu.ac.in/onlineresult.aspx" },
+        "Syllabus": { "link": "/tmu/syllabus" },
+        "Open Elective Courses(CBCS)": { "link": "/tmu/cbcs" },
+        "NAD": { "link": "https://cvl.nad.co.in/NAD/home.action" }
+    },
+    "12": {
+        "CTLD": { "link": "/tmu/centre-for-teaching-learning-and-development" },
+        "IIC": { "link": "/innovation-startup" },
+        "Grievances Portal": { "link": "/tmu/grievances-portal" },
+        "Research & Development": {
+            "link": "/research-and-development-center"
+        },
+        "Disciplinary Rules": { "link": "/tmu/disciplinary-rules" },
+        "Admission & Refund Policy": {
+            "link": "https://www.tmu.ac.in/pdf/TMU_Admission%20Policy%20&%20Refund%20Policy%20_2024.pdf"
+        },
+        "Anti-Ragging Policy": {
+            "link": "https://www.tmu.ac.in/pdf/anti_ragging_policy/anti-ragging-policy.pdf"
+        },
+        "Anti-Ragging Committee": { "link": "/tmu/anti-ragging-committee" },
+        "University Academic Calender": {
+            "link": "/tmu/university-academic-calender"
+        },
+        "University Sports Calender": {
+            "link": "/tmu/university-sport-calender"
+        },
+        "NSS UNit": { "link": "/nss-about" },
+        "NEP 2020": { "link": "/tmu/nep-guidelines" },
+        "Convocation": { "link": "" }
+    }
+}

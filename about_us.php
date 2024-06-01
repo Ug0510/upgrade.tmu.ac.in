@@ -18,7 +18,7 @@ include 'head.php';
         include 'sidebar/about_tmu_sidebar.php';
         ?>
 
-        <div class="col-12 col-md-10  mt-sm-0 pt-5 py-3 about-us-container">
+        <div class="col-12 col-sm-9 col-lg-10  mt-sm-0 pt-5 py-3 about-us-container">
           <section>
             <div class="container">
               <div class="row">
