@@ -1413,8 +1413,11 @@ include 'head.php';
 
         <div class="owl-carousel tmu-video-testimonial" id="owl-carousel4">
             <div class="item">
-                <div class="card shadow-sm mb-2">
-                    <a onclick="showStory(0)"><img src="video-testimonial/divya.webp" class="card-img-top" alt="..."></a>
+                <div class="card shadow-sm ">
+                    <!-- <div class="card-img-top ratio-16x9" >
+														<iframe width="1424" height="652" src="https://www.youtube.com/embed/tEkfa3bIY5o" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+													</div> -->
+                    <a><img src="video-testimonial/divya.webp" class="card-img-top" alt="..."></a>
                     <div class="card-body d-flex flex-column align-items-center">
                         <p class="tmu-color fw-bold">Divya Jain</p>
                         <p class="text-center mb-0">Btech (2020 - 2024)</p>
@@ -1426,97 +1429,495 @@ include 'head.php';
                 </div>
 
             </div>
-
-            <div class="item">
-                <div class="card shadow-sm mb-2">
-                    <a onclick="showStory(0)"><img src="video-testimonial/divya.webp" class="card-img-top" alt="..."></a>
-                    <div class="card-body d-flex flex-column align-items-center">
-                        <p class="tmu-color fw-bold">Divya Jain</p>
-                        <p class="text-center mb-0">Btech (2020 - 2024)</p>
-                        <span>
-                            <a href="https://www.linkedin.com/in/udit-gupta-ug0510/" class=" px-2 py-1 linkedin-text">Linkedin <i class="bi bi-linkedin"></i></a>
-                        </span>
-                    </div>
-
-                </div>
-
-            </div>
-
-            <div class="item">
-                <div class="card shadow-sm mb-2">
-                    <a onclick="showStory(0)"><img src="video-testimonial/divya.webp" class="card-img-top" alt="..."></a>
-                    <div class="card-body d-flex flex-column align-items-center">
-                        <p class="tmu-color fw-bold">Divya Jain</p>
-                        <p class="text-center mb-0">Btech (2020 - 2024)</p>
-                        <span>
-                            <a href="https://www.linkedin.com/in/udit-gupta-ug0510/" class=" px-2 py-1 linkedin-text">Linkedin <i class="bi bi-linkedin"></i></a>
-                        </span>
-                    </div>
-
-                </div>
-
-            </div>
-
-            <div class="item">
-                <div class="card shadow-sm mb-2">
-                    <a onclick="showStory(0)"><img src="video-testimonial/divya.webp" class="card-img-top" alt="..."></a>
-                    <div class="card-body d-flex flex-column align-items-center">
-                        <p class="tmu-color fw-bold">Divya Jain</p>
-                        <p class="text-center mb-0">Btech (2020 - 2024)</p>
-                        <span>
-                            <a href="https://www.linkedin.com/in/udit-gupta-ug0510/" class=" px-2 py-1 linkedin-text">Linkedin <i class="bi bi-linkedin"></i></a>
-                        </span>
-                    </div>
-
-                </div>
-
-            </div>
-
-            <div class="item">
-                <div class="card shadow-sm mb-2">
-                    <a onclick="showStory(0)"><img src="video-testimonial/divya.webp" class="card-img-top" alt="..."></a>
-                    <div class="card-body d-flex flex-column align-items-center">
-                        <p class="tmu-color fw-bold">Divya Jain</p>
-                        <p class="text-center mb-0">Btech (2020 - 2024)</p>
-                        <span>
-                            <a href="https://www.linkedin.com/in/udit-gupta-ug0510/" class=" px-2 py-1 linkedin-text">Linkedin <i class="bi bi-linkedin"></i></a>
-                        </span>
-                    </div>
-
-                </div>
-
-            </div>
-            <div class="item">
-                <div class="card shadow-sm mb-2">
-                    <a onclick="showStory(0)"><img src="video-testimonial/divya.webp" class="card-img-top" alt="..."></a>
-                    <div class="card-body d-flex flex-column align-items-center">
-                        <p class="tmu-color fw-bold">Divya Jain</p>
-                        <p class="text-center mb-0">Btech (2020 - 2024)</p>
-                        <span>
-                            <a href="https://www.linkedin.com/in/udit-gupta-ug0510/" class=" px-2 py-1 linkedin-text">Linkedin <i class="bi bi-linkedin"></i></a>
-                        </span>
-                    </div>
-
-                </div>
-
-            </div>
-
         </div>
     </div>
 </section><!-- #content end -->
 
 
-<!-- Success Stories Popup Modal code begin  -->
-<div id="success-stories-popup" class="popup">
-    <div class="ss-popup-content ">
-        <span class="ss-heading"></span>
-        <span class="ss-close-btn" id="closePopupBtn">&times;</span>
-        <iframe src="" frameborder="0" allowfullscreen></iframe>
+
+
+
+
+<!------VIDEO TESTIMONIALS START------->
+<section id="content">
+    <div class="content-wrap py-0" style="margin-top: 23px; margin-bottom: 37px;">
+
+        <div class="row justify-content-center ">
+            <div class="col-xl-10 col-lg-10 text-center">
+                <h2 class="tmu-text-primary my-4 mb-5"><span>SUCCESS</span> <span>STORIES</span></h2>
+            </div>
+        </div>
+
+        <div class="owl-carousel tmu-video-testimonial" id="owl-carousel4">
+            <div class="item">
+                <div class="card shadow-sm ">
+                    <!-- <div class="card-img-top ratio-16x9" >
+														<iframe width="1424" height="652" src="https://www.youtube.com/embed/tEkfa3bIY5o" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+													</div> -->
+                    <a href="#block-modal-ticket1" data-lightbox="inline"><img src="video-testimonial/divya.webp" class="card-img-top" alt="..."></a>
+                    <div class="card-body">
+                        <!--<span class="badge bg-info1 text-light mb-2 fw-normal px-2 py-1">New</span>-->
+                        <p class="text-center mb-0">Btech Computer Science (Data Science)</p>
+                        <p class="text-center mb-0 fw-bold tmu-color-blue">(2020 - 2024)</p>
+                        <!-- <center><img src="./assets/image/down-arrow.png" style="width: 10%;" alt="" class="img-fluid career-tran__arrow"></center> -->
+                        <span>
+                            <a href="https://www.linkedin.com/in/udit-gupta-ug0510/" class=" px-2 py-1 linkedin-text">Linkedin <i class="bi bi-linkedin"></i></a>
+                        </span>
+                        <!-- <img src="./assets/image/down-arrow.png" alt=""> -->
+                        <p class="career-tran__prev-role mb-4">Senior Technical Account Manager</p>
+                        <p class="career-tran__prev-comp">Amazon Web Services (AWS)</p>
+
+
+                    </div>
+
+                </div>
+
+                <div class="modal1 mfp-hide" id="block-modal-ticket1">
+                    <div class="modal-dialog modal-dialog-centered modal-lg">
+                        <div class="modal-content bg-white rounded">
+
+                            <div class="row m-0 g-0">
+                                <div class="col-12">
+                                    <div class="fancy-title title-double-border title-center my-2 p-4">
+                                        <h3 class="">Alumni Testimonial</strong></h3>
+                                    </div>
+                                </div>
+                                <div class="col-12 bg-light">
+                                    <!-- <iframe width="560" height="315" src="https://www.youtube.com/embed/tEkfa3bIY5o" -->
+                                    frameborder="0"
+                                    allow="accelerometer; autoplay; clipboard-write; controls:0; encrypted-media; gyroscope; picture-in-picture"
+                                    allowfullscreen></iframe>
+                                </div>
+                                <div class="col-12">
+                                    <div class="row justify-content-between align-items-center p-5 col-mb-30">
+                                        <div class="col-lg-2">
+                                            <div class="d-flex flex-column align-items-lg-center entry-date">
+                                                <!-- <h3 class="mb-0 h1">10</strong></h3>
+																				<h4 class="mb-0">Apr</h4> -->
+                                            </div>
+                                        </div>
+                                        <div class="col">
+                                            <!-- <h4 class="mb-2">Heading</h4>
+																			<p class="mb-0 op-07">Lorem ipsum dolor sit amet consectetur, adipisicing elit. Nemo, assumenda molestias.</p> -->
+                                        </div>
+                                        <div class="col-lg-3">
+                                            <a href="#" class="btn btn-lg btn-danger w-100">Enquire Now</a>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+
+                        </div>
+                    </div>
+                </div>
+
+            </div>
+            <div class="item">
+
+                <div class="card shadow-sm ">
+                    <!-- <div class="card-img-top ratio-16x9" >
+														<iframe width="1424" height="652" src="https://www.youtube.com/embed/tEkfa3bIY5o" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+													</div> -->
+                    <a href="#block-modal-ticket2" data-lightbox="inline"><img src="video-testimonial/animesh.webp" class="card-img-top" alt="..."></a>
+                    <div class="card-body">
+                        <!--<span class="badge bg-info1 text-light mb-2 fw-normal px-2 py-1">New</span>-->
+                        <p class="text-center mb-0">Btech Computer Science (Data Science)</p>
+                        <p class="text-center mb-0 fw-bold tmu-color-blue">(2020 - 2024)</p>
+                        <center><img src="./assets/image/down-arrow.png" style="width: 10%;" alt="" class="img-fluid career-tran__arrow"></center>
+                        <p class="career-tran__prev-role mb-4">Senior Technical Account Manager</p>
+                        <p class="career-tran__prev-comp">Amazon Web Services (AWS)</p>
+
+                        <!-- <small class="ls-2 fw-bold text-uppercase op-05 mb-2 d-block">Features</small> -->
+                        <!-- <div class="row g-0 mb-2 car-features">
+															<div class="col-6 mb-2"><i class="icon-car-meter"></i>20000KMs</div>
+															<div class="col-6 mb-2"><i class="icon-car-door"></i>5 Seater</div>
+															<div class="col-6"><i class="icon-car-cogs2"></i>Black</div>
+															<div class="col-6"><i class="icon-car-pump"></i>20kmpl</div>
+														</div> -->
+                    </div>
+
+                </div>
+
+                <div class="modal1 mfp-hide" id="block-modal-ticket2">
+                    <div class="modal-dialog modal-dialog-centered modal-lg">
+                        <div class="modal-content bg-white rounded">
+
+                            <div class="row m-0 g-0">
+                                <div class="col-12">
+                                    <div class="fancy-title title-double-border title-center my-2 p-4">
+                                        <h3 class="">Alumni Testimonial</strong></h3>
+                                    </div>
+                                </div>
+                                <div class="col-12 bg-light">
+                                    <!-- <iframe width="560" height="315" src="https://www.youtube.com/embed/tEkfa3bIY5o" -->
+                                    frameborder="0"
+                                    allow="accelerometer; autoplay; clipboard-write; controls:0; encrypted-media; gyroscope; picture-in-picture"
+                                    allowfullscreen></iframe>
+                                </div>
+                                <div class="col-12">
+                                    <div class="row justify-content-between align-items-center p-5 col-mb-30">
+                                        <div class="col-lg-2">
+                                            <div class="d-flex flex-column align-items-lg-center entry-date">
+                                                <!-- <h3 class="mb-0 h1">10</strong></h3>
+																				<h4 class="mb-0">Apr</h4> -->
+                                            </div>
+                                        </div>
+                                        <div class="col">
+                                            <!-- <h4 class="mb-2">Heading</h4>
+																			<p class="mb-0 op-07">Lorem ipsum dolor sit amet consectetur, adipisicing elit. Nemo, assumenda molestias.</p> -->
+                                        </div>
+                                        <div class="col-lg-3">
+                                            <a href="#" class="btn btn-lg btn-danger w-100">Enquire Now</a>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+
+                        </div>
+                    </div>
+                </div>
+
+            </div>
+            <div class="item">
+
+                <div class="card shadow-sm ">
+                    <!-- <div class="card-img-top ratio-16x9" >
+														<iframe width="1424" height="652" src="https://www.youtube.com/embed/tEkfa3bIY5o" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+													</div> -->
+                    <a href="#block-modal-ticket3" data-lightbox="inline"><img src="video-testimonial/3.svg" class="card-img-top" alt="..."></a>
+                    <div class="card-body">
+                        <!--<span class="badge bg-info1 text-light mb-2 fw-normal px-2 py-1">New</span>-->
+                        <p class="text-center mb-0">Btech Computer Science (Data Science)</p>
+                        <p class="text-center mb-0 fw-bold tmu-color-blue">(2020 - 2024)</p>
+                        <center><img src="./assets/image/down-arrow.png" style="width: 10%;" alt="" class="img-fluid career-tran__arrow"></center>
+                        <p class="career-tran__prev-role mb-4">Senior Technical Account Manager</p>
+                        <p class="career-tran__prev-comp">Amazon Web Services (AWS)</p>
+
+                        <!-- <small class="ls-2 fw-bold text-uppercase op-05 mb-2 d-block">Features</small> -->
+                        <!-- <div class="row g-0 mb-2 car-features">
+															<div class="col-6 mb-2"><i class="icon-car-meter"></i>20000KMs</div>
+															<div class="col-6 mb-2"><i class="icon-car-door"></i>5 Seater</div>
+															<div class="col-6"><i class="icon-car-cogs2"></i>Black</div>
+															<div class="col-6"><i class="icon-car-pump"></i>20kmpl</div>
+														</div> -->
+                    </div>
+
+                </div>
+
+                <div class="modal1 mfp-hide" id="block-modal-ticket3">
+                    <div class="modal-dialog modal-dialog-centered modal-lg">
+                        <div class="modal-content bg-white rounded">
+
+                            <div class="row m-0 g-0">
+                                <div class="col-12">
+                                    <div class="fancy-title title-double-border title-center my-2 p-4">
+                                        <h3 class="">Alumni Testimonial</strong></h3>
+                                    </div>
+                                </div>
+                                <div class="col-12 bg-light">
+                                    <!-- <iframe width="560" height="315" src="https://www.youtube.com/embed/tEkfa3bIY5o" -->
+                                    frameborder="0"
+                                    allow="accelerometer; autoplay; clipboard-write; controls:0; encrypted-media; gyroscope; picture-in-picture"
+                                    allowfullscreen></iframe>
+                                </div>
+                                <div class="col-12">
+                                    <div class="row justify-content-between align-items-center p-5 col-mb-30">
+                                        <div class="col-lg-2">
+                                            <div class="d-flex flex-column align-items-lg-center entry-date">
+                                                <!-- <h3 class="mb-0 h1">10</strong></h3>
+																			<h4 class="mb-0">Apr</h4> -->
+                                            </div>
+                                        </div>
+                                        <div class="col">
+                                            <!-- <h4 class="mb-2">Heading</h4>
+																		<p class="mb-0 op-07">Lorem ipsum dolor sit amet consectetur, adipisicing elit. Nemo, assumenda molestias.</p> -->
+                                        </div>
+                                        <div class="col-lg-3">
+                                            <a href="#" class="btn btn-lg btn-danger w-100">Enquire Now</a>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+
+                        </div>
+                    </div>
+                </div>
+
+            </div>
+            <div class="item">
+
+                <div class="card shadow-sm ">
+                    <!-- <div class="card-img-top ratio-16x9" >
+														<iframe width="1424" height="652" src="https://www.youtube.com/embed/tEkfa3bIY5o" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+													</div> -->
+                    <a href="#block-modal-ticket4" data-lightbox="inline"><img src="video-testimonial/4.svg" class="card-img-top" alt="..."></a>
+                    <div class="card-body">
+                        <!--<span class="badge bg-info1 text-light mb-2 fw-normal px-2 py-1">New</span>-->
+                        <p class="text-center mb-0">Btech Computer Science (Data Science)</p>
+                        <p class="text-center mb-0 fw-bold tmu-color-blue">(2020 - 2024)</p>
+                        <center><img src="./assets/image/down-arrow.png" style="width: 10%;" alt="" class="img-fluid career-tran__arrow"></center>
+                        <p class="career-tran__prev-role mb-4">Senior Technical Account Manager</p>
+                        <p class="career-tran__prev-comp">Amazon Web Services (AWS)</p>
+
+                        <!-- <small class="ls-2 fw-bold text-uppercase op-05 mb-2 d-block">Features</small> -->
+                        <!-- <div class="row g-0 mb-2 car-features">
+															<div class="col-6 mb-2"><i class="icon-car-meter"></i>20000KMs</div>
+															<div class="col-6 mb-2"><i class="icon-car-door"></i>5 Seater</div>
+															<div class="col-6"><i class="icon-car-cogs2"></i>Black</div>
+															<div class="col-6"><i class="icon-car-pump"></i>20kmpl</div>
+														</div> -->
+                    </div>
+
+                </div>
+
+                <div class="modal1 mfp-hide" id="block-modal-ticket4">
+                    <div class="modal-dialog modal-dialog-centered modal-lg">
+                        <div class="modal-content bg-white rounded">
+
+                            <div class="row m-0 g-0">
+                                <div class="col-12">
+                                    <div class="fancy-title title-double-border title-center my-2 p-4">
+                                        <h3 class="">Alumni Testimonial</strong></h3>
+                                    </div>
+                                </div>
+                                <div class="col-12 bg-light">
+                                    <!-- <iframe width="560" height="315" src="https://www.youtube.com/embed/tEkfa3bIY5o" -->
+                                    frameborder="0"
+                                    allow="accelerometer; autoplay; clipboard-write; controls:0; encrypted-media; gyroscope; picture-in-picture"
+                                    allowfullscreen></iframe>
+                                </div>
+                                <div class="col-12">
+                                    <div class="row justify-content-between align-items-center p-5 col-mb-30">
+                                        <div class="col-lg-2">
+                                            <div class="d-flex flex-column align-items-lg-center entry-date">
+                                                <!-- <h3 class="mb-0 h1">10</strong></h3>
+																				<h4 class="mb-0">Apr</h4> -->
+                                            </div>
+                                        </div>
+                                        <div class="col">
+                                            <!-- <h4 class="mb-2">Heading</h4>
+																			<p class="mb-0 op-07">Lorem ipsum dolor sit amet consectetur, adipisicing elit. Nemo, assumenda molestias.</p> -->
+                                        </div>
+                                        <div class="col-lg-3">
+                                            <a href="#" class="btn btn-lg btn-danger w-100">Enquire Now</a>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+
+                        </div>
+                    </div>
+                </div>
+
+            </div>
+            <div class="item">
+
+                <div class="card shadow-sm ">
+                    <!-- <div class="card-img-top ratio-16x9" >
+														<iframe width="1424" height="652" src="https://www.youtube.com/embed/tEkfa3bIY5o" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+													</div> -->
+                    <a href="#block-modal-ticket5" data-lightbox="inline"><img src="video-testimonial/5.svg" class="card-img-top" alt="..."></a>
+                    <div class="card-body">
+                        <!--<span class="badge bg-info1 text-light mb-2 fw-normal px-2 py-1">New</span>-->
+                        <p class="text-center mb-0">Btech Computer Science (Data Science)</p>
+                        <p class="text-center mb-0 fw-bold tmu-color-blue">(2020 - 2024)</p>
+                        <center><img src="./assets/image/down-arrow.png" style="width: 10%;" alt="" class="img-fluid career-tran__arrow"></center>
+                        <p class="career-tran__prev-role mb-4">Senior Technical Account Manager</p>
+                        <p class="career-tran__prev-comp">Amazon Web Services (AWS)</p>
+
+                        <!-- <small class="ls-2 fw-bold text-uppercase op-05 mb-2 d-block">Features</small> -->
+                        <!-- <div class="row g-0 mb-2 car-features">
+															<div class="col-6 mb-2"><i class="icon-car-meter"></i>20000KMs</div>
+															<div class="col-6 mb-2"><i class="icon-car-door"></i>5 Seater</div>
+															<div class="col-6"><i class="icon-car-cogs2"></i>Black</div>
+															<div class="col-6"><i class="icon-car-pump"></i>20kmpl</div>
+														</div> -->
+                    </div>
+
+                </div>
+
+                <div class="modal1 mfp-hide" id="block-modal-ticket5">
+                    <div class="modal-dialog modal-dialog-centered modal-lg">
+                        <div class="modal-content bg-white rounded">
+
+                            <div class="row m-0 g-0">
+                                <div class="col-12">
+                                    <div class="fancy-title title-double-border title-center my-2 p-4">
+                                        <h3 class="">Alumni Testimonial</strong></h3>
+                                    </div>
+                                </div>
+                                <div class="col-12 bg-light">
+                                    <!-- <iframe width="560" height="315" src="https://www.youtube.com/embed/tEkfa3bIY5o" -->
+                                    frameborder="0"
+                                    allow="accelerometer; autoplay; clipboard-write; controls:0; encrypted-media; gyroscope; picture-in-picture"
+                                    allowfullscreen></iframe>
+                                </div>
+                                <div class="col-12">
+                                    <div class="row justify-content-between align-items-center p-5 col-mb-30">
+                                        <div class="col-lg-2">
+                                            <div class="d-flex flex-column align-items-lg-center entry-date">
+                                                <!-- <h3 class="mb-0 h1">10</strong></h3>
+																			<h4 class="mb-0">Apr</h4> -->
+                                            </div>
+                                        </div>
+                                        <div class="col">
+                                            <!-- <h4 class="mb-2">Heading</h4>
+																		<p class="mb-0 op-07">Lorem ipsum dolor sit amet consectetur, adipisicing elit. Nemo, assumenda molestias.</p> -->
+                                        </div>
+                                        <div class="col-lg-3">
+                                            <a href="#" class="btn btn-lg btn-danger w-100">Enquire Now</a>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+
+                        </div>
+                    </div>
+                </div>
+
+
+
+
+
+            </div>
+
+            <div class="item">
+
+                <div class="card shadow-sm ">
+                    <!-- <div class="card-img-top ratio-16x9" >
+													<iframe width="1424" height="652" src="https://www.youtube.com/embed/tEkfa3bIY5o" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+												</div> -->
+                    <a href="#block-modal-ticket5" data-lightbox="inline"><img src="video-testimonial/5.svg" class="card-img-top" alt="..."></a>
+                    <div class="card-body">
+                        <!--<span class="badge bg-info1 text-light mb-2 fw-normal px-2 py-1">New</span>-->
+                        <p class="text-center mb-0">Btech Computer Science (Data Science)</p>
+                        <p class="text-center mb-0 fw-bold tmu-color-blue">(2020 - 2024)</p>
+                        <center><img src="./assets/image/down-arrow.png" style="width: 10%;" alt="" class="img-fluid career-tran__arrow"></center>
+                        <p class="career-tran__prev-role mb-4">Senior Technical Account Manager</p>
+                        <p class="career-tran__prev-comp">Amazon Web Services (AWS)</p>
+                        <p class="mb-4 op-07" style="line-height: 1.65">
+                        </p>
+                        <!-- <small class="ls-2 fw-bold text-uppercase op-05 mb-2 d-block">Features</small> -->
+                        <!-- <div class="row g-0 mb-2 car-features">
+														<div class="col-6 mb-2"><i class="icon-car-meter"></i>20000KMs</div>
+														<div class="col-6 mb-2"><i class="icon-car-door"></i>5 Seater</div>
+														<div class="col-6"><i class="icon-car-cogs2"></i>Black</div>
+														<div class="col-6"><i class="icon-car-pump"></i>20kmpl</div>
+													</div> -->
+                    </div>
+
+                </div>
+
+                <div class="modal1 mfp-hide" id="block-modal-ticket5">
+                    <div class="modal-dialog modal-dialog-centered modal-lg">
+                        <div class="modal-content bg-white rounded">
+
+                            <div class="row m-0 g-0">
+                                <div class="col-12">
+                                    <div class="fancy-title title-double-border title-center my-2 p-4">
+                                        <h3 class="">Alumni Testimonial</strong></h3>
+                                    </div>
+                                </div>
+                                <div class="col-12 bg-light">
+                                    <!-- <iframe width="560" height="315" src="https://www.youtube.com/embed/tEkfa3bIY5o" -->
+                                    frameborder="0"
+                                    allow="accelerometer; autoplay; clipboard-write; controls:0; encrypted-media; gyroscope; picture-in-picture"
+                                    allowfullscreen></iframe>
+                                </div>
+                                <div class="col-12">
+                                    <div class="row justify-content-between align-items-center p-5 col-mb-30">
+                                        <div class="col-lg-2">
+                                            <div class="d-flex flex-column align-items-lg-center entry-date">
+                                                <!-- <h3 class="mb-0 h1">10</strong></h3>
+																		<h4 class="mb-0">Apr</h4> -->
+                                            </div>
+                                        </div>
+                                        <div class="col">
+                                            <!-- <h4 class="mb-2">Heading</h4>
+																	<p class="mb-0 op-07">Lorem ipsum dolor sit amet consectetur, adipisicing elit. Nemo, assumenda molestias.</p> -->
+                                        </div>
+
+                                    </div>
+                                </div>
+                            </div>
+
+                        </div>
+                    </div>
+                </div>
+
+
+
+
+
+            </div>
+
+            <div class="item">
+
+                <div class="card shadow-sm ">
+                    <!-- <div class="card-img-top ratio-16x9" >
+												<iframe width="1424" height="652" src="https://www.youtube.com/embed/tEkfa3bIY5o" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+											</div> -->
+                    <a href="#block-modal-ticket5" data-lightbox="inline"><img src="video-testimonial/5.svg" class="card-img-top" alt="..."></a>
+                    <div class="card-body">
+                        <!--<span class="badge bg-info1 text-light mb-2 fw-normal px-2 py-1">New</span>-->
+                        <p class="text-center mb-0">Btech Computer Science (Data Science)</p>
+                        <p class="text-center mb-0 fw-bold tmu-color-blue">(2020 - 2024)</p>
+                        <center><img src="./assets/image/down-arrow.png" style="width: 10%;" alt="" class="img-fluid career-tran__arrow"></center>
+                        <p class="career-tran__prev-role mb-4">Senior Technical Account Manager</p>
+                        <p class="career-tran__prev-comp">Amazon Web Services (AWS)</p>
+
+                        <!-- <small class="ls-2 fw-bold text-uppercase op-05 mb-2 d-block">Features</small> -->
+                        <!-- <div class="row g-0 mb-2 car-features">
+													<div class="col-6 mb-2"><i class="icon-car-meter"></i>20000KMs</div>
+													<div class="col-6 mb-2"><i class="icon-car-door"></i>5 Seater</div>
+													<div class="col-6"><i class="icon-car-cogs2"></i>Black</div>
+													<div class="col-6"><i class="icon-car-pump"></i>20kmpl</div>
+												</div> -->
+                    </div>
+
+                </div>
+
+                <div class="modal1 mfp-hide" id="block-modal-ticket5">
+                    <div class="modal-dialog modal-dialog-centered modal-lg">
+                        <div class="modal-content bg-white rounded">
+
+                            <div class="row m-0 g-0">
+                                <div class="col-12">
+                                    <div class="fancy-title title-double-border title-center my-2 p-4">
+                                        <h3 class="">Alumni Testimonial</strong></h3>
+                                    </div>
+                                </div>
+                                <div class="col-12 bg-light">
+                                    <!-- <iframe width="560" height="315" src="https://www.youtube.com/embed/tEkfa3bIY5o" -->
+                                    frameborder="0"
+                                    allow="accelerometer; autoplay; clipboard-write; controls:0; encrypted-media; gyroscope; picture-in-picture"
+                                    allowfullscreen></iframe>
+                                </div>
+                                <div class="col-12">
+                                    <div class="row justify-content-between align-items-center p-5 col-mb-30">
+                                        <div class="col-lg-2">
+                                            <div class="d-flex flex-column align-items-lg-center entry-date">
+                                                <!-- <h3 class="mb-0 h1">10</strong></h3>
+																	<h4 class="mb-0">Apr</h4> -->
+                                            </div>
+                                        </div>
+                                        <div class="col">
+                                            <!-- <h4 class="mb-2">Heading</h4>
+																<p class="mb-0 op-07">Lorem ipsum dolor sit amet consectetur, adipisicing elit. Nemo, assumenda molestias.</p> -->
+                                        </div>
+                                        <div class="col-lg-3">
+                                            <a href="#" class="btn btn-lg btn-danger w-100">Enquire Now</a>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
     </div>
-</div>
-<!-- Success Stories Popup Modal code end -->
-
-
+</section><!-- #content end -->
 
 <div class="container mb-5 mt-5">
     <hr class="horizontal-line">

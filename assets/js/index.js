@@ -1219,3 +1219,37 @@ document.addEventListener("DOMContentLoaded", function() {
 // -------------------------------------------------------
     // Javascript for cbcs circular (data tables) function implementation End
     // -------------------------------------------------------
+
+
+
+    // Success Stories js 
+    document.getElementById('closePopupBtn').addEventListener('click', function() {
+        document.getElementById('success-stories-popup').style.display = 'none';
+    });
+
+    function showStory(index) {
+        document.getElementById('success-stories-popup').style.display = 'flex';
+        const mainPopup = document.getElementById('success-stories-popup');
+        mainPopup.style.display = 'flex';
+        const iFrame = mainPopup.querySelector('iframe');
+
+        let iframsSrc = ""
+        if(index === 0)
+        {
+            iframsSrc = "https://www.youtube.com/embed/tEkfa3bIY5o";
+        }
+
+
+        iFrame.setAttribute('src', iframsSrc);
+    }
+    document.getElementById('success-stories-popup').addEventListener('click', function(event) {
+        const popup = document.getElementById('success-stories-popup');
+        const popupContent = document.querySelector('.popup-content');
+
+        console.log(event.target);
+
+        if (event.target !== popupContent) {
+            popup.style.display = 'none';
+        }
+    });
+    // Success Stories js end
